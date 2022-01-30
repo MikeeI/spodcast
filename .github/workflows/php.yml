@@ -50,5 +50,8 @@ jobs:
         git add -A
         git commit -am "Feed Generation"        
         git push
+    - name: Sleep for 30 seconds
+      run: sleep 30s
+      shell: bash
     - name: Ping Overcast
-      run: curl --data-urlencode "urlprefix=https://github.com/MikeeI/php-feed-writer/blob/master/feed.rss" https://overcast.fm/ping
+      run: curl --data-urlencode "urlprefix=https://spodcast.cdnly.eu/feed/4rOoJ6Egrf8K2IrywzwOMk.rss" https://overcast.fm/ping
