@@ -32,8 +32,9 @@ jobs:
     - name: RSS Tidy
       run: |
         mkdir -p feed
-        cat feed/4rOoJ6Egrf8K2IrywzwOMk_small.rss | xq > feed/4rOoJ6Egrf8K2IrywzwOMk_small.rss
+        cat feed/4rOoJ6Egrf8K2IrywzwOMk_small_temp.rss | xq > feed/4rOoJ6Egrf8K2IrywzwOMk_small.rss
         cat feed/4rOoJ6Egrf8K2IrywzwOMk_small.rss | xq > feed/4rOoJ6Egrf8K2IrywzwOMk_small_readable.rss
+        rm feed/4rOoJ6Egrf8K2IrywzwOMk_small_temp.rss
     - name: CleanUp
       run: rm -rf token
     - name: Commit
