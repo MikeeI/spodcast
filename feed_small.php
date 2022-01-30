@@ -77,7 +77,7 @@
     }
 
     //echo $feed->toString();
-    file_put_contents("feed/feed2_small.rss", htmlspecialchars($feed->toString(), ENT_XML1, 'UTF-8'));
+    file_put_contents("feed/4rOoJ6Egrf8K2IrywzwOMk_small.rss", htmlspecialchars($feed->toString(), ENT_XML1, 'UTF-8'));
 
     function getEpisodes($spotify_show_id, $limit, $offset)
     {
