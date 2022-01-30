@@ -33,7 +33,7 @@
     $channel = $feed->addChannel();
     $channel
         ->title($json_show["name"])
-        ->subtitle($json_show["description"], ENT_XML1, 'UTF-8')
+        ->subtitle($json_show["description"])
         ->description($json_show["description"])
         ->summary($json_show["description"])
         ->link("https://open.spotify.com/show/" . $spotify_show_id)
