@@ -33,7 +33,10 @@ jobs:
     - name: Feed Generation
       run: php feed.php
     - name: RSS Tidy
-      run: cat feed2.rss | xq > feed.rss
+      run: |
+        mkdir -p feed
+        cat feed/4rOoJ6Egrf8K2IrywzwOMk.rss | xq > feed/4rOoJ6Egrf8K2IrywzwOMk.rss
+        cat feed/4rOoJ6Egrf8K2IrywzwOMk.rss | xq > feed/4rOoJ6Egrf8K2IrywzwOMk_readable.rss
     - name: CleanUp
       run: rm -rf token
     - name: Commit
