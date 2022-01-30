@@ -33,9 +33,9 @@
     $channel = $feed->addChannel();
     $channel
         ->title($json_show["name"])
-        ->subtitle(htmlspecialchars($json_show["description"], ENT_XML1, 'UTF-8'))
-        ->description(htmlspecialchars($json_show["description"], ENT_XML1, 'UTF-8'))
-        ->summary(htmlspecialchars($json_show["description"], ENT_XML1, 'UTF-8'))
+        ->subtitle($json_show["description"], ENT_XML1, 'UTF-8')
+        ->description($json_show["description"])
+        ->summary($json_show["description"])
         ->link("https://open.spotify.com/show/" . $spotify_show_id)
         ->image($json_show["images"][0]["url"])
         ->author($json_show["publisher"])
@@ -54,14 +54,14 @@
         //$release_date = $temp_release_date[2]."-".$temp_release_date[
         $channel
             ->addItem()
-            ->title(htmlspecialchars($episode["name"], ENT_QUOTES))
-            ->author(htmlspecialchars($json_show["publisher"]))
-            ->subtitle(htmlspecialchars($json_show["description"], ENT_XML1, 'UTF-8'))
+            ->title($episode["name"])
+            ->author($json_show["publisher"])
+            ->subtitle($json_show["description"])
             ->duration(sec2hms(substr_replace($episode["duration_ms"], "", -3)))
-            ->summary(htmlspecialchars($episode["description"], ENT_XML1, 'UTF-8'))
+            ->summary($episode["description"], ENT_XML1, 'UTF-8')
             ->pubDate(new \DateTime($episode["release_date"]))
             ->guid("https://open.spotify.com/episode/" . $episode["id"])
-            ->explicit(htmlspecialchars($episode["explicit"], ENT_XML1, 'UTF-8'))
+            ->explicit($episode["explicit"])
             ->addEnclosure()
             ->url(
                 "https://github.com/JohnMeier/space/releases/download/podcast/" .
