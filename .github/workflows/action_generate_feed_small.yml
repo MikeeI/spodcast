@@ -30,9 +30,10 @@ jobs:
     - name: Feed Generation
       run: php feed_small.php
     - name: RSS Tidy
-      run: | 
-        cat feed2_small.rss | xq > feed_small.rss
-        cat feed_small.rss | xq > feed_small_readable.rss
+      run: |
+        mkdir -p feed
+        cat feed/feed2_small.rss | xq > feed/feed_small.rss
+        cat feed/feed_small.rss | xq > feed/feed_small_readable.rss
     - name: CleanUp
       run: rm -rf token
     - name: Commit
