@@ -1,7 +1,7 @@
 name: Generate RSS Feed Small
 on:
   push:
-    branches: [ notmaster ]
+    branches: [ main ]
   workflow_dispatch:
 jobs:
   generate_feed:
