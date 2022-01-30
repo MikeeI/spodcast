@@ -1,0 +1,44 @@
+name: Generate RSS Feed Small
+on:
+  push:
+    branches: [ notmaster ]
+jobs:
+  generate_feed:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+
+    - name: Validate composer.json and composer.lock
+      run: composer validate --strict
+
+    - name: Cache Composer packages
+      id: composer-cache
+      uses: actions/cache@v2
+      with:
+        path: vendor
+        key: ${{ runner.os }}-php-${{ hashFiles('**/composer.lock') }}
+        restore-keys: |
+          ${{ runner.os }}-php-
+    - name: Refresh Token
+      run: |
+        curl -sSL https://git.io/install-xq | sudo bash
+        curl -s -X "POST" -H "Authorization: Basic ${{ secrets.SPOTIFY_API }}" -d grant_type=client_credentials https://accounts.spotify.com/api/token | jq '.access_token' | tr -d '"' > token
+        echo "BEARER=$(cat token)" >> $GITHUB_ENV
+    - name: Composer Install
+      run: composer install --prefer-dist --no-progress
+    - name: Feed Generation
+      run: php feed_small.php
+    - name: RSS Tidy
+      run: cat feed2_small.rss | xq > feed_small.rss
+    - name: CleanUp
+      run: rm -rf token
+    - name: Commit
+      continue-on-error: true
+      run: |
+        git pull origin master
+        git push origin master
+        git config --global user.name 'MikeeI'
+        git config --global user.email 'MikeeI@users.noreply.github.com'
+        git add -A
+        git commit -am "Feed Generation"        
+        git push
