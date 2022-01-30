@@ -1,1 +1,142 @@
-
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>The Joe Rogan Experience</title>
+    <description>The official podcast of comedian Joe Rogan. Follow The Joe Rogan Clips show page for some of the best moments from the episodes.</description>
+    <link>https://open.spotify.com/show/4rOoJ6Egrf8K2IrywzwOMk</link>
+    <language>en-GB</language>
+    <copyright>Joe Rogan</copyright>
+    <itunes:subtitle>The official podcast of comedian Joe Rogan. Follow The Joe Rogan Clips show page for some of the best moments from the episodes.</itunes:subtitle>
+    <itunes:summary>The official podcast of comedian Joe Rogan. Follow The Joe Rogan Clips show page for some of the best moments from the episodes.</itunes:summary>
+    <itunes:author>Joe Rogan</itunes:author>
+    <itunes:owner>
+      <itunes:name>Joe Rogan</itunes:name>
+    </itunes:owner>
+    <itunes:image href="https://i.scdn.co/image/9af79fd06e34dea3cd27c4e1cd6ec7343ce20af4"/>
+    <itunes:explicit>1</itunes:explicit>
+    <itunes:block>Yes</itunes:block>
+    <generator>iTunes</generator>
+    <ttl>600</ttl>
+    <itunes:category text="News"/>
+    <item>
+      <title>JRE MMA Show #118 with Julianna Peña</title>
+      <guid>https://open.spotify.com/episode/2gLlsyvD0S5NRynFAVp29L</guid>
+      <pubDate>Thu, 27 Jan 2022 00:00:00 +0000</pubDate>
+      <author>Joe Rogan</author>
+      <enclosure url="https://github.com/JohnMeier/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2022-01-27-2gLlsyvD0S5NRynFAVp29L.m4a" length="" type="audio/x-m4a"/>
+      <itunes:subtitle>The official podcast of comedian Joe Rogan. Follow The Joe Rogan Clips show page for some of the best moments from the episodes.</itunes:subtitle>
+      <itunes:summary>Joe sits down with UFC Women's Bantamweight Champion Juliana Peña.</itunes:summary>
+      <itunes:author>Joe Rogan</itunes:author>
+      <itunes:explicit>1</itunes:explicit>
+      <itunes:duration>02:33:52</itunes:duration>
+    </item>
+    <item>
+      <title>#1770 - Valentine Thomas</title>
+      <guid>https://open.spotify.com/episode/1nCNdWpx0K8LMC8okm1LS7</guid>
+      <pubDate>Wed, 26 Jan 2022 00:00:00 +0000</pubDate>
+      <author>Joe Rogan</author>
+      <enclosure url="https://github.com/JohnMeier/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2022-01-26-1nCNdWpx0K8LMC8okm1LS7.m4a" length="" type="audio/x-m4a"/>
+      <itunes:subtitle>The official podcast of comedian Joe Rogan. Follow The Joe Rogan Clips show page for some of the best moments from the episodes.</itunes:subtitle>
+      <itunes:summary>Valentine Thomas is a former attorney and financier turned free-diver, spear-fisher, chef, and author.</itunes:summary>
+      <itunes:author>Joe Rogan</itunes:author>
+      <itunes:explicit>1</itunes:explicit>
+      <itunes:duration>02:33:35</itunes:duration>
+    </item>
+    <item>
+      <title>#1769 - Jordan Peterson</title>
+      <guid>https://open.spotify.com/episode/7IVFm4085auRaIHS7N1NQl</guid>
+      <pubDate>Tue, 25 Jan 2022 00:00:00 +0000</pubDate>
+      <author>Joe Rogan</author>
+      <enclosure url="https://github.com/JohnMeier/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2022-01-25-7IVFm4085auRaIHS7N1NQl.m4a" length="" type="audio/x-m4a"/>
+      <itunes:subtitle>The official podcast of comedian Joe Rogan. Follow The Joe Rogan Clips show page for some of the best moments from the episodes.</itunes:subtitle>
+      <itunes:summary>Jordan Peterson is a clinical psychologist and the author of several best-selling books, among them "12 Rules for Life: An Antidote to Chaos," and "Beyond Order: 12 More Rules for Life."</itunes:summary>
+      <itunes:author>Joe Rogan</itunes:author>
+      <itunes:explicit>1</itunes:explicit>
+      <itunes:duration>04:13:01</itunes:duration>
+    </item>
+    <item>
+      <title>#1768 - Dr. Robert Epstein</title>
+      <guid>https://open.spotify.com/episode/4q0cNkAHQQMBTu4NmeNW7E</guid>
+      <pubDate>Fri, 21 Jan 2022 00:00:00 +0000</pubDate>
+      <author>Joe Rogan</author>
+      <enclosure url="https://github.com/JohnMeier/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2022-01-21-4q0cNkAHQQMBTu4NmeNW7E.m4a" length="" type="audio/x-m4a"/>
+      <itunes:subtitle>The official podcast of comedian Joe Rogan. Follow The Joe Rogan Clips show page for some of the best moments from the episodes.</itunes:subtitle>
+      <itunes:summary>Dr. Robert Epstein is an author, professor, and Senior Research Psychologist at American Institute for Behavioral Research and Technology: a non-profit, non-partisan organization that offers data regarding the power of Google and other Big Tech companies to censor dissenting opinions online and sway the outcome of elections.</itunes:summary>
+      <itunes:author>Joe Rogan</itunes:author>
+      <itunes:explicit>1</itunes:explicit>
+      <itunes:duration>02:41:56</itunes:duration>
+    </item>
+    <item>
+      <title>#1767 - James Lindsay</title>
+      <guid>https://open.spotify.com/episode/2rYwwE7hcpgsDo9vRVHxAI</guid>
+      <pubDate>Thu, 20 Jan 2022 00:00:00 +0000</pubDate>
+      <author>Joe Rogan</author>
+      <enclosure url="https://github.com/JohnMeier/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2022-01-20-2rYwwE7hcpgsDo9vRVHxAI.m4a" length="" type="audio/x-m4a"/>
+      <itunes:subtitle>The official podcast of comedian Joe Rogan. Follow The Joe Rogan Clips show page for some of the best moments from the episodes.</itunes:subtitle>
+      <itunes:summary>James Lindsay is an author, mathematician, podcaster, and founder of New Discourses: an online resource for educating the public on the dangers of the "Critical Social Justice" movement. His latest book, co-authored with Charles Pincourt, is "Counter Wokecraft: A Field Manual for Combatting the Woke in the University and Beyond."</itunes:summary>
+      <itunes:author>Joe Rogan</itunes:author>
+      <itunes:explicit>1</itunes:explicit>
+      <itunes:duration>03:12:20</itunes:duration>
+    </item>
+    <item>
+      <title>#1766 - Ben Patrick</title>
+      <guid>https://open.spotify.com/episode/2zfpB6RoKwylk3DbN3GXA0</guid>
+      <pubDate>Wed, 19 Jan 2022 00:00:00 +0000</pubDate>
+      <author>Joe Rogan</author>
+      <enclosure url="https://github.com/JohnMeier/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2022-01-19-2zfpB6RoKwylk3DbN3GXA0.m4a" length="" type="audio/x-m4a"/>
+      <itunes:subtitle>The official podcast of comedian Joe Rogan. Follow The Joe Rogan Clips show page for some of the best moments from the episodes.</itunes:subtitle>
+      <itunes:summary>Ben Patrick, known online as "the Knees Over Toes Guy," is a coach and owner of ATG: an online personal training program for strengthening knees and developing full body fitness. His new book, "ATG for Life," is available now.</itunes:summary>
+      <itunes:author>Joe Rogan</itunes:author>
+      <itunes:explicit>1</itunes:explicit>
+      <itunes:duration>01:58:45</itunes:duration>
+    </item>
+    <item>
+      <title>#1765 - Phillip Frankland Lee</title>
+      <guid>https://open.spotify.com/episode/4YrIJKGWy3aGte21RUEKy1</guid>
+      <pubDate>Tue, 18 Jan 2022 00:00:00 +0000</pubDate>
+      <author>Joe Rogan</author>
+      <enclosure url="https://github.com/JohnMeier/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2022-01-18-4YrIJKGWy3aGte21RUEKy1.m4a" length="" type="audio/x-m4a"/>
+      <itunes:subtitle>The official podcast of comedian Joe Rogan. Follow The Joe Rogan Clips show page for some of the best moments from the episodes.</itunes:subtitle>
+      <itunes:summary>Phillip Frankland Lee is a restaurateur and chef. He is also the co-owner, along with his wife Margarita Kallas-Lee, of Scratch Restaurants Group: the entity behind several popular Los Angeles and Austin restaurants.</itunes:summary>
+      <itunes:author>Joe Rogan</itunes:author>
+      <itunes:explicit>1</itunes:explicit>
+      <itunes:duration>02:42:16</itunes:duration>
+    </item>
+    <item>
+      <title/>
+      <guid>https://open.spotify.com/episode/2NdZP4tbBXYPwvpo5cwcAP</guid>
+      <pubDate>Fri, 14 Jan 2022 00:00:00 +0000</pubDate>
+      <author>Joe Rogan</author>
+      <enclosure url="https://github.com/JohnMeier/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2022-01-14-2NdZP4tbBXYPwvpo5cwcAP.m4a" length="" type="audio/x-m4a"/>
+      <itunes:subtitle>The official podcast of comedian Joe Rogan. Follow The Joe Rogan Clips show page for some of the best moments from the episodes.</itunes:subtitle>
+      <itunes:summary>Shane Gillis, Mark Normand, and Ari Shaffir are standup comedians, writers, and podcasters. Mark is the co-host of "Tuesdays with Stories" along with Joe List. His latest special, "Mark Normand: Out to Lunch," is available via YouTube. Ari is the host of "The Skeptic Tank." His most recent special, "Ari Shaffir: Double Negative," is available via Netflix. Shane is the co-host of "Matt and Shane's Secret Podcast" with Matt McCusker. His special "Shane Gillis: Live in Austin," is available via YouTube.</itunes:summary>
+      <itunes:author>Joe Rogan</itunes:author>
+      <itunes:explicit>1</itunes:explicit>
+      <itunes:duration>03:36:04</itunes:duration>
+    </item>
+    <item>
+      <title>#1763 - General H.R. McMaster</title>
+      <guid>https://open.spotify.com/episode/2zVnXIoC5w9ZkkQAmWOIbJ</guid>
+      <pubDate>Thu, 13 Jan 2022 00:00:00 +0000</pubDate>
+      <author>Joe Rogan</author>
+      <enclosure url="https://github.com/JohnMeier/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2022-01-13-2zVnXIoC5w9ZkkQAmWOIbJ.m4a" length="" type="audio/x-m4a"/>
+      <itunes:subtitle>The official podcast of comedian Joe Rogan. Follow The Joe Rogan Clips show page for some of the best moments from the episodes.</itunes:subtitle>
+      <itunes:summary>General H.R. McMaster is a retired United States Army lieutenant general who served as the 26th United States National Security Advisor from 2017 to 2018. He is also known for his roles in the Gulf War, Operation Enduring Freedom, and Operation Iraqi Freedom and is currently a senior fellow at the Hoover Institution at Stanford University.  His books, "Battlegrounds" and "Dereliction of Duty" are bestsellers. He is host of the podcast "Battlegrounds: International Perspectives" and a regular on the podcast "Goodfellows."</itunes:summary>
+      <itunes:author>Joe Rogan</itunes:author>
+      <itunes:explicit>1</itunes:explicit>
+      <itunes:duration>02:48:15</itunes:duration>
+    </item>
+    <item>
+      <title>#1762 - Josh Szeps</title>
+      <guid>https://open.spotify.com/episode/3QKDzetcvnP7rM8RozQS1W</guid>
+      <pubDate>Wed, 12 Jan 2022 00:00:00 +0000</pubDate>
+      <author>Joe Rogan</author>
+      <enclosure url="https://github.com/JohnMeier/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2022-01-12-3QKDzetcvnP7rM8RozQS1W.m4a" length="" type="audio/x-m4a"/>
+      <itunes:subtitle>The official podcast of comedian Joe Rogan. Follow The Joe Rogan Clips show page for some of the best moments from the episodes.</itunes:subtitle>
+      <itunes:summary>Josh Szeps is a broadcaster who hosts "Afternoons with Josh Szeps" on ABC Radio. His podcast is Uncomfortable Conversations with Josh Szeps.</itunes:summary>
+      <itunes:author>Joe Rogan</itunes:author>
+      <itunes:explicit>1</itunes:explicit>
+      <itunes:duration>03:05:15</itunes:duration>
+    </item>
+  </channel>
+</rss>
