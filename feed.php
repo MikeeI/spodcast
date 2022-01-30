@@ -48,10 +48,7 @@
 
     $channel->addCategory()->term("News");
 
-    oreach ($json_show_episodes as $episode) {
-        //echo $item["href"]."\n";
-        //$temp_release_date = explode($json_show["release_date"],"-");
-        //$release_date = $temp_release_date[2]."-".$temp_release_date[
+    foreach ($json_show_episodes as $episode) {
         $channel
             ->addItem()
             ->title($episode["name"])
