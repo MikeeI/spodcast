@@ -2,6 +2,7 @@ name: Generate RSS Feed Small
 on:
   push:
     branches: [ notmaster ]
+  workflow_dispatch:
 jobs:
   generate_feed:
     runs-on: ubuntu-latest
