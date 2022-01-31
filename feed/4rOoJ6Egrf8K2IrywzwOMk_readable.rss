@@ -19,6 +19,17 @@
     <ttl>600</ttl>
     <itunes:category text="News"/>
     <item>
+      <title>Hello Friends</title>
+      <guid>https://open.spotify.com/episode/2uxCSxYfyXvERU7cQcoxJb</guid>
+      <pubDate>Mon, 31 Jan 2022 00:00:00 +0000</pubDate>
+      <author>Joe Rogan</author>
+      <enclosure url="https://github.com/JohnMeier/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2022-01-31-2uxCSxYfyXvERU7cQcoxJb.m4a" length="" type="audio/x-m4a"/>
+      <itunes:subtitle>The official podcast of comedian Joe Rogan. Follow The Joe Rogan Clips show page for some of the best moments from the episodes.</itunes:subtitle>
+      <itunes:summary>Joe's thoughts</itunes:summary>
+      <itunes:author>Joe Rogan</itunes:author>
+      <itunes:duration>09:43</itunes:duration>
+    </item>
+    <item>
       <title>JRE MMA Show #118 with Julianna Peña</title>
       <guid>https://open.spotify.com/episode/2gLlsyvD0S5NRynFAVp29L</guid>
       <pubDate>Thu, 27 Jan 2022 00:00:00 +0000</pubDate>
