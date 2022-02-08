@@ -19,6 +19,18 @@
     <ttl>600</ttl>
     <itunes:category text="News"/>
     <item>
+      <title>#1773 - Akaash Singh</title>
+      <guid>https://open.spotify.com/episode/44CF1lfkntWHlzsCfDfTJr</guid>
+      <pubDate>Tue, 08 Feb 2022 00:00:00 +0000</pubDate>
+      <author>Joe Rogan</author>
+      <enclosure url="https://github.com/JohnMeier/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2022-02-08-44CF1lfkntWHlzsCfDfTJr.m4a" length="" type="audio/x-m4a"/>
+      <itunes:subtitle>The official podcast of comedian Joe Rogan. Follow The Joe Rogan Clips show page for some of the best moments from the episodes.</itunes:subtitle>
+      <itunes:summary>Akaash Singh is a stand-up comedian, podcaster, and actor. You can hear him along with Andrew Schulz on the "Flagrant 2" podcast, and watch his new special, "Bring Back Apu," available now on YouTube.</itunes:summary>
+      <itunes:author>Joe Rogan</itunes:author>
+      <itunes:explicit>1</itunes:explicit>
+      <itunes:duration>03:21:21</itunes:duration>
+    </item>
+    <item>
       <title>#1772 - Randall Carlson</title>
       <guid>https://open.spotify.com/episode/190slemJsUXH5pEYR6DUbf</guid>
       <pubDate>Sat, 05 Feb 2022 00:00:00 +0000</pubDate>
