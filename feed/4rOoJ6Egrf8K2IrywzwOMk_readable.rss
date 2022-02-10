@@ -19,6 +19,18 @@
     <ttl>600</ttl>
     <itunes:category text="News"/>
     <item>
+      <title>#1775 - Dave Smith</title>
+      <guid>https://open.spotify.com/episode/3bkmpuktYQqoFUpcNr8LaF</guid>
+      <pubDate>Thu, 10 Feb 2022 00:00:00 +0000</pubDate>
+      <author>Joe Rogan</author>
+      <enclosure url="https://github.com/JohnMeier/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2022-02-10-3bkmpuktYQqoFUpcNr8LaF.m4a" length="" type="audio/x-m4a"/>
+      <itunes:subtitle>The official podcast of comedian Joe Rogan. Follow The Joe Rogan Clips show page for some of the best moments from the episodes.</itunes:subtitle>
+      <itunes:summary>Dave Smith is a stand-up comedian and political commentator. He is also the host of the "Part of the Problem" podcast, and co-host of the "Legion of Skanks" podcast.</itunes:summary>
+      <itunes:author>Joe Rogan</itunes:author>
+      <itunes:explicit>1</itunes:explicit>
+      <itunes:duration>02:54:08</itunes:duration>
+    </item>
+    <item>
       <title>#1774 - Josh Dubin</title>
       <guid>https://open.spotify.com/episode/642rv0qog8WBKsVRgUydtu</guid>
       <pubDate>Wed, 09 Feb 2022 00:00:00 +0000</pubDate>
