@@ -19,6 +19,18 @@
     <ttl>600</ttl>
     <itunes:category text="News"/>
     <item>
+      <title>#1785 - Earthquake</title>
+      <guid>https://open.spotify.com/episode/0Qni445JFkvU0cwndz02fD</guid>
+      <pubDate>Sat, 26 Feb 2022 00:00:00 +0000</pubDate>
+      <author>Joe Rogan</author>
+      <enclosure url="https://github.com/JohnMeier/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2022-02-26-0Qni445JFkvU0cwndz02fD.m4a" length="" type="audio/x-m4a"/>
+      <itunes:subtitle>The official podcast of comedian Joe Rogan. Follow The Joe Rogan Clips show page for some of the best moments from the episodes.</itunes:subtitle>
+      <itunes:summary>Earthquake is a standup comedian, actor, and radio personality. He's the host of "Quakeshouse" on SiriusXM and Kevin Hart's Laugh Out Loud Network. Look for his Netflix comedy special, "Earthquake: Legendary," on February 28.</itunes:summary>
+      <itunes:author>Joe Rogan</itunes:author>
+      <itunes:explicit>1</itunes:explicit>
+      <itunes:duration>02:06:51</itunes:duration>
+    </item>
+    <item>
       <title>#1784 - Diana Rodgers & Robb Wolf</title>
       <guid>https://open.spotify.com/episode/0r7MbKFhtLf9RLOahCT1gU</guid>
       <pubDate>Fri, 25 Feb 2022 00:00:00 +0000</pubDate>
