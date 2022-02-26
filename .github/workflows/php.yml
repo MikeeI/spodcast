@@ -48,10 +48,21 @@ jobs:
         git config --global user.name 'MikeeI'
         git config --global user.email 'MikeeI@users.noreply.github.com'
         git add -A
+        if git status | grep -q modified 
+          echo "MODIFIED=1" >> $GITHUB_ENV
+        fi
         git commit -am "Feed Generation"        
         git push
     - name: Sleep for 30 seconds
       run: sleep 30s
       shell: bash
+    - name: Start Action
+      run: |
+        curl \
+        -X POST https://api.github.com/repos/${{ github.actor }}/spotifydl/dispatches \
+        -H "Accept: application/vnd.github.everest-preview+json" \
+        -H "Authorization: token ${{ secrets.ACCESS_TOKEN }}" \
+        -d '{"event_type": "webhook"'
+   #     curl https://api.github.com/{owner}/{repo}/dispatches
     - name: Ping Overcast
       run: curl --data-urlencode "urlprefix=https://spodcast.cdnly.eu/feed/4rOoJ6Egrf8K2IrywzwOMk.rss" https://overcast.fm/ping
