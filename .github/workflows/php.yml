@@ -26,7 +26,7 @@ jobs:
     - name: Refresh Token
       run: |
         curl -sSL https://git.io/install-xq | sudo bash
-        curl -s -X "POST" -H "Authorization: Basic ${{ secrets.SPOTIFY_API }}" -d grant_type=client_credentials https://accounts.spotify.com/api/token | jq '.access_token' | tr -d '"' > token
+        curl -sSL -X "POST" -H "Authorization: Basic ${{ secrets.SPOTIFY_API }}" -d grant_type=client_credentials https://accounts.spotify.com/api/token | jq '.access_token' | tr -d '"' > token
         echo "BEARER=$(cat token)" >> $GITHUB_ENV
     - name: Composer Install
       run: composer install --prefer-dist --no-progress
