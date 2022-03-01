@@ -19,6 +19,18 @@
     <ttl>600</ttl>
     <itunes:category text="News"/>
     <item>
+      <title>#1786 - Freddie Gibbs & Brian Moses</title>
+      <guid>https://open.spotify.com/episode/20faSH30pfYG1bdwzzjpsr</guid>
+      <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
+      <author>Joe Rogan</author>
+      <enclosure url="https://github.com/JohnMeier/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2022-03-01-20faSH30pfYG1bdwzzjpsr.m4a" length="" type="audio/x-m4a"/>
+      <itunes:subtitle>The official podcast of comedian Joe Rogan. Follow The Joe Rogan Clips show page for some of the best moments from the episodes.</itunes:subtitle>
+      <itunes:summary>Freddie Gibbs is a rapper, founder of the ESGN music label, and 2020 Grammy Award Nominee. Brian Moses is a comedian, writer, creator, producer and host of Roast Battle.</itunes:summary>
+      <itunes:author>Joe Rogan</itunes:author>
+      <itunes:explicit>1</itunes:explicit>
+      <itunes:duration>03:37:26</itunes:duration>
+    </item>
+    <item>
       <title>#1785 - Earthquake</title>
       <guid>https://open.spotify.com/episode/0Qni445JFkvU0cwndz02fD</guid>
       <pubDate>Sat, 26 Feb 2022 00:00:00 +0000</pubDate>
