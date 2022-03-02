@@ -19,6 +19,18 @@
     <ttl>600</ttl>
     <itunes:category text="News"/>
     <item>
+      <title>#1787 - Dakota Meyer</title>
+      <guid>https://open.spotify.com/episode/23UU1WhuEeHbXbTKIi7scJ</guid>
+      <pubDate>Wed, 02 Mar 2022 00:00:00 +0000</pubDate>
+      <author>Joe Rogan</author>
+      <enclosure url="https://github.com/JohnMeier/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2022-03-02-23UU1WhuEeHbXbTKIi7scJ.m4a" length="" type="audio/x-m4a"/>
+      <itunes:subtitle>The official podcast of comedian Joe Rogan. Follow The Joe Rogan Clips show page for some of the best moments from the episodes.</itunes:subtitle>
+      <itunes:summary>Dakota Meyer is a retired United States Marine, veteran of the War in Afghanistan, and Medal of Honor recipient. He is co-author, with Robert O'Neill, of "The Way Forward: Master Life's Toughest Battles and Create Your Lasting Legacy."</itunes:summary>
+      <itunes:author>Joe Rogan</itunes:author>
+      <itunes:explicit>1</itunes:explicit>
+      <itunes:duration>03:02:29</itunes:duration>
+    </item>
+    <item>
       <title>#1786 - Freddie Gibbs & Brian Moses</title>
       <guid>https://open.spotify.com/episode/20faSH30pfYG1bdwzzjpsr</guid>
       <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
