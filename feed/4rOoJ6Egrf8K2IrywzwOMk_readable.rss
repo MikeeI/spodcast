@@ -19,6 +19,18 @@
     <ttl>600</ttl>
     <itunes:category text="News"/>
     <item>
+      <title>#1788 - Mr. Beast</title>
+      <guid>https://open.spotify.com/episode/5lokpznqvSrJO3gButgQvs</guid>
+      <pubDate>Mon, 07 Mar 2022 00:00:00 +0000</pubDate>
+      <author>Joe Rogan</author>
+      <enclosure url="https://github.com/JohnMeier/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2022-03-07-5lokpznqvSrJO3gButgQvs.m4a" length="" type="audio/x-m4a"/>
+      <itunes:subtitle>The official podcast of comedian Joe Rogan. Follow The Joe Rogan Clips show page for some of the best moments from the episodes.</itunes:subtitle>
+      <itunes:summary>Jimmy "MrBeast" Donaldson is an internet personality, businessman, and philanthropist. He operates several popular YouTube channels, a delivery based fast food restaurant, MrBeast Burger, and two philanthropic programs: Beast Philanthropy, and Team Trees.</itunes:summary>
+      <itunes:author>Joe Rogan</itunes:author>
+      <itunes:explicit>1</itunes:explicit>
+      <itunes:duration>02:32:33</itunes:duration>
+    </item>
+    <item>
       <title>JRE MMA Show #119 with Michael Bisping</title>
       <guid>https://open.spotify.com/episode/3jXCqVzvOmIGYTi3pXY4rc</guid>
       <pubDate>Fri, 04 Mar 2022 00:00:00 +0000</pubDate>
