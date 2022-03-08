@@ -19,6 +19,18 @@
     <ttl>600</ttl>
     <itunes:category text="News"/>
     <item>
+      <title>#1789 - Tom Papa</title>
+      <guid>https://open.spotify.com/episode/4xRPygRVOviBTWcPOBSGEg</guid>
+      <pubDate>Tue, 08 Mar 2022 00:00:00 +0000</pubDate>
+      <author>Joe Rogan</author>
+      <enclosure url="https://github.com/JohnMeier/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2022-03-08-4xRPygRVOviBTWcPOBSGEg.m4a" length="" type="audio/x-m4a"/>
+      <itunes:subtitle>The official podcast of comedian Joe Rogan. Follow The Joe Rogan Clips show page for some of the best moments from the episodes.</itunes:subtitle>
+      <itunes:summary>Comedian and writer Tom Papa is the host of the popular podcast "Breaking Bread with Tom Papa", and the co-host, along with Fortune Feimster, of the Netflix radio program "What a Joke with Papa and Fortune." It can be heard daily on Sirius XM.</itunes:summary>
+      <itunes:author>Joe Rogan</itunes:author>
+      <itunes:explicit>1</itunes:explicit>
+      <itunes:duration>03:09:02</itunes:duration>
+    </item>
+    <item>
       <title>#1788 - Mr. Beast</title>
       <guid>https://open.spotify.com/episode/5lokpznqvSrJO3gButgQvs</guid>
       <pubDate>Mon, 07 Mar 2022 00:00:00 +0000</pubDate>
