@@ -19,6 +19,18 @@
     <ttl>600</ttl>
     <itunes:category text="News"/>
     <item>
+      <title>#1791 - Sadhguru</title>
+      <guid>https://open.spotify.com/episode/0zN02uiYg9KUwYs4JY8Nwg</guid>
+      <pubDate>Mon, 14 Mar 2022 00:00:00 +0000</pubDate>
+      <author>Joe Rogan</author>
+      <enclosure url="https://github.com/JohnMeier/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2022-03-14-0zN02uiYg9KUwYs4JY8Nwg.m4a" length="" type="audio/x-m4a"/>
+      <itunes:subtitle>The official podcast of comedian Joe Rogan. Follow The Joe Rogan Clips show page for some of the best moments from the episodes.</itunes:subtitle>
+      <itunes:summary>Sadhguru is a yogi, mystic and visionary. Named one of India’s 50 most influential people, and recipient of 3 presidential awards, Sadhguru has touched the lives of millions worldwide through his transformational programs.  An internationally renowned speaker and author of the New York Times bestsellers "Inner Engineering" and "Karma," Sadhguru has been an influential voice at major global forums like the United Nations and the World Economic Forum, addressing issues as diverse as socioeconomic development, leadership and spirituality. He established Isha Foundation, a non-profit, volunteer-run organization supported by over 16 million volunteers worldwide, and has initiated several projects for social revitalization, education and the environment.</itunes:summary>
+      <itunes:author>Joe Rogan</itunes:author>
+      <itunes:explicit>1</itunes:explicit>
+      <itunes:duration>02:50:21</itunes:duration>
+    </item>
+    <item>
       <title>#1790 - Nims Purja</title>
       <guid>https://open.spotify.com/episode/0JEBeXmsbltKWYuf4TqJ6k</guid>
       <pubDate>Wed, 09 Mar 2022 00:00:00 +0000</pubDate>
