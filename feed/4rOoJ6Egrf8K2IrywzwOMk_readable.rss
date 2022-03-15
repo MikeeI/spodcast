@@ -19,6 +19,18 @@
     <ttl>600</ttl>
     <itunes:category text="News"/>
     <item>
+      <title>#1792 - Daryl Davis & Bill Ottman</title>
+      <guid>https://open.spotify.com/episode/2hM2E1WkW2QBJQV7T5ikwb</guid>
+      <pubDate>Tue, 15 Mar 2022 00:00:00 +0000</pubDate>
+      <author>Joe Rogan</author>
+      <enclosure url="https://github.com/JohnMeier/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2022-03-15-2hM2E1WkW2QBJQV7T5ikwb.m4a" length="" type="audio/x-m4a"/>
+      <itunes:subtitle>The official podcast of comedian Joe Rogan. Follow The Joe Rogan Clips show page for some of the best moments from the episodes.</itunes:subtitle>
+      <itunes:summary>Daryl Davis is a musician, activist, and author of "Klan-Destine Relationships: A Black Man's Odyssey in the Ku Klux Klan." Bill Ottman is an Internet entrepreneur, free speech activist, and CEO of Minds, a blockchain based social network. Davis and Ottman have launched #ChangeMinds: a new deradicalization initiative based upon the idea that deplatforming actually intensifies extremism.</itunes:summary>
+      <itunes:author>Joe Rogan</itunes:author>
+      <itunes:explicit>1</itunes:explicit>
+      <itunes:duration>01:54:14</itunes:duration>
+    </item>
+    <item>
       <title>#1791 - Sadhguru</title>
       <guid>https://open.spotify.com/episode/0zN02uiYg9KUwYs4JY8Nwg</guid>
       <pubDate>Mon, 14 Mar 2022 00:00:00 +0000</pubDate>
