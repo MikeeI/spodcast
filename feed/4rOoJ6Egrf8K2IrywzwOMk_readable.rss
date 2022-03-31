@@ -19,6 +19,18 @@
     <ttl>600</ttl>
     <itunes:category text="News"/>
     <item>
+      <title>#1799 - Yannis Pappas</title>
+      <guid>https://open.spotify.com/episode/5YJlyh2XFJHk3RTP61FvJt</guid>
+      <pubDate>Thu, 31 Mar 2022 00:00:00 +0000</pubDate>
+      <author>Joe Rogan</author>
+      <enclosure url="https://github.com/JohnMeier/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2022-03-31-5YJlyh2XFJHk3RTP61FvJt.m4a" length="" type="audio/x-m4a"/>
+      <itunes:subtitle>The official podcast of comedian Joe Rogan. Follow The Joe Rogan Clips show page for some of the best moments from the episodes.</itunes:subtitle>
+      <itunes:summary>Yannis Pappas is a stand-up comedian, actor, and writer. He's also the host of the "Long Days with Yanni" podcast. Watch his special, "Blowing The Light," now available on YouTube.</itunes:summary>
+      <itunes:author>Joe Rogan</itunes:author>
+      <itunes:explicit>1</itunes:explicit>
+      <itunes:duration>03:14:18</itunes:duration>
+    </item>
+    <item>
       <title>#1798 - Michael Shellenberger</title>
       <guid>https://open.spotify.com/episode/6kc8Usp2Iv8gGrheicdpOM</guid>
       <pubDate>Wed, 30 Mar 2022 00:00:00 +0000</pubDate>
