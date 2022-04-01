@@ -19,6 +19,18 @@
     <ttl>600</ttl>
     <itunes:category text="News"/>
     <item>
+      <title>#1800 - Gavin de Becker</title>
+      <guid>https://open.spotify.com/episode/3rAa8cJGt5cDSu71y9YC2A</guid>
+      <pubDate>Fri, 01 Apr 2022 00:00:00 +0000</pubDate>
+      <author>Joe Rogan</author>
+      <enclosure url="https://github.com/JohnMeier/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2022-04-01-3rAa8cJGt5cDSu71y9YC2A.m4a" length="" type="audio/x-m4a"/>
+      <itunes:subtitle>The official podcast of comedian Joe Rogan. Follow The Joe Rogan Clips show page for some of the best moments from the episodes.</itunes:subtitle>
+      <itunes:summary>Gavin de Becker is a leading authority on the prediction and management of violence. A three-time presidential appointee, he and his firm Gavin de Becker and Associates have provided protection, investigation, and threat assessment services for numerous high profile individuals and organizations.</itunes:summary>
+      <itunes:author>Joe Rogan</itunes:author>
+      <itunes:explicit>1</itunes:explicit>
+      <itunes:duration>02:51:58</itunes:duration>
+    </item>
+    <item>
       <title>#1799 - Yannis Pappas</title>
       <guid>https://open.spotify.com/episode/5YJlyh2XFJHk3RTP61FvJt</guid>
       <pubDate>Thu, 31 Mar 2022 00:00:00 +0000</pubDate>
