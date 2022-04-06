@@ -19,6 +19,18 @@
     <ttl>600</ttl>
     <itunes:category text="News"/>
     <item>
+      <title>JRE MMA Show #120 with Jim Miller</title>
+      <guid>https://open.spotify.com/episode/78iIqoRx7hDgMoloX2qfVE</guid>
+      <pubDate>Wed, 06 Apr 2022 00:00:00 +0000</pubDate>
+      <author>Joe Rogan</author>
+      <enclosure url="https://github.com/JohnMeier/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2022-04-06-78iIqoRx7hDgMoloX2qfVE.m4a" length="" type="audio/x-m4a"/>
+      <itunes:subtitle>The official podcast of comedian Joe Rogan. Follow The Joe Rogan Clips show page for some of the best moments from the episodes.</itunes:subtitle>
+      <itunes:summary>Joe is joined by mixed martial artist Jim Miller: a competitor in the UFC lightweight division and the host of his own program, "The Jim Miller Podcast."</itunes:summary>
+      <itunes:author>Joe Rogan</itunes:author>
+      <itunes:explicit>1</itunes:explicit>
+      <itunes:duration>02:23:42</itunes:duration>
+    </item>
+    <item>
       <title>#1801 - David Mamet</title>
       <guid>https://open.spotify.com/episode/0EGUBSTWebFwgzfr96q2Ci</guid>
       <pubDate>Tue, 05 Apr 2022 00:00:00 +0000</pubDate>
