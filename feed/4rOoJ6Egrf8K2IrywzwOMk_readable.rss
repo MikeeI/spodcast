@@ -19,6 +19,18 @@
     <ttl>600</ttl>
     <itunes:category text="News"/>
     <item>
+      <title>#1803 - Greg Fitzsimmons</title>
+      <guid>https://open.spotify.com/episode/1pKkrYyWHsuI9y4ILwEu2y</guid>
+      <pubDate>Fri, 08 Apr 2022 00:00:00 +0000</pubDate>
+      <author>Joe Rogan</author>
+      <enclosure url="https://github.com/JohnMeier/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2022-04-08-1pKkrYyWHsuI9y4ILwEu2y.m4a" length="" type="audio/x-m4a"/>
+      <itunes:subtitle>The official podcast of comedian Joe Rogan. Follow The Joe Rogan Clips show page for some of the best moments from the episodes.</itunes:subtitle>
+      <itunes:summary>Greg Fitzsimmons is a stand-up comedian, actor, and writer. He's also the host of "Fitzdog Radio" podcast and co-hosts the podcasts "Sunday Papers" with Mike Gibbons, and "Childish" with Alison Rosen.</itunes:summary>
+      <itunes:author>Joe Rogan</itunes:author>
+      <itunes:explicit>1</itunes:explicit>
+      <itunes:duration>03:38:06</itunes:duration>
+    </item>
+    <item>
       <title>#1802 - Protect Our Parks 3</title>
       <guid>https://open.spotify.com/episode/0HTyZfvJbXQbw5xRRTCDAJ</guid>
       <pubDate>Thu, 07 Apr 2022 00:00:00 +0000</pubDate>
