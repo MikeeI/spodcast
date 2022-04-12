@@ -19,6 +19,18 @@
     <ttl>600</ttl>
     <itunes:category text="News"/>
     <item>
+      <title>#1804 - Bill Maher</title>
+      <guid>https://open.spotify.com/episode/2e4JenTP3prIyddkZbLjbR</guid>
+      <pubDate>Tue, 12 Apr 2022 00:00:00 +0000</pubDate>
+      <author>Joe Rogan</author>
+      <enclosure url="https://github.com/JohnMeier/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2022-04-12-2e4JenTP3prIyddkZbLjbR.m4a" length="" type="audio/x-m4a"/>
+      <itunes:subtitle>The official podcast of comedian Joe Rogan. Follow The Joe Rogan Clips show page for some of the best moments from the episodes.</itunes:subtitle>
+      <itunes:summary>Bill Maher is a comedian, political commentator, the host of HBO's "Real Time with Maher" and his own podcast, "Club Random." His new special "#Adulting" is available April 15 on HBOMax. http://www.billmaher.com/videos/club-random-videos/</itunes:summary>
+      <itunes:author>Joe Rogan</itunes:author>
+      <itunes:explicit>1</itunes:explicit>
+      <itunes:duration>02:23:39</itunes:duration>
+    </item>
+    <item>
       <title>#1803 - Greg Fitzsimmons</title>
       <guid>https://open.spotify.com/episode/1pKkrYyWHsuI9y4ILwEu2y</guid>
       <pubDate>Fri, 08 Apr 2022 00:00:00 +0000</pubDate>
