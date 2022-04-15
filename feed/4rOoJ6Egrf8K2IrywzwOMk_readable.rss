@@ -19,6 +19,18 @@
     <ttl>600</ttl>
     <itunes:category text="News"/>
     <item>
+      <title>#1805 - Mike Tyson</title>
+      <guid>https://open.spotify.com/episode/2jAYGAbZHxReyhtK6kI5xG</guid>
+      <pubDate>Fri, 15 Apr 2022 00:00:00 +0000</pubDate>
+      <author>Joe Rogan</author>
+      <enclosure url="https://github.com/JohnMeier/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2022-04-15-2jAYGAbZHxReyhtK6kI5xG.m4a" length="" type="audio/x-m4a"/>
+      <itunes:subtitle>The official podcast of comedian Joe Rogan. Follow The Joe Rogan Clips show page for some of the best moments from the episodes.</itunes:subtitle>
+      <itunes:summary>Mike Tyson is the former undisputed heavyweight boxing champion of the world and host of the “Hotboxin’ with Mike Tyson” podcast.  http://www.miketyson.com/ http://www.hotboxinpodcast.com/</itunes:summary>
+      <itunes:author>Joe Rogan</itunes:author>
+      <itunes:explicit>1</itunes:explicit>
+      <itunes:duration>03:34:01</itunes:duration>
+    </item>
+    <item>
       <title>JRE MMA Show #121 with Bobby Green</title>
       <guid>https://open.spotify.com/episode/35n2OENdL2Z0SQLJOTSMND</guid>
       <pubDate>Wed, 13 Apr 2022 00:00:00 +0000</pubDate>
