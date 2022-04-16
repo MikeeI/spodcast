@@ -19,6 +19,18 @@
     <ttl>600</ttl>
     <itunes:category text="News"/>
     <item>
+      <title>#1806 - Duncan Trussell</title>
+      <guid>https://open.spotify.com/episode/6CQUyuuX2R2VGLQIlSgEhQ</guid>
+      <pubDate>Sat, 16 Apr 2022 00:00:00 +0000</pubDate>
+      <author>Joe Rogan</author>
+      <enclosure url="https://github.com/JohnMeier/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2022-04-16-6CQUyuuX2R2VGLQIlSgEhQ.m4a" length="" type="audio/x-m4a"/>
+      <itunes:subtitle>The official podcast of comedian Joe Rogan. Follow The Joe Rogan Clips show page for some of the best moments from the episodes.</itunes:subtitle>
+      <itunes:summary>Duncan Trussell is a stand-up comedian, writer, actor, and host of the "Duncan Trussell Family Hour" podcast. http://www.duncantrussell.com/</itunes:summary>
+      <itunes:author>Joe Rogan</itunes:author>
+      <itunes:explicit>1</itunes:explicit>
+      <itunes:duration>03:03:16</itunes:duration>
+    </item>
+    <item>
       <title>#1805 - Mike Tyson</title>
       <guid>https://open.spotify.com/episode/2jAYGAbZHxReyhtK6kI5xG</guid>
       <pubDate>Fri, 15 Apr 2022 00:00:00 +0000</pubDate>
