@@ -19,6 +19,18 @@
     <ttl>600</ttl>
     <itunes:category text="News"/>
     <item>
+      <title>JRE MMA Show #122 with Jake Shields</title>
+      <guid>https://open.spotify.com/episode/69kcWr8DD5Ifbk1QdCNeu0</guid>
+      <pubDate>Tue, 19 Apr 2022 00:00:00 +0000</pubDate>
+      <author>Joe Rogan</author>
+      <enclosure url="https://github.com/JohnMeier/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2022-04-19-69kcWr8DD5Ifbk1QdCNeu0.m4a" length="" type="audio/x-m4a"/>
+      <itunes:subtitle>The official podcast of comedian Joe Rogan. Follow The Joe Rogan Clips show page for some of the best moments from the episodes.</itunes:subtitle>
+      <itunes:summary>Joe sits down with Jake Shields: a veteran mixed martial artist and grappler who competed for multiple organizations, among them the UFC, PFL, and Strikeforce.</itunes:summary>
+      <itunes:author>Joe Rogan</itunes:author>
+      <itunes:explicit>1</itunes:explicit>
+      <itunes:duration>03:10:26</itunes:duration>
+    </item>
+    <item>
       <title>#1806 - Duncan Trussell</title>
       <guid>https://open.spotify.com/episode/6CQUyuuX2R2VGLQIlSgEhQ</guid>
       <pubDate>Sat, 16 Apr 2022 00:00:00 +0000</pubDate>
