@@ -19,6 +19,18 @@
     <ttl>600</ttl>
     <itunes:category text="News"/>
     <item>
+      <title>#1808 - Dan Soder</title>
+      <guid>https://open.spotify.com/episode/1LpqRZgJzula5p71rIhRyo</guid>
+      <pubDate>Sat, 23 Apr 2022 00:00:00 +0000</pubDate>
+      <author>Joe Rogan</author>
+      <enclosure url="https://github.com/JohnMeier/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2022-04-23-1LpqRZgJzula5p71rIhRyo.m4a" length="" type="audio/x-m4a"/>
+      <itunes:subtitle>The official podcast of comedian Joe Rogan. Follow The Joe Rogan Clips show page for some of the best moments from the episodes.</itunes:subtitle>
+      <itunes:summary>Dan Soder is a stand-up comedian, actor, and co-host of "The Bonfire" with Big Jay Oakerson on SiriusXM.</itunes:summary>
+      <itunes:author>Joe Rogan</itunes:author>
+      <itunes:explicit>1</itunes:explicit>
+      <itunes:duration>03:22:30</itunes:duration>
+    </item>
+    <item>
       <title>#1807 - Douglas Murray</title>
       <guid>https://open.spotify.com/episode/38irHbd6pdQkZWazZ029hq</guid>
       <pubDate>Fri, 22 Apr 2022 00:00:00 +0000</pubDate>
