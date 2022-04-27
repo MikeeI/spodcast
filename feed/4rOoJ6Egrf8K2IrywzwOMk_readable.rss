@@ -19,6 +19,18 @@
     <ttl>600</ttl>
     <itunes:category text="News"/>
     <item>
+      <title>JRE MMA Show #123 with BJ Penn</title>
+      <guid>https://open.spotify.com/episode/6DGkf3vSKoZjD4a9xfbZ9P</guid>
+      <pubDate>Wed, 27 Apr 2022 00:00:00 +0000</pubDate>
+      <author>Joe Rogan</author>
+      <enclosure url="https://github.com/JohnMeier/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2022-04-27-6DGkf3vSKoZjD4a9xfbZ9P.m4a" length="" type="audio/x-m4a"/>
+      <itunes:subtitle>The official podcast of comedian Joe Rogan. Follow The Joe Rogan Clips show page for some of the best moments from the episodes.</itunes:subtitle>
+      <itunes:summary>Joe is joined by former UFC Welterweight &amp; Lightweight Champion and current Republican candidate for Governor of Hawaii., BJ Penn. https://www.bjpenn.com/</itunes:summary>
+      <itunes:author>Joe Rogan</itunes:author>
+      <itunes:explicit>1</itunes:explicit>
+      <itunes:duration>03:08:30</itunes:duration>
+    </item>
+    <item>
       <title>#1809 - Jessica Kirson</title>
       <guid>https://open.spotify.com/episode/5xySCQMJQ5Us5UAJlTgmxX</guid>
       <pubDate>Tue, 26 Apr 2022 00:00:00 +0000</pubDate>
