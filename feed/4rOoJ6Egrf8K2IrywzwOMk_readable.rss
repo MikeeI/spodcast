@@ -19,6 +19,18 @@
     <ttl>600</ttl>
     <itunes:category text="News"/>
     <item>
+      <title>#1811 - Brendan Schaub</title>
+      <guid>https://open.spotify.com/episode/39Yv6CeM0sDCsTzcd3E5SU</guid>
+      <pubDate>Fri, 29 Apr 2022 00:00:00 +0000</pubDate>
+      <author>Joe Rogan</author>
+      <enclosure url="https://github.com/JohnMeier/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2022-04-29-39Yv6CeM0sDCsTzcd3E5SU.m4a" length="" type="audio/x-m4a"/>
+      <itunes:subtitle>The official podcast of comedian Joe Rogan. Follow The Joe Rogan Clips show page for some of the best moments from the episodes.</itunes:subtitle>
+      <itunes:summary>Brendan Schaub is stand-up comedian, former professional mixed martial artist, entrepreneur, and host or co-host of several podcasts, among them "The Schaub Show," "King and the Sting and the Wing," "Calabasas Fight Companion," and "The Fighter and the Kid." His new comedy special, "The Gringo Papi," premieres April 28 on YouTube. http://www.thicccboy.com/</itunes:summary>
+      <itunes:author>Joe Rogan</itunes:author>
+      <itunes:explicit>1</itunes:explicit>
+      <itunes:duration>03:18:34</itunes:duration>
+    </item>
+    <item>
       <title>#1810 - Remi Warren</title>
       <guid>https://open.spotify.com/episode/6dicW1bgScl6NUPbkz3qVZ</guid>
       <pubDate>Thu, 28 Apr 2022 00:00:00 +0000</pubDate>
