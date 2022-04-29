@@ -19,6 +19,18 @@
     <ttl>600</ttl>
     <itunes:category text="News"/>
     <item>
+      <title>#1810 - Remi Warren</title>
+      <guid>https://open.spotify.com/episode/6dicW1bgScl6NUPbkz3qVZ</guid>
+      <pubDate>Thu, 28 Apr 2022 00:00:00 +0000</pubDate>
+      <author>Joe Rogan</author>
+      <enclosure url="https://github.com/JohnMeier/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2022-04-28-6dicW1bgScl6NUPbkz3qVZ.m4a" length="" type="audio/x-m4a"/>
+      <itunes:subtitle>The official podcast of comedian Joe Rogan. Follow The Joe Rogan Clips show page for some of the best moments from the episodes.</itunes:subtitle>
+      <itunes:summary>Remi Warren is a hunting guide, writer, television personality, and host of the "Live Wild with Remi Warren" podcast.</itunes:summary>
+      <itunes:author>Joe Rogan</itunes:author>
+      <itunes:explicit>1</itunes:explicit>
+      <itunes:duration>02:37:48</itunes:duration>
+    </item>
+    <item>
       <title>JRE MMA Show #123 with BJ Penn</title>
       <guid>https://open.spotify.com/episode/6DGkf3vSKoZjD4a9xfbZ9P</guid>
       <pubDate>Wed, 27 Apr 2022 00:00:00 +0000</pubDate>
