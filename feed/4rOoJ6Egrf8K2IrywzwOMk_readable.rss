@@ -19,6 +19,18 @@
     <ttl>600</ttl>
     <itunes:category text="News"/>
     <item>
+      <title>JRE MMA Show #124 with Khalil Rountree</title>
+      <guid>https://open.spotify.com/episode/1GZiaIFfuJdHSSgItYHMOu</guid>
+      <pubDate>Tue, 03 May 2022 00:00:00 +0000</pubDate>
+      <author>Joe Rogan</author>
+      <enclosure url="https://github.com/JohnMeier/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2022-05-03-1GZiaIFfuJdHSSgItYHMOu.m4a" length="" type="audio/x-m4a"/>
+      <itunes:subtitle>The official podcast of comedian Joe Rogan. Follow The Joe Rogan Clips show page for some of the best moments from the episodes.</itunes:subtitle>
+      <itunes:summary>Joe is joined by UFC Light Heavyweight fighter Khalil Rountree Jr.</itunes:summary>
+      <itunes:author>Joe Rogan</itunes:author>
+      <itunes:explicit>1</itunes:explicit>
+      <itunes:duration>02:46:50</itunes:duration>
+    </item>
+    <item>
       <title>#1811 - Brendan Schaub</title>
       <guid>https://open.spotify.com/episode/39Yv6CeM0sDCsTzcd3E5SU</guid>
       <pubDate>Fri, 29 Apr 2022 00:00:00 +0000</pubDate>
