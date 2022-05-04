@@ -19,6 +19,18 @@
     <ttl>600</ttl>
     <itunes:category text="News"/>
     <item>
+      <title>#1812 - Doug Stanhope</title>
+      <guid>https://open.spotify.com/episode/3jEruuaYY4wMOgZttpmtJz</guid>
+      <pubDate>Wed, 04 May 2022 00:00:00 +0000</pubDate>
+      <author>Joe Rogan</author>
+      <enclosure url="https://github.com/JohnMeier/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2022-05-04-3jEruuaYY4wMOgZttpmtJz.m4a" length="" type="audio/x-m4a"/>
+      <itunes:subtitle>The official podcast of comedian Joe Rogan. Follow The Joe Rogan Clips show page for some of the best moments from the episodes.</itunes:subtitle>
+      <itunes:summary>Doug Stanhope is a stand-up comedian, author, and host of "The Doug Stanhope Podcast." http://www.dougstanhope.com/</itunes:summary>
+      <itunes:author>Joe Rogan</itunes:author>
+      <itunes:explicit>1</itunes:explicit>
+      <itunes:duration>03:24:05</itunes:duration>
+    </item>
+    <item>
       <title>JRE MMA Show #124 with Khalil Rountree</title>
       <guid>https://open.spotify.com/episode/1GZiaIFfuJdHSSgItYHMOu</guid>
       <pubDate>Tue, 03 May 2022 00:00:00 +0000</pubDate>
