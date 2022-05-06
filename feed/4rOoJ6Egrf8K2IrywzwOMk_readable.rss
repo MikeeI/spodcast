@@ -19,6 +19,18 @@
     <ttl>600</ttl>
     <itunes:category text="News"/>
     <item>
+      <title>#1814 - Radio Rahim</title>
+      <guid>https://open.spotify.com/episode/6zJdorVnq6GKIx64TlJ4BI</guid>
+      <pubDate>Fri, 06 May 2022 00:00:00 +0000</pubDate>
+      <author>Joe Rogan</author>
+      <enclosure url="https://github.com/JohnMeier/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2022-05-06-6zJdorVnq6GKIx64TlJ4BI.m4a" length="" type="audio/x-m4a"/>
+      <itunes:subtitle>The official podcast of comedian Joe Rogan. Follow The Joe Rogan Clips show page for some of the best moments from the episodes.</itunes:subtitle>
+      <itunes:summary>Radio Rahim is a broadcaster, journalist, reporter, and host of the "Til This Day" podcast available on Luminary. Til This Day</itunes:summary>
+      <itunes:author>Joe Rogan</itunes:author>
+      <itunes:explicit>1</itunes:explicit>
+      <itunes:duration>03:26:09</itunes:duration>
+    </item>
+    <item>
       <title>#1813 - Tony Hinchcliffe</title>
       <guid>https://open.spotify.com/episode/0d3Zs8j1Vpz0Bey8JvnXcp</guid>
       <pubDate>Thu, 05 May 2022 00:00:00 +0000</pubDate>
