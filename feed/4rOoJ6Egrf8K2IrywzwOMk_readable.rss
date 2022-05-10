@@ -19,6 +19,18 @@
     <ttl>600</ttl>
     <itunes:category text="News"/>
     <item>
+      <title>#1815 - The Black Keys</title>
+      <guid>https://open.spotify.com/episode/777sxB7NFFxNkEkH243hoS</guid>
+      <pubDate>Tue, 10 May 2022 00:00:00 +0000</pubDate>
+      <author>Joe Rogan</author>
+      <enclosure url="https://github.com/JohnMeier/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2022-05-10-777sxB7NFFxNkEkH243hoS.m4a" length="" type="audio/x-m4a"/>
+      <itunes:subtitle>The official podcast of comedian Joe Rogan. Follow The Joe Rogan Clips show page for some of the best moments from the episodes.</itunes:subtitle>
+      <itunes:summary>The Black Keys are guitarist/vocalist Dan Auerbach, and drummer Patrick Carney. Their new album, "Dropout Boogie," is available on May 13. http://www.theblackkeys.com/</itunes:summary>
+      <itunes:author>Joe Rogan</itunes:author>
+      <itunes:explicit>1</itunes:explicit>
+      <itunes:duration>03:42:12</itunes:duration>
+    </item>
+    <item>
       <title>#1814 - Radio Rahim</title>
       <guid>https://open.spotify.com/episode/6zJdorVnq6GKIx64TlJ4BI</guid>
       <pubDate>Fri, 06 May 2022 00:00:00 +0000</pubDate>
