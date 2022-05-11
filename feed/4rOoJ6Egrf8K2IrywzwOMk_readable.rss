@@ -19,6 +19,18 @@
     <ttl>600</ttl>
     <itunes:category text="News"/>
     <item>
+      <title>#1816 - Gad Saad</title>
+      <guid>https://open.spotify.com/episode/6rDI1etn04E0qJM0qfG3p5</guid>
+      <pubDate>Wed, 11 May 2022 00:00:00 +0000</pubDate>
+      <author>Joe Rogan</author>
+      <enclosure url="https://github.com/JohnMeier/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2022-05-11-6rDI1etn04E0qJM0qfG3p5.m4a" length="" type="audio/x-m4a"/>
+      <itunes:subtitle>The official podcast of comedian Joe Rogan. Follow The Joe Rogan Clips show page for some of the best moments from the episodes.</itunes:subtitle>
+      <itunes:summary>Gad Saad is Professor of Marketing at Concordia University, and an expert in the application of evolutionary psychology in marketing and consumer behavior. He is the host of "The Saad Truth with Dr. Saad" podcast, and the author of multiple books, the most recent of which is "The Parasitic Mind: How Infectious Ideas are Killing Common Sense." http://www.gadsaad.com/</itunes:summary>
+      <itunes:author>Joe Rogan</itunes:author>
+      <itunes:explicit>1</itunes:explicit>
+      <itunes:duration>03:11:47</itunes:duration>
+    </item>
+    <item>
       <title>#1815 - The Black Keys</title>
       <guid>https://open.spotify.com/episode/777sxB7NFFxNkEkH243hoS</guid>
       <pubDate>Tue, 10 May 2022 00:00:00 +0000</pubDate>
