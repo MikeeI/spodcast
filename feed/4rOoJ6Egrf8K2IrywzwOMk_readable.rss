@@ -19,6 +19,18 @@
     <ttl>600</ttl>
     <itunes:category text="News"/>
     <item>
+      <title>#1817 - Hotep Jesus</title>
+      <guid>https://open.spotify.com/episode/2l8MdAvOqCuncuE0jMMZgq</guid>
+      <pubDate>Thu, 12 May 2022 00:00:00 +0000</pubDate>
+      <author>Joe Rogan</author>
+      <enclosure url="https://github.com/JohnMeier/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2022-05-12-2l8MdAvOqCuncuE0jMMZgq.m4a" length="" type="audio/x-m4a"/>
+      <itunes:subtitle>The official podcast of comedian Joe Rogan. Follow The Joe Rogan Clips show page for some of the best moments from the episodes.</itunes:subtitle>
+      <itunes:summary>Bryan "Hotep Jesus" Sharpe is a public speaker, tech advisor, author, and one of the hosts of the "Hoteps BEEN Told You" podcast. His latest book is "The Patriot Report: Unmasking the Conspiracy of Money and War." http://www.bryansharpe.co/</itunes:summary>
+      <itunes:author>Joe Rogan</itunes:author>
+      <itunes:explicit>1</itunes:explicit>
+      <itunes:duration>03:13:12</itunes:duration>
+    </item>
+    <item>
       <title>#1816 - Gad Saad</title>
       <guid>https://open.spotify.com/episode/6rDI1etn04E0qJM0qfG3p5</guid>
       <pubDate>Wed, 11 May 2022 00:00:00 +0000</pubDate>
