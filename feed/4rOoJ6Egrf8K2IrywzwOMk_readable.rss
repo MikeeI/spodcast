@@ -19,6 +19,18 @@
     <ttl>600</ttl>
     <itunes:category text="News"/>
     <item>
+      <title>#1818 - Christina P</title>
+      <guid>https://open.spotify.com/episode/5jrzyu5awS5UWEtKLUpye1</guid>
+      <pubDate>Fri, 13 May 2022 00:00:00 +0000</pubDate>
+      <author>Joe Rogan</author>
+      <enclosure url="https://github.com/JohnMeier/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2022-05-13-5jrzyu5awS5UWEtKLUpye1.m4a" length="" type="audio/x-m4a"/>
+      <itunes:subtitle>The official podcast of comedian Joe Rogan. Follow The Joe Rogan Clips show page for some of the best moments from the episodes.</itunes:subtitle>
+      <itunes:summary>Christina P is a stand-up comic and co-host of the "Your Mom's House" podcast with her husband and fellow comedian Tom Segura. Her new Netflix comedy special, "Mom Genes," is available now. http://www.christinaponline.com/</itunes:summary>
+      <itunes:author>Joe Rogan</itunes:author>
+      <itunes:explicit>1</itunes:explicit>
+      <itunes:duration>03:37:34</itunes:duration>
+    </item>
+    <item>
       <title>#1817 - Hotep Jesus</title>
       <guid>https://open.spotify.com/episode/2l8MdAvOqCuncuE0jMMZgq</guid>
       <pubDate>Thu, 12 May 2022 00:00:00 +0000</pubDate>
