@@ -19,6 +19,18 @@
     <ttl>600</ttl>
     <itunes:category text="News"/>
     <item>
+      <title>#1819 - Cameron Hanes</title>
+      <guid>https://open.spotify.com/episode/38UJY1B2UHrXUS0wtocKOM</guid>
+      <pubDate>Tue, 17 May 2022 00:00:00 +0000</pubDate>
+      <author>Joe Rogan</author>
+      <enclosure url="https://github.com/JohnMeier/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2022-05-17-38UJY1B2UHrXUS0wtocKOM.m4a" length="" type="audio/x-m4a"/>
+      <itunes:subtitle>The official podcast of comedian Joe Rogan. Follow The Joe Rogan Clips show page for some of the best moments from the episodes.</itunes:subtitle>
+      <itunes:summary>Cameron Hanes is a master bowhunter, outdoorsman, elite athlete, and host of the podcast “Keep Hammering with Cameron Hanes.” His latest book, “Endure: How to Work Hard, Outlast, and Keep Hammering,” is out on May 17. http://www.cameronhanes.com/</itunes:summary>
+      <itunes:author>Joe Rogan</itunes:author>
+      <itunes:explicit>1</itunes:explicit>
+      <itunes:duration>02:45:43</itunes:duration>
+    </item>
+    <item>
       <title>#1818 - Christina P</title>
       <guid>https://open.spotify.com/episode/5jrzyu5awS5UWEtKLUpye1</guid>
       <pubDate>Fri, 13 May 2022 00:00:00 +0000</pubDate>
