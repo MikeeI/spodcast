@@ -19,6 +19,18 @@
     <ttl>600</ttl>
     <itunes:category text="News"/>
     <item>
+      <title>#1820 - Jack Carr</title>
+      <guid>https://open.spotify.com/episode/4Tq2ii82ZZaaAyo8RmxcYa</guid>
+      <pubDate>Wed, 18 May 2022 00:00:00 +0000</pubDate>
+      <author>Joe Rogan</author>
+      <enclosure url="https://github.com/JohnMeier/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2022-05-18-4Tq2ii82ZZaaAyo8RmxcYa.m4a" length="" type="audio/x-m4a"/>
+      <itunes:subtitle>The official podcast of comedian Joe Rogan. Follow The Joe Rogan Clips show page for some of the best moments from the episodes.</itunes:subtitle>
+      <itunes:summary>Jack Carr is a bestselling author, retired Navy SEAL, and host of the “Danger Close” podcast. His latest book, “In the Blood,” is out on May 17. http://www.officialjackcarr.com/</itunes:summary>
+      <itunes:author>Joe Rogan</itunes:author>
+      <itunes:explicit>1</itunes:explicit>
+      <itunes:duration>02:21:28</itunes:duration>
+    </item>
+    <item>
       <title>#1819 - Cameron Hanes</title>
       <guid>https://open.spotify.com/episode/38UJY1B2UHrXUS0wtocKOM</guid>
       <pubDate>Tue, 17 May 2022 00:00:00 +0000</pubDate>
