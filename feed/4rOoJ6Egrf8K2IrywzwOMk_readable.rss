@@ -19,6 +19,18 @@
     <ttl>600</ttl>
     <itunes:category text="News"/>
     <item>
+      <title>#1822 - Chris DiStefano</title>
+      <guid>https://open.spotify.com/episode/4aHNV3NVs4i0PT3ujMvfrT</guid>
+      <pubDate>Tue, 24 May 2022 00:00:00 +0000</pubDate>
+      <author>Joe Rogan</author>
+      <enclosure url="https://github.com/JohnMeier/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2022-05-24-4aHNV3NVs4i0PT3ujMvfrT.m4a" length="" type="audio/x-m4a"/>
+      <itunes:subtitle>The official podcast of comedian Joe Rogan. Follow The Joe Rogan Clips show page for some of the best moments from the episodes.</itunes:subtitle>
+      <itunes:summary>Chris DiStefano is a stand-up comedian, on-air personality, host of the "Chrissy Chaos" podcast, and co-host of "Hey Babe!" podcast with Sal Vulcano. His new Netflix comedy special "Speshy Weshy" is now streaming. https://chrisdcomedy.com/</itunes:summary>
+      <itunes:author>Joe Rogan</itunes:author>
+      <itunes:explicit>1</itunes:explicit>
+      <itunes:duration>03:35:23</itunes:duration>
+    </item>
+    <item>
       <title>#1821 - Bert Kreischer & Tony Hinchcliffe</title>
       <guid>https://open.spotify.com/episode/7Hzv3rmyHGveT0aX8ZMgFf</guid>
       <pubDate>Thu, 19 May 2022 00:00:00 +0000</pubDate>
