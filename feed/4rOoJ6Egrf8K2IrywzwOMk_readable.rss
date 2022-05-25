@@ -19,6 +19,18 @@
     <ttl>600</ttl>
     <itunes:category text="News"/>
     <item>
+      <title>#1823 - Neal Brennan</title>
+      <guid>https://open.spotify.com/episode/6XLN5ajgzlYyVxbXUDOIqt</guid>
+      <pubDate>Wed, 25 May 2022 00:00:00 +0000</pubDate>
+      <author>Joe Rogan</author>
+      <enclosure url="https://github.com/JohnMeier/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2022-05-25-6XLN5ajgzlYyVxbXUDOIqt.m4a" length="" type="audio/x-m4a"/>
+      <itunes:subtitle>The official podcast of comedian Joe Rogan. Follow The Joe Rogan Clips show page for some of the best moments from the episodes.</itunes:subtitle>
+      <itunes:summary>Neal Brennan is a stand-up comedian, actor, writer, director and producer. Catch his one-man show, "Neal Brennan: Unacceptable," on tour this year. https://www.nealbrennan.com/</itunes:summary>
+      <itunes:author>Joe Rogan</itunes:author>
+      <itunes:explicit>1</itunes:explicit>
+      <itunes:duration>03:46:05</itunes:duration>
+    </item>
+    <item>
       <title>#1822 - Chris DiStefano</title>
       <guid>https://open.spotify.com/episode/4aHNV3NVs4i0PT3ujMvfrT</guid>
       <pubDate>Tue, 24 May 2022 00:00:00 +0000</pubDate>
