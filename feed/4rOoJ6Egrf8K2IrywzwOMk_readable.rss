@@ -19,6 +19,18 @@
     <ttl>600</ttl>
     <itunes:category text="News"/>
     <item>
+      <title>#1825 - Ali Siddiq</title>
+      <guid>https://open.spotify.com/episode/6GZF3L3CSj2bpiGlKYgt7B</guid>
+      <pubDate>Fri, 27 May 2022 00:00:00 +0000</pubDate>
+      <author>Joe Rogan</author>
+      <enclosure url="https://github.com/JohnMeier/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2022-05-27-6GZF3L3CSj2bpiGlKYgt7B.m4a" length="" type="audio/x-m4a"/>
+      <itunes:subtitle>The official podcast of comedian Joe Rogan. Follow The Joe Rogan Clips show page for some of the best moments from the episodes.</itunes:subtitle>
+      <itunes:summary>Ali Siddiq is a stand-up comedian, writer, and community advocate. His new comedy special, "The Domino Effect," is now available on YouTube. https://www.alisiddiq.com/</itunes:summary>
+      <itunes:author>Joe Rogan</itunes:author>
+      <itunes:explicit>1</itunes:explicit>
+      <itunes:duration>03:05:38</itunes:duration>
+    </item>
+    <item>
       <title>#1824 - Lex Fridman</title>
       <guid>https://open.spotify.com/episode/7f7MM2aHEoRHie7i7MI7A2</guid>
       <pubDate>Thu, 26 May 2022 00:00:00 +0000</pubDate>
