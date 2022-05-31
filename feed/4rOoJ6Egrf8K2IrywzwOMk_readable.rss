@@ -19,6 +19,18 @@
     <ttl>600</ttl>
     <itunes:category text="News"/>
     <item>
+      <title>#1826 - Fahim Anwar</title>
+      <guid>https://open.spotify.com/episode/0X2VD0o7wTQLlIqejxAvUr</guid>
+      <pubDate>Tue, 31 May 2022 00:00:00 +0000</pubDate>
+      <author>Joe Rogan</author>
+      <enclosure url="https://github.com/JohnMeier/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2022-05-31-0X2VD0o7wTQLlIqejxAvUr.m4a" length="" type="audio/x-m4a"/>
+      <itunes:subtitle>The official podcast of comedian Joe Rogan. Follow The Joe Rogan Clips show page for some of the best moments from the episodes.</itunes:subtitle>
+      <itunes:summary>Fahim Anwar is a stand-up comic, actor, and host of the "Fahim Anwar Dance Hour" podcast. His new special, "Hat Trick (Live at the Comedy Store)" is available now on YouTube. http://www.fahimanwar.com/</itunes:summary>
+      <itunes:author>Joe Rogan</itunes:author>
+      <itunes:explicit>1</itunes:explicit>
+      <itunes:duration>02:56:53</itunes:duration>
+    </item>
+    <item>
       <title>#1825 - Ali Siddiq</title>
       <guid>https://open.spotify.com/episode/6GZF3L3CSj2bpiGlKYgt7B</guid>
       <pubDate>Fri, 27 May 2022 00:00:00 +0000</pubDate>
