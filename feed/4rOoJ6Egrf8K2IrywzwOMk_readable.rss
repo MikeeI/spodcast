@@ -19,6 +19,18 @@
     <ttl>600</ttl>
     <itunes:category text="News"/>
     <item>
+      <title>#1827 - Kristin Beck</title>
+      <guid>https://open.spotify.com/episode/1FLNuzVhrmOJD8vyawuTum</guid>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
+      <author>Joe Rogan</author>
+      <enclosure url="https://github.com/JohnMeier/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2022-06-01-1FLNuzVhrmOJD8vyawuTum.m4a" length="" type="audio/x-m4a"/>
+      <itunes:subtitle>The official podcast of comedian Joe Rogan. Follow The Joe Rogan Clips show page for some of the best moments from the episodes.</itunes:subtitle>
+      <itunes:summary>Kristin Beck is a retired Navy SEAL and recipient of over 50 ribbons and medals, among them the Bronze Star with Valor, the Purple Heart, and the Meritorious Service Medal. She is now a lecturer, author, consultant, and civil rights activist.</itunes:summary>
+      <itunes:author>Joe Rogan</itunes:author>
+      <itunes:explicit>1</itunes:explicit>
+      <itunes:duration>03:20:54</itunes:duration>
+    </item>
+    <item>
       <title>#1826 - Fahim Anwar</title>
       <guid>https://open.spotify.com/episode/0X2VD0o7wTQLlIqejxAvUr</guid>
       <pubDate>Tue, 31 May 2022 00:00:00 +0000</pubDate>
