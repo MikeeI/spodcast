@@ -19,6 +19,18 @@
     <ttl>600</ttl>
     <itunes:category text="News"/>
     <item>
+      <title>JRE MMA Show #125 with Aljamain Sterling</title>
+      <guid>https://open.spotify.com/episode/5MYIJehCTYYK2fyEPUIog2</guid>
+      <pubDate>Thu, 02 Jun 2022 00:00:00 +0000</pubDate>
+      <author>Joe Rogan</author>
+      <enclosure url="https://github.com/JohnMeier/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2022-06-02-5MYIJehCTYYK2fyEPUIog2.m4a" length="" type="audio/x-m4a"/>
+      <itunes:subtitle>The official podcast of comedian Joe Rogan. Follow The Joe Rogan Clips show page for some of the best moments from the episodes.</itunes:subtitle>
+      <itunes:summary>Joe is joined by Aljamain Sterling, UFC Bantamweight Champion and host of the "Weekly Scraps" podcast. http://www.aljamainsterling.com/</itunes:summary>
+      <itunes:author>Joe Rogan</itunes:author>
+      <itunes:explicit>1</itunes:explicit>
+      <itunes:duration>03:23:41</itunes:duration>
+    </item>
+    <item>
       <title>#1827 - Kristin Beck</title>
       <guid>https://open.spotify.com/episode/1FLNuzVhrmOJD8vyawuTum</guid>
       <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
