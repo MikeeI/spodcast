@@ -19,6 +19,18 @@
     <ttl>600</ttl>
     <itunes:category text="News"/>
     <item>
+      <title>#1829 - Bobby Azarian</title>
+      <guid>https://open.spotify.com/episode/7xA1gGIa9YCk9cmMrdnajv</guid>
+      <pubDate>Thu, 09 Jun 2022 00:00:00 +0000</pubDate>
+      <author>Joe Rogan</author>
+      <enclosure url="https://github.com/JohnMeier/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2022-06-09-7xA1gGIa9YCk9cmMrdnajv.m4a" length="" type="audio/x-m4a"/>
+      <itunes:subtitle>The official podcast of comedian Joe Rogan. Follow The Joe Rogan Clips show page for some of the best moments from the episodes.</itunes:subtitle>
+      <itunes:summary>Bobby Azarian is a cognitive neuroscientist and author of "The Romance of Reality: How the Universe Organizes Itself to Create Life, Consciousness, and Cosmic Complexity." Look for it on 6/28. http://www.bobbyazarian.com/</itunes:summary>
+      <itunes:author>Joe Rogan</itunes:author>
+      <itunes:explicit>1</itunes:explicit>
+      <itunes:duration>02:09:10</itunes:duration>
+    </item>
+    <item>
       <title>#1828 - Michio Kaku</title>
       <guid>https://open.spotify.com/episode/3Xmj1kd7XgMVLf8WxZqfBQ</guid>
       <pubDate>Wed, 08 Jun 2022 00:00:00 +0000</pubDate>
