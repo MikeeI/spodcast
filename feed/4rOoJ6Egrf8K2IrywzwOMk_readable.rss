@@ -19,6 +19,18 @@
     <ttl>600</ttl>
     <itunes:category text="News"/>
     <item>
+      <title>#1831 - Colion Noir</title>
+      <guid>https://open.spotify.com/episode/4ban3bST08sgRCyDuI8gFJ</guid>
+      <pubDate>Tue, 14 Jun 2022 00:00:00 +0000</pubDate>
+      <author>Joe Rogan</author>
+      <enclosure url="https://github.com/JohnMeier/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2022-06-14-4ban3bST08sgRCyDuI8gFJ.m4a" length="" type="audio/x-m4a"/>
+      <itunes:subtitle>The official podcast of comedian Joe Rogan. Follow The Joe Rogan Clips show page for some of the best moments from the episodes.</itunes:subtitle>
+      <itunes:summary>Colion Noir is a second amendment advocate, attorney, and firearms enthusiast. http://www.mrcolionnoir.com/</itunes:summary>
+      <itunes:author>Joe Rogan</itunes:author>
+      <itunes:explicit>1</itunes:explicit>
+      <itunes:duration>03:07:04</itunes:duration>
+    </item>
+    <item>
       <title>#1830 - Meghan Murphy</title>
       <guid>https://open.spotify.com/episode/3ExVz6wwSvyRKCBUZqXZQz</guid>
       <pubDate>Fri, 10 Jun 2022 00:00:00 +0000</pubDate>
