@@ -19,6 +19,18 @@
     <ttl>600</ttl>
     <itunes:category text="News"/>
     <item>
+      <title>#1832 - Charlie Walker</title>
+      <guid>https://open.spotify.com/episode/0s6MNrgR48HxhoZpLZaJUn</guid>
+      <pubDate>Wed, 15 Jun 2022 00:00:00 +0000</pubDate>
+      <author>Joe Rogan</author>
+      <enclosure url="https://github.com/JohnMeier/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2022-06-15-0s6MNrgR48HxhoZpLZaJUn.m4a" length="" type="audio/x-m4a"/>
+      <itunes:subtitle>The official podcast of comedian Joe Rogan. Follow The Joe Rogan Clips show page for some of the best moments from the episodes.</itunes:subtitle>
+      <itunes:summary>Charlie Walker is an explorer, writer, and public speaker who specializes in long distance, human-powered expeditions.  http://www.cwexplore.com/</itunes:summary>
+      <itunes:author>Joe Rogan</itunes:author>
+      <itunes:explicit>1</itunes:explicit>
+      <itunes:duration>02:56:29</itunes:duration>
+    </item>
+    <item>
       <title>#1831 - Colion Noir</title>
       <guid>https://open.spotify.com/episode/4ban3bST08sgRCyDuI8gFJ</guid>
       <pubDate>Tue, 14 Jun 2022 00:00:00 +0000</pubDate>
