@@ -19,6 +19,18 @@
     <ttl>600</ttl>
     <itunes:category text="News"/>
     <item>
+      <title>#1833 - Tim Kennedy</title>
+      <guid>https://open.spotify.com/episode/6FQtrKt6hRRcEhhbABr2Ke</guid>
+      <pubDate>Thu, 16 Jun 2022 00:00:00 +0000</pubDate>
+      <author>Joe Rogan</author>
+      <enclosure url="https://github.com/JohnMeier/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2022-06-16-6FQtrKt6hRRcEhhbABr2Ke.m4a" length="" type="audio/x-m4a"/>
+      <itunes:subtitle>The official podcast of comedian Joe Rogan. Follow The Joe Rogan Clips show page for some of the best moments from the episodes.</itunes:subtitle>
+      <itunes:summary>Tim Kennedy is a Special Forces operator, retired UFC fighter, and founder of Sheepdog Response. His new book, "Scars and Stripes: An Unapologetically American Story of Fighting the Taliban, UFC Warriors, and Myself" is available now.  http://www.timkennedy.com/</itunes:summary>
+      <itunes:author>Joe Rogan</itunes:author>
+      <itunes:explicit>1</itunes:explicit>
+      <itunes:duration>02:42:04</itunes:duration>
+    </item>
+    <item>
       <title>#1832 - Charlie Walker</title>
       <guid>https://open.spotify.com/episode/0s6MNrgR48HxhoZpLZaJUn</guid>
       <pubDate>Wed, 15 Jun 2022 00:00:00 +0000</pubDate>
