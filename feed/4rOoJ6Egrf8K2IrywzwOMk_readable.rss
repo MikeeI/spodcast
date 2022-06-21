@@ -19,6 +19,18 @@
     <ttl>600</ttl>
     <itunes:category text="News"/>
     <item>
+      <title>#1834 - Ari Shaffir, Shane Gillis & Mark Normand</title>
+      <guid>https://open.spotify.com/episode/3LMNxOGkuMA1mFqh7kcJ3F</guid>
+      <pubDate>Tue, 21 Jun 2022 00:00:00 +0000</pubDate>
+      <author>Joe Rogan</author>
+      <enclosure url="https://github.com/JohnMeier/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2022-06-21-3LMNxOGkuMA1mFqh7kcJ3F.m4a" length="" type="audio/x-m4a"/>
+      <itunes:subtitle>The official podcast of comedian Joe Rogan. Follow The Joe Rogan Clips show page for some of the best moments from the episodes.</itunes:subtitle>
+      <itunes:summary>Protect Our Parks 4 - Shane Gillis, Mark Normand, and Ari Shaffir are stand-up comedians, writers, and podcasters. Shane is the co-host of "Matt and Shane's Secret Podcast" with Matt McCusker. His special "Shane Gillis: Live in Austin," is available via YouTube. Mark is the co-host of "Tuesdays with Stories" along with Joe List and "We Might Be Drunk" with Sam Morril. His latest special, "Mark Normand: Out to Lunch," is available via YouTube. Ari is the host of "The Skeptic Tank." His most recent special, "Ari Shaffir: Double Negative," is available via Netflix.</itunes:summary>
+      <itunes:author>Joe Rogan</itunes:author>
+      <itunes:explicit>1</itunes:explicit>
+      <itunes:duration>03:18:13</itunes:duration>
+    </item>
+    <item>
       <title>#1833 - Tim Kennedy</title>
       <guid>https://open.spotify.com/episode/6FQtrKt6hRRcEhhbABr2Ke</guid>
       <pubDate>Thu, 16 Jun 2022 00:00:00 +0000</pubDate>
