@@ -19,6 +19,18 @@
     <ttl>600</ttl>
     <itunes:category text="News"/>
     <item>
+      <title>#1835 - Mike Judge</title>
+      <guid>https://open.spotify.com/episode/7v1fkpKDCt5NiC0g5G1Tud</guid>
+      <pubDate>Wed, 22 Jun 2022 00:00:00 +0000</pubDate>
+      <author>Joe Rogan</author>
+      <enclosure url="https://github.com/JohnMeier/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2022-06-22-7v1fkpKDCt5NiC0g5G1Tud.m4a" length="" type="audio/x-m4a"/>
+      <itunes:subtitle>The official podcast of comedian Joe Rogan. Follow The Joe Rogan Clips show page for some of the best moments from the episodes.</itunes:subtitle>
+      <itunes:summary>Mike Judge is a filmmaker, animator, and actor. He's the creator of "Beavis and Butt-Head," "Silicon Valley," co-creator of "King of the Hill," and writer and director of "Office Space," "Idiocracy," and "Extract." His new film, "Beavis and Butt-Head Do the Universe," will premiere on Paramount Plus on June 23, 2022.</itunes:summary>
+      <itunes:author>Joe Rogan</itunes:author>
+      <itunes:explicit>1</itunes:explicit>
+      <itunes:duration>01:34:09</itunes:duration>
+    </item>
+    <item>
       <title>#1834 - Ari Shaffir, Shane Gillis & Mark Normand</title>
       <guid>https://open.spotify.com/episode/3LMNxOGkuMA1mFqh7kcJ3F</guid>
       <pubDate>Tue, 21 Jun 2022 00:00:00 +0000</pubDate>
