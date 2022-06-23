@@ -19,6 +19,18 @@
     <ttl>600</ttl>
     <itunes:category text="News"/>
     <item>
+      <title>#1836 - Ryan Holiday</title>
+      <guid>https://open.spotify.com/episode/3VbGyix7GOozgg8sry2Tmr</guid>
+      <pubDate>Thu, 23 Jun 2022 00:00:00 +0000</pubDate>
+      <author>Joe Rogan</author>
+      <enclosure url="https://github.com/JohnMeier/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2022-06-23-3VbGyix7GOozgg8sry2Tmr.m4a" length="" type="audio/x-m4a"/>
+      <itunes:subtitle>The official podcast of comedian Joe Rogan. Follow The Joe Rogan Clips show page for some of the best moments from the episodes.</itunes:subtitle>
+      <itunes:summary>Ryan Holiday is a writer, media strategist, and author of multiple books, including "Lives of the Stoics: The Art of Living from Zeno to Marcus Aurelius," Stillness is the Key," and "Trust Me, I'm Lying: Confessions of a Media Manipulator." He's the host of "The Daily Stoic" podcast. http://www.ryanholiday.net/ http://www.dailystoic.com/</itunes:summary>
+      <itunes:author>Joe Rogan</itunes:author>
+      <itunes:explicit>1</itunes:explicit>
+      <itunes:duration>02:56:40</itunes:duration>
+    </item>
+    <item>
       <title>#1835 - Mike Judge</title>
       <guid>https://open.spotify.com/episode/7v1fkpKDCt5NiC0g5G1Tud</guid>
       <pubDate>Wed, 22 Jun 2022 00:00:00 +0000</pubDate>
