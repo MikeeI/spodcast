@@ -19,6 +19,18 @@
     <ttl>600</ttl>
     <itunes:category text="News"/>
     <item>
+      <title>JRE MMA Show #126 with Eryk Anders</title>
+      <guid>https://open.spotify.com/episode/0hhjNGhrSsIF65pf76KJm4</guid>
+      <pubDate>Wed, 29 Jun 2022 00:00:00 +0000</pubDate>
+      <author>Joe Rogan</author>
+      <enclosure url="https://github.com/JohnMeier/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2022-06-29-0hhjNGhrSsIF65pf76KJm4.m4a" length="" type="audio/x-m4a"/>
+      <itunes:subtitle>The official podcast of comedian Joe Rogan. Follow The Joe Rogan Clips show page for some of the best moments from the episodes.</itunes:subtitle>
+      <itunes:summary>Joe sits down with Eryk Anders, a mixed martial artist competing in the Middleweight division of the UFC.</itunes:summary>
+      <itunes:author>Joe Rogan</itunes:author>
+      <itunes:explicit>1</itunes:explicit>
+      <itunes:duration>02:30:56</itunes:duration>
+    </item>
+    <item>
       <title>#1837 - Gina Carano</title>
       <guid>https://open.spotify.com/episode/503ipERK7x0WHmrQxtDs5D</guid>
       <pubDate>Tue, 28 Jun 2022 00:00:00 +0000</pubDate>
