@@ -19,6 +19,18 @@
     <ttl>600</ttl>
     <itunes:category text="News"/>
     <item>
+      <title>#1838 - Brian Simpson</title>
+      <guid>https://open.spotify.com/episode/6hmEmiSkB6H6P9CPfCyojv</guid>
+      <pubDate>Thu, 30 Jun 2022 00:00:00 +0000</pubDate>
+      <author>Joe Rogan</author>
+      <enclosure url="https://github.com/JohnMeier/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2022-06-30-6hmEmiSkB6H6P9CPfCyojv.m4a" length="" type="audio/x-m4a"/>
+      <itunes:subtitle>The official podcast of comedian Joe Rogan. Follow The Joe Rogan Clips show page for some of the best moments from the episodes.</itunes:subtitle>
+      <itunes:summary>Brian Simpson is a standup comedian and host of the podcast "BS with Brian Simpson." He's also on Season 3 of The Standups streaming on Netflix.</itunes:summary>
+      <itunes:author>Joe Rogan</itunes:author>
+      <itunes:explicit>1</itunes:explicit>
+      <itunes:duration>02:34:56</itunes:duration>
+    </item>
+    <item>
       <title>JRE MMA Show #126 with Eryk Anders</title>
       <guid>https://open.spotify.com/episode/0hhjNGhrSsIF65pf76KJm4</guid>
       <pubDate>Wed, 29 Jun 2022 00:00:00 +0000</pubDate>
