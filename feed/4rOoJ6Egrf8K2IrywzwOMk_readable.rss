@@ -19,6 +19,18 @@
     <ttl>600</ttl>
     <itunes:category text="News"/>
     <item>
+      <title>#1840 - Marc Andreessen</title>
+      <guid>https://open.spotify.com/episode/2JDW5u8BlKHM5C5wInOT4u</guid>
+      <pubDate>Wed, 06 Jul 2022 00:00:00 +0000</pubDate>
+      <author>Joe Rogan</author>
+      <enclosure url="https://github.com/JohnMeier/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2022-07-06-2JDW5u8BlKHM5C5wInOT4u.m4a" length="" type="audio/x-m4a"/>
+      <itunes:subtitle>The official podcast of comedian Joe Rogan. Follow The Joe Rogan Clips show page for some of the best moments from the episodes.</itunes:subtitle>
+      <itunes:summary>Marc Andreessen is an entrepreneur, investor, and software engineer. He is co-creator of the world's first widely used internet browser, Mosaic, co-founder of the social media network platform Ning, and co-founder and general partner of the venture capital firm Andreessen Horowitz.</itunes:summary>
+      <itunes:author>Joe Rogan</itunes:author>
+      <itunes:explicit>1</itunes:explicit>
+      <itunes:duration>02:47:16</itunes:duration>
+    </item>
+    <item>
       <title>#1839 - Duncan Trussell</title>
       <guid>https://open.spotify.com/episode/0k503tOyovs71ddjCCfmHA</guid>
       <pubDate>Tue, 05 Jul 2022 00:00:00 +0000</pubDate>
