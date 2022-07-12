@@ -19,6 +19,18 @@
     <ttl>600</ttl>
     <itunes:category text="News"/>
     <item>
+      <title>#1842 - Andrew Huberman</title>
+      <guid>https://open.spotify.com/episode/2BGyj7ukaq8aA29BsA1Yuk</guid>
+      <pubDate>Tue, 12 Jul 2022 00:00:00 +0000</pubDate>
+      <author>Joe Rogan</author>
+      <enclosure url="https://github.com/JohnMeier/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2022-07-12-2BGyj7ukaq8aA29BsA1Yuk.m4a" length="" type="audio/x-m4a"/>
+      <itunes:subtitle>The official podcast of comedian Joe Rogan. Follow The Joe Rogan Clips show page for some of the best moments from the episodes.</itunes:subtitle>
+      <itunes:summary>Andrew Huberman is a Professor of Neurobiology and Ophthalmology at Stanford University, and host of the "Huberman Lab" Podcast. www.hubermanlab.com</itunes:summary>
+      <itunes:author>Joe Rogan</itunes:author>
+      <itunes:explicit>1</itunes:explicit>
+      <itunes:duration>03:01:20</itunes:duration>
+    </item>
+    <item>
       <title>#1841 - Brian Redban</title>
       <guid>https://open.spotify.com/episode/1KLPEuwJYASc9nRm3qitwL</guid>
       <pubDate>Thu, 07 Jul 2022 00:00:00 +0000</pubDate>
