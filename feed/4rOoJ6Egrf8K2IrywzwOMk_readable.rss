@@ -19,6 +19,18 @@
     <ttl>600</ttl>
     <itunes:category text="News"/>
     <item>
+      <title>#1844 - Tom Segura</title>
+      <guid>https://open.spotify.com/episode/0ZxQtNYxf5gUTxIepRfbg6</guid>
+      <pubDate>Thu, 14 Jul 2022 00:00:00 +0000</pubDate>
+      <author>Joe Rogan</author>
+      <enclosure url="https://github.com/JohnMeier/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2022-07-14-0ZxQtNYxf5gUTxIepRfbg6.m4a" length="" type="audio/x-m4a"/>
+      <itunes:subtitle>The official podcast of comedian Joe Rogan. Follow The Joe Rogan Clips show page for some of the best moments from the episodes.</itunes:subtitle>
+      <itunes:summary>Tom Segura is a stand-up comedian, author, and podcaster. He is the co-host of two podcasts, "Your Mom's House" with Christina Pazsitzky, and "2 Bears, 1 Cave" with Bert Kreischer," and host of his own Spanish language podcast, "Tom Segura en Español." His new book, "I'd Like to Play Alone, Please: Essays," is available now. www.tomsegura.com</itunes:summary>
+      <itunes:author>Joe Rogan</itunes:author>
+      <itunes:explicit>1</itunes:explicit>
+      <itunes:duration>03:11:13</itunes:duration>
+    </item>
+    <item>
       <title>#1843 - Paul Virzi</title>
       <guid>https://open.spotify.com/episode/3mBQbdt03bBJ1jY14Ff3Y1</guid>
       <pubDate>Wed, 13 Jul 2022 00:00:00 +0000</pubDate>
