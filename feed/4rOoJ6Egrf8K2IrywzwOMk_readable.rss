@@ -19,6 +19,18 @@
     <ttl>600</ttl>
     <itunes:category text="News"/>
     <item>
+      <title>#1845 - Zachary Levi</title>
+      <guid>https://open.spotify.com/episode/3izYkwiL710aKWv4Ey2DxF</guid>
+      <pubDate>Tue, 19 Jul 2022 00:00:00 +0000</pubDate>
+      <author>Joe Rogan</author>
+      <enclosure url="https://github.com/JohnMeier/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2022-07-19-3izYkwiL710aKWv4Ey2DxF.m4a" length="" type="audio/x-m4a"/>
+      <itunes:subtitle>The official podcast of comedian Joe Rogan. Follow The Joe Rogan Clips show page for some of the best moments from the episodes.</itunes:subtitle>
+      <itunes:summary>Zachary Levi is an actor best known as the star of the superhero film "Shazam!" and the hit television series "Chuck." His new memoir, "Radical Love: Learning to Accept Yourself and Others" is available now.</itunes:summary>
+      <itunes:author>Joe Rogan</itunes:author>
+      <itunes:explicit>1</itunes:explicit>
+      <itunes:duration>02:25:32</itunes:duration>
+    </item>
+    <item>
       <title>#1844 - Tom Segura</title>
       <guid>https://open.spotify.com/episode/0ZxQtNYxf5gUTxIepRfbg6</guid>
       <pubDate>Thu, 14 Jul 2022 00:00:00 +0000</pubDate>
