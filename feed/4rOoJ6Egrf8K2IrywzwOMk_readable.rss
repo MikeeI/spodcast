@@ -19,6 +19,18 @@
     <ttl>600</ttl>
     <itunes:category text="News"/>
     <item>
+      <title>JRE MMA Show #127 with Mikey Musumeci</title>
+      <guid>https://open.spotify.com/episode/02yF358T52mxlWBBs4WOAk</guid>
+      <pubDate>Wed, 20 Jul 2022 00:00:00 +0000</pubDate>
+      <author>Joe Rogan</author>
+      <enclosure url="https://github.com/JohnMeier/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2022-07-20-02yF358T52mxlWBBs4WOAk.m4a" length="" type="audio/x-m4a"/>
+      <itunes:subtitle>The official podcast of comedian Joe Rogan. Follow The Joe Rogan Clips show page for some of the best moments from the episodes.</itunes:subtitle>
+      <itunes:summary>Joe sits down with Mikey Musumeci, a five-time world champion Brazilian Jiu-Jitsu black belt currently signed to ONE Championship. https://www.onefc.com/athletes/mikey-musumeci/</itunes:summary>
+      <itunes:author>Joe Rogan</itunes:author>
+      <itunes:explicit>1</itunes:explicit>
+      <itunes:duration>02:03:12</itunes:duration>
+    </item>
+    <item>
       <title>#1845 - Zachary Levi</title>
       <guid>https://open.spotify.com/episode/3izYkwiL710aKWv4Ey2DxF</guid>
       <pubDate>Tue, 19 Jul 2022 00:00:00 +0000</pubDate>
