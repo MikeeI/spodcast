@@ -19,6 +19,18 @@
     <ttl>600</ttl>
     <itunes:category text="News"/>
     <item>
+      <title>#1847 - Theo Von</title>
+      <guid>https://open.spotify.com/episode/3IIpQhCIWOmyP1QD9B3sYU</guid>
+      <pubDate>Tue, 26 Jul 2022 00:00:00 +0000</pubDate>
+      <author>Joe Rogan</author>
+      <enclosure url="https://github.com/JohnMeier/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2022-07-26-3IIpQhCIWOmyP1QD9B3sYU.m4a" length="" type="audio/x-m4a"/>
+      <itunes:subtitle>The official podcast of comedian Joe Rogan. Follow The Joe Rogan Clips show page for some of the best moments from the episodes.</itunes:subtitle>
+      <itunes:summary>Theo Von is a stand-up comic and podcaster. He is the host of "This Past Weekend with Theo Von" and one of the hosts of "The King and the Sting and the Wing." www.theovon.com</itunes:summary>
+      <itunes:author>Joe Rogan</itunes:author>
+      <itunes:explicit>1</itunes:explicit>
+      <itunes:duration>03:00:50</itunes:duration>
+    </item>
+    <item>
       <title>#1846 - Andrew Schulz</title>
       <guid>https://open.spotify.com/episode/4hUGawjq66lKtI5WuZ4dUX</guid>
       <pubDate>Sat, 23 Jul 2022 00:00:00 +0000</pubDate>
