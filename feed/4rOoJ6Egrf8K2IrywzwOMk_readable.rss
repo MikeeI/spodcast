@@ -19,6 +19,18 @@
     <ttl>600</ttl>
     <itunes:category text="News"/>
     <item>
+      <title>#1848 - Francis Foster & Konstantin Kisin</title>
+      <guid>https://open.spotify.com/episode/1QYGeIYkXR0eKDRWiEKHXe</guid>
+      <pubDate>Wed, 27 Jul 2022 00:00:00 +0000</pubDate>
+      <author>Joe Rogan</author>
+      <enclosure url="https://github.com/JohnMeier/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2022-07-27-1QYGeIYkXR0eKDRWiEKHXe.m4a" length="" type="audio/x-m4a"/>
+      <itunes:subtitle>The official podcast of comedian Joe Rogan. Follow The Joe Rogan Clips show page for some of the best moments from the episodes.</itunes:subtitle>
+      <itunes:summary>Francis Foster and Konstantin Kisin are the hosts of the free speech podcast and YouTube program "TRIGGERnometry." Kisin's new book, "An Immigrant's Love Letter to the West," is available now. www.triggerpod.co.uk</itunes:summary>
+      <itunes:author>Joe Rogan</itunes:author>
+      <itunes:explicit>1</itunes:explicit>
+      <itunes:duration>04:18:15</itunes:duration>
+    </item>
+    <item>
       <title>#1847 - Theo Von</title>
       <guid>https://open.spotify.com/episode/3IIpQhCIWOmyP1QD9B3sYU</guid>
       <pubDate>Tue, 26 Jul 2022 00:00:00 +0000</pubDate>
