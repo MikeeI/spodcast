@@ -19,13 +19,25 @@
     <ttl>600</ttl>
     <itunes:category text="News"/>
     <item>
+      <title>#1850 - Whitney Cummings</title>
+      <guid>https://open.spotify.com/episode/5TD275rSLx8SmYrJvSoVRm</guid>
+      <pubDate>Fri, 29 Jul 2022 00:00:00 +0000</pubDate>
+      <author>Joe Rogan</author>
+      <enclosure url="https://github.com/JohnMeier/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2022-07-29-5TD275rSLx8SmYrJvSoVRm.m4a" length="" type="audio/x-m4a"/>
+      <itunes:subtitle>The official podcast of comedian Joe Rogan. Follow The Joe Rogan Clips show page for some of the best moments from the episodes.</itunes:subtitle>
+      <itunes:summary>Whitney Cummings is a stand-up comic, author, and host of the "Good for You" podcast. Her new special "Whitney Cummings: Jokes" is now streaming on Netflix. www.whitneycummings.com</itunes:summary>
+      <itunes:author>Joe Rogan</itunes:author>
+      <itunes:explicit>1</itunes:explicit>
+      <itunes:duration>03:27:36</itunes:duration>
+    </item>
+    <item>
       <title>#1849 - Rich Benoit</title>
       <guid>https://open.spotify.com/episode/5Nk2pypJn59PE6gQcQo2my</guid>
       <pubDate>Thu, 28 Jul 2022 00:00:00 +0000</pubDate>
       <author>Joe Rogan</author>
       <enclosure url="https://github.com/JohnMeier/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2022-07-28-5Nk2pypJn59PE6gQcQo2my.m4a" length="" type="audio/x-m4a"/>
       <itunes:subtitle>The official podcast of comedian Joe Rogan. Follow The Joe Rogan Clips show page for some of the best moments from the episodes.</itunes:subtitle>
-      <itunes:summary>Rich Benoit is a car enthusiast, host of the YouTube channel "Rich Rebuilds," and co-founder of The Electrified Garage: an electric vehicle maintenance and repair company. www.youtube.com/channel/UCfV0_wbjG8KJADuZT2ct4SA</itunes:summary>
+      <itunes:summary>Rich Benoit is a car enthusiast, host of the YouTube channel "Rich Rebuilds," and co-founder of The Electrified Garage: an electric vehicle maintenance and repair company. https://www.youtube.com/RichRebuilds</itunes:summary>
       <itunes:author>Joe Rogan</itunes:author>
       <itunes:explicit>1</itunes:explicit>
       <itunes:duration>02:41:54</itunes:duration>
