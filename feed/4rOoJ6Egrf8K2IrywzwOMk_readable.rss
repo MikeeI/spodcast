@@ -19,6 +19,18 @@
     <ttl>600</ttl>
     <itunes:category text="News"/>
     <item>
+      <title>#1852 - Sam Tripoli</title>
+      <guid>https://open.spotify.com/episode/4UrZzFP5G06maV8iUzLak2</guid>
+      <pubDate>Wed, 03 Aug 2022 00:00:00 +0000</pubDate>
+      <author>Joe Rogan</author>
+      <enclosure url="https://github.com/JohnMeier/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2022-08-03-4UrZzFP5G06maV8iUzLak2.m4a" length="" type="audio/x-m4a"/>
+      <itunes:subtitle>The official podcast of comedian Joe Rogan. Follow The Joe Rogan Clips show page for some of the best moments from the episodes.</itunes:subtitle>
+      <itunes:summary>Sam Tripoli is stand-up comedian, writer, host of the "Tin Foil Hat with Sam Tripoli" and "Zero with Sam Tripoli" podcasts, and co-host of several others, including "Cash Daddies," "Conspiracy Social Club," "Broken Simulation," and "Union of the Unwanted." https://samtripoli.com/</itunes:summary>
+      <itunes:author>Joe Rogan</itunes:author>
+      <itunes:explicit>1</itunes:explicit>
+      <itunes:duration>03:40:52</itunes:duration>
+    </item>
+    <item>
       <title>#1851 - Chris Williamson</title>
       <guid>https://open.spotify.com/episode/3XMmLbHR7MUJsvrs3pmDWx</guid>
       <pubDate>Tue, 02 Aug 2022 00:00:00 +0000</pubDate>
