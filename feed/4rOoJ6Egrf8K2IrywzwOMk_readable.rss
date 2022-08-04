@@ -19,6 +19,18 @@
     <ttl>600</ttl>
     <itunes:category text="News"/>
     <item>
+      <title>#1853 - Jeremy Corbell</title>
+      <guid>https://open.spotify.com/episode/0gYVutFOYsHaklxO0DLcS7</guid>
+      <pubDate>Thu, 04 Aug 2022 00:00:00 +0000</pubDate>
+      <author>Joe Rogan</author>
+      <enclosure url="https://github.com/JohnMeier/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2022-08-04-0gYVutFOYsHaklxO0DLcS7.m4a" length="" type="audio/x-m4a"/>
+      <itunes:subtitle>The official podcast of comedian Joe Rogan. Follow The Joe Rogan Clips show page for some of the best moments from the episodes.</itunes:subtitle>
+      <itunes:summary>Jeremy Corbell is an artist, UFOlogist and investigative filmmaker. Some of his films include "Bob Lazar: Area 51 &amp; Flying Saucers," "Hunt for the Skinwalker," and "Patient Seventeen." https://www.extraordinarybeliefs.com/</itunes:summary>
+      <itunes:author>Joe Rogan</itunes:author>
+      <itunes:explicit>1</itunes:explicit>
+      <itunes:duration>03:02:55</itunes:duration>
+    </item>
+    <item>
       <title>#1852 - Sam Tripoli</title>
       <guid>https://open.spotify.com/episode/4UrZzFP5G06maV8iUzLak2</guid>
       <pubDate>Wed, 03 Aug 2022 00:00:00 +0000</pubDate>
