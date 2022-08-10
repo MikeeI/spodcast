@@ -19,6 +19,18 @@
     <ttl>600</ttl>
     <itunes:category text="News"/>
     <item>
+      <title>#1854 - Rick Strassman</title>
+      <guid>https://open.spotify.com/episode/56jFEMXBynPmREm463zRVc</guid>
+      <pubDate>Wed, 10 Aug 2022 00:00:00 +0000</pubDate>
+      <author>Joe Rogan</author>
+      <enclosure url="https://github.com/JohnMeier/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2022-08-10-56jFEMXBynPmREm463zRVc.m4a" length="" type="audio/x-m4a"/>
+      <itunes:subtitle>The official podcast of comedian Joe Rogan. Follow The Joe Rogan Clips show page for some of the best moments from the episodes.</itunes:subtitle>
+      <itunes:summary>Rick Strassman is a Clinical Associate Professor of Psychiatry at the University of New Mexico School of Medicine. He is the author of numerous scientific papers and books, among them "DMT: The Spirit Molecule." His most recent, "The Psychedelic Handbook: A Practical Guide to Psilocybin, LSD, Ketamine, MDMA, and Ayahuasca," is available now. www.rickstrassman.com</itunes:summary>
+      <itunes:author>Joe Rogan</itunes:author>
+      <itunes:explicit>1</itunes:explicit>
+      <itunes:duration>03:30:07</itunes:duration>
+    </item>
+    <item>
       <title>#1853 - Jeremy Corbell</title>
       <guid>https://open.spotify.com/episode/0gYVutFOYsHaklxO0DLcS7</guid>
       <pubDate>Thu, 04 Aug 2022 00:00:00 +0000</pubDate>
