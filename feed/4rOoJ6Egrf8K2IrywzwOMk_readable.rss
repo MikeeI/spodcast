@@ -19,6 +19,18 @@
     <ttl>600</ttl>
     <itunes:category text="News"/>
     <item>
+      <title>#1856 - Nate Bargatze</title>
+      <guid>https://open.spotify.com/episode/42Z5fbeH5YoXIGK45A6kMq</guid>
+      <pubDate>Fri, 12 Aug 2022 00:00:00 +0000</pubDate>
+      <author>Joe Rogan</author>
+      <enclosure url="https://github.com/JohnMeier/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2022-08-12-42Z5fbeH5YoXIGK45A6kMq.m4a" length="" type="audio/x-m4a"/>
+      <itunes:subtitle>The official podcast of comedian Joe Rogan. Follow The Joe Rogan Clips show page for some of the best moments from the episodes.</itunes:subtitle>
+      <itunes:summary>Nate Bargatze is a standup comedian and host of the "Nateland" podcast. His latest comedy special, "The Greatest Average American," is streaming on Netflix. www.natebargatze.com</itunes:summary>
+      <itunes:author>Joe Rogan</itunes:author>
+      <itunes:explicit>1</itunes:explicit>
+      <itunes:duration>03:39:03</itunes:duration>
+    </item>
+    <item>
       <title>#1855 - Chris Best</title>
       <guid>https://open.spotify.com/episode/4SFTiMFkTRpknVfj6dYyMN</guid>
       <pubDate>Thu, 11 Aug 2022 00:00:00 +0000</pubDate>
