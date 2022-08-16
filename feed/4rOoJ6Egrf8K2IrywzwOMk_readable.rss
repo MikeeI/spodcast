@@ -19,6 +19,18 @@
     <ttl>600</ttl>
     <itunes:category text="News"/>
     <item>
+      <title>#1857 - Seth Dillon</title>
+      <guid>https://open.spotify.com/episode/2SOHGmqBL2UnhwCbYSF8uu</guid>
+      <pubDate>Tue, 16 Aug 2022 00:00:00 +0000</pubDate>
+      <author>Joe Rogan</author>
+      <enclosure url="https://github.com/JohnMeier/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2022-08-16-2SOHGmqBL2UnhwCbYSF8uu.m4a" length="" type="audio/x-m4a"/>
+      <itunes:subtitle>The official podcast of comedian Joe Rogan. Follow The Joe Rogan Clips show page for some of the best moments from the episodes.</itunes:subtitle>
+      <itunes:summary>Seth Dillon is an entrepreneur and CEO of the satirical news website The Babylon Bee. www.babylonbee.com</itunes:summary>
+      <itunes:author>Joe Rogan</itunes:author>
+      <itunes:explicit>1</itunes:explicit>
+      <itunes:duration>02:56:17</itunes:duration>
+    </item>
+    <item>
       <title>#1856 - Nate Bargatze</title>
       <guid>https://open.spotify.com/episode/42Z5fbeH5YoXIGK45A6kMq</guid>
       <pubDate>Fri, 12 Aug 2022 00:00:00 +0000</pubDate>
