@@ -19,6 +19,18 @@
     <ttl>600</ttl>
     <itunes:category text="News"/>
     <item>
+      <title>#1858 - Josh Dubin & Derrick Hamilton</title>
+      <guid>https://open.spotify.com/episode/6UeUIxBVH2DnDSv9lH6qFF</guid>
+      <pubDate>Wed, 17 Aug 2022 00:00:00 +0000</pubDate>
+      <author>Joe Rogan</author>
+      <enclosure url="https://github.com/JohnMeier/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2022-08-17-6UeUIxBVH2DnDSv9lH6qFF.m4a" length="" type="audio/x-m4a"/>
+      <itunes:subtitle>The official podcast of comedian Joe Rogan. Follow The Joe Rogan Clips show page for some of the best moments from the episodes.</itunes:subtitle>
+      <itunes:summary>Josh Dubin is an Ambassador to The Innocence Project, Criminal justice reform advocate, attorney, and president of Dubin Research and Consulting. Derrick Hamilton spent more than 20 years trying to overturn his wrongful conviction, and he now helps others that have been wrongfully convicted. www.innocenceproject.org</itunes:summary>
+      <itunes:author>Joe Rogan</itunes:author>
+      <itunes:explicit>1</itunes:explicit>
+      <itunes:duration>03:00:52</itunes:duration>
+    </item>
+    <item>
       <title>#1857 - Seth Dillon</title>
       <guid>https://open.spotify.com/episode/2SOHGmqBL2UnhwCbYSF8uu</guid>
       <pubDate>Tue, 16 Aug 2022 00:00:00 +0000</pubDate>
