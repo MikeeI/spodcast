@@ -19,6 +19,18 @@
     <ttl>600</ttl>
     <itunes:category text="News"/>
     <item>
+      <title>#1859 - Louis CK & Joe List</title>
+      <guid>https://open.spotify.com/episode/7Hd6mqOnom9XfzvFQxoxBK</guid>
+      <pubDate>Thu, 18 Aug 2022 00:00:00 +0000</pubDate>
+      <author>Joe Rogan</author>
+      <enclosure url="https://github.com/JohnMeier/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2022-08-18-7Hd6mqOnom9XfzvFQxoxBK.m4a" length="" type="audio/x-m4a"/>
+      <itunes:subtitle>The official podcast of comedian Joe Rogan. Follow The Joe Rogan Clips show page for some of the best moments from the episodes.</itunes:subtitle>
+      <itunes:summary>Louis C.K. is a stand-up comedian, writer, actor, and filmmaker. His new film, starring comedian Joe List, "Fourth of July," is available now at www.louisck.com. Joe List is a standup comedian, co-host of the "Tuesdays with Stories" podcast with Mark Normand, and host of his podcast "Joe List's Mindful Metal Jacket".</itunes:summary>
+      <itunes:author>Joe Rogan</itunes:author>
+      <itunes:explicit>1</itunes:explicit>
+      <itunes:duration>03:16:19</itunes:duration>
+    </item>
+    <item>
       <title>#1858 - Josh Dubin & Derrick Hamilton</title>
       <guid>https://open.spotify.com/episode/6UeUIxBVH2DnDSv9lH6qFF</guid>
       <pubDate>Wed, 17 Aug 2022 00:00:00 +0000</pubDate>
