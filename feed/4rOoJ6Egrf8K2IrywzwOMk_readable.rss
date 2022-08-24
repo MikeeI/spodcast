@@ -19,6 +19,18 @@
     <ttl>600</ttl>
     <itunes:category text="News"/>
     <item>
+      <title>#1862 - Mike Baker</title>
+      <guid>https://open.spotify.com/episode/0UKvqdwsLq3xfJLH6RQYpD</guid>
+      <pubDate>Wed, 24 Aug 2022 00:00:00 +0000</pubDate>
+      <author>Joe Rogan</author>
+      <enclosure url="https://github.com/JohnMeier/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2022-08-24-0UKvqdwsLq3xfJLH6RQYpD.m4a" length="" type="audio/x-m4a"/>
+      <itunes:subtitle>The official podcast of comedian Joe Rogan. Follow The Joe Rogan Clips show page for some of the best moments from the episodes.</itunes:subtitle>
+      <itunes:summary>Mike Baker is a former CIA covert operations officer and current CEO of Portman Square Group, a global intelligence firm. He's also the host of "Black Files Declassified" on Discovery+ and the Science Channel. www.portmansquaregroup.com</itunes:summary>
+      <itunes:author>Joe Rogan</itunes:author>
+      <itunes:explicit>1</itunes:explicit>
+      <itunes:duration>03:21:16</itunes:duration>
+    </item>
+    <item>
       <title>#1861 - Dave Mustaine</title>
       <guid>https://open.spotify.com/episode/5xBhKsr2UPbnyyyOfh3lo4</guid>
       <pubDate>Tue, 23 Aug 2022 00:00:00 +0000</pubDate>
