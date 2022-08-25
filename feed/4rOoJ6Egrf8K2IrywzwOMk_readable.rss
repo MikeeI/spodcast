@@ -19,6 +19,18 @@
     <ttl>600</ttl>
     <itunes:category text="News"/>
     <item>
+      <title>#1863 - Mark Zuckerberg</title>
+      <guid>https://open.spotify.com/episode/51gxrAActH18RGhKNza598</guid>
+      <pubDate>Thu, 25 Aug 2022 00:00:00 +0000</pubDate>
+      <author>Joe Rogan</author>
+      <enclosure url="https://github.com/JohnMeier/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2022-08-25-51gxrAActH18RGhKNza598.m4a" length="" type="audio/x-m4a"/>
+      <itunes:subtitle>The official podcast of comedian Joe Rogan. Follow The Joe Rogan Clips show page for some of the best moments from the episodes.</itunes:subtitle>
+      <itunes:summary>Mark Zuckerberg is the chief executive of Meta Platforms Inc., the company behind Facebook, Instagram, WhatsApp, and other digital platforms and services. about.facebook.com</itunes:summary>
+      <itunes:author>Joe Rogan</itunes:author>
+      <itunes:explicit>1</itunes:explicit>
+      <itunes:duration>02:53:53</itunes:duration>
+    </item>
+    <item>
       <title>#1862 - Mike Baker</title>
       <guid>https://open.spotify.com/episode/0UKvqdwsLq3xfJLH6RQYpD</guid>
       <pubDate>Wed, 24 Aug 2022 00:00:00 +0000</pubDate>
