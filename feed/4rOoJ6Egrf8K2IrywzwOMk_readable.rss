@@ -19,6 +19,18 @@
     <ttl>600</ttl>
     <itunes:category text="News"/>
     <item>
+      <title>#1864 - Alex Berenson</title>
+      <guid>https://open.spotify.com/episode/5xCeuH6zui8r27ImExB6K6</guid>
+      <pubDate>Fri, 26 Aug 2022 00:00:00 +0000</pubDate>
+      <author>Joe Rogan</author>
+      <enclosure url="https://github.com/JohnMeier/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2022-08-26-5xCeuH6zui8r27ImExB6K6.m4a" length="" type="audio/x-m4a"/>
+      <itunes:subtitle>The official podcast of comedian Joe Rogan. Follow The Joe Rogan Clips show page for some of the best moments from the episodes.</itunes:subtitle>
+      <itunes:summary>Alex Berenson is a journalist and award-winning author of both fiction and non-fiction. His most recent book is "Pandemia: How Coronavirus Hysteria Took Over Our Government, Rights, and Lives" is available now. www.alexberenson.com</itunes:summary>
+      <itunes:author>Joe Rogan</itunes:author>
+      <itunes:explicit>1</itunes:explicit>
+      <itunes:duration>03:01:18</itunes:duration>
+    </item>
+    <item>
       <title>#1863 - Mark Zuckerberg</title>
       <guid>https://open.spotify.com/episode/51gxrAActH18RGhKNza598</guid>
       <pubDate>Thu, 25 Aug 2022 00:00:00 +0000</pubDate>
