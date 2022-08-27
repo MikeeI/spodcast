@@ -19,6 +19,18 @@
     <ttl>600</ttl>
     <itunes:category text="News"/>
     <item>
+      <title>#1865 - Aaron Rodgers</title>
+      <guid>https://open.spotify.com/episode/30wj3cs3bfHsrI0aaYWVB1</guid>
+      <pubDate>Sat, 27 Aug 2022 00:00:00 +0000</pubDate>
+      <author>Joe Rogan</author>
+      <enclosure url="https://github.com/JohnMeier/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2022-08-27-30wj3cs3bfHsrI0aaYWVB1.m4a" length="" type="audio/x-m4a"/>
+      <itunes:subtitle>The official podcast of comedian Joe Rogan. Follow The Joe Rogan Clips show page for some of the best moments from the episodes.</itunes:subtitle>
+      <itunes:summary>Aaron Rodgers is a quarterback for the Green Bay Packers and 4-time winner of the NFL Most Valuable Player. www.nfl.com/players/aaron-rodgers/</itunes:summary>
+      <itunes:author>Joe Rogan</itunes:author>
+      <itunes:explicit>1</itunes:explicit>
+      <itunes:duration>03:00:57</itunes:duration>
+    </item>
+    <item>
       <title>#1864 - Alex Berenson</title>
       <guid>https://open.spotify.com/episode/5xCeuH6zui8r27ImExB6K6</guid>
       <pubDate>Fri, 26 Aug 2022 00:00:00 +0000</pubDate>
