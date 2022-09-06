@@ -19,6 +19,18 @@
     <ttl>600</ttl>
     <itunes:category text="News"/>
     <item>
+      <title>#1867 - Eddie Bravo</title>
+      <guid>https://open.spotify.com/episode/6OXns2sMvJ7wdJe8nOvixz</guid>
+      <pubDate>Tue, 06 Sep 2022 00:00:00 +0000</pubDate>
+      <author>Joe Rogan</author>
+      <enclosure url="https://github.com/JohnMeier/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2022-09-06-6OXns2sMvJ7wdJe8nOvixz.m4a" length="" type="audio/x-m4a"/>
+      <itunes:subtitle>The official podcast of comedian Joe Rogan. Follow The Joe Rogan Clips show page for some of the best moments from the episodes.</itunes:subtitle>
+      <itunes:summary>Eddie Bravo is a champion martial artist, founder of 10th Planet Jiu-Jitsu, musician, stand-up comic, and author of the soon to be released book, "Mastering the Metal: the Evolution of Eddie Bravo." www.10thplanetjj.com</itunes:summary>
+      <itunes:author>Joe Rogan</itunes:author>
+      <itunes:explicit>1</itunes:explicit>
+      <itunes:duration>03:45:06</itunes:duration>
+    </item>
+    <item>
       <title>Fight Companion - September 3, 2022</title>
       <guid>https://open.spotify.com/episode/35hvhqydf6MRdxGTQBbTvT</guid>
       <pubDate>Sun, 04 Sep 2022 00:00:00 +0000</pubDate>
