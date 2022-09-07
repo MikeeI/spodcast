@@ -19,6 +19,18 @@
     <ttl>600</ttl>
     <itunes:category text="News"/>
     <item>
+      <title>#1868 - Sam Morril</title>
+      <guid>https://open.spotify.com/episode/5oMbO3U75dlt9Ghy9ip2NW</guid>
+      <pubDate>Wed, 07 Sep 2022 00:00:00 +0000</pubDate>
+      <author>Joe Rogan</author>
+      <enclosure url="https://github.com/JohnMeier/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2022-09-07-5oMbO3U75dlt9Ghy9ip2NW.m4a" length="" type="audio/x-m4a"/>
+      <itunes:subtitle>The official podcast of comedian Joe Rogan. Follow The Joe Rogan Clips show page for some of the best moments from the episodes.</itunes:subtitle>
+      <itunes:summary>Sam Morril is a stand-up comic, writer, actor, and co-host of "Games with Names": a sports podcast with former NFL wide receiver Julian Edelman. Check out his new comedy special, "Same Time Tomorrow," now streaming on Netflix. www.sammorril.com</itunes:summary>
+      <itunes:author>Joe Rogan</itunes:author>
+      <itunes:explicit>1</itunes:explicit>
+      <itunes:duration>03:11:21</itunes:duration>
+    </item>
+    <item>
       <title>#1867 - Eddie Bravo</title>
       <guid>https://open.spotify.com/episode/6OXns2sMvJ7wdJe8nOvixz</guid>
       <pubDate>Tue, 06 Sep 2022 00:00:00 +0000</pubDate>
