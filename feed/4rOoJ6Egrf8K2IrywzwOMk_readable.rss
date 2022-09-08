@@ -19,6 +19,18 @@
     <ttl>600</ttl>
     <itunes:category text="News"/>
     <item>
+      <title>JRE MMA Show #129 with Gordon Ryan & Mo Jassim</title>
+      <guid>https://open.spotify.com/episode/1GoyTwrFertAtkaezyA8yq</guid>
+      <pubDate>Thu, 08 Sep 2022 00:00:00 +0000</pubDate>
+      <author>Joe Rogan</author>
+      <enclosure url="https://github.com/JohnMeier/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2022-09-08-1GoyTwrFertAtkaezyA8yq.m4a" length="" type="audio/x-m4a"/>
+      <itunes:subtitle>The official podcast of comedian Joe Rogan. Follow The Joe Rogan Clips show page for some of the best moments from the episodes.</itunes:subtitle>
+      <itunes:summary>Joe is joined by Gordon Ryan, Gordon Ryan is a champion submission grappler, entrepreneur, and author. Look for his new book, "Young and Successful," on September 16, 2022. Mo Jassim is the Head Organizer of the ADCC World Championships.</itunes:summary>
+      <itunes:author>Joe Rogan</itunes:author>
+      <itunes:explicit>1</itunes:explicit>
+      <itunes:duration>02:12:57</itunes:duration>
+    </item>
+    <item>
       <title>#1868 - Sam Morril</title>
       <guid>https://open.spotify.com/episode/5oMbO3U75dlt9Ghy9ip2NW</guid>
       <pubDate>Wed, 07 Sep 2022 00:00:00 +0000</pubDate>
