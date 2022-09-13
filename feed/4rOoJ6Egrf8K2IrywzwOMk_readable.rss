@@ -19,6 +19,18 @@
     <ttl>600</ttl>
     <itunes:category text="News"/>
     <item>
+      <title>#1869 - Dr. Gabor Maté</title>
+      <guid>https://open.spotify.com/episode/2XCJAb43d6b4cNLdKS9jSw</guid>
+      <pubDate>Tue, 13 Sep 2022 00:00:00 +0000</pubDate>
+      <author>Joe Rogan</author>
+      <enclosure url="https://github.com/JohnMeier/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2022-09-13-2XCJAb43d6b4cNLdKS9jSw.m4a" length="" type="audio/x-m4a"/>
+      <itunes:subtitle>The official podcast of comedian Joe Rogan. Follow The Joe Rogan Clips show page for some of the best moments from the episodes.</itunes:subtitle>
+      <itunes:summary>Dr. Gabor Maté is a physician, speaker, and author regularly sought for his expertise on a range of topics including addiction, stress, and childhood development. His latest book, "The Myth of Normal," will be available on September 13, 2022. https://drgabormate.com/</itunes:summary>
+      <itunes:author>Joe Rogan</itunes:author>
+      <itunes:explicit>1</itunes:explicit>
+      <itunes:duration>02:24:10</itunes:duration>
+    </item>
+    <item>
       <title>JRE MMA Show #129 with Gordon Ryan & Mo Jassim</title>
       <guid>https://open.spotify.com/episode/1GoyTwrFertAtkaezyA8yq</guid>
       <pubDate>Thu, 08 Sep 2022 00:00:00 +0000</pubDate>
