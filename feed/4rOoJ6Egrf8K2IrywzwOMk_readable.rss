@@ -19,6 +19,18 @@
     <ttl>600</ttl>
     <itunes:category text="News"/>
     <item>
+      <title>#1870 - Max Lugavere</title>
+      <guid>https://open.spotify.com/episode/7fkDRpWn7bVWDDsDaOEy5y</guid>
+      <pubDate>Wed, 14 Sep 2022 00:00:00 +0000</pubDate>
+      <author>Joe Rogan</author>
+      <enclosure url="https://github.com/JohnMeier/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2022-09-14-7fkDRpWn7bVWDDsDaOEy5y.m4a" length="" type="audio/x-m4a"/>
+      <itunes:subtitle>The official podcast of comedian Joe Rogan. Follow The Joe Rogan Clips show page for some of the best moments from the episodes.</itunes:subtitle>
+      <itunes:summary>Max Lugavere is a wellness journalist, filmmaker, author, and host of the "The Genius Life" podcast. His new book, "The Genius Kitchen," is available now.  https://www.maxlugavere.com/</itunes:summary>
+      <itunes:author>Joe Rogan</itunes:author>
+      <itunes:explicit>1</itunes:explicit>
+      <itunes:duration>02:45:22</itunes:duration>
+    </item>
+    <item>
       <title>#1869 - Dr. Gabor Maté</title>
       <guid>https://open.spotify.com/episode/2XCJAb43d6b4cNLdKS9jSw</guid>
       <pubDate>Tue, 13 Sep 2022 00:00:00 +0000</pubDate>
