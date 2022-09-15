@@ -19,6 +19,18 @@
     <ttl>600</ttl>
     <itunes:category text="News"/>
     <item>
+      <title>#1871 - Jon Peters</title>
+      <guid>https://open.spotify.com/episode/4m03MPlUulKnSScfQbfgZt</guid>
+      <pubDate>Thu, 15 Sep 2022 00:00:00 +0000</pubDate>
+      <author>Joe Rogan</author>
+      <enclosure url="https://github.com/JohnMeier/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2022-09-15-4m03MPlUulKnSScfQbfgZt.m4a" length="" type="audio/x-m4a"/>
+      <itunes:subtitle>The official podcast of comedian Joe Rogan. Follow The Joe Rogan Clips show page for some of the best moments from the episodes.</itunes:subtitle>
+      <itunes:summary>Jon Peters is a veteran Hollywood film producer and executive. His credits include such films as "Batman," "Tango and Cash," "Superman Returns," and "A Star is Born."</itunes:summary>
+      <itunes:author>Joe Rogan</itunes:author>
+      <itunes:explicit>1</itunes:explicit>
+      <itunes:duration>01:13:13</itunes:duration>
+    </item>
+    <item>
       <title>#1870 - Max Lugavere</title>
       <guid>https://open.spotify.com/episode/7fkDRpWn7bVWDDsDaOEy5y</guid>
       <pubDate>Wed, 14 Sep 2022 00:00:00 +0000</pubDate>
