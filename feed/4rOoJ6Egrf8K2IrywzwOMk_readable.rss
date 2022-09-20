@@ -19,6 +19,18 @@
     <ttl>600</ttl>
     <itunes:category text="News"/>
     <item>
+      <title>#1872 - Tony Hinchcliffe & Hans Kim</title>
+      <guid>https://open.spotify.com/episode/2iVChLxDKPFN9X8q4NtCsd</guid>
+      <pubDate>Tue, 20 Sep 2022 00:00:00 +0000</pubDate>
+      <author>Joe Rogan</author>
+      <enclosure url="https://github.com/JohnMeier/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2022-09-20-2iVChLxDKPFN9X8q4NtCsd.m4a" length="" type="audio/x-m4a"/>
+      <itunes:subtitle>The official podcast of comedian Joe Rogan. Follow The Joe Rogan Clips show page for some of the best moments from the episodes.</itunes:subtitle>
+      <itunes:summary>Tony Hinchcliffe is a stand-up comedian, writer, actor, and host of the podcast and live YouTube show "Kill Tony." Hans Kim is a stand-up comedian, "Kill Tony" regular, and host of the "Hans Kim" podcast, and "Other People," a live dating show. www.tonyhinchcliffe.com www.hanskimcomedian.com</itunes:summary>
+      <itunes:author>Joe Rogan</itunes:author>
+      <itunes:explicit>1</itunes:explicit>
+      <itunes:duration>03:17:33</itunes:duration>
+    </item>
+    <item>
       <title>#1871 - Jon Peters</title>
       <guid>https://open.spotify.com/episode/4m03MPlUulKnSScfQbfgZt</guid>
       <pubDate>Thu, 15 Sep 2022 00:00:00 +0000</pubDate>
