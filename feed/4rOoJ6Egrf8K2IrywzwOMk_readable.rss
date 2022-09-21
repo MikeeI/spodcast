@@ -19,6 +19,18 @@
     <ttl>600</ttl>
     <itunes:category text="News"/>
     <item>
+      <title>JRE MMA Show #130 with Will Harris</title>
+      <guid>https://open.spotify.com/episode/4ZpI1Zd3L7AEYEG7L73f0x</guid>
+      <pubDate>Wed, 21 Sep 2022 00:00:00 +0000</pubDate>
+      <author>Joe Rogan</author>
+      <enclosure url="https://github.com/JohnMeier/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2022-09-21-4ZpI1Zd3L7AEYEG7L73f0x.m4a" length="" type="audio/x-m4a"/>
+      <itunes:subtitle>The official podcast of comedian Joe Rogan. Follow The Joe Rogan Clips show page for some of the best moments from the episodes.</itunes:subtitle>
+      <itunes:summary>Joe is joined by documentarian Will Harris, creator of the popular YouTube combat sports documentary series "Anatomy Of A Fighter." www.willharrisproductions.com</itunes:summary>
+      <itunes:author>Joe Rogan</itunes:author>
+      <itunes:explicit>1</itunes:explicit>
+      <itunes:duration>03:00:58</itunes:duration>
+    </item>
+    <item>
       <title>#1872 - Tony Hinchcliffe & Hans Kim</title>
       <guid>https://open.spotify.com/episode/2iVChLxDKPFN9X8q4NtCsd</guid>
       <pubDate>Tue, 20 Sep 2022 00:00:00 +0000</pubDate>
