@@ -19,6 +19,18 @@
     <ttl>600</ttl>
     <itunes:category text="News"/>
     <item>
+      <title>#1873 - Brigham Buhler</title>
+      <guid>https://open.spotify.com/episode/30NOm1ioG5mpmoQCNEjNgF</guid>
+      <pubDate>Fri, 23 Sep 2022 00:00:00 +0000</pubDate>
+      <author>Joe Rogan</author>
+      <enclosure url="https://github.com/JohnMeier/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2022-09-23-30NOm1ioG5mpmoQCNEjNgF.m4a" length="" type="audio/x-m4a"/>
+      <itunes:subtitle>The official podcast of comedian Joe Rogan. Follow The Joe Rogan Clips show page for some of the best moments from the episodes.</itunes:subtitle>
+      <itunes:summary>Brigham Buhler is the founder of Ways2Well, a functional and regenerative care clinic, and its sister company, ReviveRx: a pharmacy focusing on health, wellness, and restorative medicine. www.ways2well.com</itunes:summary>
+      <itunes:author>Joe Rogan</itunes:author>
+      <itunes:explicit>1</itunes:explicit>
+      <itunes:duration>02:34:17</itunes:duration>
+    </item>
+    <item>
       <title>JRE MMA Show #130 with Will Harris</title>
       <guid>https://open.spotify.com/episode/4ZpI1Zd3L7AEYEG7L73f0x</guid>
       <pubDate>Wed, 21 Sep 2022 00:00:00 +0000</pubDate>
