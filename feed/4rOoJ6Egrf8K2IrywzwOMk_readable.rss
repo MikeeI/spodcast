@@ -19,6 +19,18 @@
     <ttl>600</ttl>
     <itunes:category text="News"/>
     <item>
+      <title>#1874 - Dave Attell</title>
+      <guid>https://open.spotify.com/episode/3Qfa7ji3m3CBEa47Lb3ZFR</guid>
+      <pubDate>Tue, 27 Sep 2022 00:00:00 +0000</pubDate>
+      <author>Joe Rogan</author>
+      <enclosure url="https://github.com/JohnMeier/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2022-09-27-3Qfa7ji3m3CBEa47Lb3ZFR.m4a" length="" type="audio/x-m4a"/>
+      <itunes:subtitle>The official podcast of comedian Joe Rogan. Follow The Joe Rogan Clips show page for some of the best moments from the episodes.</itunes:subtitle>
+      <itunes:summary>Dave Attell is a stand-up comic, actor, and writer. He can currently be seen in the series "Life &amp; Beth" on Hulu, "Bumping Mics with Jeff Ross &amp; Dave Attell" on Netflix, and "Crashing" on HBO. When not on the road, Attell makes regular appearances at the Comedy Cellar in New York City. www.daveattell.com</itunes:summary>
+      <itunes:author>Joe Rogan</itunes:author>
+      <itunes:explicit>1</itunes:explicit>
+      <itunes:duration>02:36:44</itunes:duration>
+    </item>
+    <item>
       <title>#1873 - Brigham Buhler</title>
       <guid>https://open.spotify.com/episode/30NOm1ioG5mpmoQCNEjNgF</guid>
       <pubDate>Fri, 23 Sep 2022 00:00:00 +0000</pubDate>
