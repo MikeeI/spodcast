@@ -19,6 +19,18 @@
     <ttl>600</ttl>
     <itunes:category text="News"/>
     <item>
+      <title>#1875 - Dave Smith</title>
+      <guid>https://open.spotify.com/episode/6XMzIxQAmsHeYpL5WlxlJM</guid>
+      <pubDate>Wed, 28 Sep 2022 00:00:00 +0000</pubDate>
+      <author>Joe Rogan</author>
+      <enclosure url="https://github.com/JohnMeier/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2022-09-28-6XMzIxQAmsHeYpL5WlxlJM.m4a" length="" type="audio/x-m4a"/>
+      <itunes:subtitle>The official podcast of comedian Joe Rogan. Follow The Joe Rogan Clips show page for some of the best moments from the episodes.</itunes:subtitle>
+      <itunes:summary>Dave Smith is a stand-up comedian, Libertarian political commentator, and podcaster. He's the host of the "Part of the Problem" podcast, as well as a co-host of the podcasts "Legion of Skanks" and "Yo! MMA Wrap." www.comicdavesmith.com</itunes:summary>
+      <itunes:author>Joe Rogan</itunes:author>
+      <itunes:explicit>1</itunes:explicit>
+      <itunes:duration>03:15:29</itunes:duration>
+    </item>
+    <item>
       <title>#1874 - Dave Attell</title>
       <guid>https://open.spotify.com/episode/3Qfa7ji3m3CBEa47Lb3ZFR</guid>
       <pubDate>Tue, 27 Sep 2022 00:00:00 +0000</pubDate>
