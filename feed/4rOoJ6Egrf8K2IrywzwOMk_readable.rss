@@ -19,6 +19,18 @@
     <ttl>600</ttl>
     <itunes:category text="News"/>
     <item>
+      <title>#1876 - Greg Fitzsimmons</title>
+      <guid>https://open.spotify.com/episode/2ZXpg24rYdFdCqO0a1jJyQ</guid>
+      <pubDate>Fri, 30 Sep 2022 00:00:00 +0000</pubDate>
+      <author>Joe Rogan</author>
+      <enclosure url="https://github.com/JohnMeier/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2022-09-30-2ZXpg24rYdFdCqO0a1jJyQ.m4a" length="" type="audio/x-m4a"/>
+      <itunes:subtitle>The official podcast of comedian Joe Rogan. Follow The Joe Rogan Clips show page for some of the best moments from the episodes.</itunes:subtitle>
+      <itunes:summary>Greg Fitzsimmons is a stand-up comedian, actor, and writer. He's the host of "Fitzdog Radio" podcast and co-host of the podcasts "Sunday Papers" and "Childish." www.gregfitzsimmons.com</itunes:summary>
+      <itunes:author>Joe Rogan</itunes:author>
+      <itunes:explicit>1</itunes:explicit>
+      <itunes:duration>03:06:00</itunes:duration>
+    </item>
+    <item>
       <title>#1875 - Dave Smith</title>
       <guid>https://open.spotify.com/episode/6XMzIxQAmsHeYpL5WlxlJM</guid>
       <pubDate>Wed, 28 Sep 2022 00:00:00 +0000</pubDate>
