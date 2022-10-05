@@ -19,6 +19,18 @@
     <ttl>600</ttl>
     <itunes:category text="News"/>
     <item>
+      <title>#1877 - Jann Wenner</title>
+      <guid>https://open.spotify.com/episode/4yb794L4eMgchIFx1dJtaW</guid>
+      <pubDate>Wed, 05 Oct 2022 00:00:00 +0000</pubDate>
+      <author>Joe Rogan</author>
+      <enclosure url="https://github.com/JohnMeier/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2022-10-05-4yb794L4eMgchIFx1dJtaW.m4a" length="" type="audio/x-m4a"/>
+      <itunes:subtitle>The official podcast of comedian Joe Rogan. Follow The Joe Rogan Clips show page for some of the best moments from the episodes.</itunes:subtitle>
+      <itunes:summary>Jann S. Wenner is the founder, co-editor, and publisher of "Rolling Stone" magazine and author of several books. His most recent is "Like a Rolling Stone: A Memoir." https://www.littlebrown.com/titles/jann-wenner/like-a-rolling-stone/9780316415392/</itunes:summary>
+      <itunes:author>Joe Rogan</itunes:author>
+      <itunes:explicit>1</itunes:explicit>
+      <itunes:duration>02:51:46</itunes:duration>
+    </item>
+    <item>
       <title>#1876 - Greg Fitzsimmons</title>
       <guid>https://open.spotify.com/episode/2ZXpg24rYdFdCqO0a1jJyQ</guid>
       <pubDate>Fri, 30 Sep 2022 00:00:00 +0000</pubDate>
