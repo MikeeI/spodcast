@@ -19,6 +19,18 @@
     <ttl>600</ttl>
     <itunes:category text="News"/>
     <item>
+      <title>#1880 - Tulsi Gabbard</title>
+      <guid>https://open.spotify.com/episode/1DfigKjvKJuOpmod60rFUB</guid>
+      <pubDate>Tue, 11 Oct 2022 00:00:00 +0000</pubDate>
+      <author>Joe Rogan</author>
+      <enclosure url="https://github.com/JohnMeier/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2022-10-11-1DfigKjvKJuOpmod60rFUB.m4a" length="" type="audio/x-m4a"/>
+      <itunes:subtitle>The official podcast of comedian Joe Rogan. Follow The Joe Rogan Clips show page for some of the best moments from the episodes.</itunes:subtitle>
+      <itunes:summary>Tulsi Gabbard is a Former United States Representative, Iraq War veteran, political commentator, and host of the podcast "This is Tulsi Gabbard." www.tulsigabbard.com</itunes:summary>
+      <itunes:author>Joe Rogan</itunes:author>
+      <itunes:explicit>1</itunes:explicit>
+      <itunes:duration>02:16:41</itunes:duration>
+    </item>
+    <item>
       <title>#1879 - Sober October 4</title>
       <guid>https://open.spotify.com/episode/6P6ISBkgCTrsd50825Beyt</guid>
       <pubDate>Fri, 07 Oct 2022 00:00:00 +0000</pubDate>
