@@ -19,6 +19,18 @@
     <ttl>600</ttl>
     <itunes:category text="News"/>
     <item>
+      <title>#1881 - Rick Rubin</title>
+      <guid>https://open.spotify.com/episode/5oDyN0CFjEwClqjZxJQf9O</guid>
+      <pubDate>Wed, 12 Oct 2022 00:00:00 +0000</pubDate>
+      <author>Joe Rogan</author>
+      <enclosure url="https://github.com/JohnMeier/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2022-10-12-5oDyN0CFjEwClqjZxJQf9O.m4a" length="" type="audio/x-m4a"/>
+      <itunes:subtitle>The official podcast of comedian Joe Rogan. Follow The Joe Rogan Clips show page for some of the best moments from the episodes.</itunes:subtitle>
+      <itunes:summary>Rick Rubin is a record producer who has worked with multiple award winning artists including the Geto Boys, Red Hot Chili Peppers, Public Enemy, The Cult, Danzig, Kanye West, The Beastie Boys, Black Sabbath, and Johnny Cash. He is the co-founder of Def Jam Recordings with Russell Simmons, and head of American Recordings www.tetragrammaton.com</itunes:summary>
+      <itunes:author>Joe Rogan</itunes:author>
+      <itunes:explicit>1</itunes:explicit>
+      <itunes:duration>03:02:19</itunes:duration>
+    </item>
+    <item>
       <title>#1880 - Tulsi Gabbard</title>
       <guid>https://open.spotify.com/episode/1DfigKjvKJuOpmod60rFUB</guid>
       <pubDate>Tue, 11 Oct 2022 00:00:00 +0000</pubDate>
