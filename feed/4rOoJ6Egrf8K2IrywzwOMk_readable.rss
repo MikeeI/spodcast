@@ -19,6 +19,18 @@
     <ttl>600</ttl>
     <itunes:category text="News"/>
     <item>
+      <title>#1882 - Iliza Shlesinger</title>
+      <guid>https://open.spotify.com/episode/2pW5cV6xoF3ZagMUACe2zi</guid>
+      <pubDate>Thu, 13 Oct 2022 00:00:00 +0000</pubDate>
+      <author>Joe Rogan</author>
+      <enclosure url="https://github.com/JohnMeier/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2022-10-13-2pW5cV6xoF3ZagMUACe2zi.m4a" length="" type="audio/x-m4a"/>
+      <itunes:subtitle>The official podcast of comedian Joe Rogan. Follow The Joe Rogan Clips show page for some of the best moments from the episodes.</itunes:subtitle>
+      <itunes:summary>Iliza Shlesinger is a comedian, actor, writer, and host of the podcast "Ask Iliza Anything." Her new book, "All Things Aside: Absolutely Correct Opinions," and her new Netflix special, "Hot Forever," both premiere on October 11. www.iliza.com</itunes:summary>
+      <itunes:author>Joe Rogan</itunes:author>
+      <itunes:explicit>1</itunes:explicit>
+      <itunes:duration>02:04:17</itunes:duration>
+    </item>
+    <item>
       <title>#1881 - Rick Rubin</title>
       <guid>https://open.spotify.com/episode/5oDyN0CFjEwClqjZxJQf9O</guid>
       <pubDate>Wed, 12 Oct 2022 00:00:00 +0000</pubDate>
