@@ -19,6 +19,18 @@
     <ttl>600</ttl>
     <itunes:category text="News"/>
     <item>
+      <title>#1884 - Anthony Kiedis</title>
+      <guid>https://open.spotify.com/episode/6AYGTYGv7pYKzLOa5ItDEn</guid>
+      <pubDate>Wed, 19 Oct 2022 00:00:00 +0000</pubDate>
+      <author>Joe Rogan</author>
+      <enclosure url="https://github.com/JohnMeier/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2022-10-19-6AYGTYGv7pYKzLOa5ItDEn.m4a" length="" type="audio/x-m4a"/>
+      <itunes:subtitle>The official podcast of comedian Joe Rogan. Follow The Joe Rogan Clips show page for some of the best moments from the episodes.</itunes:subtitle>
+      <itunes:summary>Anthony Kiedis is a founding member and lead vocalist of the Red Hot Chili Peppers. Look for their new albums "Unlimited Love" and "Return of the Dream Canteen" wherever you buy or stream music. www.redhotchilipeppers.com</itunes:summary>
+      <itunes:author>Joe Rogan</itunes:author>
+      <itunes:explicit>1</itunes:explicit>
+      <itunes:duration>02:53:13</itunes:duration>
+    </item>
+    <item>
       <title>#1883 - Ryan Graves</title>
       <guid>https://open.spotify.com/episode/68t6BZRHenCslyLLaviW1H</guid>
       <pubDate>Tue, 18 Oct 2022 00:00:00 +0000</pubDate>
