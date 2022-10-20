@@ -19,6 +19,18 @@
     <ttl>600</ttl>
     <itunes:category text="News"/>
     <item>
+      <title>#1885 - Mike Sarraille & Andy Stumpf</title>
+      <guid>https://open.spotify.com/episode/5TZaO4N1t37pjwj1L7UcWx</guid>
+      <pubDate>Thu, 20 Oct 2022 00:00:00 +0000</pubDate>
+      <author>Joe Rogan</author>
+      <enclosure url="https://github.com/JohnMeier/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2022-10-20-5TZaO4N1t37pjwj1L7UcWx.m4a" length="" type="audio/x-m4a"/>
+      <itunes:subtitle>The official podcast of comedian Joe Rogan. Follow The Joe Rogan Clips show page for some of the best moments from the episodes.</itunes:subtitle>
+      <itunes:summary>Mike Sarraille is the CEO of EF Overwatch, an executive search and talent advisory firm, and leadership consultant with Echelon Front. He is a former Recon Marine and retired US Navy SEAL officer with twenty years of experience in Special Operations, including the elite Joint Special Operations Command.  https://mikesarraille.com/ Andy Stumpf is a retired Navy SEAL, record-setting wingsuit pilot, BASE jumper, public speaker, and host of the popular podcast "Cleared Hot." www.andystumpf.com triple7.givesmart.com</itunes:summary>
+      <itunes:author>Joe Rogan</itunes:author>
+      <itunes:explicit>1</itunes:explicit>
+      <itunes:duration>02:27:03</itunes:duration>
+    </item>
+    <item>
       <title>#1884 - Anthony Kiedis</title>
       <guid>https://open.spotify.com/episode/6AYGTYGv7pYKzLOa5ItDEn</guid>
       <pubDate>Wed, 19 Oct 2022 00:00:00 +0000</pubDate>
