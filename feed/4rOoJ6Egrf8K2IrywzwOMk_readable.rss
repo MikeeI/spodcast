@@ -19,6 +19,18 @@
     <ttl>600</ttl>
     <itunes:category text="News"/>
     <item>
+      <title>#1886 - Robert Kelly</title>
+      <guid>https://open.spotify.com/episode/2DQToy0eqU1FhXwC35ssPl</guid>
+      <pubDate>Fri, 21 Oct 2022 00:00:00 +0000</pubDate>
+      <author>Joe Rogan</author>
+      <enclosure url="https://github.com/JohnMeier/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2022-10-21-2DQToy0eqU1FhXwC35ssPl.m4a" length="" type="audio/x-m4a"/>
+      <itunes:subtitle>The official podcast of comedian Joe Rogan. Follow The Joe Rogan Clips show page for some of the best moments from the episodes.</itunes:subtitle>
+      <itunes:summary>Robert Kelly is a stand-up comic, actor, and host of the podcast "You Know What Dude!" His latest comedy special, "Robert Kelly: Kill Box," is available exclusively at louisck.com. www.robertkellylive.com www.louisck.com/products/robert-kelly-kill-box</itunes:summary>
+      <itunes:author>Joe Rogan</itunes:author>
+      <itunes:explicit>1</itunes:explicit>
+      <itunes:duration>03:05:54</itunes:duration>
+    </item>
+    <item>
       <title>#1885 - Mike Sarraille & Andy Stumpf</title>
       <guid>https://open.spotify.com/episode/5TZaO4N1t37pjwj1L7UcWx</guid>
       <pubDate>Thu, 20 Oct 2022 00:00:00 +0000</pubDate>
