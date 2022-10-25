@@ -19,6 +19,18 @@
     <ttl>600</ttl>
     <itunes:category text="News"/>
     <item>
+      <title>#1887 - Maynard James Keenan</title>
+      <guid>https://open.spotify.com/episode/62ZE9Pb59rQuyIHXpUrldr</guid>
+      <pubDate>Tue, 25 Oct 2022 00:00:00 +0000</pubDate>
+      <author>Joe Rogan</author>
+      <enclosure url="https://github.com/JohnMeier/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2022-10-25-62ZE9Pb59rQuyIHXpUrldr.m4a" length="" type="audio/x-m4a"/>
+      <itunes:subtitle>The official podcast of comedian Joe Rogan. Follow The Joe Rogan Clips show page for some of the best moments from the episodes.</itunes:subtitle>
+      <itunes:summary>Maynard James Keenan is a musician, winemaker, and martial artist best known as the vocalist for the rock bands Tool, Puscifer, and A Perfect Circle. Look for the new Puscifer concert films "Parole Violator" and "V is for Versatile" on October 28.  http://www.puscifer.com/</itunes:summary>
+      <itunes:author>Joe Rogan</itunes:author>
+      <itunes:explicit>1</itunes:explicit>
+      <itunes:duration>02:53:43</itunes:duration>
+    </item>
+    <item>
       <title>#1886 - Robert Kelly</title>
       <guid>https://open.spotify.com/episode/2DQToy0eqU1FhXwC35ssPl</guid>
       <pubDate>Fri, 21 Oct 2022 00:00:00 +0000</pubDate>
