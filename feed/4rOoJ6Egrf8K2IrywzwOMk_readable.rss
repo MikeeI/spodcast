@@ -19,6 +19,18 @@
     <ttl>600</ttl>
     <itunes:category text="News"/>
     <item>
+      <title>#1890 - Bridget Phetasy</title>
+      <guid>https://open.spotify.com/episode/1vxZXy6CJxA6nsudHPS7lW</guid>
+      <pubDate>Sat, 29 Oct 2022 00:00:00 +0000</pubDate>
+      <author>Joe Rogan</author>
+      <enclosure url="https://github.com/JohnMeier/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2022-10-29-1vxZXy6CJxA6nsudHPS7lW.m4a" length="" type="audio/x-m4a"/>
+      <itunes:subtitle>The official podcast of comedian Joe Rogan. Follow The Joe Rogan Clips show page for some of the best moments from the episodes.</itunes:subtitle>
+      <itunes:summary>Bridget Phetasy is a writer and stand-up comedian. She is the host of the podcast "Walk-Ins Welcome" and youtube program "Dumpster Fire," and co-host, along with her husband Jeren Montgomery, of the podcast "Factory Settings." https://phetasy.com/</itunes:summary>
+      <itunes:author>Joe Rogan</itunes:author>
+      <itunes:explicit>1</itunes:explicit>
+      <itunes:duration>03:28:08</itunes:duration>
+    </item>
+    <item>
       <title>#1889 - Dr. Phil</title>
       <guid>https://open.spotify.com/episode/6bAfaDJakoQ3bIxLjASyxH</guid>
       <pubDate>Fri, 28 Oct 2022 00:00:00 +0000</pubDate>
