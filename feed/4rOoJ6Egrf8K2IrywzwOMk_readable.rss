@@ -19,6 +19,18 @@
     <ttl>600</ttl>
     <itunes:category text="News"/>
     <item>
+      <title>#1895 - Matt Walsh</title>
+      <guid>https://open.spotify.com/episode/5c6SOd05MxXpPtFKqw4y1T</guid>
+      <pubDate>Mon, 07 Nov 2022 00:00:00 +0000</pubDate>
+      <author>Joe Rogan</author>
+      <enclosure url="https://github.com/JohnMeier/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2022-11-07-5c6SOd05MxXpPtFKqw4y1T.m4a" length="" type="audio/x-m4a"/>
+      <itunes:subtitle>The official podcast of comedian Joe Rogan. Follow The Joe Rogan Clips show page for some of the best moments from the episodes.</itunes:subtitle>
+      <itunes:summary>Matt Walsh is a political commentator, author, filmmaker, and host of "The Matt Walsh Podcast." Stream his new documentary "What is a Woman?" at www.dailywire.com. www.dailywire.com/author/matt-walsh</itunes:summary>
+      <itunes:author>Joe Rogan</itunes:author>
+      <itunes:explicit>1</itunes:explicit>
+      <itunes:duration>03:08:57</itunes:duration>
+    </item>
+    <item>
       <title>#1894 - Suzanne Santo</title>
       <guid>https://open.spotify.com/episode/6fyUVwkrIIFiUPY4jsF3VD</guid>
       <pubDate>Fri, 04 Nov 2022 00:00:00 +0000</pubDate>
