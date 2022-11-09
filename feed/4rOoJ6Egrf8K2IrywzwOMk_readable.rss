@@ -19,6 +19,18 @@
     <ttl>600</ttl>
     <itunes:category text="News"/>
     <item>
+      <title>#1896 - Bjørn Lomborg</title>
+      <guid>https://open.spotify.com/episode/5hnVaATIVVo8YHBhYu0MVg</guid>
+      <pubDate>Wed, 09 Nov 2022 00:00:00 +0000</pubDate>
+      <author>Joe Rogan</author>
+      <enclosure url="https://github.com/JohnMeier/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2022-11-09-5hnVaATIVVo8YHBhYu0MVg.m4a" length="" type="audio/x-m4a"/>
+      <itunes:subtitle>The official podcast of comedian Joe Rogan. Follow The Joe Rogan Clips show page for some of the best moments from the episodes.</itunes:subtitle>
+      <itunes:summary>Bjorn Lomborg is a statistician and director of the Copenhagen Consensus Center. He is also the author of several books, among them "False Alarm: How Climate Change Panic Costs Us Trillions, Hurts the Poor, and Fails to Fix the Planet," "The Skeptical Environmentalist," and "Cool It." www.lomborg.com</itunes:summary>
+      <itunes:author>Joe Rogan</itunes:author>
+      <itunes:explicit>1</itunes:explicit>
+      <itunes:duration>02:31:52</itunes:duration>
+    </item>
+    <item>
       <title>#1895 - Matt Walsh</title>
       <guid>https://open.spotify.com/episode/5c6SOd05MxXpPtFKqw4y1T</guid>
       <pubDate>Mon, 07 Nov 2022 00:00:00 +0000</pubDate>
