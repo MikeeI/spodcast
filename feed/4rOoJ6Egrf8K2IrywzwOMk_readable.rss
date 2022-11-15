@@ -19,6 +19,18 @@
     <ttl>600</ttl>
     <itunes:category text="News"/>
     <item>
+      <title>#1898 - Neal Brennan</title>
+      <guid>https://open.spotify.com/episode/1C56F1o62bdOVx7ZK1YA8W</guid>
+      <pubDate>Tue, 15 Nov 2022 00:00:00 +0000</pubDate>
+      <author>Joe Rogan</author>
+      <enclosure url="https://github.com/JohnMeier/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2022-11-15-1C56F1o62bdOVx7ZK1YA8W.m4a" length="" type="audio/x-m4a"/>
+      <itunes:subtitle>The official podcast of comedian Joe Rogan. Follow The Joe Rogan Clips show page for some of the best moments from the episodes.</itunes:subtitle>
+      <itunes:summary>Neal Brennan is a stand-up comedian, actor, writer, director and producer. His latest special, "Neal Brennan: Blocks," is now streaming on Netflix. www.nealbrennan.com</itunes:summary>
+      <itunes:author>Joe Rogan</itunes:author>
+      <itunes:explicit>1</itunes:explicit>
+      <itunes:duration>03:17:48</itunes:duration>
+    </item>
+    <item>
       <title>JRE MMA Show #132 with Joaquin Buckley</title>
       <guid>https://open.spotify.com/episode/2egbRFvKZCKjUzeGGeghE3</guid>
       <pubDate>Fri, 11 Nov 2022 00:00:00 +0000</pubDate>
