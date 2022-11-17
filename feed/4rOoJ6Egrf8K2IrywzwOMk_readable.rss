@@ -19,13 +19,25 @@
     <ttl>600</ttl>
     <itunes:category text="News"/>
     <item>
+      <title>#1900 - Steve-O</title>
+      <guid>https://open.spotify.com/episode/1UEwPJtW37sZ3Y8ncykCDP</guid>
+      <pubDate>Thu, 17 Nov 2022 00:00:00 +0000</pubDate>
+      <author>Joe Rogan</author>
+      <enclosure url="https://github.com/JohnMeier/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2022-11-17-1UEwPJtW37sZ3Y8ncykCDP.m4a" length="" type="audio/x-m4a"/>
+      <itunes:subtitle>The official podcast of comedian Joe Rogan. Follow The Joe Rogan Clips show page for some of the best moments from the episodes.</itunes:subtitle>
+      <itunes:summary>Steve-O is a stunt performer, comedian, actor, podcaster, and author. His podcast, "Wild Ride with Steve-O," and latest book, "A Hard Kick in the Nuts: What I’ve Learned from a Lifetime of Terrible Decisions," are both available now. www.steveo.com</itunes:summary>
+      <itunes:author>Joe Rogan</itunes:author>
+      <itunes:explicit>1</itunes:explicit>
+      <itunes:duration>02:51:37</itunes:duration>
+    </item>
+    <item>
       <title>#1899 - Yannis Pappas</title>
       <guid>https://open.spotify.com/episode/6l4EfnPEH3vIg6PpxMYeAU</guid>
       <pubDate>Wed, 16 Nov 2022 00:00:00 +0000</pubDate>
       <author>Joe Rogan</author>
       <enclosure url="https://github.com/JohnMeier/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2022-11-16-6l4EfnPEH3vIg6PpxMYeAU.m4a" length="" type="audio/x-m4a"/>
       <itunes:subtitle>The official podcast of comedian Joe Rogan. Follow The Joe Rogan Clips show page for some of the best moments from the episodes.</itunes:subtitle>
-      <itunes:summary>Yannis Pappas is a stand-up comedian, actor, and writer. He's also the host of the "LongDays with Yannis Pappas" podcast. Watch his special, "Blowing The Light," now available on YouTube. www.yannispappascomedy.com</itunes:summary>
+      <itunes:summary>Yannis Pappas is a stand-up comedian, actor, and writer. He's also the host of the "LongDays with Yannis Pappas" podcast. Watch his special, "Mom Love," now available on YouTube. www.yannispappascomedy.com</itunes:summary>
       <itunes:author>Joe Rogan</itunes:author>
       <itunes:explicit>1</itunes:explicit>
       <itunes:duration>03:23:14</itunes:duration>
