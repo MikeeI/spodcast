@@ -19,6 +19,18 @@
     <ttl>600</ttl>
     <itunes:category text="News"/>
     <item>
+      <title>#1901 - Steven Pressfield</title>
+      <guid>https://open.spotify.com/episode/0sI2Z9HoNdB9RkXw3765qi</guid>
+      <pubDate>Tue, 22 Nov 2022 00:00:00 +0000</pubDate>
+      <author>Joe Rogan</author>
+      <enclosure url="https://github.com/JohnMeier/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2022-11-22-0sI2Z9HoNdB9RkXw3765qi.m4a" length="" type="audio/x-m4a"/>
+      <itunes:subtitle>The official podcast of comedian Joe Rogan. Follow The Joe Rogan Clips show page for some of the best moments from the episodes.</itunes:subtitle>
+      <itunes:summary>Steven Pressfield is the author of numerous works of fiction, non-fiction, and multiple screen plays, including "The War of Art: Break Through the Blocks and Win Your Inner Creative Battles," and "The Legend of Bagger Vance." His latest is "Govt Cheese a memoir" releases on December 6.  www.stevenpressfield.com</itunes:summary>
+      <itunes:author>Joe Rogan</itunes:author>
+      <itunes:explicit>1</itunes:explicit>
+      <itunes:duration>02:48:06</itunes:duration>
+    </item>
+    <item>
       <title>#1900 - Steve-O</title>
       <guid>https://open.spotify.com/episode/1UEwPJtW37sZ3Y8ncykCDP</guid>
       <pubDate>Thu, 17 Nov 2022 00:00:00 +0000</pubDate>
