@@ -19,6 +19,18 @@
     <ttl>600</ttl>
     <itunes:category text="News"/>
     <item>
+      <title>JRE MMA Show #133 with Sean O'Malley</title>
+      <guid>https://open.spotify.com/episode/52DFy29uKI8tC0Wc9eQ64N</guid>
+      <pubDate>Thu, 24 Nov 2022 00:00:00 +0000</pubDate>
+      <author>Joe Rogan</author>
+      <enclosure url="https://github.com/JohnMeier/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2022-11-24-52DFy29uKI8tC0Wc9eQ64N.m4a" length="" type="audio/x-m4a"/>
+      <itunes:subtitle>The official podcast of comedian Joe Rogan. Follow The Joe Rogan Clips show page for some of the best moments from the episodes.</itunes:subtitle>
+      <itunes:summary>Joe sits down with Sean O'Malley, a mixed martial artist currently competing in the Bantamweight division of the UFC. https://www.sugashop.co/</itunes:summary>
+      <itunes:author>Joe Rogan</itunes:author>
+      <itunes:explicit>1</itunes:explicit>
+      <itunes:duration>03:41:08</itunes:duration>
+    </item>
+    <item>
       <title>#1902 - Danny Brown</title>
       <guid>https://open.spotify.com/episode/2auNrZZKoraDKSE74SpLR6</guid>
       <pubDate>Wed, 23 Nov 2022 00:00:00 +0000</pubDate>
