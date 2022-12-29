@@ -5,7 +5,7 @@
 
     $spotify_show_id = "4rOoJ6Egrf8K2IrywzwOMk";
     $limit = 50;
-    $loop_limit = null;
+    $loop_limit = 1;
 
     $json_show = getShowInformation($spotify_show_id);
     $json_show_episodes = [];
