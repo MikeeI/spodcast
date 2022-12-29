@@ -31,13 +31,14 @@
 
     $feed = new Itunes();
     $feed->registerAtomNamespace( );
+
+    $channel = $feed->addChannel();
     $channel->addLink(
         'atom:link',
         'https://raw.githubusercontent.com/MikeeI/spodcast/main/feed/4rOoJ6Egrf8K2IrywzwOMk.rss',
         'self', // the rel attribute
         'application/atom+xml'
     );
-    $channel = $feed->addChannel();
     $channel
         ->title($json_show["name"])
         ->subtitle($json_show["description"])
