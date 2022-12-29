@@ -76,7 +76,7 @@
             ->type("audio/x-m4a");
     }
 
-    //echo $feed->toString();
+    echo $feed->toString();
     file_put_contents("feed/4rOoJ6Egrf8K2IrywzwOMk_small_temp.rss", htmlspecialchars($feed->toString(), ENT_XML1, 'UTF-8'));
 
     function getEpisodes($spotify_show_id, $limit, $offset)
