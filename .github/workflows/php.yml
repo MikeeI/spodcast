@@ -30,6 +30,8 @@ jobs:
         echo "BEARER=$(cat token)" >> $GITHUB_ENV
     - name: Composer Install
       run: composer install --prefer-dist --no-progress
+    - name: xq install
+      run: curl -sSL https://bit.ly/install-xq | sudo bash
     - name: Feed Generation
       run: php feed.php
     - name: RSS Tidy
