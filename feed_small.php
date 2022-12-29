@@ -33,12 +33,6 @@
     $feed->registerAtomNamespace( );
 
     $channel = $feed->addChannel();
-    $channel->addLink(
-        'atom:link',
-        'https://raw.githubusercontent.com/MikeeI/spodcast/main/feed/4rOoJ6Egrf8K2IrywzwOMk.rss',
-        'self', // the rel attribute
-        'application/atom+xml'
-    );
     $channel
         ->title($json_show["name"])
         ->subtitle($json_show["description"])
@@ -53,6 +47,12 @@
         ->generator("iTunes")
         ->block("true")
         ->ttl(600);
+    $channel->addLink(
+        'atom:link',
+        'https://raw.githubusercontent.com/MikeeI/spodcast/main/feed/4rOoJ6Egrf8K2IrywzwOMk.rss',
+        'self', // the rel attribute
+        'application/atom+xml'
+    );
 
     $channel->addCategory()->term("News");
 
