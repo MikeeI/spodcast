@@ -49,6 +49,7 @@
     $channel->addCategory()->term("News");
 
     foreach ($json_show_episodes as $episode) {
+        echo "Episode: " . htmlspecialchars($episode["name"]) . PHP_EOL;
         $channel
             ->addItem()
             ->title(htmlspecialchars($episode["name"], ENT_XML1, 'UTF-8'))
