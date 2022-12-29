@@ -41,8 +41,8 @@ jobs:
         mkdir -p feed
         ls -lah feed
         #cp feed/4rOoJ6Egrf8K2IrywzwOMk_temp.rss feed/4rOoJ6Egrf8K2IrywzwOMk.rss
-        cat feed/4rOoJ6Egrf8K2IrywzwOMk_temp.rss | xq > feed/4rOoJ6Egrf8K2IrywzwOMk.rss
-        cat feed/4rOoJ6Egrf8K2IrywzwOMk.rss | xq > feed/4rOoJ6Egrf8K2IrywzwOMk_readable.rss
+        cat feed/4rOoJ6Egrf8K2IrywzwOMk_temp.rss >feed/4rOoJ6Egrf8K2IrywzwOMk.rss
+        cat feed/4rOoJ6Egrf8K2IrywzwOMk.rss > feed/4rOoJ6Egrf8K2IrywzwOMk_readable.rss
         rm feed/4rOoJ6Egrf8K2IrywzwOMk_temp.rss
     - name: CleanUp
       run: rm -rf token
