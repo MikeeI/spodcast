@@ -56,7 +56,7 @@
             ->author($json_show["publisher"])
             ->subtitle(htmlspecialchars($json_show["description"], ENT_XML1, 'UTF-8'))
             ->duration(sec2hms(substr_replace($episode["duration_ms"], "", -3)))
-            ->summary(htmlspecialchars($episode["description"], ENT_XML1, 'UTF-8'))
+            ->summary($episode["description"])
             ->pubDate(new \DateTime($episode["release_date"]))
             ->guid("https://open.spotify.com/episode/" . $episode["id"])
             ->explicit($episode["explicit"])
