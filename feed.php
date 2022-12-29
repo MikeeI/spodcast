@@ -54,6 +54,7 @@
         $channel
             ->addItem()
             ->title(htmlspecialchars($episode["name"], ENT_XML1, 'UTF-8'))
+            ->description($episode["description"])
             ->author($json_show["publisher"])
             ->subtitle(htmlspecialchars($json_show["description"], ENT_XML1, 'UTF-8'))
             ->duration(sec2hms(substr_replace($episode["duration_ms"], "", -3)))
