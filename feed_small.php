@@ -64,7 +64,7 @@
             ->explicit($episode["explicit"])
             ->addEnclosure()
             ->url(
-                "https://github.com/JohnMeier/space/releases/download/podcast/" .
+                "https://github.com/MossCation/space/releases/download/podcast/" .
                     $spotify_show_id .
                     "-" .
                     $episode["release_date"] .
