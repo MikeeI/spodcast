@@ -40,7 +40,7 @@
         ->image($json_show["images"][0]["url"])
         ->author($json_show["publisher"])
         ->owner($json_show["publisher"])
-        ->explicit($json_show["explicit"])
+        ->explicit("no")
         ->copyright($json_show["publisher"])
         ->generator("iTunes")
         ->block("true")
@@ -61,7 +61,7 @@
             ->summary($episode["description"], ENT_XML1, 'UTF-8')
             ->pubDate(new \DateTime($episode["release_date"]))
             ->guid("https://open.spotify.com/episode/" . $episode["id"])
-            ->explicit($episode["explicit"])
+            ->explicit("no")
             ->addEnclosure()
             ->url(
                 "https://github.com/MossCation/space/releases/download/podcast/" .
