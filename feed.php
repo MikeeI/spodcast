@@ -4,8 +4,8 @@
     use Lukaswhite\FeedWriter\Itunes;
 
     $spotify_show_id = "4rOoJ6Egrf8K2IrywzwOMk";
-    $limit = 70;
-    $loop_limit = 1;
+    $limit = 50;
+    $loop_limit = 2;
 
     $json_show = getShowInformation($spotify_show_id);
     $json_show_episodes = [];
