@@ -4,7 +4,7 @@
     use Lukaswhite\FeedWriter\Itunes;
 
     $spotify_show_id = "4rOoJ6Egrf8K2IrywzwOMk";
-    $limit = 50;
+    $limit = 70;
     $loop_limit = 1;
 
     $json_show = getShowInformation($spotify_show_id);
@@ -61,8 +61,8 @@
             ->summary($episode["description"])
             ->pubDate(new \DateTime($episode["release_date"]))
             ->guid("https://open.spotify.com/episode/" . $episode["id"])
-            ->explicit($episode["explicit"])
-            //->explicit("no")
+            //->explicit($episode["explicit"])
+            ->explicit("no")
             ->addEnclosure()
             ->url(
                 "https://github.com/MossCation/space/releases/download/podcast/" .
