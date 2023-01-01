@@ -64,6 +64,7 @@ jobs:
       shell: bash
     - name: Start Action
       run: |
+         echo "MODIFIED=1" >> "$GITHUB_ENV"
          if [[ "$MODIFIED" == 1 ]]; then
            curl \
            -X POST "https://api.github.com/repos/${{ github.actor }}/spotifydl/dispatches" \
