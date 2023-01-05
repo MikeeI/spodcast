@@ -19,6 +19,19 @@
     <ttl>600</ttl>
     <itunes:category text="News"/>
     <item>
+      <title>#1920 - Dave Portnoy</title>
+      <description>Dave Portnoy is the founder of the website and digital media company Barstool Sports. www.barstoolsports.com</description>
+      <guid>https://open.spotify.com/episode/0QFKEUwONAr2RLRaRkkfVx</guid>
+      <pubDate>Thu, 05 Jan 2023 00:00:00 +0000</pubDate>
+      <author>Joe Rogan</author>
+      <enclosure url="https://github.com/MossCation/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2023-01-05-0QFKEUwONAr2RLRaRkkfVx.m4a" length="" type="audio/x-m4a"/>
+      <itunes:subtitle>The official podcast of comedian Joe Rogan. Follow The Joe Rogan Clips show page for some of the best moments from the episodes.</itunes:subtitle>
+      <itunes:summary><![CDATA[Dave Portnoy is the founder of the website and digital media company Barstool Sports. www.barstoolsports.com]]></itunes:summary>
+      <itunes:author>Joe Rogan</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>03:20:39</itunes:duration>
+    </item>
+    <item>
       <title>#1919 - Bret Weinstein</title>
       <description>Dr. Bret Weinstein is an evolutionary biologist, podcaster, and author. He is the author, along with his wife, fellow biologist Dr. Heather Heying, of "A Hunter-Gatherer's Guide to the 21st Century: Evolution and the Challenges of Modern Life." Together, they are the co-hosts of "The DarkHorse Podcast." www.bretweinstein.net</description>
       <guid>https://open.spotify.com/episode/1fCp0jGnwvxHJVPiXTfOzA</guid>
