@@ -19,6 +19,19 @@
     <ttl>600</ttl>
     <itunes:category text="News"/>
     <item>
+      <title>#1922 - Sam and Colby</title>
+      <description>Sam Golbach and Colby Brock are YouTubers best known to audiences for their explorations of haunted and paranormal locations. https://www.youtube.com/@samandcolby</description>
+      <guid>https://open.spotify.com/episode/4HHvaEznBwQX8vVTWSIEjj</guid>
+      <pubDate>Tue, 10 Jan 2023 00:00:00 +0000</pubDate>
+      <author>Joe Rogan</author>
+      <enclosure url="https://github.com/MossCation/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2023-01-10-4HHvaEznBwQX8vVTWSIEjj.m4a" length="" type="audio/x-m4a"/>
+      <itunes:subtitle>The official podcast of comedian Joe Rogan. Follow The Joe Rogan Clips show page for some of the best moments from the episodes.</itunes:subtitle>
+      <itunes:summary><![CDATA[Sam Golbach and Colby Brock are YouTubers best known to audiences for their explorations of haunted and paranormal locations. https://www.youtube.com/@samandcolby]]></itunes:summary>
+      <itunes:author>Joe Rogan</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>02:42:56</itunes:duration>
+    </item>
+    <item>
       <title>#1921 - Peter Zeihan</title>
       <description>Peter Zeihan is a geopolitical strategist, speaker, and author. His latest book is "The End of the World is Just the Beginning: Mapping the Collapse of Globalization." www.zeihan.com</description>
       <guid>https://open.spotify.com/episode/406fOiiKMU0ot5AS1AIwve</guid>
