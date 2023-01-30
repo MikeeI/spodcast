@@ -1,4 +1,4 @@
-name: Generate RSS Feed Small
+name: Action Generate RSS Feed Small
 on:
   push:
     branches: [ main2 ]
