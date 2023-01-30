@@ -1,4 +1,4 @@
-name: Action Generate Feed Full
+name: Action Generate RSS Feed Full
 
 on:
   push:
