@@ -3,8 +3,8 @@ name: Action Generate RSS Feed Full
 on:
   push:
     branches: [ master ]
-  #schedule:
-  # - cron: "0 */6 * * *"
+  schedule:
+   - cron: "0 */6 * * *"
   workflow_dispatch:
 jobs:
   generate_feed:
