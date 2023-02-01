@@ -19,6 +19,19 @@
     <ttl>600</ttl>
     <itunes:category text="News"/>
     <item>
+      <title>#1934 - Lex Fridman</title>
+      <description>Lex Fridman is a scientist and researcher in the fields of artificial intelligence and autonomous vehicles and host of "The Lex Fridman Podcast." www.lexfridman.com</description>
+      <guid>https://open.spotify.com/episode/4ho8NBQucRw6jkLP7F5Hlr</guid>
+      <pubDate>Tue, 31 Jan 2023 00:00:00 +0000</pubDate>
+      <author>Joe Rogan</author>
+      <enclosure url="https://github.com/MossCation/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2023-01-31-4ho8NBQucRw6jkLP7F5Hlr.m4a" length="" type="audio/x-m4a"/>
+      <itunes:subtitle>The official podcast of comedian Joe Rogan. Follow The Joe Rogan Clips show page for some of the best moments from the episodes.</itunes:subtitle>
+      <itunes:summary><![CDATA[Lex Fridman is a scientist and researcher in the fields of artificial intelligence and autonomous vehicles and host of "The Lex Fridman Podcast." www.lexfridman.com]]></itunes:summary>
+      <itunes:author>Joe Rogan</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>03:10:41</itunes:duration>
+    </item>
+    <item>
       <title>#1933 - Jordan Peterson</title>
       <description>Dr. Jordan B. Peterson is a clinical psychologist, the author of several best-selling books, among them "12 Rules for Life: An Antidote to Chaos," and "Beyond Order: 12 More Rules for Life," and the host of "The Jordan B. Peterson Podcast." www.jordanbpeterson.com</description>
       <guid>https://open.spotify.com/episode/4GJZmmvdh4NFbFqdqp9ovm</guid>
