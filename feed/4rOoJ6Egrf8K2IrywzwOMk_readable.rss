@@ -19,6 +19,19 @@
     <ttl>600</ttl>
     <itunes:category text="News"/>
     <item>
+      <title>JRE MMA Show #135 with Paul Felder</title>
+      <description>Joe sits down with Paul Felder, a retired professional mixed martial artist and current color commentator for the UFC. www.ufc.com/athlete/paul-felder</description>
+      <guid>https://open.spotify.com/episode/6ClFXu8O1iVfaf2IAPIUtK</guid>
+      <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
+      <author>Joe Rogan</author>
+      <enclosure url="https://github.com/MossCation/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2023-02-01-6ClFXu8O1iVfaf2IAPIUtK.m4a" length="" type="audio/x-m4a"/>
+      <itunes:subtitle>The official podcast of comedian Joe Rogan. Follow The Joe Rogan Clips show page for some of the best moments from the episodes.</itunes:subtitle>
+      <itunes:summary><![CDATA[Joe sits down with Paul Felder, a retired professional mixed martial artist and current color commentator for the UFC. www.ufc.com/athlete/paul-felder]]></itunes:summary>
+      <itunes:author>Joe Rogan</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>03:08:14</itunes:duration>
+    </item>
+    <item>
       <title>#1934 - Lex Fridman</title>
       <description>Lex Fridman is a scientist and researcher in the fields of artificial intelligence and autonomous vehicles and host of "The Lex Fridman Podcast." www.lexfridman.com</description>
       <guid>https://open.spotify.com/episode/4ho8NBQucRw6jkLP7F5Hlr</guid>
