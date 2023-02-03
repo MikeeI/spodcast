@@ -19,6 +19,19 @@
     <ttl>600</ttl>
     <itunes:category text="News"/>
     <item>
+      <title>#1935 - Kyle Kulinski</title>
+      <description/>
+      <guid>https://open.spotify.com/episode/26crklxlzG7ubmeEwdHqQJ</guid>
+      <pubDate>Fri, 03 Feb 2023 00:00:00 +0000</pubDate>
+      <author>Joe Rogan</author>
+      <enclosure url="https://github.com/MossCation/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2023-02-03-26crklxlzG7ubmeEwdHqQJ.m4a" length="" type="audio/x-m4a"/>
+      <itunes:subtitle>The official podcast of comedian Joe Rogan. Follow The Joe Rogan Clips show page for some of the best moments from the episodes.</itunes:subtitle>
+      <itunes:summary><![CDATA[Kyle Kulinski is a political activist and commentator. He's the host of “Secular Talk" on Youtube and co-hosts "Krystal Kyle & Friends" with Krystal Ball on Substack. https://www.youtube.com/user/SecularTalk https://krystalkyleandfriends.substack.com]]></itunes:summary>
+      <itunes:author>Joe Rogan</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>03:22:46</itunes:duration>
+    </item>
+    <item>
       <title>JRE MMA Show #135 with Paul Felder</title>
       <description>Joe sits down with Paul Felder, a retired professional mixed martial artist and current color commentator for the UFC. www.ufc.com/athlete/paul-felder</description>
       <guid>https://open.spotify.com/episode/6ClFXu8O1iVfaf2IAPIUtK</guid>
