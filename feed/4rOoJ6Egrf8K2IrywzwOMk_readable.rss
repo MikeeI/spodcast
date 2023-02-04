@@ -19,6 +19,19 @@
     <ttl>600</ttl>
     <itunes:category text="News"/>
     <item>
+      <title>JRE #1936 - Krystal Ball &amp; Saagar Enjeti</title>
+      <description>Krystal Ball and Saagar Enjeti are political commentators and hosts of the YouTube show and podcast "Breaking Points." http://www.youtube.com/@breakingpoints</description>
+      <guid>https://open.spotify.com/episode/27AnE2jWAwd2IBsyiSJoKy</guid>
+      <pubDate>Sat, 04 Feb 2023 00:00:00 +0000</pubDate>
+      <author>Joe Rogan</author>
+      <enclosure url="https://github.com/MossCation/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2023-02-04-27AnE2jWAwd2IBsyiSJoKy.m4a" length="" type="audio/x-m4a"/>
+      <itunes:subtitle>The official podcast of comedian Joe Rogan. Follow The Joe Rogan Clips show page for some of the best moments from the episodes.</itunes:subtitle>
+      <itunes:summary><![CDATA[Krystal Ball and Saagar Enjeti are political commentators and hosts of the YouTube show and podcast "Breaking Points." http://www.youtube.com/@breakingpoints]]></itunes:summary>
+      <itunes:author>Joe Rogan</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>03:11:32</itunes:duration>
+    </item>
+    <item>
       <title>#1935 - Kyle Kulinski</title>
       <description/>
       <guid>https://open.spotify.com/episode/26crklxlzG7ubmeEwdHqQJ</guid>
