@@ -19,6 +19,19 @@
     <ttl>600</ttl>
     <itunes:category text="News"/>
     <item>
+      <title>#1937 - Punkie Johnson</title>
+      <description>Punkie Johnson is a standup comic, writer, actress, and current cast member of "Saturday Night Live." http://www.instagram.com/punkiejohnson</description>
+      <guid>https://open.spotify.com/episode/3HHz5UAE7Ew1RahfFOnegT</guid>
+      <pubDate>Tue, 07 Feb 2023 00:00:00 +0000</pubDate>
+      <author>Joe Rogan</author>
+      <enclosure url="https://github.com/MossCation/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2023-02-07-3HHz5UAE7Ew1RahfFOnegT.m4a" length="" type="audio/x-m4a"/>
+      <itunes:subtitle>The official podcast of comedian Joe Rogan. Follow The Joe Rogan Clips show page for some of the best moments from the episodes.</itunes:subtitle>
+      <itunes:summary><![CDATA[Punkie Johnson is a standup comic, writer, actress, and current cast member of "Saturday Night Live." http://www.instagram.com/punkiejohnson]]></itunes:summary>
+      <itunes:author>Joe Rogan</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>02:40:40</itunes:duration>
+    </item>
+    <item>
       <title>JRE #1936 - Krystal Ball &amp; Saagar Enjeti</title>
       <description>Krystal Ball and Saagar Enjeti are political commentators and hosts of the YouTube show and podcast "Breaking Points." http://www.youtube.com/@breakingpoints</description>
       <guid>https://open.spotify.com/episode/27AnE2jWAwd2IBsyiSJoKy</guid>
