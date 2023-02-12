@@ -19,6 +19,19 @@
     <ttl>600</ttl>
     <itunes:category text="News"/>
     <item>
+      <title>Fight Companion - February 11, 2023</title>
+      <description/>
+      <guid>https://open.spotify.com/episode/3WTJODADj0xCwF609nhKmd</guid>
+      <pubDate>Sun, 12 Feb 2023 00:00:00 +0000</pubDate>
+      <author>Joe Rogan</author>
+      <enclosure url="https://github.com/MossCation/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2023-02-12-3WTJODADj0xCwF609nhKmd.m4a" length="" type="audio/x-m4a"/>
+      <itunes:subtitle>The official podcast of comedian Joe Rogan. Follow The Joe Rogan Clips show page for some of the best moments from the episodes.</itunes:subtitle>
+      <itunes:summary><![CDATA[Joe is joined by Eddie Bravo, Bryan Callen & Brendan Schaub to watch the fights on February 11, 2023.]]></itunes:summary>
+      <itunes:author>Joe Rogan</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>03:40:07</itunes:duration>
+    </item>
+    <item>
       <title>JRE MMA Show #136 with Jamahal Hill</title>
       <description>Joe sits down with UFC Light Heavyweight Champion Jamahal Hill. https://www.ufc.com/athlete/jamahal-hill</description>
       <guid>https://open.spotify.com/episode/4ITxTkj4HH6bb4cS3Ivw0V</guid>
