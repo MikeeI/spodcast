@@ -19,6 +19,19 @@
     <ttl>600</ttl>
     <itunes:category text="News"/>
     <item>
+      <title>#1940 - Matt Taibbi</title>
+      <description>Matt Taibbi is a journalist and author. He writes and publishes TK News at taibbi.substack.com and hosts the "America This Week podcast with Walter Kirn." He's also been the lead reporter on the Twitter Files, which come out on Twitter at @mtaibbi. www.taibbi.substack.com</description>
+      <guid>https://open.spotify.com/episode/1BYwylJ4AccjLAZth9NmDi</guid>
+      <pubDate>Mon, 13 Feb 2023 00:00:00 +0000</pubDate>
+      <author>Joe Rogan</author>
+      <enclosure url="https://github.com/MossCation/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2023-02-13-1BYwylJ4AccjLAZth9NmDi.m4a" length="" type="audio/x-m4a"/>
+      <itunes:subtitle>The official podcast of comedian Joe Rogan. Follow The Joe Rogan Clips show page for some of the best moments from the episodes.</itunes:subtitle>
+      <itunes:summary><![CDATA[Matt Taibbi is a journalist and author. He writes and publishes TK News at taibbi.substack.com and hosts the "America This Week podcast with Walter Kirn." He's also been the lead reporter on the Twitter Files, which come out on Twitter at @mtaibbi. www.taibbi.substack.com]]></itunes:summary>
+      <itunes:author>Joe Rogan</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>02:46:37</itunes:duration>
+    </item>
+    <item>
       <title>Fight Companion - February 11, 2023</title>
       <description/>
       <guid>https://open.spotify.com/episode/3WTJODADj0xCwF609nhKmd</guid>
