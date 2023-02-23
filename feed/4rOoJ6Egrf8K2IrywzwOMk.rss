@@ -20,13 +20,13 @@
     <itunes:category text="News"/>
     <item>
       <title>#1945 - Eric Weinstein</title>
-      <description>Eric Weinstein is a mathematician, economist, and managing director at Thiel Capital. www.ericweinstein.org</description>
+      <description>Eric Weinstein is a mathematician and host of The Portal podcast.  www.ericweinstein.org</description>
       <guid>https://open.spotify.com/episode/7MDxyrrhD7gC7XMRwB0ulv</guid>
       <pubDate>Wed, 22 Feb 2023 00:00:00 +0000</pubDate>
       <author>Joe Rogan</author>
       <enclosure url="https://github.com/MossCation/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2023-02-22-7MDxyrrhD7gC7XMRwB0ulv.m4a" length="" type="audio/x-m4a"/>
       <itunes:subtitle>The official podcast of comedian Joe Rogan. Follow The Joe Rogan Clips show page for some of the best moments from the episodes.</itunes:subtitle>
-      <itunes:summary><![CDATA[Eric Weinstein is a mathematician, economist, and managing director at Thiel Capital. www.ericweinstein.org]]></itunes:summary>
+      <itunes:summary><![CDATA[Eric Weinstein is a mathematician and host of The Portal podcast.  www.ericweinstein.org]]></itunes:summary>
       <itunes:author>Joe Rogan</itunes:author>
       <itunes:explicit>no</itunes:explicit>
       <itunes:duration>04:06:49</itunes:duration>
