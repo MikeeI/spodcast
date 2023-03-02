@@ -19,6 +19,19 @@
     <ttl>600</ttl>
     <itunes:category text="News"/>
     <item>
+      <title>#1949 - Russell Brand</title>
+      <description>Russell Brand is a comedian, actor, author, activist, and host of the podcast "Stay Free with Russell Brand." www.russellbrand.com</description>
+      <guid>https://open.spotify.com/episode/7p7u5CZdpYtLcFnsEwzPNB</guid>
+      <pubDate>Thu, 02 Mar 2023 00:00:00 +0000</pubDate>
+      <author>Joe Rogan</author>
+      <enclosure url="https://github.com/MossCation/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2023-03-02-7p7u5CZdpYtLcFnsEwzPNB.m4a" length="" type="audio/x-m4a"/>
+      <itunes:subtitle>The official podcast of comedian Joe Rogan. Follow The Joe Rogan Clips show page for some of the best moments from the episodes.</itunes:subtitle>
+      <itunes:summary><![CDATA[Russell Brand is a comedian, actor, author, activist, and host of the podcast "Stay Free with Russell Brand." www.russellbrand.com]]></itunes:summary>
+      <itunes:author>Joe Rogan</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>02:57:57</itunes:duration>
+    </item>
+    <item>
       <title>#1948 - Tony Hinchcliffe &amp; Brian Redban</title>
       <description>Tony Hinchcliffe is a stand-up comedian, writer, and actor. He's also the co-host, along with Brian Redban, of the podcast and live-streaming YouTube show "Kill Tony."  Brian Redban is a comedian, producer, and founder of the Deathsquad podcast network.</description>
       <guid>https://open.spotify.com/episode/7hsceYF0o0AFcmQKCTQ1e9</guid>
