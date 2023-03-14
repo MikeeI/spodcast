@@ -19,6 +19,19 @@
     <ttl>600</ttl>
     <itunes:category text="News"/>
     <item>
+      <title>#1954 - Bert Kreischer</title>
+      <description>Bert Kreischer is a comedian, podcaster, and actor. He's the host of "The Bertcast" podcast and YouTube cooking program "Something's Burning." He's also the co-host of the "2 Bears, 1 Cave" podcast with fellow comedian Tom Segura. Look for Bert's new Netflix comedy special, "Bert Kreischer: Razzle Dazzle", on March 14, and his movie, "The Machine", in wide release on May 25. www.bertbertbert.com</description>
+      <guid>https://open.spotify.com/episode/558tzLYcU1c1BXWC6waJAQ</guid>
+      <pubDate>Tue, 14 Mar 2023 00:00:00 +0000</pubDate>
+      <author>Joe Rogan</author>
+      <enclosure url="https://github.com/MossCation/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2023-03-14-558tzLYcU1c1BXWC6waJAQ.m4a" length="" type="audio/x-m4a"/>
+      <itunes:subtitle>The official podcast of comedian Joe Rogan. Follow The Joe Rogan Clips show page for some of the best moments from the episodes.</itunes:subtitle>
+      <itunes:summary><![CDATA[Bert Kreischer is a comedian, podcaster, and actor. He's the host of "The Bertcast" podcast and YouTube cooking program "Something's Burning." He's also the co-host of the "2 Bears, 1 Cave" podcast with fellow comedian Tom Segura. Look for Bert's new Netflix comedy special, "Bert Kreischer: Razzle Dazzle", on March 14, and his movie, "The Machine", in wide release on May 25. www.bertbertbert.com]]></itunes:summary>
+      <itunes:author>Joe Rogan</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>03:22:58</itunes:duration>
+    </item>
+    <item>
       <title>#1953 - Duncan Trussell</title>
       <description>Duncan Trussell is a stand-up comic, writer, actor, host of the "Duncan Trussell Family Hour" podcast, and creator of "The Midnight Gospel" on Netflix. www.duncantrussell.com</description>
       <guid>https://open.spotify.com/episode/3oo4MlJePmtWvQcMvQOyNQ</guid>
