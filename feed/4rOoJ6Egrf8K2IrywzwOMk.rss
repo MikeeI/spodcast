@@ -19,6 +19,19 @@
     <ttl>600</ttl>
     <itunes:category text="News"/>
     <item>
+      <title>#1955 - Cliff Gray</title>
+      <description>Cliff Gray is a former financial trader turned wilderness outfitter, hunting guide and YouTuber. https://pursuitwithcliff.com/</description>
+      <guid>https://open.spotify.com/episode/18YM5V5n5C2YnabRjriWz9</guid>
+      <pubDate>Wed, 15 Mar 2023 00:00:00 +0000</pubDate>
+      <author>Joe Rogan</author>
+      <enclosure url="https://github.com/MossCation/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2023-03-15-18YM5V5n5C2YnabRjriWz9.m4a" length="" type="audio/x-m4a"/>
+      <itunes:subtitle>The official podcast of comedian Joe Rogan. Follow The Joe Rogan Clips show page for some of the best moments from the episodes.</itunes:subtitle>
+      <itunes:summary><![CDATA[Cliff Gray is a former financial trader turned wilderness outfitter, hunting guide and YouTuber. https://pursuitwithcliff.com/]]></itunes:summary>
+      <itunes:author>Joe Rogan</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>02:38:46</itunes:duration>
+    </item>
+    <item>
       <title>#1954 - Bert Kreischer</title>
       <description>Bert Kreischer is a comedian, podcaster, and actor. He's the host of "The Bertcast" podcast and YouTube cooking program "Something's Burning." He's also the co-host of the "2 Bears, 1 Cave" podcast with fellow comedian Tom Segura. Look for Bert's new Netflix comedy special, "Bert Kreischer: Razzle Dazzle", on March 14, and his movie, "The Machine", in wide release on May 25. www.bertbertbert.com</description>
       <guid>https://open.spotify.com/episode/558tzLYcU1c1BXWC6waJAQ</guid>
