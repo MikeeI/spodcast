@@ -19,6 +19,19 @@
     <ttl>600</ttl>
     <itunes:category text="News"/>
     <item>
+      <title>JRE MMA Show #137 with Jorge Masvidal</title>
+      <description>Joe sits down with Jorge Masvidal, a mixed martial artist currently competing in the welterweight division for the Ultimate Fighting Championship. www.ufc.com/athlete/jorge-masvidal</description>
+      <guid>https://open.spotify.com/episode/7vqESXrQRnBC0Py34JiKEh</guid>
+      <pubDate>Wed, 22 Mar 2023 00:00:00 +0000</pubDate>
+      <author>Joe Rogan</author>
+      <enclosure url="https://github.com/MossCation/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2023-03-22-7vqESXrQRnBC0Py34JiKEh.m4a" length="" type="audio/x-m4a"/>
+      <itunes:subtitle>The official podcast of comedian Joe Rogan. Follow The Joe Rogan Clips show page for some of the best moments from the episodes.</itunes:subtitle>
+      <itunes:summary><![CDATA[Joe sits down with Jorge Masvidal, a mixed martial artist currently competing in the welterweight division for the Ultimate Fighting Championship. www.ufc.com/athlete/jorge-masvidal]]></itunes:summary>
+      <itunes:author>Joe Rogan</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>02:53:26</itunes:duration>
+    </item>
+    <item>
       <title>#1958 - Andrew Huberman</title>
       <description>Andrew Huberman, PhD, is a neuroscientist and tenured professor at Stanford University’s School of Medicine. Andrew is also the host of the Huberman Lab podcast, which aims to help viewers and listeners improve their health with science and science-based tools. New episodes air every Monday on YouTube and all podcast platforms. www.hubermanlab.com</description>
       <guid>https://open.spotify.com/episode/7zjMM0mw8oIr3VxRX0Tfay</guid>
