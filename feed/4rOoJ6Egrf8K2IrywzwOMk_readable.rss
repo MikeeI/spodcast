@@ -19,6 +19,19 @@
     <ttl>600</ttl>
     <itunes:category text="News"/>
     <item>
+      <title>#1960 - Andrew Schulz</title>
+      <description>Andrew Schulz is a stand-up comic, actor, and podcaster. He's the host of the "Flagrant 2" podcast with Akaash Singh, and the "Brilliant Idiots" podcast with Charlamagne Tha God. His latest special, "Infamous", is available on YouTube. http://www.theandrewschulz.com/</description>
+      <guid>https://open.spotify.com/episode/20qmdc3cwlwdmcaxQJeJpr</guid>
+      <pubDate>Fri, 24 Mar 2023 00:00:00 +0000</pubDate>
+      <author>Joe Rogan</author>
+      <enclosure url="https://github.com/MossCation/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2023-03-24-20qmdc3cwlwdmcaxQJeJpr.m4a" length="" type="audio/x-m4a"/>
+      <itunes:subtitle>The official podcast of comedian Joe Rogan. Follow The Joe Rogan Clips show page for some of the best moments from the episodes.</itunes:subtitle>
+      <itunes:summary><![CDATA[Andrew Schulz is a stand-up comic, actor, and podcaster. He's the host of the "Flagrant 2" podcast with Akaash Singh, and the "Brilliant Idiots" podcast with Charlamagne Tha God. His latest special, "Infamous", is available on YouTube. http://www.theandrewschulz.com/]]></itunes:summary>
+      <itunes:author>Joe Rogan</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>02:51:45</itunes:duration>
+    </item>
+    <item>
       <title>#1959 - David Buss</title>
       <description>David Buss, PhD, is a founding figure in the field of evolutionary psychology, and a professor at the University of Texas at Austin. His primary research focuses are on human mating strategies, conflict between the sexes, and the psychology of prestige, status, and reputation. He is the author of several books, among them "The Evolution of Desire: Strategies of Human Mating", and "When Men Behave Badly: The Hidden Roots of Sexual Deception, Harassment, and Assault". www.davidbuss.com</description>
       <guid>https://open.spotify.com/episode/3aYGkvFj8PZTzfHvGuYCTw</guid>
