@@ -19,6 +19,19 @@
     <ttl>600</ttl>
     <itunes:category text="News"/>
     <item>
+      <title>#1961 - Peter Attia</title>
+      <description/>
+      <guid>https://open.spotify.com/episode/6x9k7KcvhAV44Ik0fX2oeu</guid>
+      <pubDate>Tue, 28 Mar 2023 00:00:00 +0000</pubDate>
+      <author>Joe Rogan</author>
+      <enclosure url="https://github.com/MossCation/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2023-03-28-6x9k7KcvhAV44Ik0fX2oeu.m4a" length="" type="audio/x-m4a"/>
+      <itunes:subtitle>The official podcast of comedian Joe Rogan. Follow The Joe Rogan Clips show page for some of the best moments from the episodes.</itunes:subtitle>
+      <itunes:summary><![CDATA[Peter Attia, M.D., is a physician specializing in the science of longevity and optimal performance. He is the founder of Early Medical, host of "The Drive" podcast, and author, along with Bill Gifford, of "Outlive: The Science & Art of Longevity."www.peterattiamd.com]]></itunes:summary>
+      <itunes:author>Joe Rogan</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>02:47:10</itunes:duration>
+    </item>
+    <item>
       <title>#1960 - Andrew Schulz</title>
       <description>Andrew Schulz is a stand-up comic, actor, and podcaster. He's the host of the "Flagrant 2" podcast with Akaash Singh, and the "Brilliant Idiots" podcast with Charlamagne Tha God. His latest special, "Infamous", is available on YouTube. http://www.theandrewschulz.com/</description>
       <guid>https://open.spotify.com/episode/20qmdc3cwlwdmcaxQJeJpr</guid>
