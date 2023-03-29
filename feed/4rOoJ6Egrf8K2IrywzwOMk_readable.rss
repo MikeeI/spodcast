@@ -19,6 +19,19 @@
     <ttl>600</ttl>
     <itunes:category text="News"/>
     <item>
+      <title>#1962 - Eddie Huang</title>
+      <description>Eddie Huang is an author, chef, restaurateur, producer, and former attorney. He's the author of the memoir "Fresh Off the Boat", which inspired the ABC sitcom of the same name, director of the 2021 film "Boogie," and co-host of the "Separate Bedrooms" podcast. https://podcasts.apple.com/us/podcast/separate-bedrooms/id1677706318</description>
+      <guid>https://open.spotify.com/episode/3piWvugV9PHQyXZCfCsRlk</guid>
+      <pubDate>Wed, 29 Mar 2023 00:00:00 +0000</pubDate>
+      <author>Joe Rogan</author>
+      <enclosure url="https://github.com/MossCation/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2023-03-29-3piWvugV9PHQyXZCfCsRlk.m4a" length="" type="audio/x-m4a"/>
+      <itunes:subtitle>The official podcast of comedian Joe Rogan. Follow The Joe Rogan Clips show page for some of the best moments from the episodes.</itunes:subtitle>
+      <itunes:summary><![CDATA[Eddie Huang is an author, chef, restaurateur, producer, and former attorney. He's the author of the memoir "Fresh Off the Boat", which inspired the ABC sitcom of the same name, director of the 2021 film "Boogie," and co-host of the "Separate Bedrooms" podcast. https://podcasts.apple.com/us/podcast/separate-bedrooms/id1677706318]]></itunes:summary>
+      <itunes:author>Joe Rogan</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>03:19:34</itunes:duration>
+    </item>
+    <item>
       <title>#1961 - Peter Attia</title>
       <description/>
       <guid>https://open.spotify.com/episode/6x9k7KcvhAV44Ik0fX2oeu</guid>
