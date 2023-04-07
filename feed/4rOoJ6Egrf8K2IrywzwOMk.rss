@@ -19,6 +19,19 @@
     <ttl>600</ttl>
     <itunes:category text="News"/>
     <item>
+      <title>JRE MMA Show #138 with Cory Sandhagen</title>
+      <description>Joe is joined by Cory Sandhagen, a professional mixed martial artist competing in the UFC's Bantamweight division. </description>
+      <guid>https://open.spotify.com/episode/3V1oJX2P6Y3nVgammsckSh</guid>
+      <pubDate>Fri, 07 Apr 2023 00:00:00 +0000</pubDate>
+      <author>Joe Rogan</author>
+      <enclosure url="https://github.com/MossCation/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2023-04-07-3V1oJX2P6Y3nVgammsckSh.m4a" length="" type="audio/x-m4a"/>
+      <itunes:subtitle>The official podcast of comedian Joe Rogan. Follow The Joe Rogan Clips show page for some of the best moments from the episodes.</itunes:subtitle>
+      <itunes:summary><![CDATA[Joe is joined by Cory Sandhagen, a professional mixed martial artist competing in the UFC's Bantamweight division. ]]></itunes:summary>
+      <itunes:author>Joe Rogan</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>02:43:36</itunes:duration>
+    </item>
+    <item>
       <title>#1967 - Mike Vecchione</title>
       <description>Mike Vecchione is a stand-up comic and actor. Check out his new special, “The Attractives”, on Youtube.  https://mikevecchione.com/</description>
       <guid>https://open.spotify.com/episode/03nmrYAmrWQXFLYBJWTY46</guid>
