@@ -19,6 +19,19 @@
     <ttl>600</ttl>
     <itunes:category text="News"/>
     <item>
+      <title>#1969 - Sam Tallent</title>
+      <description>Sam Tallent is a stand-up comic, writer, and actor. He is one of the hosts of the "Chubby Behemoth" podcast, and author of the novel "Running the Light." www.samtallent.com</description>
+      <guid>https://open.spotify.com/episode/5JoBZzGvwJpzwie2Ingno4</guid>
+      <pubDate>Wed, 12 Apr 2023 00:00:00 +0000</pubDate>
+      <author>Joe Rogan</author>
+      <enclosure url="https://github.com/MossCation/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2023-04-12-5JoBZzGvwJpzwie2Ingno4.m4a" length="" type="audio/x-m4a"/>
+      <itunes:subtitle>The official podcast of comedian Joe Rogan. Follow The Joe Rogan Clips show page for some of the best moments from the episodes.</itunes:subtitle>
+      <itunes:summary><![CDATA[Sam Tallent is a stand-up comic, writer, and actor. He is one of the hosts of the "Chubby Behemoth" podcast, and author of the novel "Running the Light." www.samtallent.com]]></itunes:summary>
+      <itunes:author>Joe Rogan</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>02:59:57</itunes:duration>
+    </item>
+    <item>
       <title>#1968 - Jason Everman</title>
       <description>Jason Everman is a musician and military veteran. Prior to his service as a US Army Ranger and Green Beret, Everman was a guitarist in Soundgarden and Nirvana. Learn more about Team Supernautiloid and Race to Alaska 2023 at www.supernautiloid.com.</description>
       <guid>https://open.spotify.com/episode/0C9yCa071dZitRjKOylEcx</guid>
