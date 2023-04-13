@@ -19,6 +19,19 @@
     <ttl>600</ttl>
     <itunes:category text="News"/>
     <item>
+      <title>#1970 - Bill Ottman</title>
+      <description>Bill Ottman is founder of Minds, an open source and decentralized social network focused on civil dialogue and Internet freedom. Attend Minds Fest on April 15 at Vulcan Gas Company in Austin.minds.com</description>
+      <guid>https://open.spotify.com/episode/62Dk5MWyjBU0bClFMqG732</guid>
+      <pubDate>Thu, 13 Apr 2023 00:00:00 +0000</pubDate>
+      <author>Joe Rogan</author>
+      <enclosure url="https://github.com/MossCation/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2023-04-13-62Dk5MWyjBU0bClFMqG732.m4a" length="" type="audio/x-m4a"/>
+      <itunes:subtitle>The official podcast of comedian Joe Rogan. Follow The Joe Rogan Clips show page for some of the best moments from the episodes.</itunes:subtitle>
+      <itunes:summary><![CDATA[Bill Ottman is founder of Minds, an open source and decentralized social network focused on civil dialogue and Internet freedom. Attend Minds Fest on April 15 at Vulcan Gas Company in Austin.minds.com]]></itunes:summary>
+      <itunes:author>Joe Rogan</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>02:52:49</itunes:duration>
+    </item>
+    <item>
       <title>#1969 - Sam Tallent</title>
       <description>Sam Tallent is a stand-up comic, writer, and actor. He is one of the hosts of the "Chubby Behemoth" podcast, and author of the novel "Running the Light." www.samtallent.com</description>
       <guid>https://open.spotify.com/episode/5JoBZzGvwJpzwie2Ingno4</guid>
