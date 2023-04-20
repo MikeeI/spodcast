@@ -19,6 +19,19 @@
     <ttl>600</ttl>
     <itunes:category text="News"/>
     <item>
+      <title>#1971 - Howie Mandel</title>
+      <description>Howie Mandel is a stand-up comic, television personality, and producer. He's the host, along with daughter Jackelyn Shultz, of the "Howie Mandel Does Stuff" podcast.  www.howiemandel.com</description>
+      <guid>https://open.spotify.com/episode/0B3z7R0D0R311251roEoIo</guid>
+      <pubDate>Wed, 19 Apr 2023 00:00:00 +0000</pubDate>
+      <author>Joe Rogan</author>
+      <enclosure url="https://github.com/MossCation/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2023-04-19-0B3z7R0D0R311251roEoIo.m4a" length="" type="audio/x-m4a"/>
+      <itunes:subtitle>The official podcast of comedian Joe Rogan. Follow The Joe Rogan Clips show page for some of the best moments from the episodes.</itunes:subtitle>
+      <itunes:summary><![CDATA[Howie Mandel is a stand-up comic, television personality, and producer. He's the host, along with daughter Jackelyn Shultz, of the "Howie Mandel Does Stuff" podcast.  www.howiemandel.com]]></itunes:summary>
+      <itunes:author>Joe Rogan</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>02:23:13</itunes:duration>
+    </item>
+    <item>
       <title>#1970 - Bill Ottman</title>
       <description>Bill Ottman is founder of Minds, an open source and decentralized social network focused on civil dialogue and Internet freedom. Attend Minds Fest on April 15 at Vulcan Gas Company in Austin.minds.com</description>
       <guid>https://open.spotify.com/episode/62Dk5MWyjBU0bClFMqG732</guid>
