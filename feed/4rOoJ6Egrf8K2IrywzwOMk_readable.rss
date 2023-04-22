@@ -19,6 +19,19 @@
     <ttl>600</ttl>
     <itunes:category text="News"/>
     <item>
+      <title>#1974 - Ric Flair</title>
+      <description>Ric Flair is a professional wrestler and entrepreneur whose many business ventures include a chicken wing restaurant chain, comic book, and signature cannabis line, among others. https://ricflairdripglobal.com/</description>
+      <guid>https://open.spotify.com/episode/7pqCMYGY2n07DXqu0tCX0d</guid>
+      <pubDate>Sat, 22 Apr 2023 00:00:00 +0000</pubDate>
+      <author>Joe Rogan</author>
+      <enclosure url="https://github.com/MossCation/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2023-04-22-7pqCMYGY2n07DXqu0tCX0d.m4a" length="" type="audio/x-m4a"/>
+      <itunes:subtitle>The official podcast of comedian Joe Rogan. Follow The Joe Rogan Clips show page for some of the best moments from the episodes.</itunes:subtitle>
+      <itunes:summary><![CDATA[Ric Flair is a professional wrestler and entrepreneur whose many business ventures include a chicken wing restaurant chain, comic book, and signature cannabis line, among others. https://ricflairdripglobal.com/]]></itunes:summary>
+      <itunes:author>Joe Rogan</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>02:43:15</itunes:duration>
+    </item>
+    <item>
       <title>#1973 - Joey Diaz</title>
       <description>Joey Diaz is a stand-up comic, actor, author, and host of the podcast "Uncle Joey's Joint with Joey Diaz." Look for his new book, "Tremendous: The Life of a Comedy Savage," on May 2, 2023. www.joeydiaz.net</description>
       <guid>https://open.spotify.com/episode/7nqAYG35Az9bzEkknwhA6B</guid>
