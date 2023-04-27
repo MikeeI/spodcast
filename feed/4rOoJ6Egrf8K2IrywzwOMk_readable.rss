@@ -19,6 +19,19 @@
     <ttl>600</ttl>
     <itunes:category text="News"/>
     <item>
+      <title>#1977 - Dave Smith</title>
+      <description>Dave Smith is a stand-up comedian, Libertarian political commentator, and podcaster. He's the host of the "Part of the Problem" podcast, as well as a co-host of the "Legion of Skanks” podcast.www.comicdavesmith.com</description>
+      <guid>https://open.spotify.com/episode/5wmXmGINlwaHompifKfxyD</guid>
+      <pubDate>Thu, 27 Apr 2023 00:00:00 +0000</pubDate>
+      <author>Joe Rogan</author>
+      <enclosure url="https://github.com/MossCation/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2023-04-27-5wmXmGINlwaHompifKfxyD.m4a" length="" type="audio/x-m4a"/>
+      <itunes:subtitle>The official podcast of comedian Joe Rogan. Follow The Joe Rogan Clips show page for some of the best moments from the episodes.</itunes:subtitle>
+      <itunes:summary><![CDATA[Dave Smith is a stand-up comedian, Libertarian political commentator, and podcaster. He's the host of the "Part of the Problem" podcast, as well as a co-host of the "Legion of Skanks” podcast.www.comicdavesmith.com]]></itunes:summary>
+      <itunes:author>Joe Rogan</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>03:19:50</itunes:duration>
+    </item>
+    <item>
       <title>#1976 - James Fox</title>
       <description>James Fox is a UFO investigator and documentary filmmaker. His new film, “Moment of Contact” is available to stream now. https://geni.us/MomentOfContact</description>
       <guid>https://open.spotify.com/episode/3m0plaie1wKBvAFJYnjIaz</guid>
