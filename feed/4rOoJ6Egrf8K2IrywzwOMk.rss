@@ -19,6 +19,19 @@
     <ttl>600</ttl>
     <itunes:category text="News"/>
     <item>
+      <title>#1978 - Ms. Pat</title>
+      <description>Ms. Pat is a stand-up comic, host of “The Patdown” podcast, and star of the BET+ series “The Ms. Pat Show.” Her most recent special, “Y’all Wanna Hear Something Crazy?”, is streaming on Netflix.  www.mspatcomedy.com</description>
+      <guid>https://open.spotify.com/episode/0FMYSxzfcsvKGDvasldQ6Y</guid>
+      <pubDate>Fri, 28 Apr 2023 00:00:00 +0000</pubDate>
+      <author>Joe Rogan</author>
+      <enclosure url="https://github.com/MossCation/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2023-04-28-0FMYSxzfcsvKGDvasldQ6Y.m4a" length="" type="audio/x-m4a"/>
+      <itunes:subtitle>The official podcast of comedian Joe Rogan. Follow The Joe Rogan Clips show page for some of the best moments from the episodes.</itunes:subtitle>
+      <itunes:summary><![CDATA[Ms. Pat is a stand-up comic, host of “The Patdown” podcast, and star of the BET+ series “The Ms. Pat Show.” Her most recent special, “Y’all Wanna Hear Something Crazy?”, is streaming on Netflix.  www.mspatcomedy.com]]></itunes:summary>
+      <itunes:author>Joe Rogan</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>02:33:40</itunes:duration>
+    </item>
+    <item>
       <title>#1977 - Dave Smith</title>
       <description>Dave Smith is a stand-up comedian, Libertarian political commentator, and podcaster. He's the host of the "Part of the Problem" podcast, as well as a co-host of the "Legion of Skanks” podcast.www.comicdavesmith.com</description>
       <guid>https://open.spotify.com/episode/5wmXmGINlwaHompifKfxyD</guid>
