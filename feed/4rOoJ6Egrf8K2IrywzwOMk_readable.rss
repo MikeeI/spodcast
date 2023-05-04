@@ -19,6 +19,19 @@
     <ttl>600</ttl>
     <itunes:category text="News"/>
     <item>
+      <title>#1981 - Pauly Shore</title>
+      <description>Pauly Shore is a stand-up comic, actor, filmmaker, and musician.  www.paulyshore.com</description>
+      <guid>https://open.spotify.com/episode/7elrOcatC8aOTKARyZT1EF</guid>
+      <pubDate>Wed, 03 May 2023 00:00:00 +0000</pubDate>
+      <author>Joe Rogan</author>
+      <enclosure url="https://github.com/MossCation/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2023-05-03-7elrOcatC8aOTKARyZT1EF.m4a" length="" type="audio/x-m4a"/>
+      <itunes:subtitle>The official podcast of comedian Joe Rogan. Follow The Joe Rogan Clips show page for some of the best moments from the episodes.</itunes:subtitle>
+      <itunes:summary><![CDATA[Pauly Shore is a stand-up comic, actor, filmmaker, and musician.  www.paulyshore.com]]></itunes:summary>
+      <itunes:author>Joe Rogan</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>02:39:49</itunes:duration>
+    </item>
+    <item>
       <title>#1980 - Michio Kaku</title>
       <description>Dr. Michio Kaku, PhD, is a professor of theoretical physics, host of the "Science Fantastic" radio program, and author of several books. His latest is "Quantum Supremacy: How the Quantum Computer Revolution Will Change Everything." It is available now.www.mkaku.org</description>
       <guid>https://open.spotify.com/episode/41RxLAMSdaAd97OAFEpG3H</guid>
