@@ -19,6 +19,19 @@
     <ttl>600</ttl>
     <itunes:category text="News"/>
     <item>
+      <title>#1983 - Kim Congdon &amp; Sara Weinshenk</title>
+      <description>Kim Congdon and Sara Weinshenk are stand-up comics and hosts of the "This Bitch" podcast.   https://linktr.ee/Kimcongdon https://linktr.ee/saraweinshenk</description>
+      <guid>https://open.spotify.com/episode/6pC0uXazW4PGvot4Qn9zm4</guid>
+      <pubDate>Wed, 10 May 2023 00:00:00 +0000</pubDate>
+      <author>Joe Rogan</author>
+      <enclosure url="https://github.com/MossCation/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2023-05-10-6pC0uXazW4PGvot4Qn9zm4.m4a" length="" type="audio/x-m4a"/>
+      <itunes:subtitle>The official podcast of comedian Joe Rogan. Follow The Joe Rogan Clips show page for some of the best moments from the episodes.</itunes:subtitle>
+      <itunes:summary><![CDATA[Kim Congdon and Sara Weinshenk are stand-up comics and hosts of the "This Bitch" podcast.   https://linktr.ee/Kimcongdon https://linktr.ee/saraweinshenk]]></itunes:summary>
+      <itunes:author>Joe Rogan</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>03:28:19</itunes:duration>
+    </item>
+    <item>
       <title>#1982 - John Hennessey</title>
       <description>John Hennessey is the founder and CEO of Hennessey Performance Engineering, Hennessey Special Vehicles, and the Tuner School. www.hennesseyperformance.com</description>
       <guid>https://open.spotify.com/episode/7LAHk8UOD0nTOIUfQwyarM</guid>
