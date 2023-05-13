@@ -19,6 +19,19 @@
     <ttl>600</ttl>
     <itunes:category text="News"/>
     <item>
+      <title>#1985 - Steven Wright</title>
+      <description>Steven Wright is an Academy Award-winning stand-up comic, actor, and now, author. Look for his first book, "Harold," on May 16.www.stevenwright.com</description>
+      <guid>https://open.spotify.com/episode/7g25rF756CFsEhN8q2NjFQ</guid>
+      <pubDate>Sat, 13 May 2023 00:00:00 +0000</pubDate>
+      <author>Joe Rogan</author>
+      <enclosure url="https://github.com/MossCation/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2023-05-13-7g25rF756CFsEhN8q2NjFQ.m4a" length="" type="audio/x-m4a"/>
+      <itunes:subtitle>The official podcast of comedian Joe Rogan. Follow The Joe Rogan Clips show page for some of the best moments from the episodes.</itunes:subtitle>
+      <itunes:summary><![CDATA[Steven Wright is an Academy Award-winning stand-up comic, actor, and now, author. Look for his first book, "Harold," on May 16.www.stevenwright.com]]></itunes:summary>
+      <itunes:author>Joe Rogan</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>02:30:20</itunes:duration>
+    </item>
+    <item>
       <title>#1984 - Brian Redban</title>
       <description>Brian Redban is a stand-up comic, producer, co-host of the podcast and live-streaming YouTube show "Kill Tony," founder of the Deathsquad podcast network, and a co-owner of the Sunset Strip Comedy Club in Austin.  www.deathsquad.tv www.sunsetstripatx.com</description>
       <guid>https://open.spotify.com/episode/2ARJXarWbFEFfkdYneu2NU</guid>
