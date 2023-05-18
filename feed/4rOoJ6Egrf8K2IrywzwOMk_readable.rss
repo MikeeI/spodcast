@@ -19,6 +19,19 @@
     <ttl>600</ttl>
     <itunes:category text="News"/>
     <item>
+      <title>#1988 - James Reed</title>
+      <description>James Reed is a filmmaker whose works include "My Octopus Teacher," "Rise of the Warrior Apes," and "Jago: A Life Underwater." His new documentary series "Chimp Empire" is streaming on Netflix now. www.underdog-films.com</description>
+      <guid>https://open.spotify.com/episode/75anOBJoLTr5E3d0kZjbWS</guid>
+      <pubDate>Thu, 18 May 2023 00:00:00 +0000</pubDate>
+      <author>Joe Rogan</author>
+      <enclosure url="https://github.com/MossCation/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2023-05-18-75anOBJoLTr5E3d0kZjbWS.m4a" length="" type="audio/x-m4a"/>
+      <itunes:subtitle>The official podcast of comedian Joe Rogan. Follow The Joe Rogan Clips show page for some of the best moments from the episodes.</itunes:subtitle>
+      <itunes:summary><![CDATA[James Reed is a filmmaker whose works include "My Octopus Teacher," "Rise of the Warrior Apes," and "Jago: A Life Underwater." His new documentary series "Chimp Empire" is streaming on Netflix now. www.underdog-films.com]]></itunes:summary>
+      <itunes:author>Joe Rogan</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>02:22:32</itunes:duration>
+    </item>
+    <item>
       <title>#1987 - Jelly Roll</title>
       <description>Jelly Roll is a singer, rapper, and songwriter. Look for his Hulu documentary, "Jelly Roll: Save Me," on May 30, and his new album, "Whitsitt Chapel," on June 2. www.jellyroll615.com</description>
       <guid>https://open.spotify.com/episode/6whdJI2FwFda1VXc0W7keI</guid>
