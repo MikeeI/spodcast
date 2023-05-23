@@ -19,6 +19,19 @@
     <ttl>600</ttl>
     <itunes:category text="News"/>
     <item>
+      <title>JRE MMA Show #139 with Bas Rutten</title>
+      <description>Joe is joined by Bas Rutten: a retired mixed martial artist, UFC Hall of Famer, actor, inventor, and author.  www.basrutten.com</description>
+      <guid>https://open.spotify.com/episode/4mvmSvVtRdR10nJndCeywe</guid>
+      <pubDate>Tue, 23 May 2023 00:00:00 +0000</pubDate>
+      <author>Joe Rogan</author>
+      <enclosure url="https://github.com/MossCation/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2023-05-23-4mvmSvVtRdR10nJndCeywe.m4a" length="" type="audio/x-m4a"/>
+      <itunes:subtitle>The official podcast of comedian Joe Rogan. Follow The Joe Rogan Clips show page for some of the best moments from the episodes.</itunes:subtitle>
+      <itunes:summary><![CDATA[Joe is joined by Bas Rutten: a retired mixed martial artist, UFC Hall of Famer, actor, inventor, and author.  www.basrutten.com]]></itunes:summary>
+      <itunes:author>Joe Rogan</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>03:07:21</itunes:duration>
+    </item>
+    <item>
       <title>#1988 - James Reed</title>
       <description>James Reed is a filmmaker whose works include "My Octopus Teacher," "Rise of the Warrior Apes," and "Jago: A Life Underwater." His new documentary series "Chimp Empire" is streaming on Netflix now. www.underdog-films.com</description>
       <guid>https://open.spotify.com/episode/75anOBJoLTr5E3d0kZjbWS</guid>
