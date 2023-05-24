@@ -19,6 +19,19 @@
     <ttl>600</ttl>
     <itunes:category text="News"/>
     <item>
+      <title>#1989 - Andrew Dice Clay</title>
+      <description>Andrew Dice Clay is a stand-up comic, actor, and author.  www.andrewdiceclay.com</description>
+      <guid>https://open.spotify.com/episode/2u3ILMpA5jR5UXsYn01ZKp</guid>
+      <pubDate>Wed, 24 May 2023 00:00:00 +0000</pubDate>
+      <author>Joe Rogan</author>
+      <enclosure url="https://github.com/MossCation/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2023-05-24-2u3ILMpA5jR5UXsYn01ZKp.m4a" length="" type="audio/x-m4a"/>
+      <itunes:subtitle>The official podcast of comedian Joe Rogan. Follow The Joe Rogan Clips show page for some of the best moments from the episodes.</itunes:subtitle>
+      <itunes:summary><![CDATA[Andrew Dice Clay is a stand-up comic, actor, and author.  www.andrewdiceclay.com]]></itunes:summary>
+      <itunes:author>Joe Rogan</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>02:53:25</itunes:duration>
+    </item>
+    <item>
       <title>JRE MMA Show #139 with Bas Rutten</title>
       <description>Joe is joined by Bas Rutten: a retired mixed martial artist, UFC Hall of Famer, actor, inventor, and author.  www.basrutten.com</description>
       <guid>https://open.spotify.com/episode/4mvmSvVtRdR10nJndCeywe</guid>
