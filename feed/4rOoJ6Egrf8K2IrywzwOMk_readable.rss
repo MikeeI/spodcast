@@ -19,6 +19,19 @@
     <ttl>600</ttl>
     <itunes:category text="News"/>
     <item>
+      <title>JRE MMA Show #140 with Gillian Robertson</title>
+      <description>Joe sits down with Gillian Robertson, a mixed martial artist currently competing in the Strawweight division of the Ultimate Fighting Championship. www.ufc.com/athlete/gillian-robertson</description>
+      <guid>https://open.spotify.com/episode/64mxcLZblfnkdb8uFRUPBq</guid>
+      <pubDate>Wed, 31 May 2023 00:00:00 +0000</pubDate>
+      <author>Joe Rogan</author>
+      <enclosure url="https://github.com/MossCation/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2023-05-31-64mxcLZblfnkdb8uFRUPBq.m4a" length="" type="audio/x-m4a"/>
+      <itunes:subtitle>The official podcast of comedian Joe Rogan. Follow The Joe Rogan Clips show page for some of the best moments from the episodes.</itunes:subtitle>
+      <itunes:summary><![CDATA[Joe sits down with Gillian Robertson, a mixed martial artist currently competing in the Strawweight division of the Ultimate Fighting Championship. www.ufc.com/athlete/gillian-robertson]]></itunes:summary>
+      <itunes:author>Joe Rogan</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>02:15:54</itunes:duration>
+    </item>
+    <item>
       <title>#1992 - Oliver Stone</title>
       <description>Oliver Stone is an award-winning director, producer, screenwriter, and author. Look for his documentary "Nuclear Now" on June 6 via video on demand.www.nuclearnowfilm.com</description>
       <guid>https://open.spotify.com/episode/4hfegsO5ppgNhifrS2UO6D</guid>
