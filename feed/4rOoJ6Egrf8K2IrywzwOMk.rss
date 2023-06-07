@@ -19,6 +19,19 @@
     <ttl>600</ttl>
     <itunes:category text="News"/>
     <item>
+      <title>#1994 - Theo Von</title>
+      <description>Theo Von is a stand-up comic and podcaster. He is the host of "This Past Weekend with Theo Von."www.theovon.com</description>
+      <guid>https://open.spotify.com/episode/26JuEm8eWmcY1sotUBR9VT</guid>
+      <pubDate>Tue, 06 Jun 2023 00:00:00 +0000</pubDate>
+      <author>Joe Rogan</author>
+      <enclosure url="https://github.com/MossCation/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2023-06-06-26JuEm8eWmcY1sotUBR9VT.m4a" length="" type="audio/x-m4a"/>
+      <itunes:subtitle>The official podcast of comedian Joe Rogan. Follow The Joe Rogan Clips show page for some of the best moments from the episodes.</itunes:subtitle>
+      <itunes:summary><![CDATA[Theo Von is a stand-up comic and podcaster. He is the host of "This Past Weekend with Theo Von."www.theovon.com]]></itunes:summary>
+      <itunes:author>Joe Rogan</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>02:52:41</itunes:duration>
+    </item>
+    <item>
       <title>#1993 - Josh Dubin &amp; Bruce Bryan</title>
       <description>Josh Dubin is the Executive Director of the Perlmutter Center for Legal Justice, a criminal justice reform advocate, and civil rights attorney. https://tinyurl.com/4kb2y5hm Bruce Bryan was recently released from prison after nearly 30 years and receiving clemency. Follow Bruce : @bruce.bryan24 Donate to Bruce's GoFundMe: https://gofund.me/a1f61da1</description>
       <guid>https://open.spotify.com/episode/29iLg98zT2ysKTU6HqmK1r</guid>
