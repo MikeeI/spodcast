@@ -19,6 +19,19 @@
     <ttl>600</ttl>
     <itunes:category text="News"/>
     <item>
+      <title>#1997 - Cameron Hanes</title>
+      <description>Cameron Hanes is a master bowhunter, outdoorsman, elite athlete, author, and host of the podcast “Keep Hammering with Cameron Hanes.” www.cameronhanes.com</description>
+      <guid>https://open.spotify.com/episode/2no4FojhCmDAbKTj8EhBJw</guid>
+      <pubDate>Tue, 13 Jun 2023 00:00:00 +0000</pubDate>
+      <author>Joe Rogan</author>
+      <enclosure url="https://github.com/MossCation/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2023-06-13-2no4FojhCmDAbKTj8EhBJw.m4a" length="" type="audio/x-m4a"/>
+      <itunes:subtitle>The official podcast of comedian Joe Rogan. Follow The Joe Rogan Clips show page for some of the best moments from the episodes.</itunes:subtitle>
+      <itunes:summary><![CDATA[Cameron Hanes is a master bowhunter, outdoorsman, elite athlete, author, and host of the podcast “Keep Hammering with Cameron Hanes.” www.cameronhanes.com]]></itunes:summary>
+      <itunes:author>Joe Rogan</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>03:14:35</itunes:duration>
+    </item>
+    <item>
       <title>#1996 - Andy Stumpf</title>
       <description>Andy Stumpf is a retired Navy SEAL, record-holding wingsuiter, and host of two podcasts, "Cleared Hot," and the new series "Change Agents with Andy Stumpf."  www.andystumpf.com www.youtube.com/@thisisironclad</description>
       <guid>https://open.spotify.com/episode/68nOjPNC8vcz40ooWKfsFr</guid>
