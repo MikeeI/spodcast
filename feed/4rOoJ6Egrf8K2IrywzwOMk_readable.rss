@@ -19,6 +19,19 @@
     <ttl>600</ttl>
     <itunes:category text="News"/>
     <item>
+      <title>#2001 - Gabriel Iglesias</title>
+      <description>Gabriel Iglesias is a stand-up comic and actor. His most recent special, "Stadium Fluffy," is available on Netflix.  www.fluffyguy.com</description>
+      <guid>https://open.spotify.com/episode/49cSxbZ1BWJJZPiCAjoOdv</guid>
+      <pubDate>Thu, 22 Jun 2023 00:00:00 +0000</pubDate>
+      <author>Joe Rogan</author>
+      <enclosure url="https://github.com/MossCation/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2023-06-22-49cSxbZ1BWJJZPiCAjoOdv.m4a" length="" type="audio/x-m4a"/>
+      <itunes:subtitle>The official podcast of comedian Joe Rogan. Follow The Joe Rogan Clips show page for some of the best moments from the episodes.</itunes:subtitle>
+      <itunes:summary><![CDATA[Gabriel Iglesias is a stand-up comic and actor. His most recent special, "Stadium Fluffy," is available on Netflix.  www.fluffyguy.com]]></itunes:summary>
+      <itunes:author>Joe Rogan</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>02:28:27</itunes:duration>
+    </item>
+    <item>
       <title>JRE MMA Show #141 with Mike Perry</title>
       <description>Joe is joined by Mike Perry, a professional fighter currently competing in the middleweight division of the Bare Knuckle Fighting Championship. www.bkfc.com/fighters/mike-perry:64342d0b-44b0-4f59-ac4f-7791d2824e66</description>
       <guid>https://open.spotify.com/episode/5NnstGx7gYZ5hNgwlTULl6</guid>
