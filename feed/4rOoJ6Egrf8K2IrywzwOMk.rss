@@ -19,6 +19,19 @@
     <ttl>600</ttl>
     <itunes:category text="News"/>
     <item>
+      <title>#2003 - Killer Mike</title>
+      <description>Killer Mike is a Grammy-nominated rapper, activist, and entrepreneur. His new album, "Michael," is available now.  www.killermike.com</description>
+      <guid>https://open.spotify.com/episode/4MXoQ6wWLIo9FhbNcGImQC</guid>
+      <pubDate>Wed, 28 Jun 2023 00:00:00 +0000</pubDate>
+      <author>Joe Rogan</author>
+      <enclosure url="https://github.com/MossCation/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2023-06-28-4MXoQ6wWLIo9FhbNcGImQC.m4a" length="" type="audio/x-m4a"/>
+      <itunes:subtitle>The official podcast of comedian Joe Rogan. Follow The Joe Rogan Clips show page for some of the best moments from the episodes.</itunes:subtitle>
+      <itunes:summary><![CDATA[Killer Mike is a Grammy-nominated rapper, activist, and entrepreneur. His new album, "Michael," is available now.  www.killermike.com]]></itunes:summary>
+      <itunes:author>Joe Rogan</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>02:39:29</itunes:duration>
+    </item>
+    <item>
       <title>#2002 - Amanda Feilding</title>
       <description/>
       <guid>https://open.spotify.com/episode/04O1q0t4aBhLLYgcZpT7TM</guid>
