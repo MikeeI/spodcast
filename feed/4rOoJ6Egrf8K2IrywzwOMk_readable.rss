@@ -19,6 +19,19 @@
     <ttl>600</ttl>
     <itunes:category text="News"/>
     <item>
+      <title>#2004 - Ice Cube</title>
+      <description>Ice Cube is a rapper, songwriter, actor, filmmaker, and founder of the 3-on-3, half-court basketball league BIG3. www.icecube.com www.big3.com </description>
+      <guid>https://open.spotify.com/episode/1IWzs6El6E3pnF3n4Bysab</guid>
+      <pubDate>Thu, 29 Jun 2023 00:00:00 +0000</pubDate>
+      <author>Joe Rogan</author>
+      <enclosure url="https://github.com/MossCation/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2023-06-29-1IWzs6El6E3pnF3n4Bysab.m4a" length="" type="audio/x-m4a"/>
+      <itunes:subtitle>The official podcast of comedian Joe Rogan. Follow The Joe Rogan Clips show page for some of the best moments from the episodes.</itunes:subtitle>
+      <itunes:summary><![CDATA[Ice Cube is a rapper, songwriter, actor, filmmaker, and founder of the 3-on-3, half-court basketball league BIG3. www.icecube.com www.big3.com ]]></itunes:summary>
+      <itunes:author>Joe Rogan</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>02:23:06</itunes:duration>
+    </item>
+    <item>
       <title>#2003 - Killer Mike</title>
       <description>Killer Mike is a Grammy-nominated rapper, activist, and entrepreneur. His new album, "Michael," is available now.  www.killermike.com</description>
       <guid>https://open.spotify.com/episode/4MXoQ6wWLIo9FhbNcGImQC</guid>
