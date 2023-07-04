@@ -19,6 +19,19 @@
     <ttl>600</ttl>
     <itunes:category text="News"/>
     <item>
+      <title>#2005 - Tom Segura</title>
+      <description>Tom Segura is a stand-up comic, actor, podcaster, and author. He co-hosts two podcasts, "Your Mom's House," with his wife, comic Christina Pazsitsky, and "Two Bears, One Cave," with comic Bert Kreischer. He's also the host of his own podcast, "Tom Segura en Español," and is the author of "I'd Like to Play Alone, Please: Essays." His new comedy special, "Tom Segura: Sledgehammer," premieres July 4 on Netflix. www.tomsegura.com</description>
+      <guid>https://open.spotify.com/episode/52ZUYZquVKKGelojwA2Tjl</guid>
+      <pubDate>Tue, 04 Jul 2023 00:00:00 +0000</pubDate>
+      <author>Joe Rogan</author>
+      <enclosure url="https://github.com/MossCation/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2023-07-04-52ZUYZquVKKGelojwA2Tjl.m4a" length="" type="audio/x-m4a"/>
+      <itunes:subtitle>The official podcast of comedian Joe Rogan. Follow The Joe Rogan Clips show page for some of the best moments from the episodes.</itunes:subtitle>
+      <itunes:summary><![CDATA[Tom Segura is a stand-up comic, actor, podcaster, and author. He co-hosts two podcasts, "Your Mom's House," with his wife, comic Christina Pazsitsky, and "Two Bears, One Cave," with comic Bert Kreischer. He's also the host of his own podcast, "Tom Segura en Español," and is the author of "I'd Like to Play Alone, Please: Essays." His new comedy special, "Tom Segura: Sledgehammer," premieres July 4 on Netflix. www.tomsegura.com]]></itunes:summary>
+      <itunes:author>Joe Rogan</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>02:50:46</itunes:duration>
+    </item>
+    <item>
       <title>#2004 - Ice Cube</title>
       <description>Ice Cube is a rapper, songwriter, actor, filmmaker, and founder of the 3-on-3, half-court basketball league BIG3. www.icecube.com www.big3.com </description>
       <guid>https://open.spotify.com/episode/1IWzs6El6E3pnF3n4Bysab</guid>
