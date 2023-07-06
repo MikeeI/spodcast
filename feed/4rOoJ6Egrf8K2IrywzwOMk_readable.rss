@@ -19,6 +19,19 @@
     <ttl>600</ttl>
     <itunes:category text="News"/>
     <item>
+      <title>JRE MMA Show #143 with Sean Strickland</title>
+      <description>Joe is joined by Sean Strickland, a professional mixed martial artist competing in the middleweight division of the Ultimate Fighting Championship.  www.ufc.com/athlete/sean-strickland</description>
+      <guid>https://open.spotify.com/episode/0BfdlFjs2beFdNWRz1tDiG</guid>
+      <pubDate>Thu, 06 Jul 2023 00:00:00 +0000</pubDate>
+      <author>Joe Rogan</author>
+      <enclosure url="https://github.com/MossCation/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2023-07-06-0BfdlFjs2beFdNWRz1tDiG.m4a" length="" type="audio/x-m4a"/>
+      <itunes:subtitle>The official podcast of comedian Joe Rogan. Follow The Joe Rogan Clips show page for some of the best moments from the episodes.</itunes:subtitle>
+      <itunes:summary><![CDATA[Joe is joined by Sean Strickland, a professional mixed martial artist competing in the middleweight division of the Ultimate Fighting Championship.  www.ufc.com/athlete/sean-strickland]]></itunes:summary>
+      <itunes:author>Joe Rogan</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>02:21:29</itunes:duration>
+    </item>
+    <item>
       <title>JRE MMA Show #142 with Matt Serra, Din Thomas &amp; John Rallo</title>
       <description/>
       <guid>https://open.spotify.com/episode/322ZqvmHZTp8FJ37OUnflf</guid>
