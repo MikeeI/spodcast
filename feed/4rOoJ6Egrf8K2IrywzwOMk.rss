@@ -19,6 +19,19 @@
     <ttl>600</ttl>
     <itunes:category text="News"/>
     <item>
+      <title>#2006 - Brian Simpson</title>
+      <description>Brian Simpson is a stand-up comic who hosts the "Bottom of the Barrel" improvised comedy show at the Comedy Mothership and his own podcast, "BS with Brian Simpson." https://www.briansimpsoncomedy.com/</description>
+      <guid>https://open.spotify.com/episode/4pVQq3r2eBDxMNsDSr3Tqu</guid>
+      <pubDate>Tue, 11 Jul 2023 00:00:00 +0000</pubDate>
+      <author>Joe Rogan</author>
+      <enclosure url="https://github.com/MossCation/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2023-07-11-4pVQq3r2eBDxMNsDSr3Tqu.m4a" length="" type="audio/x-m4a"/>
+      <itunes:subtitle>The official podcast of comedian Joe Rogan. Follow The Joe Rogan Clips show page for some of the best moments from the episodes.</itunes:subtitle>
+      <itunes:summary><![CDATA[Brian Simpson is a stand-up comic who hosts the "Bottom of the Barrel" improvised comedy show at the Comedy Mothership and his own podcast, "BS with Brian Simpson." https://www.briansimpsoncomedy.com/]]></itunes:summary>
+      <itunes:author>Joe Rogan</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>03:13:58</itunes:duration>
+    </item>
+    <item>
       <title>JRE MMA Show #143 with Sean Strickland</title>
       <description>Joe is joined by Sean Strickland, a professional mixed martial artist competing in the middleweight division of the Ultimate Fighting Championship.  www.ufc.com/athlete/sean-strickland</description>
       <guid>https://open.spotify.com/episode/0BfdlFjs2beFdNWRz1tDiG</guid>
