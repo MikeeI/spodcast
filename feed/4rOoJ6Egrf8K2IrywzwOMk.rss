@@ -19,6 +19,19 @@
     <ttl>600</ttl>
     <itunes:category text="News"/>
     <item>
+      <title>#2007 - Adrienne Iapalucci</title>
+      <description>Adrienne Iapalucci is writer and stand-up comic currently on tour. www.adrienneiapalucci.com</description>
+      <guid>https://open.spotify.com/episode/1Th3ZsDdw2OcWApAcaFUv8</guid>
+      <pubDate>Wed, 12 Jul 2023 00:00:00 +0000</pubDate>
+      <author>Joe Rogan</author>
+      <enclosure url="https://github.com/MossCation/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2023-07-12-1Th3ZsDdw2OcWApAcaFUv8.m4a" length="" type="audio/x-m4a"/>
+      <itunes:subtitle>The official podcast of comedian Joe Rogan. Follow The Joe Rogan Clips show page for some of the best moments from the episodes.</itunes:subtitle>
+      <itunes:summary><![CDATA[Adrienne Iapalucci is writer and stand-up comic currently on tour. www.adrienneiapalucci.com]]></itunes:summary>
+      <itunes:author>Joe Rogan</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>02:25:40</itunes:duration>
+    </item>
+    <item>
       <title>#2006 - Brian Simpson</title>
       <description>Brian Simpson is a stand-up comic who hosts the "Bottom of the Barrel" improvised comedy show at the Comedy Mothership and his own podcast, "BS with Brian Simpson." https://www.briansimpsoncomedy.com/</description>
       <guid>https://open.spotify.com/episode/4pVQq3r2eBDxMNsDSr3Tqu</guid>
