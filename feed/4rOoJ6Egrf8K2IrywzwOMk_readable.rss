@@ -19,6 +19,19 @@
     <ttl>600</ttl>
     <itunes:category text="News"/>
     <item>
+      <title>#2009 - Duncan Trussell</title>
+      <description>Duncan Trussell is a stand-up comic, writer, actor, host of the "Duncan Trussell Family Hour" podcast, and creator of "The Midnight Gospel" on Netflix. www.duncantrussell.com</description>
+      <guid>https://open.spotify.com/episode/0uXxESjlzZ5VfvdA2nXe1t</guid>
+      <pubDate>Tue, 18 Jul 2023 00:00:00 +0000</pubDate>
+      <author>Joe Rogan</author>
+      <enclosure url="https://github.com/MossCation/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2023-07-18-0uXxESjlzZ5VfvdA2nXe1t.m4a" length="" type="audio/x-m4a"/>
+      <itunes:subtitle>The official podcast of comedian Joe Rogan. Follow The Joe Rogan Clips show page for some of the best moments from the episodes.</itunes:subtitle>
+      <itunes:summary><![CDATA[Duncan Trussell is a stand-up comic, writer, actor, host of the "Duncan Trussell Family Hour" podcast, and creator of "The Midnight Gospel" on Netflix. www.duncantrussell.com]]></itunes:summary>
+      <itunes:author>Joe Rogan</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>02:58:28</itunes:duration>
+    </item>
+    <item>
       <title>#2008 - Stephen C. Meyer</title>
       <description>Stephen C. Meyer, PhD, is a philosopher of science, the director of the Center for Science and Culture at the Discovery Institute, and the author of several books, including "Darwin’s Doubt: The Explosive Origin of Animal Life and the Case for Intelligent Design," and "The Return of the God Hypothesis." Download his free mini-book "Scientific Evidence For A Creator" at www.stephencmeyer.org.</description>
       <guid>https://open.spotify.com/episode/3woccDLWFU1cvOcQ5Oflue</guid>
