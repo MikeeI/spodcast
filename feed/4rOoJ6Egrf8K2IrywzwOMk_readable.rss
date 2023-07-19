@@ -19,6 +19,19 @@
     <ttl>600</ttl>
     <itunes:category text="News"/>
     <item>
+      <title>#2010 - Marc Andreessen</title>
+      <description>Marc Andreessen is an entrepreneur, investor, and software engineer. He is co-creator of the world's first widely used internet browser, Mosaic, and cofounder and general partner at the venture capital firm Andreessen Horowitz www.a16z.com https://pmarca.substack.com</description>
+      <guid>https://open.spotify.com/episode/3EWIFUOpaM9s7Pmei0r2C3</guid>
+      <pubDate>Wed, 19 Jul 2023 00:00:00 +0000</pubDate>
+      <author>Joe Rogan</author>
+      <enclosure url="https://github.com/MossCation/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2023-07-19-3EWIFUOpaM9s7Pmei0r2C3.m4a" length="" type="audio/x-m4a"/>
+      <itunes:subtitle>The official podcast of comedian Joe Rogan. Follow The Joe Rogan Clips show page for some of the best moments from the episodes.</itunes:subtitle>
+      <itunes:summary><![CDATA[Marc Andreessen is an entrepreneur, investor, and software engineer. He is co-creator of the world's first widely used internet browser, Mosaic, and cofounder and general partner at the venture capital firm Andreessen Horowitz www.a16z.com https://pmarca.substack.com]]></itunes:summary>
+      <itunes:author>Joe Rogan</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>02:39:59</itunes:duration>
+    </item>
+    <item>
       <title>#2009 - Duncan Trussell</title>
       <description>Duncan Trussell is a stand-up comic, writer, actor, host of the "Duncan Trussell Family Hour" podcast, and creator of "The Midnight Gospel" on Netflix. www.duncantrussell.com</description>
       <guid>https://open.spotify.com/episode/0uXxESjlzZ5VfvdA2nXe1t</guid>
