@@ -19,6 +19,19 @@
     <ttl>600</ttl>
     <itunes:category text="News"/>
     <item>
+      <title>#2014 - Jim Gaffigan</title>
+      <description>Jim Gaffigan is a stand-up comic, author, and actor. Catch him in his new stand-up special, "Dark Pale," on Amazon Prime.  www.jimgaffigan.com</description>
+      <guid>https://open.spotify.com/episode/427jwbmn8JDzFbFKRxfrWC</guid>
+      <pubDate>Fri, 28 Jul 2023 00:00:00 +0000</pubDate>
+      <author>Joe Rogan</author>
+      <enclosure url="https://github.com/MossCation/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2023-07-28-427jwbmn8JDzFbFKRxfrWC.m4a" length="" type="audio/x-m4a"/>
+      <itunes:subtitle>The official podcast of comedian Joe Rogan. Follow The Joe Rogan Clips show page for some of the best moments from the episodes.</itunes:subtitle>
+      <itunes:summary><![CDATA[Jim Gaffigan is a stand-up comic, author, and actor. Catch him in his new stand-up special, "Dark Pale," on Amazon Prime.  www.jimgaffigan.com]]></itunes:summary>
+      <itunes:author>Joe Rogan</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>02:51:15</itunes:duration>
+    </item>
+    <item>
       <title>#2013 - Paul Rosolie</title>
       <description>Paul Rosolie is a conservationist, filmmaker, and writer. He's the founder of Junglekeepers, an organization protecting threatened habitat in western Amazonia, and the author of "Mother of God: An Extraordinary Journey into the Uncharted Tributaries of the Western Amazon."  www.paulrosolie.com</description>
       <guid>https://open.spotify.com/episode/5NM14BIsV9yVzq7keqHijN</guid>
