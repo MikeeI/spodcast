@@ -19,6 +19,19 @@
     <ttl>600</ttl>
     <itunes:category text="News"/>
     <item>
+      <title>#2016 - Patrick Bet-David</title>
+      <description>Patrick Bet-David is an entrepreneur, author, and founder of Valuetainment: a multimedia company focusing on business and personal development. He's also the host of "The Bet-David Podcast."www.patrickbetdavid.com</description>
+      <guid>https://open.spotify.com/episode/3TIRqNcT1HHEh534zllHiu</guid>
+      <pubDate>Thu, 03 Aug 2023 00:00:00 +0000</pubDate>
+      <author>Joe Rogan</author>
+      <enclosure url="https://github.com/MossCation/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2023-08-03-3TIRqNcT1HHEh534zllHiu.m4a" length="" type="audio/x-m4a"/>
+      <itunes:subtitle>The official podcast of comedian Joe Rogan. Follow The Joe Rogan Clips show page for some of the best moments from the episodes.</itunes:subtitle>
+      <itunes:summary><![CDATA[Patrick Bet-David is an entrepreneur, author, and founder of Valuetainment: a multimedia company focusing on business and personal development. He's also the host of "The Bet-David Podcast."www.patrickbetdavid.com]]></itunes:summary>
+      <itunes:author>Joe Rogan</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>02:48:35</itunes:duration>
+    </item>
+    <item>
       <title>JRE MMA Show #144 with Jared Cannonier</title>
       <description>Joe is joined by Jared Cannonier, a professional mixed martial artist currently fighting in the Middleweight division of the Ultimate Fighting Championship. www.ufc.com/athlete/jared-cannonier</description>
       <guid>https://open.spotify.com/episode/07TNGl4VKA4UfM4wFehiGD</guid>
