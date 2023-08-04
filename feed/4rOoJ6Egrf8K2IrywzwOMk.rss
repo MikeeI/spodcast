@@ -19,6 +19,19 @@
     <ttl>600</ttl>
     <itunes:category text="News"/>
     <item>
+      <title>#2017 - Bryan Callen</title>
+      <description>Bryan Callen is an actor, comedian, and podcaster. He's the co-host of the podcasts "The Fighter and the Kid" and "Conspiracy Social Club AKA Deep Waters," and host of "The Bryan Callen Show." www.bryancallen.com</description>
+      <guid>https://open.spotify.com/episode/7b0XeHJ5Zcjq7EmqCq1Idw</guid>
+      <pubDate>Fri, 04 Aug 2023 00:00:00 +0000</pubDate>
+      <author>Joe Rogan</author>
+      <enclosure url="https://github.com/MossCation/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2023-08-04-7b0XeHJ5Zcjq7EmqCq1Idw.m4a" length="" type="audio/x-m4a"/>
+      <itunes:subtitle>The official podcast of comedian Joe Rogan. Follow The Joe Rogan Clips show page for some of the best moments from the episodes.</itunes:subtitle>
+      <itunes:summary><![CDATA[Bryan Callen is an actor, comedian, and podcaster. He's the co-host of the podcasts "The Fighter and the Kid" and "Conspiracy Social Club AKA Deep Waters," and host of "The Bryan Callen Show." www.bryancallen.com]]></itunes:summary>
+      <itunes:author>Joe Rogan</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>03:06:09</itunes:duration>
+    </item>
+    <item>
       <title>#2016 - Patrick Bet-David</title>
       <description>Patrick Bet-David is an entrepreneur, author, and founder of Valuetainment: a multimedia company focusing on business and personal development. He's also the host of "The Bet-David Podcast."www.patrickbetdavid.com</description>
       <guid>https://open.spotify.com/episode/3TIRqNcT1HHEh534zllHiu</guid>
