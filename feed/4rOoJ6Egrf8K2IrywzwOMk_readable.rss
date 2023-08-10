@@ -19,6 +19,19 @@
     <ttl>600</ttl>
     <itunes:category text="News"/>
     <item>
+      <title>#2019 - Tim Dillon</title>
+      <description>Tim Dillon is a comedian, actor, podcaster, and author. He's the host of "The Tim Dillon Show" and author of "Death by Boomers: How the Worst Generation Destroyed the Planet, but First a Child," scheduled for publication on December 5, 2023. www.timdilloncomedy.com</description>
+      <guid>https://open.spotify.com/episode/1e9LLjYuYcNhJBqm4aYumw</guid>
+      <pubDate>Thu, 10 Aug 2023 00:00:00 +0000</pubDate>
+      <author>Joe Rogan</author>
+      <enclosure url="https://github.com/MossCation/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2023-08-10-1e9LLjYuYcNhJBqm4aYumw.m4a" length="" type="audio/x-m4a"/>
+      <itunes:subtitle>The official podcast of comedian Joe Rogan. Follow The Joe Rogan Clips show page for some of the best moments from the episodes.</itunes:subtitle>
+      <itunes:summary><![CDATA[Tim Dillon is a comedian, actor, podcaster, and author. He's the host of "The Tim Dillon Show" and author of "Death by Boomers: How the Worst Generation Destroyed the Planet, but First a Child," scheduled for publication on December 5, 2023. www.timdilloncomedy.com]]></itunes:summary>
+      <itunes:author>Joe Rogan</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>03:15:01</itunes:duration>
+    </item>
+    <item>
       <title>#2018 - Post Malone</title>
       <description>Post Malone is a rapper, singer, songwriter, and producer. His latest album, "Austin," is available now.  www.postmalone.com</description>
       <guid>https://open.spotify.com/episode/4L2mPZUl0K1NR0jnjlYR7V</guid>
