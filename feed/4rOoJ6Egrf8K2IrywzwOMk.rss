@@ -19,6 +19,19 @@
     <ttl>600</ttl>
     <itunes:category text="News"/>
     <item>
+      <title>#2020 - Python Cowboy</title>
+      <description>Mike "Python Cowboy" Kimmel is a licensed wildlife trapper of invasive and dangerous species, contracted python hunter, and owner of Martin County Trapping and Wildlife Rescue. www.pythoncowboy.com</description>
+      <guid>https://open.spotify.com/episode/5uSwv4SpNbnepoCMxobQAw</guid>
+      <pubDate>Fri, 11 Aug 2023 00:00:00 +0000</pubDate>
+      <author>Joe Rogan</author>
+      <enclosure url="https://github.com/MossCation/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2023-08-11-5uSwv4SpNbnepoCMxobQAw.m4a" length="" type="audio/x-m4a"/>
+      <itunes:subtitle>The official podcast of comedian Joe Rogan. Follow The Joe Rogan Clips show page for some of the best moments from the episodes.</itunes:subtitle>
+      <itunes:summary><![CDATA[Mike "Python Cowboy" Kimmel is a licensed wildlife trapper of invasive and dangerous species, contracted python hunter, and owner of Martin County Trapping and Wildlife Rescue. www.pythoncowboy.com]]></itunes:summary>
+      <itunes:author>Joe Rogan</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>01:54:44</itunes:duration>
+    </item>
+    <item>
       <title>#2019 - Tim Dillon</title>
       <description>Tim Dillon is a comedian, actor, podcaster, and author. He's the host of "The Tim Dillon Show" and author of "Death by Boomers: How the Worst Generation Destroyed the Planet, but First a Child," scheduled for publication on December 5, 2023. www.timdilloncomedy.com</description>
       <guid>https://open.spotify.com/episode/1e9LLjYuYcNhJBqm4aYumw</guid>
