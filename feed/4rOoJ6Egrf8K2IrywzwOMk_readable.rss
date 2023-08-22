@@ -19,6 +19,19 @@
     <ttl>600</ttl>
     <itunes:category text="News"/>
     <item>
+      <title>#2023 - Brian Keating</title>
+      <description>Brian Keating is a cosmologist, professor of physics at UC San Diego, host of the podcast "Into the Impossible with Brian Keating," and author of several books, including "Losing the Nobel Prize" and "Into the Impossible: Think Like a Nobel Prize Winner." www.briankeating.com</description>
+      <guid>https://open.spotify.com/episode/6eY2ryN7khNgIZSv9MrpOL</guid>
+      <pubDate>Tue, 22 Aug 2023 00:00:00 +0000</pubDate>
+      <author>Joe Rogan</author>
+      <enclosure url="https://github.com/MossCation/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2023-08-22-6eY2ryN7khNgIZSv9MrpOL.m4a" length="" type="audio/x-m4a"/>
+      <itunes:subtitle>The official podcast of comedian Joe Rogan. Follow The Joe Rogan Clips show page for some of the best moments from the episodes.</itunes:subtitle>
+      <itunes:summary><![CDATA[Brian Keating is a cosmologist, professor of physics at UC San Diego, host of the podcast "Into the Impossible with Brian Keating," and author of several books, including "Losing the Nobel Prize" and "Into the Impossible: Think Like a Nobel Prize Winner." www.briankeating.com]]></itunes:summary>
+      <itunes:author>Joe Rogan</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>03:30:16</itunes:duration>
+    </item>
+    <item>
       <title>JRE MMA Show #145 with Terence Crawford</title>
       <description>Joe sits down with Terence Crawford, a three-time World Boxing Organization Champion, two-time lineal champion, and undisputed champion with titles from the World Boxing Association, International Boxing Federation, World Boxing Organization, and World Boxing Council. www.tbudcrawford.com</description>
       <guid>https://open.spotify.com/episode/260q7fUJAdR8S88JqG9slG</guid>
