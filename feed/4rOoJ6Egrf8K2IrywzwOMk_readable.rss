@@ -19,6 +19,19 @@
     <ttl>600</ttl>
     <itunes:category text="News"/>
     <item>
+      <title>#2036 - Kurt Angle</title>
+      <description>Kurt Angle is an Olympic gold medalist, retired professional wrestler, actor, and host of "The Kurt Angle Show." Watch his new documentary "Angle" streaming on Peacock. www.kurtanglebrand.com</description>
+      <guid>https://open.spotify.com/episode/4AtV76QOmhvufzQgYeLQnh</guid>
+      <pubDate>Tue, 19 Sep 2023 00:00:00 +0000</pubDate>
+      <author>Joe Rogan</author>
+      <enclosure url="https://github.com/MossCation/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2023-09-19-4AtV76QOmhvufzQgYeLQnh.m4a" length="" type="audio/x-m4a"/>
+      <itunes:subtitle>The official podcast of comedian Joe Rogan. Follow The Joe Rogan Clips show page for some of the best moments from the episodes.</itunes:subtitle>
+      <itunes:summary><![CDATA[Kurt Angle is an Olympic gold medalist, retired professional wrestler, actor, and host of "The Kurt Angle Show." Watch his new documentary "Angle" streaming on Peacock. www.kurtanglebrand.com]]></itunes:summary>
+      <itunes:author>Joe Rogan</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>02:34:44</itunes:duration>
+    </item>
+    <item>
       <title>#2035 - Brian Simpson</title>
       <description>Brian Simpson is a stand-up comic who hosts the "Bottom of the Barrel" improvised comedy show at the Comedy Mothership and his own podcast, "BS with Brian Simpson."</description>
       <guid>https://open.spotify.com/episode/2tbLuJ4zSdqtjrnTUa5wMJ</guid>
