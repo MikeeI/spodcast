@@ -19,6 +19,19 @@
     <ttl>600</ttl>
     <itunes:category text="News"/>
     <item>
+      <title>#2039 - Michael Easter</title>
+      <description/>
+      <guid>https://open.spotify.com/episode/2Ohm79xyAa3X4WeOb3S3PH</guid>
+      <pubDate>Tue, 26 Sep 2023 00:00:00 +0000</pubDate>
+      <author>Joe Rogan</author>
+      <enclosure url="https://github.com/MossCation/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2023-09-26-2Ohm79xyAa3X4WeOb3S3PH.m4a" length="" type="audio/x-m4a"/>
+      <itunes:subtitle>The official podcast of comedian Joe Rogan. Follow The Joe Rogan Clips show page for some of the best moments from the episodes.</itunes:subtitle>
+      <itunes:summary><![CDATA[Michael Easter is a health and fitness writer, professor, and author of several books. His latest is "Scarcity Brain: Fix Your Craving Mindset & Rewire your Mindset to Thrive with Enough."https://eastermichael.com]]></itunes:summary>
+      <itunes:author>Joe Rogan</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>02:49:50</itunes:duration>
+    </item>
+    <item>
       <title>JRE MMA Show #146 with Francis Ngannou</title>
       <description>Francis Ngannou is a professional mixed martial artist and boxer currently signed to the Professional Fighters League. Ngannou is scheduled to fight boxer Tyson Fury on October 28. https://francisngannoufoundation.com</description>
       <guid>https://open.spotify.com/episode/7rlqqMHZLSsZewJFhlelXd</guid>
