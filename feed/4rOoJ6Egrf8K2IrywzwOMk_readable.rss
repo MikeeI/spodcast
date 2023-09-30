@@ -19,6 +19,19 @@
     <ttl>600</ttl>
     <itunes:category text="News"/>
     <item>
+      <title>#2042 - Joe List</title>
+      <description>Joe List is a stand-up comic and co-host, along with Mark Normand, of the "Tuesdays with Stories!" podcast. His latest special, "Enough for Everybody," is now available on YouTube.www.comedianjoelist.com</description>
+      <guid>https://open.spotify.com/episode/7mYZoJMeLeckRFlEvXL6XZ</guid>
+      <pubDate>Sat, 30 Sep 2023 00:00:00 +0000</pubDate>
+      <author>Joe Rogan</author>
+      <enclosure url="https://github.com/MossCation/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2023-09-30-7mYZoJMeLeckRFlEvXL6XZ.m4a" length="" type="audio/x-m4a"/>
+      <itunes:subtitle>The official podcast of comedian Joe Rogan. Follow The Joe Rogan Clips show page for some of the best moments from the episodes.</itunes:subtitle>
+      <itunes:summary><![CDATA[Joe List is a stand-up comic and co-host, along with Mark Normand, of the "Tuesdays with Stories!" podcast. His latest special, "Enough for Everybody," is now available on YouTube.www.comedianjoelist.com]]></itunes:summary>
+      <itunes:author>Joe Rogan</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>02:37:38</itunes:duration>
+    </item>
+    <item>
       <title>JRE MMA Show #147 with Sean O'Malley &amp; Tim Welch</title>
       <description/>
       <guid>https://open.spotify.com/episode/5UvfMANRx0lgFPeRt6ph1K</guid>
