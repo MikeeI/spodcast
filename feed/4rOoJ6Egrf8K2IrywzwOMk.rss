@@ -19,6 +19,19 @@
     <ttl>600</ttl>
     <itunes:category text="News"/>
     <item>
+      <title>#2043 - Francis Foster &amp; Konstantine Kisin</title>
+      <description>Francis Foster and Konstantin Kisin are the hosts of the podcast and YouTube program "TRIGGERnometry." www.triggerpod.co.uk</description>
+      <guid>https://open.spotify.com/episode/1JHb9N5Kqha1wPUc2cV2Gu</guid>
+      <pubDate>Wed, 04 Oct 2023 00:00:00 +0000</pubDate>
+      <author>Joe Rogan</author>
+      <enclosure url="https://github.com/MossCation/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2023-10-04-1JHb9N5Kqha1wPUc2cV2Gu.m4a" length="" type="audio/x-m4a"/>
+      <itunes:subtitle>The official podcast of comedian Joe Rogan. Follow The Joe Rogan Clips show page for some of the best moments from the episodes.</itunes:subtitle>
+      <itunes:summary><![CDATA[Francis Foster and Konstantin Kisin are the hosts of the podcast and YouTube program "TRIGGERnometry." www.triggerpod.co.uk]]></itunes:summary>
+      <itunes:author>Joe Rogan</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>03:37:59</itunes:duration>
+    </item>
+    <item>
       <title>#2042 - Joe List</title>
       <description>Joe List is a stand-up comic and co-host, along with Mark Normand, of the "Tuesdays with Stories!" podcast. His latest special, "Enough for Everybody," is now available on YouTube.www.comedianjoelist.com</description>
       <guid>https://open.spotify.com/episode/7mYZoJMeLeckRFlEvXL6XZ</guid>
