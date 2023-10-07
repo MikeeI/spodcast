@@ -19,6 +19,19 @@
     <ttl>600</ttl>
     <itunes:category text="News"/>
     <item>
+      <title>#2045 - Jimmy Carr</title>
+      <description>Jimmy Carr is a stand-up comic, writer, actor, and television host. Carr's most recent special, "His Dark Material," is available on Netflix.  www.jimmycarr.com</description>
+      <guid>https://open.spotify.com/episode/5eKH4a8EOFgLETbC3ZNdkr</guid>
+      <pubDate>Sat, 07 Oct 2023 00:00:00 +0000</pubDate>
+      <author>Joe Rogan</author>
+      <enclosure url="https://github.com/MossCation/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2023-10-07-5eKH4a8EOFgLETbC3ZNdkr.m4a" length="" type="audio/x-m4a"/>
+      <itunes:subtitle>The official podcast of comedian Joe Rogan. Follow The Joe Rogan Clips show page for some of the best moments from the episodes.</itunes:subtitle>
+      <itunes:summary><![CDATA[Jimmy Carr is a stand-up comic, writer, actor, and television host. Carr's most recent special, "His Dark Material," is available on Netflix.  www.jimmycarr.com]]></itunes:summary>
+      <itunes:author>Joe Rogan</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>02:48:21</itunes:duration>
+    </item>
+    <item>
       <title>#2044 - Sam Altman</title>
       <description>Sam Altman is the CEO of OpenAI, an artificial intelligence research and development company. www.openai.com </description>
       <guid>https://open.spotify.com/episode/66edV3LAbUXa26HG1ZQaKB</guid>
