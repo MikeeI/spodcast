@@ -19,6 +19,19 @@
     <ttl>600</ttl>
     <itunes:category text="News"/>
     <item>
+      <title>#2051 - Graham Hancock</title>
+      <description>Graham Hancock is a researcher, journalist, and author of over a dozen books including "Magicians of the Gods" and "Visionary." He can be seen on the Netflix series, "Ancient Apocalypse."www.grahamhancock.com</description>
+      <guid>https://open.spotify.com/episode/5jVsWOz8sYZ09ZBbk1EtpQ</guid>
+      <pubDate>Wed, 25 Oct 2023 00:00:00 +0000</pubDate>
+      <author>Joe Rogan</author>
+      <enclosure url="https://github.com/MossCation/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2023-10-25-5jVsWOz8sYZ09ZBbk1EtpQ.m4a" length="" type="audio/x-m4a"/>
+      <itunes:subtitle>The official podcast of comedian Joe Rogan. Follow The Joe Rogan Clips show page for some of the best moments from the episodes.</itunes:subtitle>
+      <itunes:summary><![CDATA[Graham Hancock is a researcher, journalist, and author of over a dozen books including "Magicians of the Gods" and "Visionary." He can be seen on the Netflix series, "Ancient Apocalypse."www.grahamhancock.com]]></itunes:summary>
+      <itunes:author>Joe Rogan</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>03:14:25</itunes:duration>
+    </item>
+    <item>
       <title>JRE MMA Show #149 with Dan Henderson</title>
       <description>Joe sits down with Dan Henderson, a retired mixed martial artist and olympic wrestler. Check out his new book "Hendo: The American Athlete" now available everywhere. https://dhathleticfitcenter.com/dan-henderson/</description>
       <guid>https://open.spotify.com/episode/3a1wMxP8LZTDC3MQHBeLvT</guid>
