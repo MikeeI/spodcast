@@ -19,6 +19,19 @@
     <ttl>600</ttl>
     <itunes:category text="News"/>
     <item>
+      <title>#2057 - Dale Brisby</title>
+      <description>Dale Brisby is a cowboy, bullrider, rancher, YouTuber, and the star of Netflix's "How to Be a Cowboy." www.rodeotime.com https://www.youtube.com/@DaleBrisbyBullRider</description>
+      <guid>https://open.spotify.com/episode/13LagQ3SH42tisSE2cT1gj</guid>
+      <pubDate>Fri, 03 Nov 2023 00:00:00 +0000</pubDate>
+      <author>Joe Rogan</author>
+      <enclosure url="https://github.com/MossCation/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2023-11-03-13LagQ3SH42tisSE2cT1gj.m4a" length="" type="audio/x-m4a"/>
+      <itunes:subtitle>The official podcast of comedian Joe Rogan. Follow The Joe Rogan Clips show page for some of the best moments from the episodes.</itunes:subtitle>
+      <itunes:summary><![CDATA[Dale Brisby is a cowboy, bullrider, rancher, YouTuber, and the star of Netflix's "How to Be a Cowboy." www.rodeotime.com https://www.youtube.com/@DaleBrisbyBullRider]]></itunes:summary>
+      <itunes:author>Joe Rogan</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>03:00:59</itunes:duration>
+    </item>
+    <item>
       <title>#2056 - David Blaine</title>
       <description>David Blaine is an illusionist, endurance artist, and extreme performer. His new residency, "Impossible," is scheduled to begin at Encore Theater at Wynn Las Vegas on New Years Eve weekend.  www.davidblaine.com</description>
       <guid>https://open.spotify.com/episode/3tcQY5p8LzorckUx8oOuT3</guid>
