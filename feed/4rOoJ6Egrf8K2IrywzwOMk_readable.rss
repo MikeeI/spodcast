@@ -19,6 +19,19 @@
     <ttl>600</ttl>
     <itunes:category text="News"/>
     <item>
+      <title>#2066 - Ralph Barbosa</title>
+      <description>Ralph Barbosa is a stand-up comic. His new comedy special, "Ralph Barbosa: Cowabunga," is available to stream on Netflix.  www.barbosacomedy.com</description>
+      <guid>https://open.spotify.com/episode/1RkhdBypbiic4eHpW5aVMz</guid>
+      <pubDate>Wed, 22 Nov 2023 00:00:00 +0000</pubDate>
+      <author>Joe Rogan</author>
+      <enclosure url="https://github.com/MossCation/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2023-11-22-1RkhdBypbiic4eHpW5aVMz.m4a" length="" type="audio/x-m4a"/>
+      <itunes:subtitle>The official podcast of comedian Joe Rogan. Follow The Joe Rogan Clips show page for some of the best moments from the episodes.</itunes:subtitle>
+      <itunes:summary><![CDATA[Ralph Barbosa is a stand-up comic. His new comedy special, "Ralph Barbosa: Cowabunga," is available to stream on Netflix.  www.barbosacomedy.com]]></itunes:summary>
+      <itunes:author>Joe Rogan</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>02:49:09</itunes:duration>
+    </item>
+    <item>
       <title>#2065 - David Grusch</title>
       <description>David Grusch is a former Air Force intelligence officer, representative of the National Reconnaissance Office to the Unidentified Aerial Phenomena Task Force, and co-lead for Unidentified Aerial Phenomena analysis at the National Geo-Spacial Intelligence Agency. </description>
       <guid>https://open.spotify.com/episode/6D6otpHwnaAc86SS1M8yHm</guid>
