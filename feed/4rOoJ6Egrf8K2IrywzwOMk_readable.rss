@@ -19,6 +19,19 @@
     <ttl>600</ttl>
     <itunes:category text="News"/>
     <item>
+      <title>#2068 - Cameron Hanes</title>
+      <description>Cameron Hanes is a master bowhunter, outdoorsman, elite athlete, author, and host of the podcast “Keep Hammering with Cameron Hanes.” www.cameronhanes.com</description>
+      <guid>https://open.spotify.com/episode/3y6k1Q9fgdJhZsVMXI83Rn</guid>
+      <pubDate>Sat, 25 Nov 2023 00:00:00 +0000</pubDate>
+      <author>Joe Rogan</author>
+      <enclosure url="https://github.com/MossCation/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2023-11-25-3y6k1Q9fgdJhZsVMXI83Rn.m4a" length="" type="audio/x-m4a"/>
+      <itunes:subtitle>The official podcast of comedian Joe Rogan. Follow The Joe Rogan Clips show page for some of the best moments from the episodes.</itunes:subtitle>
+      <itunes:summary><![CDATA[Cameron Hanes is a master bowhunter, outdoorsman, elite athlete, author, and host of the podcast “Keep Hammering with Cameron Hanes.” www.cameronhanes.com]]></itunes:summary>
+      <itunes:author>Joe Rogan</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>02:38:31</itunes:duration>
+    </item>
+    <item>
       <title>#2067 - Dave Smith</title>
       <description>Dave Smith is a stand-up comedian, libertarian political commentator, and podcaster. He's the host of the "Part of the Problem" podcast, as well as a co-host of the "Legion of Skanks” podcast.www.comicdavesmith.com</description>
       <guid>https://open.spotify.com/episode/2VdOITiKENVSqZvZDY0HrV</guid>
