@@ -19,6 +19,19 @@
     <ttl>600</ttl>
     <itunes:category text="News"/>
     <item>
+      <title>#2070 - Evan Hafer</title>
+      <description>Evan Hafer is a Special Forces veteran, founder/CEO of Black Rifle Coffee Company, and one of the hosts of the "Black Rifle Coffee Podcast."https://www.blackriflecoffee.com</description>
+      <guid>https://open.spotify.com/episode/6GMqW5tvQeIQ0FnmUxtfyR</guid>
+      <pubDate>Wed, 29 Nov 2023 00:00:00 +0000</pubDate>
+      <author>Joe Rogan</author>
+      <enclosure url="https://github.com/MossCation/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2023-11-29-6GMqW5tvQeIQ0FnmUxtfyR.m4a" length="" type="audio/x-m4a"/>
+      <itunes:subtitle>The official podcast of comedian Joe Rogan. Follow The Joe Rogan Clips show page for some of the best moments from the episodes.</itunes:subtitle>
+      <itunes:summary><![CDATA[Evan Hafer is a Special Forces veteran, founder/CEO of Black Rifle Coffee Company, and one of the hosts of the "Black Rifle Coffee Podcast."https://www.blackriflecoffee.com]]></itunes:summary>
+      <itunes:author>Joe Rogan</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>02:45:05</itunes:duration>
+    </item>
+    <item>
       <title>#2069 - Dr. Shawn Baker</title>
       <description>Dr. Shawn Baker is a physician, athlete, author of "The Carnivore Diet," host of "The Dr. Shawn Baker Podcast," and co-founder of online medical clinic Revero. https://carnivore.diet/shawn-baker-links/</description>
       <guid>https://open.spotify.com/episode/6BVcDMKLN820nNXYSPcbwv</guid>
