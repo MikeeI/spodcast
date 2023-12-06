@@ -19,6 +19,19 @@
     <ttl>600</ttl>
     <itunes:category text="News"/>
     <item>
+      <title>JRE MMA Show #150 with Daniel Cormier</title>
+      <description>Joe sits down with Daniel Cormier, a two-division UFC world champion, Hall Of Fame fighter, and combat sports commentator. https://www.youtube.com/@DC_MMA</description>
+      <guid>https://open.spotify.com/episode/66OMO52qqj1J4KgwPkbpz0</guid>
+      <pubDate>Wed, 06 Dec 2023 00:00:00 +0000</pubDate>
+      <author>Joe Rogan</author>
+      <enclosure url="https://github.com/MossCation/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2023-12-06-66OMO52qqj1J4KgwPkbpz0.m4a" length="" type="audio/x-m4a"/>
+      <itunes:subtitle>The official podcast of comedian Joe Rogan. Follow The Joe Rogan Clips show page for some of the best moments from the episodes.</itunes:subtitle>
+      <itunes:summary><![CDATA[Joe sits down with Daniel Cormier, a two-division UFC world champion, Hall Of Fame fighter, and combat sports commentator. https://www.youtube.com/@DC_MMA]]></itunes:summary>
+      <itunes:author>Joe Rogan</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>02:29:23</itunes:duration>
+    </item>
+    <item>
       <title>#2072 - Stavros Halkias</title>
       <description>Stavros Halkias is a stand-up comic and host of the podcast "Stavvy's World." Catch his new Netflix comedy special "Fat Rascal" on December 5, 2023. https://www.stavvy.biz</description>
       <guid>https://open.spotify.com/episode/3YoDkbNB97mRCEuZHgAziU</guid>
