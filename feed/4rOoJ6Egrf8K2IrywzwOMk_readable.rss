@@ -19,6 +19,19 @@
     <ttl>600</ttl>
     <itunes:category text="News"/>
     <item>
+      <title>#2073 - Derek, More Plates More Dates</title>
+      <description>Derek is the fitness educator and entrepreneur behind the "More Plates, More Dates" YouTube channel, podcast and companion website. https://moreplatesmoredates.com</description>
+      <guid>https://open.spotify.com/episode/5kO2mjvZKLczGsR53n1JQl</guid>
+      <pubDate>Thu, 07 Dec 2023 00:00:00 +0000</pubDate>
+      <author>Joe Rogan</author>
+      <enclosure url="https://github.com/MossCation/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2023-12-07-5kO2mjvZKLczGsR53n1JQl.m4a" length="" type="audio/x-m4a"/>
+      <itunes:subtitle>The official podcast of comedian Joe Rogan. Follow The Joe Rogan Clips show page for some of the best moments from the episodes.</itunes:subtitle>
+      <itunes:summary><![CDATA[Derek is the fitness educator and entrepreneur behind the "More Plates, More Dates" YouTube channel, podcast and companion website. https://moreplatesmoredates.com]]></itunes:summary>
+      <itunes:author>Joe Rogan</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>03:07:10</itunes:duration>
+    </item>
+    <item>
       <title>JRE MMA Show #150 with Daniel Cormier</title>
       <description>Joe sits down with Daniel Cormier, a two-division UFC world champion, Hall Of Fame fighter, and combat sports commentator. https://www.youtube.com/@DC_MMA</description>
       <guid>https://open.spotify.com/episode/66OMO52qqj1J4KgwPkbpz0</guid>
