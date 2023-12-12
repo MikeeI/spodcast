@@ -19,6 +19,19 @@
     <ttl>600</ttl>
     <itunes:category text="News"/>
     <item>
+      <title>#2074 - Shane Gillis</title>
+      <description>Shane is the co-host of "Matt and Shane's Secret Podcast" with Matt McCusker and one half of the sketch comedy duo "Gilly and Keeves" with John McKeever. Watch his stand-up special "Beautiful Dogs" on Netflix, and catch him as "Gilly" on Peacock's "Bupkis." www.shanemgillis.com</description>
+      <guid>https://open.spotify.com/episode/75Hyo3EW4gvOYxCFuKlKJp</guid>
+      <pubDate>Tue, 12 Dec 2023 00:00:00 +0000</pubDate>
+      <author>Joe Rogan</author>
+      <enclosure url="https://github.com/MossCation/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2023-12-12-75Hyo3EW4gvOYxCFuKlKJp.m4a" length="" type="audio/x-m4a"/>
+      <itunes:subtitle>The official podcast of comedian Joe Rogan. Follow The Joe Rogan Clips show page for some of the best moments from the episodes.</itunes:subtitle>
+      <itunes:summary><![CDATA[Shane is the co-host of "Matt and Shane's Secret Podcast" with Matt McCusker and one half of the sketch comedy duo "Gilly and Keeves" with John McKeever. Watch his stand-up special "Beautiful Dogs" on Netflix, and catch him as "Gilly" on Peacock's "Bupkis." www.shanemgillis.com]]></itunes:summary>
+      <itunes:author>Joe Rogan</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>02:33:28</itunes:duration>
+    </item>
+    <item>
       <title>#2073 - Derek, More Plates More Dates</title>
       <description>Derek is the fitness educator and entrepreneur behind the "More Plates, More Dates" YouTube channel, podcast and companion website. https://moreplatesmoredates.com</description>
       <guid>https://open.spotify.com/episode/5kO2mjvZKLczGsR53n1JQl</guid>
