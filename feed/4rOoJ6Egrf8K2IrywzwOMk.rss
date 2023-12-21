@@ -19,6 +19,19 @@
     <ttl>600</ttl>
     <itunes:category text="News"/>
     <item>
+      <title>JRE MMA Show #151 with Bo Nickal</title>
+      <description>Joe sits down with Bo Nickal, a mixed martial artist currently competing in the UFC middleweight division. https://www.ufc.com/athlete/bo-nickal</description>
+      <guid>https://open.spotify.com/episode/27bHDrb2T47LEO5uuyEeIw</guid>
+      <pubDate>Thu, 21 Dec 2023 00:00:00 +0000</pubDate>
+      <author>Joe Rogan</author>
+      <enclosure url="https://github.com/MossCation/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2023-12-21-27bHDrb2T47LEO5uuyEeIw.m4a" length="" type="audio/x-m4a"/>
+      <itunes:subtitle>The official podcast of comedian Joe Rogan. Follow The Joe Rogan Clips show page for some of the best moments from the episodes.</itunes:subtitle>
+      <itunes:summary><![CDATA[Joe sits down with Bo Nickal, a mixed martial artist currently competing in the UFC middleweight division. https://www.ufc.com/athlete/bo-nickal]]></itunes:summary>
+      <itunes:author>Joe Rogan</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>02:09:16</itunes:duration>
+    </item>
+    <item>
       <title>#2077 - Tim Dillon</title>
       <description>Tim Dillon is a stand-up comedian and host of "The Tim Dillon Show." His comedy special, "Tim Dillon: A Real Hero," is available now on Netflix. Look for his book "Death by Boomers: How the Worst Generation Destroyed the Planet, but First a Child" on April 30, 2024, and catch him as "Manny" in Eli Roth's "Thanksgiving."  www.timdilloncomedy.com</description>
       <guid>https://open.spotify.com/episode/1FGelpcMZFK56PNthtrpBL</guid>
