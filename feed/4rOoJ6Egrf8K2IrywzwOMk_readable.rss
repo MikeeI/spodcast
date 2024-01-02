@@ -19,6 +19,19 @@
     <ttl>600</ttl>
     <itunes:category text="News"/>
     <item>
+      <title>#2081 - Tony Hinchcliffe</title>
+      <description>Tony Hinchcliffe is a stand-up comedian, writer, and actor. He's also the co-host, along with Brian Redban, of the podcast and live YouTube show "Kill Tony."</description>
+      <guid>https://open.spotify.com/episode/2bNyL7oIsL9C1m0LWTMZcT</guid>
+      <pubDate>Tue, 02 Jan 2024 00:00:00 +0000</pubDate>
+      <author>Joe Rogan</author>
+      <enclosure url="https://github.com/MossCation/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2024-01-02-2bNyL7oIsL9C1m0LWTMZcT.m4a" length="" type="audio/x-m4a"/>
+      <itunes:subtitle>The official podcast of comedian Joe Rogan. Follow The Joe Rogan Clips show page for some of the best moments from the episodes.</itunes:subtitle>
+      <itunes:summary><![CDATA[Tony Hinchcliffe is a stand-up comedian, writer, and actor. He's also the co-host, along with Brian Redban, of the podcast and live YouTube show "Kill Tony."]]></itunes:summary>
+      <itunes:author>Joe Rogan</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>03:26:03</itunes:duration>
+    </item>
+    <item>
       <title>#2080 - John Reeves</title>
       <description>John Reeves is an Alaskan gold miner who first came to public prominence on the 2012 National Geographic docu-series "Goldfathers." More recently, his ongoing search for gold uncovered the remains of thousands of Ice Age animals lying beneath the permafrost on his property. The discovery is featured in the 2019 documentary "Boneyard Alaska" and popular Instagram account @theboneyardalaska. www.fairbanksgoldco.com</description>
       <guid>https://open.spotify.com/episode/4CWX8ZLEVl5gYMH9On2fbp</guid>
