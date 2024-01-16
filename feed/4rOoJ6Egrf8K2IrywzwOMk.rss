@@ -19,6 +19,19 @@
     <ttl>600</ttl>
     <itunes:category text="News"/>
     <item>
+      <title>#2087 - Ron White</title>
+      <description>Ron White is a stand-up comic, actor, and author. He is also back on tour, with all available dates at: www.tatersalad.com</description>
+      <guid>https://open.spotify.com/episode/1hPX5WJY6ja6yopgVPBqm4</guid>
+      <pubDate>Tue, 16 Jan 2024 00:00:00 +0000</pubDate>
+      <author>Joe Rogan</author>
+      <enclosure url="https://github.com/MossCation/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2024-01-16-1hPX5WJY6ja6yopgVPBqm4.m4a" length="" type="audio/x-m4a"/>
+      <itunes:subtitle>The official podcast of comedian Joe Rogan. Follow The Joe Rogan Clips show page for some of the best moments from the episodes.</itunes:subtitle>
+      <itunes:summary><![CDATA[Ron White is a stand-up comic, actor, and author. He is also back on tour, with all available dates at: www.tatersalad.com]]></itunes:summary>
+      <itunes:author>Joe Rogan</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>03:03:28</itunes:duration>
+    </item>
+    <item>
       <title>#2086 - Jim Norton</title>
       <description/>
       <guid>https://open.spotify.com/episode/6rUwbHTB9nV0WRzZCBR14F</guid>
