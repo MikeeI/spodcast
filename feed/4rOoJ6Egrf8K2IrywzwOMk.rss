@@ -19,6 +19,19 @@
     <ttl>600</ttl>
     <itunes:category text="News"/>
     <item>
+      <title>JRE MMA Show #153 with Joe Pyfer</title>
+      <description>Joe sits down with Joe Pyfer, a professional mixed martial artist competing in the Middleweight division of the UFC. www.ufc.com/athlete/joe-pyfer</description>
+      <guid>https://open.spotify.com/episode/0Ecq7CT4TaCjd4jR8AFVvy</guid>
+      <pubDate>Thu, 18 Jan 2024 00:00:00 +0000</pubDate>
+      <author>Joe Rogan</author>
+      <enclosure url="https://github.com/MossCation/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2024-01-18-0Ecq7CT4TaCjd4jR8AFVvy.m4a" length="" type="audio/x-m4a"/>
+      <itunes:subtitle>The official podcast of comedian Joe Rogan. Follow The Joe Rogan Clips show page for some of the best moments from the episodes.</itunes:subtitle>
+      <itunes:summary><![CDATA[Joe sits down with Joe Pyfer, a professional mixed martial artist competing in the Middleweight division of the UFC. www.ufc.com/athlete/joe-pyfer]]></itunes:summary>
+      <itunes:author>Joe Rogan</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>02:39:37</itunes:duration>
+    </item>
+    <item>
       <title>#2087 - Ron White</title>
       <description>Ron White is a stand-up comic, actor, and author. He is also back on tour, with all available dates at: www.tatersalad.com</description>
       <guid>https://open.spotify.com/episode/1hPX5WJY6ja6yopgVPBqm4</guid>
@@ -28697,19 +28710,6 @@
       <itunes:duration>01:00:42</itunes:duration>
     </item>
     <item>
-      <title>#43 - Doug Stanhope</title>
-      <description>Joe sits down with Doug Stanhope.</description>
-      <guid>https://open.spotify.com/episode/5JuQ0bTHgzkY2u2D9jDH6a</guid>
-      <pubDate>Thu, 23 Sep 2010 00:00:00 +0000</pubDate>
-      <author>Joe Rogan</author>
-      <enclosure url="https://github.com/MossCation/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2010-09-23-5JuQ0bTHgzkY2u2D9jDH6a.m4a" length="" type="audio/x-m4a"/>
-      <itunes:subtitle>The official podcast of comedian Joe Rogan. Follow The Joe Rogan Clips show page for some of the best moments from the episodes.</itunes:subtitle>
-      <itunes:summary><![CDATA[Joe sits down with Doug Stanhope.]]></itunes:summary>
-      <itunes:author>Joe Rogan</itunes:author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:duration>02:29:30</itunes:duration>
-    </item>
-    <item>
       <title>#41 - Ari Shaffir</title>
       <description>Joe sits down with Ari Shaffir.</description>
       <guid>https://open.spotify.com/episode/1OO2oXJ2KjL3qWdXPO56Kr</guid>
@@ -28786,19 +28786,6 @@
       <itunes:author>Joe Rogan</itunes:author>
       <itunes:explicit>no</itunes:explicit>
       <itunes:duration>02:47:53</itunes:duration>
-    </item>
-    <item>
-      <title>#35 - Joey Diaz, Eddie Bravo</title>
-      <description>Joe sits down with Joey Diaz, and Eddie Bravo.</description>
-      <guid>https://open.spotify.com/episode/6RjZkTltwWX9zbIicZc9cy</guid>
-      <pubDate>Wed, 11 Aug 2010 00:00:00 +0000</pubDate>
-      <author>Joe Rogan</author>
-      <enclosure url="https://github.com/MossCation/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2010-08-11-6RjZkTltwWX9zbIicZc9cy.m4a" length="" type="audio/x-m4a"/>
-      <itunes:subtitle>The official podcast of comedian Joe Rogan. Follow The Joe Rogan Clips show page for some of the best moments from the episodes.</itunes:subtitle>
-      <itunes:summary><![CDATA[Joe sits down with Joey Diaz, and Eddie Bravo.]]></itunes:summary>
-      <itunes:author>Joe Rogan</itunes:author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:duration>01:57:23</itunes:duration>
     </item>
     <item>
       <title>#34 - Doug Benson</title>
