@@ -19,6 +19,19 @@
     <ttl>600</ttl>
     <itunes:category text="News"/>
     <item>
+      <title>#2088 - Yannis Pappas</title>
+      <description>Yannis Pappas is a standup-comic and host of the "Yannis Pappas Hour" podcast. Check out his special "Mom Love" on YouTube.  www.yannispappascomedy.com</description>
+      <guid>https://open.spotify.com/episode/4dbjxVECWt1p2CcGrs7Wen</guid>
+      <pubDate>Fri, 19 Jan 2024 00:00:00 +0000</pubDate>
+      <author>Joe Rogan</author>
+      <enclosure url="https://github.com/MossCation/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2024-01-19-4dbjxVECWt1p2CcGrs7Wen.m4a" length="" type="audio/x-m4a"/>
+      <itunes:subtitle>The official podcast of comedian Joe Rogan. Follow The Joe Rogan Clips show page for some of the best moments from the episodes.</itunes:subtitle>
+      <itunes:summary><![CDATA[Yannis Pappas is a standup-comic and host of the "Yannis Pappas Hour" podcast. Check out his special "Mom Love" on YouTube.  www.yannispappascomedy.com]]></itunes:summary>
+      <itunes:author>Joe Rogan</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>02:32:01</itunes:duration>
+    </item>
+    <item>
       <title>JRE MMA Show #153 with Joe Pyfer</title>
       <description>Joe sits down with Joe Pyfer, a professional mixed martial artist competing in the Middleweight division of the UFC. www.ufc.com/athlete/joe-pyfer</description>
       <guid>https://open.spotify.com/episode/0Ecq7CT4TaCjd4jR8AFVvy</guid>
