@@ -19,6 +19,19 @@
     <ttl>600</ttl>
     <itunes:category text="News"/>
     <item>
+      <title>#2089 - Joey Diaz</title>
+      <description>Joey Diaz is a stand-up comic, writer, and author. He's the host of the podcast "Uncle Joey's Joint with Joey Diaz," co-host of "The Check-In" with Lee Syatt, and author of "Tremendous: The Life of a Comedy Savage." www.joeydiaz.net</description>
+      <guid>https://open.spotify.com/episode/0OzuSfwPTCoPcjhnGsXOJa</guid>
+      <pubDate>Sat, 20 Jan 2024 00:00:00 +0000</pubDate>
+      <author>Joe Rogan</author>
+      <enclosure url="https://github.com/MossCation/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2024-01-20-0OzuSfwPTCoPcjhnGsXOJa.m4a" length="" type="audio/x-m4a"/>
+      <itunes:subtitle>The official podcast of comedian Joe Rogan. Follow The Joe Rogan Clips show page for some of the best moments from the episodes.</itunes:subtitle>
+      <itunes:summary><![CDATA[Joey Diaz is a stand-up comic, writer, and author. He's the host of the podcast "Uncle Joey's Joint with Joey Diaz," co-host of "The Check-In" with Lee Syatt, and author of "Tremendous: The Life of a Comedy Savage." www.joeydiaz.net]]></itunes:summary>
+      <itunes:author>Joe Rogan</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>02:48:42</itunes:duration>
+    </item>
+    <item>
       <title>#2088 - Yannis Pappas</title>
       <description>Yannis Pappas is a standup-comic and host of the "Yannis Pappas Hour" podcast. Check out his special "Mom Love" on YouTube.  www.yannispappascomedy.com</description>
       <guid>https://open.spotify.com/episode/4dbjxVECWt1p2CcGrs7Wen</guid>
