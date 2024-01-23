@@ -19,6 +19,19 @@
     <ttl>600</ttl>
     <itunes:category text="News"/>
     <item>
+      <title>#2090 - Bobby Lee</title>
+      <description>Bobby Lee is a stand-up comic, actor, and podcaster. He's the co-host of "TigerBelly," with Khaylyla Kuhn, and "Bad Friends," with Andrew Santino.  www.bobbylee.live</description>
+      <guid>https://open.spotify.com/episode/5fBsdbJvLXbGmsQrDWN1pB</guid>
+      <pubDate>Tue, 23 Jan 2024 00:00:00 +0000</pubDate>
+      <author>Joe Rogan</author>
+      <enclosure url="https://github.com/MossCation/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2024-01-23-5fBsdbJvLXbGmsQrDWN1pB.m4a" length="" type="audio/x-m4a"/>
+      <itunes:subtitle>The official podcast of comedian Joe Rogan. Follow The Joe Rogan Clips show page for some of the best moments from the episodes.</itunes:subtitle>
+      <itunes:summary><![CDATA[Bobby Lee is a stand-up comic, actor, and podcaster. He's the co-host of "TigerBelly," with Khaylyla Kuhn, and "Bad Friends," with Andrew Santino.  www.bobbylee.live]]></itunes:summary>
+      <itunes:author>Joe Rogan</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>02:15:00</itunes:duration>
+    </item>
+    <item>
       <title>Fight Companion - January 20, 2024</title>
       <description/>
       <guid>https://open.spotify.com/episode/1wlSv6Br30sQf6PdcKy4Nh</guid>
