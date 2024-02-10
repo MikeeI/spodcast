@@ -19,6 +19,19 @@
     <ttl>600</ttl>
     <itunes:category text="News"/>
     <item>
+      <title>#2100 - Cameron Hanes &amp; Steven Rinella</title>
+      <description>Steven Rinella is an outdoorsman, conservationist, writer, and host of "MeatEater."  Cameron Hanes is a master bowhunter, outdoorsman, elite athlete, author, and host of the podcast “Keep Hammering with Cameron Hanes.”  www.themeateater.com www.cameronhanes.com</description>
+      <guid>https://open.spotify.com/episode/2VALTAFqngfixvNc7O6fEC</guid>
+      <pubDate>Fri, 09 Feb 2024 00:00:00 +0000</pubDate>
+      <author>Joe Rogan</author>
+      <enclosure url="https://github.com/MossCation/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2024-02-09-2VALTAFqngfixvNc7O6fEC.m4a" length="" type="audio/x-m4a"/>
+      <itunes:subtitle>The official podcast of comedian Joe Rogan.</itunes:subtitle>
+      <itunes:summary><![CDATA[Steven Rinella is an outdoorsman, conservationist, writer, and host of "MeatEater."  Cameron Hanes is a master bowhunter, outdoorsman, elite athlete, author, and host of the podcast “Keep Hammering with Cameron Hanes.”  www.themeateater.com www.cameronhanes.com]]></itunes:summary>
+      <itunes:author>Joe Rogan</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>03:25:28</itunes:duration>
+    </item>
+    <item>
       <title>#2099 - Aaron Rodgers</title>
       <description>Aaron Rodgers is a quarterback for the New York Jets and 4-time winner of the NFL Most Valuable Player.</description>
       <guid>https://open.spotify.com/episode/69ZsvPAH8EBBDeIfrSDL8v</guid>
