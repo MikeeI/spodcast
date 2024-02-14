@@ -19,6 +19,19 @@
     <ttl>600</ttl>
     <itunes:category text="News"/>
     <item>
+      <title>#2102 - Will Storr</title>
+      <description>Will Storr is a writer, journalist, and photographer. He is the author of several books, the most recent of which is "The Status Game: On Human Life and How to Play It." www.thescienceofstorytelling.com</description>
+      <guid>https://open.spotify.com/episode/221RAH36sgmCCf1XwSzo14</guid>
+      <pubDate>Wed, 14 Feb 2024 00:00:00 +0000</pubDate>
+      <author>Joe Rogan</author>
+      <enclosure url="https://github.com/MossCation/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2024-02-14-221RAH36sgmCCf1XwSzo14.m4a" length="" type="audio/x-m4a"/>
+      <itunes:subtitle>The official podcast of comedian Joe Rogan.</itunes:subtitle>
+      <itunes:summary><![CDATA[Will Storr is a writer, journalist, and photographer. He is the author of several books, the most recent of which is "The Status Game: On Human Life and How to Play It." www.thescienceofstorytelling.com]]></itunes:summary>
+      <itunes:author>Joe Rogan</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>02:36:17</itunes:duration>
+    </item>
+    <item>
       <title>#2101 - Bret Weinstein</title>
       <description>Dr. Bret Weinstein is an evolutionary biologist, podcaster, and author. He co-wrote "A Hunter-Gatherer's Guide to the 21st Century: Evolution and the Challenges of Modern Life" with his wife, Dr. Heather Heying, who is also a biologist. They both host the podcast "The DarkHorse Podcast."www.bretweinstein.net</description>
       <guid>https://open.spotify.com/episode/4NvSQBFMo70NYyp3R7MPXy</guid>
