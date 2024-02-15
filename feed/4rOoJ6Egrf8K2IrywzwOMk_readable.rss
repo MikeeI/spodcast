@@ -19,14 +19,27 @@
     <ttl>600</ttl>
     <itunes:category text="News"/>
     <item>
+      <title>#2103 - Sam Morrill</title>
+      <description>Sam Morril is a stand-up comic, writer, and actor. He's the co-host of the "We Might Be Drunk" podcast with Mark Normand. Catch his special, "Sam Morril: Same Time Tomorrow," on Netflix.  www.sammorril.com</description>
+      <guid>https://open.spotify.com/episode/2rICSeUrpyxUxVKE2RLGjA</guid>
+      <pubDate>Thu, 15 Feb 2024 00:00:00 +0000</pubDate>
+      <author>Joe Rogan</author>
+      <enclosure url="https://github.com/MossCation/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2024-02-15-2rICSeUrpyxUxVKE2RLGjA.m4a" length="" type="audio/x-m4a"/>
+      <itunes:subtitle>The official podcast of comedian Joe Rogan.</itunes:subtitle>
+      <itunes:summary><![CDATA[Sam Morril is a stand-up comic, writer, and actor. He's the co-host of the "We Might Be Drunk" podcast with Mark Normand. Catch his special, "Sam Morril: Same Time Tomorrow," on Netflix.  www.sammorril.com]]></itunes:summary>
+      <itunes:author>Joe Rogan</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>03:30:57</itunes:duration>
+    </item>
+    <item>
       <title>#2102 - Will Storr</title>
-      <description>Will Storr is a writer, journalist, and photographer. He is the author of several books, the most recent of which is "The Status Game: On Human Life and How to Play It." www.thescienceofstorytelling.com</description>
+      <description>Will Storr is a former journalist and author. He is the author of several books, the most recent of which is "The Status Game: On Human Life and How to Play It." www.thescienceofstorytelling.com</description>
       <guid>https://open.spotify.com/episode/221RAH36sgmCCf1XwSzo14</guid>
       <pubDate>Wed, 14 Feb 2024 00:00:00 +0000</pubDate>
       <author>Joe Rogan</author>
       <enclosure url="https://github.com/MossCation/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2024-02-14-221RAH36sgmCCf1XwSzo14.m4a" length="" type="audio/x-m4a"/>
       <itunes:subtitle>The official podcast of comedian Joe Rogan.</itunes:subtitle>
-      <itunes:summary><![CDATA[Will Storr is a writer, journalist, and photographer. He is the author of several books, the most recent of which is "The Status Game: On Human Life and How to Play It." www.thescienceofstorytelling.com]]></itunes:summary>
+      <itunes:summary><![CDATA[Will Storr is a former journalist and author. He is the author of several books, the most recent of which is "The Status Game: On Human Life and How to Play It." www.thescienceofstorytelling.com]]></itunes:summary>
       <itunes:author>Joe Rogan</itunes:author>
       <itunes:explicit>no</itunes:explicit>
       <itunes:duration>02:36:17</itunes:duration>
