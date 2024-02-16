@@ -19,6 +19,19 @@
     <ttl>600</ttl>
     <itunes:category text="News"/>
     <item>
+      <title>#2104 - Chris Williamson</title>
+      <description>Chris Williamson is a podcaster, YouTuber, and club promoter. He's the host of the "Modern Wisdom" podcast.www.chriswillx.com</description>
+      <guid>https://open.spotify.com/episode/7iLniD7dXRCJVzvP8IPCtf</guid>
+      <pubDate>Fri, 16 Feb 2024 00:00:00 +0000</pubDate>
+      <author>Joe Rogan</author>
+      <enclosure url="https://github.com/MossCation/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2024-02-16-7iLniD7dXRCJVzvP8IPCtf.m4a" length="" type="audio/x-m4a"/>
+      <itunes:subtitle>The official podcast of comedian Joe Rogan.</itunes:subtitle>
+      <itunes:summary><![CDATA[Chris Williamson is a podcaster, YouTuber, and club promoter. He's the host of the "Modern Wisdom" podcast.www.chriswillx.com]]></itunes:summary>
+      <itunes:author>Joe Rogan</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>03:05:20</itunes:duration>
+    </item>
+    <item>
       <title>#2103 - Sam Morrill</title>
       <description>Sam Morril is a stand-up comic, writer, and actor. He's the co-host of the "We Might Be Drunk" podcast with Mark Normand. Catch his special, "Sam Morril: Same Time Tomorrow," on Netflix.  www.sammorril.com</description>
       <guid>https://open.spotify.com/episode/2rICSeUrpyxUxVKE2RLGjA</guid>
