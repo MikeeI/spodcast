@@ -19,6 +19,19 @@
     <ttl>600</ttl>
     <itunes:category text="News"/>
     <item>
+      <title>#2105 - Dr. Phil</title>
+      <description>Dr. Phil McGraw is an author and psychologist. He is the host of "Dr. Phil Primetime" on Merit Street Media and the podcast "Phil in the Blanks." His newest book is "We've Got Issues: How You Can Stand Strong for America's Soul and Sanity."  www.drphil.com</description>
+      <guid>https://open.spotify.com/episode/3m4XOpTSsvhtlk0MLIgP3U</guid>
+      <pubDate>Tue, 20 Feb 2024 00:00:00 +0000</pubDate>
+      <author>Joe Rogan</author>
+      <enclosure url="https://github.com/MossCation/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2024-02-20-3m4XOpTSsvhtlk0MLIgP3U.m4a" length="" type="audio/x-m4a"/>
+      <itunes:subtitle>The official podcast of comedian Joe Rogan.</itunes:subtitle>
+      <itunes:summary><![CDATA[Dr. Phil McGraw is an author and psychologist. He is the host of "Dr. Phil Primetime" on Merit Street Media and the podcast "Phil in the Blanks." His newest book is "We've Got Issues: How You Can Stand Strong for America's Soul and Sanity."  www.drphil.com]]></itunes:summary>
+      <itunes:author>Joe Rogan</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>02:28:56</itunes:duration>
+    </item>
+    <item>
       <title>#2104 - Chris Williamson</title>
       <description>Chris Williamson is a podcaster, YouTuber, and club promoter. He's the host of the "Modern Wisdom" podcast.https://chriswillx.com/modernwisdom</description>
       <guid>https://open.spotify.com/episode/7iLniD7dXRCJVzvP8IPCtf</guid>
