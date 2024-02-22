@@ -19,6 +19,19 @@
     <ttl>600</ttl>
     <itunes:category text="News"/>
     <item>
+      <title>#2106 - Kid Rock</title>
+      <description>Kid Rock is a musician, singer, rapper, and songwriter. His most recent album is "Bad Reputation." See him live on the "Rock the Country" festival tour.  www.rockthecountry.com www.kidrock.com</description>
+      <guid>https://open.spotify.com/episode/4kKB6DITuJzj1sin6Ihj8Z</guid>
+      <pubDate>Thu, 22 Feb 2024 00:00:00 +0000</pubDate>
+      <author>Joe Rogan</author>
+      <enclosure url="https://github.com/MossCation/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2024-02-22-4kKB6DITuJzj1sin6Ihj8Z.m4a" length="" type="audio/x-m4a"/>
+      <itunes:subtitle>The official podcast of comedian Joe Rogan.</itunes:subtitle>
+      <itunes:summary><![CDATA[Kid Rock is a musician, singer, rapper, and songwriter. His most recent album is "Bad Reputation." See him live on the "Rock the Country" festival tour.  www.rockthecountry.com www.kidrock.com]]></itunes:summary>
+      <itunes:author>Joe Rogan</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>03:27:25</itunes:duration>
+    </item>
+    <item>
       <title>#2105 - Dr. Phil</title>
       <description>Dr. Phil McGraw is an author and psychologist. He is the host of "Dr. Phil Primetime" on Merit Street Media and the podcast "Phil in the Blanks." His newest book is "We've Got Issues: How You Can Stand Strong for America's Soul and Sanity."  www.drphil.com</description>
       <guid>https://open.spotify.com/episode/3m4XOpTSsvhtlk0MLIgP3U</guid>
