@@ -19,6 +19,19 @@
     <ttl>600</ttl>
     <itunes:category text="News"/>
     <item>
+      <title>#2108 - Tom Green</title>
+      <description>Tom Green is a comedian, actor, musician, filmmaker, and podcaster. Catch him on "The Tom Green Podcast" or live on tour in 2024. www.tomgreen.com</description>
+      <guid>https://open.spotify.com/episode/3OctGE3XOuFJgaAztxMKFZ</guid>
+      <pubDate>Sat, 24 Feb 2024 00:00:00 +0000</pubDate>
+      <author>Joe Rogan</author>
+      <enclosure url="https://github.com/MossCation/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2024-02-24-3OctGE3XOuFJgaAztxMKFZ.m4a" length="" type="audio/x-m4a"/>
+      <itunes:subtitle>The official podcast of comedian Joe Rogan.</itunes:subtitle>
+      <itunes:summary><![CDATA[Tom Green is a comedian, actor, musician, filmmaker, and podcaster. Catch him on "The Tom Green Podcast" or live on tour in 2024. www.tomgreen.com]]></itunes:summary>
+      <itunes:author>Joe Rogan</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>03:08:03</itunes:duration>
+    </item>
+    <item>
       <title>#2107 - Billy Walters</title>
       <description>Billy Walters is one of the most successful American sports bettors of all time, as well as an entrepreneur, philanthropist, and author. His new book is "Gambler: Secrets From a Life at Risk." www.realbillywalters.com</description>
       <guid>https://open.spotify.com/episode/1mHVkhRGp0gPvByS6u0Q5r</guid>
