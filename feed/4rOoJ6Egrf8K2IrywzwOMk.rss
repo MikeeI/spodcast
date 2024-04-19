@@ -12,12 +12,25 @@
     <itunes:owner>
       <itunes:name>Joe Rogan</itunes:name>
     </itunes:owner>
-    <itunes:image href="https://i.scdn.co/image/ab6765630000ba8a74c376c9ee7ffe58ce4c17a2"/>
+    <itunes:image href="https://i.scdn.co/image/ab6765630000ba8a20741e027668636723359069"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:block>Yes</itunes:block>
     <generator>iTunes</generator>
     <ttl>600</ttl>
     <itunes:category text="News"/>
+    <item>
+      <title>#2138 - Tucker Carlson</title>
+      <description>Tucker Carlson is the host of the "Tucker Carlson Podcast" and the leading voice in American politics. After spending nearly 30 years in cable news as a host at Fox News, MSNBC, and CNN, he is reshaping the media landscape with his newly founded online media company, Tucker Carlson Network, dedicated to telling the truth. www.tuckercarlson.comhttps://twitter.com/TuckerCarlsonhttps://www.youtube.com/@TuckerCarlson Learn more about your ad choices. Visit podcastchoices.com/adchoices</description>
+      <guid>https://open.spotify.com/episode/2ThIfbGXWTxBITTsj18aBw</guid>
+      <pubDate>Fri, 19 Apr 2024 00:00:00 +0000</pubDate>
+      <author>Joe Rogan</author>
+      <enclosure url="https://github.com/MossCation/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2024-04-19-2ThIfbGXWTxBITTsj18aBw.m4a" length="" type="audio/x-m4a"/>
+      <itunes:subtitle>The official podcast of comedian Joe Rogan.</itunes:subtitle>
+      <itunes:summary><![CDATA[Tucker Carlson is the host of the "Tucker Carlson Podcast" and the leading voice in American politics. After spending nearly 30 years in cable news as a host at Fox News, MSNBC, and CNN, he is reshaping the media landscape with his newly founded online media company, Tucker Carlson Network, dedicated to telling the truth. www.tuckercarlson.comhttps://twitter.com/TuckerCarlsonhttps://www.youtube.com/@TuckerCarlson Learn more about your ad choices. Visit podcastchoices.com/adchoices]]></itunes:summary>
+      <itunes:author>Joe Rogan</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>03:07:57</itunes:duration>
+    </item>
     <item>
       <title>#2137 - Michelle Dowd</title>
       <description>Michelle Dowd is the author of "Forager: Field Notes on Surviving a Family Cult," revealing her life growing up on an isolated mountain within an apocalyptic cult, and how she found her way out by gleaning strength from the wilderness.https://www.michelledowd.org/https://twitter.com/Michelledowd2 Learn more about your ad choices. Visit podcastchoices.com/adchoices</description>
