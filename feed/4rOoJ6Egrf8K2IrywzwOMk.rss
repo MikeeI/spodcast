@@ -10835,19 +10835,6 @@
       <itunes:duration>01:15:23</itunes:duration>
     </item>
     <item>
-      <title>#1475 - Bridget Phetasy</title>
-      <description/>
-      <guid>https://open.spotify.com/episode/0ToPccuUB4fBZ2cAbn74O7</guid>
-      <pubDate>Sat, 16 May 2020 00:00:00 +0000</pubDate>
-      <author>Joe Rogan</author>
-      <enclosure url="https://github.com/MossCation/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2020-05-16-0ToPccuUB4fBZ2cAbn74O7.m4a" length="" type="audio/x-m4a"/>
-      <itunes:subtitle>The official podcast of comedian Joe Rogan.</itunes:subtitle>
-      <itunes:summary><![CDATA[Bridget Phetasy is a writer and comedian. Check out her show “Dumpster Fire” & her podcast called “Walk-Ins Welcome". Learn more about your ad choices. Visit podcastchoices.com/adchoices]]></itunes:summary>
-      <itunes:author>Joe Rogan</itunes:author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:duration>03:17:20</itunes:duration>
-    </item>
-    <item>
       <title>Fight Companion - May 16, 2020</title>
       <description/>
       <guid>https://open.spotify.com/episode/7JyI4VVR0kotXMuidg0E9Y</guid>
@@ -10859,6 +10846,19 @@
       <itunes:author>Joe Rogan</itunes:author>
       <itunes:explicit>no</itunes:explicit>
       <itunes:duration>04:03:51</itunes:duration>
+    </item>
+    <item>
+      <title>#1475 - Bridget Phetasy</title>
+      <description/>
+      <guid>https://open.spotify.com/episode/0ToPccuUB4fBZ2cAbn74O7</guid>
+      <pubDate>Sat, 16 May 2020 00:00:00 +0000</pubDate>
+      <author>Joe Rogan</author>
+      <enclosure url="https://github.com/MossCation/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2020-05-16-0ToPccuUB4fBZ2cAbn74O7.m4a" length="" type="audio/x-m4a"/>
+      <itunes:subtitle>The official podcast of comedian Joe Rogan.</itunes:subtitle>
+      <itunes:summary><![CDATA[Bridget Phetasy is a writer and comedian. Check out her show “Dumpster Fire” & her podcast called “Walk-Ins Welcome". Learn more about your ad choices. Visit podcastchoices.com/adchoices]]></itunes:summary>
+      <itunes:author>Joe Rogan</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>03:17:20</itunes:duration>
     </item>
     <item>
       <title>#1474 - Dr. Rhonda Patrick</title>
@@ -12395,19 +12395,6 @@
       <itunes:duration>02:21:04</itunes:duration>
     </item>
     <item>
-      <title>#1372 - Kevin Smith</title>
-      <description>Kevin Smith is a filmmaker, actor, comedian, public speaker, comic book writer, author, and podcaster. Look for his movie "Jay and Silent Bob Reboot" on tour now with tickets available at https://rebootroadshow.com/ Learn more about your ad choices. Visit podcastchoices.com/adchoices</description>
-      <guid>https://open.spotify.com/episode/6oy02F0bsfoEawf287tN9L</guid>
-      <pubDate>Tue, 29 Oct 2019 00:00:00 +0000</pubDate>
-      <author>Joe Rogan</author>
-      <enclosure url="https://github.com/MossCation/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2019-10-29-6oy02F0bsfoEawf287tN9L.m4a" length="" type="audio/x-m4a"/>
-      <itunes:subtitle>The official podcast of comedian Joe Rogan.</itunes:subtitle>
-      <itunes:summary><![CDATA[Kevin Smith is a filmmaker, actor, comedian, public speaker, comic book writer, author, and podcaster. Look for his movie "Jay and Silent Bob Reboot" on tour now with tickets available at https://rebootroadshow.com/ Learn more about your ad choices. Visit podcastchoices.com/adchoices]]></itunes:summary>
-      <itunes:author>Joe Rogan</itunes:author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:duration>01:59:45</itunes:duration>
-    </item>
-    <item>
       <title>#1371 - Andrew Santino</title>
       <description>Andrew Santino is a stand up comedian and actor. Check out his podcast “Whiskey Ginger" available on Spotify. Learn more about your ad choices. Visit podcastchoices.com/adchoices</description>
       <guid>https://open.spotify.com/episode/1fWVQSntoZbt6nWeUrIVxE</guid>
@@ -12419,6 +12406,19 @@
       <itunes:author>Joe Rogan</itunes:author>
       <itunes:explicit>no</itunes:explicit>
       <itunes:duration>02:00:05</itunes:duration>
+    </item>
+    <item>
+      <title>#1372 - Kevin Smith</title>
+      <description>Kevin Smith is a filmmaker, actor, comedian, public speaker, comic book writer, author, and podcaster. Look for his movie "Jay and Silent Bob Reboot" on tour now with tickets available at https://rebootroadshow.com/ Learn more about your ad choices. Visit podcastchoices.com/adchoices</description>
+      <guid>https://open.spotify.com/episode/6oy02F0bsfoEawf287tN9L</guid>
+      <pubDate>Tue, 29 Oct 2019 00:00:00 +0000</pubDate>
+      <author>Joe Rogan</author>
+      <enclosure url="https://github.com/MossCation/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2019-10-29-6oy02F0bsfoEawf287tN9L.m4a" length="" type="audio/x-m4a"/>
+      <itunes:subtitle>The official podcast of comedian Joe Rogan.</itunes:subtitle>
+      <itunes:summary><![CDATA[Kevin Smith is a filmmaker, actor, comedian, public speaker, comic book writer, author, and podcaster. Look for his movie "Jay and Silent Bob Reboot" on tour now with tickets available at https://rebootroadshow.com/ Learn more about your ad choices. Visit podcastchoices.com/adchoices]]></itunes:summary>
+      <itunes:author>Joe Rogan</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>01:59:45</itunes:duration>
     </item>
     <item>
       <title>JRE MMA Show #81 with Dave Leduc</title>
@@ -12447,19 +12447,6 @@
       <itunes:duration>02:03:49</itunes:duration>
     </item>
     <item>
-      <title>#1369 - Christopher Ryan</title>
-      <description>Christopher Ryan, PhD is a psychologist, speaker, and author of New York Times best seller “Sex At Dawn” and he also hosts a podcast called “Tangentially Speaking" available on Spotify. His latest book “Civilized To Death” is available now: https://www.amazon.com/Civilized-Death-What-Lost-Modernity/dp/1451659105 Learn more about your ad choices. Visit podcastchoices.com/adchoices</description>
-      <guid>https://open.spotify.com/episode/2Swb3yMedLvELf2YVVL4FE</guid>
-      <pubDate>Wed, 23 Oct 2019 00:00:00 +0000</pubDate>
-      <author>Joe Rogan</author>
-      <enclosure url="https://github.com/MossCation/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2019-10-23-2Swb3yMedLvELf2YVVL4FE.m4a" length="" type="audio/x-m4a"/>
-      <itunes:subtitle>The official podcast of comedian Joe Rogan.</itunes:subtitle>
-      <itunes:summary><![CDATA[Christopher Ryan, PhD is a psychologist, speaker, and author of New York Times best seller “Sex At Dawn” and he also hosts a podcast called “Tangentially Speaking" available on Spotify. His latest book “Civilized To Death” is available now: https://www.amazon.com/Civilized-Death-What-Lost-Modernity/dp/1451659105 Learn more about your ad choices. Visit podcastchoices.com/adchoices]]></itunes:summary>
-      <itunes:author>Joe Rogan</itunes:author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:duration>02:17:49</itunes:duration>
-    </item>
-    <item>
       <title>#1368 - Edward Snowden</title>
       <description>Edward Snowden is an American whistleblower who copied and leaked highly classified information from the National Security Agency in 2013 when he was a Central Intelligence Agency employee and subcontractor. His new book "Permanent Record" is now available. Learn more about your ad choices. Visit podcastchoices.com/adchoices</description>
       <guid>https://open.spotify.com/episode/7MaJD5vZsNSNrKQVEk5gbD</guid>
@@ -12471,6 +12458,19 @@
       <itunes:author>Joe Rogan</itunes:author>
       <itunes:explicit>no</itunes:explicit>
       <itunes:duration>02:49:31</itunes:duration>
+    </item>
+    <item>
+      <title>#1369 - Christopher Ryan</title>
+      <description>Christopher Ryan, PhD is a psychologist, speaker, and author of New York Times best seller “Sex At Dawn” and he also hosts a podcast called “Tangentially Speaking" available on Spotify. His latest book “Civilized To Death” is available now: https://www.amazon.com/Civilized-Death-What-Lost-Modernity/dp/1451659105 Learn more about your ad choices. Visit podcastchoices.com/adchoices</description>
+      <guid>https://open.spotify.com/episode/2Swb3yMedLvELf2YVVL4FE</guid>
+      <pubDate>Wed, 23 Oct 2019 00:00:00 +0000</pubDate>
+      <author>Joe Rogan</author>
+      <enclosure url="https://github.com/MossCation/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2019-10-23-2Swb3yMedLvELf2YVVL4FE.m4a" length="" type="audio/x-m4a"/>
+      <itunes:subtitle>The official podcast of comedian Joe Rogan.</itunes:subtitle>
+      <itunes:summary><![CDATA[Christopher Ryan, PhD is a psychologist, speaker, and author of New York Times best seller “Sex At Dawn” and he also hosts a podcast called “Tangentially Speaking" available on Spotify. His latest book “Civilized To Death” is available now: https://www.amazon.com/Civilized-Death-What-Lost-Modernity/dp/1451659105 Learn more about your ad choices. Visit podcastchoices.com/adchoices]]></itunes:summary>
+      <itunes:author>Joe Rogan</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>02:17:49</itunes:duration>
     </item>
     <item>
       <title>#1367 - Bridget Phetasy</title>
@@ -12902,19 +12902,6 @@
       <itunes:duration>02:04:09</itunes:duration>
     </item>
     <item>
-      <title>#1339 - Everlast</title>
-      <description>Everlast is a Grammy Award-winning American rapper, singer, and songwriter. His new project “Everlast presents Whitey Ford’s House of Pain” is available now on Spotify. Learn more about your ad choices. Visit podcastchoices.com/adchoices</description>
-      <guid>https://open.spotify.com/episode/6u6bSRSbzbLfY1ttdmHKee</guid>
-      <pubDate>Wed, 21 Aug 2019 00:00:00 +0000</pubDate>
-      <author>Joe Rogan</author>
-      <enclosure url="https://github.com/MossCation/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2019-08-21-6u6bSRSbzbLfY1ttdmHKee.m4a" length="" type="audio/x-m4a"/>
-      <itunes:subtitle>The official podcast of comedian Joe Rogan.</itunes:subtitle>
-      <itunes:summary><![CDATA[Everlast is a Grammy Award-winning American rapper, singer, and songwriter. His new project “Everlast presents Whitey Ford’s House of Pain” is available now on Spotify. Learn more about your ad choices. Visit podcastchoices.com/adchoices]]></itunes:summary>
-      <itunes:author>Joe Rogan</itunes:author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:duration>03:13:24</itunes:duration>
-    </item>
-    <item>
       <title>#1338 - Roy Wood Jr.</title>
       <description>Roy Wood Jr. is a comedian, writer, and actor. He has served as a correspondent for The Daily Show on Comedy Central since 2015. Learn more about your ad choices. Visit podcastchoices.com/adchoices</description>
       <guid>https://open.spotify.com/episode/20mH39d9EYbmjbImPQ9AyO</guid>
@@ -12926,6 +12913,19 @@
       <itunes:author>Joe Rogan</itunes:author>
       <itunes:explicit>no</itunes:explicit>
       <itunes:duration>02:50:19</itunes:duration>
+    </item>
+    <item>
+      <title>#1339 - Everlast</title>
+      <description>Everlast is a Grammy Award-winning American rapper, singer, and songwriter. His new project “Everlast presents Whitey Ford’s House of Pain” is available now on Spotify. Learn more about your ad choices. Visit podcastchoices.com/adchoices</description>
+      <guid>https://open.spotify.com/episode/6u6bSRSbzbLfY1ttdmHKee</guid>
+      <pubDate>Wed, 21 Aug 2019 00:00:00 +0000</pubDate>
+      <author>Joe Rogan</author>
+      <enclosure url="https://github.com/MossCation/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2019-08-21-6u6bSRSbzbLfY1ttdmHKee.m4a" length="" type="audio/x-m4a"/>
+      <itunes:subtitle>The official podcast of comedian Joe Rogan.</itunes:subtitle>
+      <itunes:summary><![CDATA[Everlast is a Grammy Award-winning American rapper, singer, and songwriter. His new project “Everlast presents Whitey Ford’s House of Pain” is available now on Spotify. Learn more about your ad choices. Visit podcastchoices.com/adchoices]]></itunes:summary>
+      <itunes:author>Joe Rogan</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>03:13:24</itunes:duration>
     </item>
     <item>
       <title>#1337 - Dan Crenshaw</title>
@@ -12941,19 +12941,6 @@
       <itunes:duration>02:36:10</itunes:duration>
     </item>
     <item>
-      <title>#1336 - Legion Of Skanks</title>
-      <description>Legion Of Skanks has been called “the most offensive podcast on Earth” and the hosts and creators are stand up comedians - Big Jay Oakerson, Luis J. Gomez, and Dave Smith. Listen now on Spotify. Learn more about your ad choices. Visit podcastchoices.com/adchoices</description>
-      <guid>https://open.spotify.com/episode/0Kjchtwh6z6sWhBbN3tXe3</guid>
-      <pubDate>Mon, 19 Aug 2019 00:00:00 +0000</pubDate>
-      <author>Joe Rogan</author>
-      <enclosure url="https://github.com/MossCation/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2019-08-19-0Kjchtwh6z6sWhBbN3tXe3.m4a" length="" type="audio/x-m4a"/>
-      <itunes:subtitle>The official podcast of comedian Joe Rogan.</itunes:subtitle>
-      <itunes:summary><![CDATA[Legion Of Skanks has been called “the most offensive podcast on Earth” and the hosts and creators are stand up comedians - Big Jay Oakerson, Luis J. Gomez, and Dave Smith. Listen now on Spotify. Learn more about your ad choices. Visit podcastchoices.com/adchoices]]></itunes:summary>
-      <itunes:author>Joe Rogan</itunes:author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:duration>02:49:45</itunes:duration>
-    </item>
-    <item>
       <title>JRE MMA Show #76 with Terence Crawford</title>
       <description>Joe is joined by current WBO Welterweight champion, Terence Crawford and his coach, Brian “Bo-Mack” McIntyre. Learn more about your ad choices. Visit podcastchoices.com/adchoices</description>
       <guid>https://open.spotify.com/episode/16mCQU6RRdPjekxGPH28GP</guid>
@@ -12965,6 +12952,19 @@
       <itunes:author>Joe Rogan</itunes:author>
       <itunes:explicit>no</itunes:explicit>
       <itunes:duration>01:38:35</itunes:duration>
+    </item>
+    <item>
+      <title>#1336 - Legion Of Skanks</title>
+      <description>Legion Of Skanks has been called “the most offensive podcast on Earth” and the hosts and creators are stand up comedians - Big Jay Oakerson, Luis J. Gomez, and Dave Smith. Listen now on Spotify. Learn more about your ad choices. Visit podcastchoices.com/adchoices</description>
+      <guid>https://open.spotify.com/episode/0Kjchtwh6z6sWhBbN3tXe3</guid>
+      <pubDate>Mon, 19 Aug 2019 00:00:00 +0000</pubDate>
+      <author>Joe Rogan</author>
+      <enclosure url="https://github.com/MossCation/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2019-08-19-0Kjchtwh6z6sWhBbN3tXe3.m4a" length="" type="audio/x-m4a"/>
+      <itunes:subtitle>The official podcast of comedian Joe Rogan.</itunes:subtitle>
+      <itunes:summary><![CDATA[Legion Of Skanks has been called “the most offensive podcast on Earth” and the hosts and creators are stand up comedians - Big Jay Oakerson, Luis J. Gomez, and Dave Smith. Listen now on Spotify. Learn more about your ad choices. Visit podcastchoices.com/adchoices]]></itunes:summary>
+      <itunes:author>Joe Rogan</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>02:49:45</itunes:duration>
     </item>
     <item>
       <title>JRE MMA Show #75 with Dan Hardy</title>
@@ -13149,19 +13149,6 @@
       <itunes:duration>01:42:37</itunes:duration>
     </item>
     <item>
-      <title>#1325 - Dr. Cornel West</title>
-      <description>Dr. Cornel West is a philosopher, political activist, social critic, author, and public intellectual. He is Professor of the Practice of Public Philosophy at Harvard University and holds the title of Professor Emeritus at Princeton University. He has also taught at Union Theological Seminary, Yale, Harvard, and the University of Paris. Learn more about your ad choices. Visit podcastchoices.com/adchoices</description>
-      <guid>https://open.spotify.com/episode/1GLdDzLc2OXDTyKEhizaQk</guid>
-      <pubDate>Wed, 24 Jul 2019 00:00:00 +0000</pubDate>
-      <author>Joe Rogan</author>
-      <enclosure url="https://github.com/MossCation/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2019-07-24-1GLdDzLc2OXDTyKEhizaQk.m4a" length="" type="audio/x-m4a"/>
-      <itunes:subtitle>The official podcast of comedian Joe Rogan.</itunes:subtitle>
-      <itunes:summary><![CDATA[Dr. Cornel West is a philosopher, political activist, social critic, author, and public intellectual. He is Professor of the Practice of Public Philosophy at Harvard University and holds the title of Professor Emeritus at Princeton University. He has also taught at Union Theological Seminary, Yale, Harvard, and the University of Paris. Learn more about your ad choices. Visit podcastchoices.com/adchoices]]></itunes:summary>
-      <itunes:author>Joe Rogan</itunes:author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:duration>01:58:20</itunes:duration>
-    </item>
-    <item>
       <title>JRE MMA Show #71 with Rico Verhoeven</title>
       <description>Joe is joined by Glory Kickboxing Heavyweight Champion Rico Verhoeven. Learn more about your ad choices. Visit podcastchoices.com/adchoices</description>
       <guid>https://open.spotify.com/episode/5qUsRvz5S76oFkg5KregAb</guid>
@@ -13175,17 +13162,17 @@
       <itunes:duration>01:20:15</itunes:duration>
     </item>
     <item>
-      <title>JRE MMA Show #70 with Aljamain Sterling</title>
-      <description>Joe is joined by UFC Bantamweight fighter Aljamain Sterling. Learn more about your ad choices. Visit podcastchoices.com/adchoices</description>
-      <guid>https://open.spotify.com/episode/3PKlDt5UZsX7ENbsCAtiZn</guid>
-      <pubDate>Thu, 11 Jul 2019 00:00:00 +0000</pubDate>
+      <title>#1325 - Dr. Cornel West</title>
+      <description>Dr. Cornel West is a philosopher, political activist, social critic, author, and public intellectual. He is Professor of the Practice of Public Philosophy at Harvard University and holds the title of Professor Emeritus at Princeton University. He has also taught at Union Theological Seminary, Yale, Harvard, and the University of Paris. Learn more about your ad choices. Visit podcastchoices.com/adchoices</description>
+      <guid>https://open.spotify.com/episode/1GLdDzLc2OXDTyKEhizaQk</guid>
+      <pubDate>Wed, 24 Jul 2019 00:00:00 +0000</pubDate>
       <author>Joe Rogan</author>
-      <enclosure url="https://github.com/MossCation/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2019-07-11-3PKlDt5UZsX7ENbsCAtiZn.m4a" length="" type="audio/x-m4a"/>
+      <enclosure url="https://github.com/MossCation/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2019-07-24-1GLdDzLc2OXDTyKEhizaQk.m4a" length="" type="audio/x-m4a"/>
       <itunes:subtitle>The official podcast of comedian Joe Rogan.</itunes:subtitle>
-      <itunes:summary><![CDATA[Joe is joined by UFC Bantamweight fighter Aljamain Sterling. Learn more about your ad choices. Visit podcastchoices.com/adchoices]]></itunes:summary>
+      <itunes:summary><![CDATA[Dr. Cornel West is a philosopher, political activist, social critic, author, and public intellectual. He is Professor of the Practice of Public Philosophy at Harvard University and holds the title of Professor Emeritus at Princeton University. He has also taught at Union Theological Seminary, Yale, Harvard, and the University of Paris. Learn more about your ad choices. Visit podcastchoices.com/adchoices]]></itunes:summary>
       <itunes:author>Joe Rogan</itunes:author>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:duration>02:36:16</itunes:duration>
+      <itunes:duration>01:58:20</itunes:duration>
     </item>
     <item>
       <title>#1324 - Ian Edwards</title>
@@ -13199,6 +13186,19 @@
       <itunes:author>Joe Rogan</itunes:author>
       <itunes:explicit>no</itunes:explicit>
       <itunes:duration>02:30:30</itunes:duration>
+    </item>
+    <item>
+      <title>JRE MMA Show #70 with Aljamain Sterling</title>
+      <description>Joe is joined by UFC Bantamweight fighter Aljamain Sterling. Learn more about your ad choices. Visit podcastchoices.com/adchoices</description>
+      <guid>https://open.spotify.com/episode/3PKlDt5UZsX7ENbsCAtiZn</guid>
+      <pubDate>Thu, 11 Jul 2019 00:00:00 +0000</pubDate>
+      <author>Joe Rogan</author>
+      <enclosure url="https://github.com/MossCation/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2019-07-11-3PKlDt5UZsX7ENbsCAtiZn.m4a" length="" type="audio/x-m4a"/>
+      <itunes:subtitle>The official podcast of comedian Joe Rogan.</itunes:subtitle>
+      <itunes:summary><![CDATA[Joe is joined by UFC Bantamweight fighter Aljamain Sterling. Learn more about your ad choices. Visit podcastchoices.com/adchoices]]></itunes:summary>
+      <itunes:author>Joe Rogan</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>02:36:16</itunes:duration>
     </item>
     <item>
       <title>#1323 - Andy Ngo</title>
@@ -13396,19 +13396,6 @@
       <itunes:duration>01:39:28</itunes:duration>
     </item>
     <item>
-      <title>#1311 - David Pakman</title>
-      <description/>
-      <guid>https://open.spotify.com/episode/6uVHqIKToX5DrHObMvm0c4</guid>
-      <pubDate>Wed, 05 Jun 2019 00:00:00 +0000</pubDate>
-      <author>Joe Rogan</author>
-      <enclosure url="https://github.com/MossCation/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2019-06-05-6uVHqIKToX5DrHObMvm0c4.m4a" length="" type="audio/x-m4a"/>
-      <itunes:subtitle>The official podcast of comedian Joe Rogan.</itunes:subtitle>
-      <itunes:summary><![CDATA[David Pakman is a television & radio host, political commentator, and YouTube personality. He is the host of the internationally syndicated political television and talk radio program "The David Pakman Show". Learn more about your ad choices. Visit podcastchoices.com/adchoices]]></itunes:summary>
-      <itunes:author>Joe Rogan</itunes:author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:duration>02:05:22</itunes:duration>
-    </item>
-    <item>
       <title>JRE MMA Show #67 with Kevin Lee</title>
       <description>Joe is joined by UFC Welterweight fighter Kevin Lee. Learn more about your ad choices. Visit podcastchoices.com/adchoices</description>
       <guid>https://open.spotify.com/episode/0WoSoYOCP458P0DB2zkFNY</guid>
@@ -13420,6 +13407,19 @@
       <itunes:author>Joe Rogan</itunes:author>
       <itunes:explicit>no</itunes:explicit>
       <itunes:duration>02:06:56</itunes:duration>
+    </item>
+    <item>
+      <title>#1311 - David Pakman</title>
+      <description/>
+      <guid>https://open.spotify.com/episode/6uVHqIKToX5DrHObMvm0c4</guid>
+      <pubDate>Wed, 05 Jun 2019 00:00:00 +0000</pubDate>
+      <author>Joe Rogan</author>
+      <enclosure url="https://github.com/MossCation/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2019-06-05-6uVHqIKToX5DrHObMvm0c4.m4a" length="" type="audio/x-m4a"/>
+      <itunes:subtitle>The official podcast of comedian Joe Rogan.</itunes:subtitle>
+      <itunes:summary><![CDATA[David Pakman is a television & radio host, political commentator, and YouTube personality. He is the host of the internationally syndicated political television and talk radio program "The David Pakman Show". Learn more about your ad choices. Visit podcastchoices.com/adchoices]]></itunes:summary>
+      <itunes:author>Joe Rogan</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>02:05:22</itunes:duration>
     </item>
     <item>
       <title>#1310 - Sober October 2019 Preview</title>
@@ -13929,19 +13929,6 @@
       <itunes:duration>02:04:45</itunes:duration>
     </item>
     <item>
-      <title>#1277 - Gabrielle Reece</title>
-      <description>Gabrielle Reece is a world-renowned athlete, TV personality, New York Times bestselling author, and model. Together with her husband Laird, they launched a new all-encompassing fitness program called XPT. http://www.xptlife.com Learn more about your ad choices. Visit podcastchoices.com/adchoices</description>
-      <guid>https://open.spotify.com/episode/2Ag30gtZuGQio0j1aM2tvt</guid>
-      <pubDate>Wed, 03 Apr 2019 00:00:00 +0000</pubDate>
-      <author>Joe Rogan</author>
-      <enclosure url="https://github.com/MossCation/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2019-04-03-2Ag30gtZuGQio0j1aM2tvt.m4a" length="" type="audio/x-m4a"/>
-      <itunes:subtitle>The official podcast of comedian Joe Rogan.</itunes:subtitle>
-      <itunes:summary><![CDATA[Gabrielle Reece is a world-renowned athlete, TV personality, New York Times bestselling author, and model. Together with her husband Laird, they launched a new all-encompassing fitness program called XPT. http://www.xptlife.com Learn more about your ad choices. Visit podcastchoices.com/adchoices]]></itunes:summary>
-      <itunes:author>Joe Rogan</itunes:author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:duration>02:29:00</itunes:duration>
-    </item>
-    <item>
       <title>#1276 - Ben Shapiro</title>
       <description>Ben Shapiro is editor-in-chief of the Daily Wire, syndicated columnist, and host of “The Ben Shapiro Show." His new book "The Right Side Of History" is available now everywhere. Learn more about your ad choices. Visit podcastchoices.com/adchoices</description>
       <guid>https://open.spotify.com/episode/6SK7cn8mK8VPRywrErUeMt</guid>
@@ -13955,17 +13942,17 @@
       <itunes:duration>02:34:21</itunes:duration>
     </item>
     <item>
-      <title>#1275 - Luis J. Gomez</title>
-      <description>Luis J. Gomez is a stand up comedian and producer. He's part of the Legion of Skanks and also co-hosts "Believe You Me" podcast with Michael Bisping available on Spotify. His new special "Luis J. Gomez Presents Luis J. Gomez" is now available for download. https://www.luisjgomezpresentsluisjgomez.com/ Learn more about your ad choices. Visit podcastchoices.com/adchoices</description>
-      <guid>https://open.spotify.com/episode/1SfH0Cde7xgXfmzhBXNgpw</guid>
-      <pubDate>Tue, 02 Apr 2019 00:00:00 +0000</pubDate>
+      <title>#1277 - Gabrielle Reece</title>
+      <description>Gabrielle Reece is a world-renowned athlete, TV personality, New York Times bestselling author, and model. Together with her husband Laird, they launched a new all-encompassing fitness program called XPT. http://www.xptlife.com Learn more about your ad choices. Visit podcastchoices.com/adchoices</description>
+      <guid>https://open.spotify.com/episode/2Ag30gtZuGQio0j1aM2tvt</guid>
+      <pubDate>Wed, 03 Apr 2019 00:00:00 +0000</pubDate>
       <author>Joe Rogan</author>
-      <enclosure url="https://github.com/MossCation/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2019-04-02-1SfH0Cde7xgXfmzhBXNgpw.m4a" length="" type="audio/x-m4a"/>
+      <enclosure url="https://github.com/MossCation/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2019-04-03-2Ag30gtZuGQio0j1aM2tvt.m4a" length="" type="audio/x-m4a"/>
       <itunes:subtitle>The official podcast of comedian Joe Rogan.</itunes:subtitle>
-      <itunes:summary><![CDATA[Luis J. Gomez is a stand up comedian and producer. He's part of the Legion of Skanks and also co-hosts "Believe You Me" podcast with Michael Bisping available on Spotify. His new special "Luis J. Gomez Presents Luis J. Gomez" is now available for download. https://www.luisjgomezpresentsluisjgomez.com/ Learn more about your ad choices. Visit podcastchoices.com/adchoices]]></itunes:summary>
+      <itunes:summary><![CDATA[Gabrielle Reece is a world-renowned athlete, TV personality, New York Times bestselling author, and model. Together with her husband Laird, they launched a new all-encompassing fitness program called XPT. http://www.xptlife.com Learn more about your ad choices. Visit podcastchoices.com/adchoices]]></itunes:summary>
       <itunes:author>Joe Rogan</itunes:author>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:duration>02:56:00</itunes:duration>
+      <itunes:duration>02:29:00</itunes:duration>
     </item>
     <item>
       <title>JRE MMA Show #60 with Forrest Griffin, Clint Wattenberg &amp; Dr. Duncan French</title>
@@ -13981,6 +13968,19 @@
       <itunes:duration>01:49:56</itunes:duration>
     </item>
     <item>
+      <title>#1275 - Luis J. Gomez</title>
+      <description>Luis J. Gomez is a stand up comedian and producer. He's part of the Legion of Skanks and also co-hosts "Believe You Me" podcast with Michael Bisping available on Spotify. His new special "Luis J. Gomez Presents Luis J. Gomez" is now available for download. https://www.luisjgomezpresentsluisjgomez.com/ Learn more about your ad choices. Visit podcastchoices.com/adchoices</description>
+      <guid>https://open.spotify.com/episode/1SfH0Cde7xgXfmzhBXNgpw</guid>
+      <pubDate>Tue, 02 Apr 2019 00:00:00 +0000</pubDate>
+      <author>Joe Rogan</author>
+      <enclosure url="https://github.com/MossCation/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2019-04-02-1SfH0Cde7xgXfmzhBXNgpw.m4a" length="" type="audio/x-m4a"/>
+      <itunes:subtitle>The official podcast of comedian Joe Rogan.</itunes:subtitle>
+      <itunes:summary><![CDATA[Luis J. Gomez is a stand up comedian and producer. He's part of the Legion of Skanks and also co-hosts "Believe You Me" podcast with Michael Bisping available on Spotify. His new special "Luis J. Gomez Presents Luis J. Gomez" is now available for download. https://www.luisjgomezpresentsluisjgomez.com/ Learn more about your ad choices. Visit podcastchoices.com/adchoices]]></itunes:summary>
+      <itunes:author>Joe Rogan</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>02:56:00</itunes:duration>
+    </item>
+    <item>
       <title>#1274 - Nicholas Christakis</title>
       <description>Nicholas Christakis is a sociologist and physician known for his research on social networks and on the socioeconomic, biosocial, and evolutionary determinants of behavior, health, and longevity. He is the Sterling Professor of Social and Natural Science at Yale University, where he directs the Human Nature Lab. He is also the Co-Director of the Yale Institute for Network Science. Learn more about your ad choices. Visit podcastchoices.com/adchoices</description>
       <guid>https://open.spotify.com/episode/6gtoA62BKsLO0TsSu8Y0XF</guid>
@@ -13994,19 +13994,6 @@
       <itunes:duration>02:21:44</itunes:duration>
     </item>
     <item>
-      <title>#1272 - Lindsey Fitzharris</title>
-      <description>Dr. Lindsey Fitzharris is an author and medical historian. She is the creator of the popular blog, The Chirurgeon's Apprentice and the host of the YouTube video series Under the Knife. Her book "The Butchering Art: Joseph Lister's Quest to Transform the Grisly World of Victorian Medicine" is available now via Amazon.  https://www.youtube.com/user/UnderTheKnifeShow Learn more about your ad choices. Visit podcastchoices.com/adchoices</description>
-      <guid>https://open.spotify.com/episode/36dglJiPrD6lDBFz5fcdvP</guid>
-      <pubDate>Tue, 26 Mar 2019 00:00:00 +0000</pubDate>
-      <author>Joe Rogan</author>
-      <enclosure url="https://github.com/MossCation/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2019-03-26-36dglJiPrD6lDBFz5fcdvP.m4a" length="" type="audio/x-m4a"/>
-      <itunes:subtitle>The official podcast of comedian Joe Rogan.</itunes:subtitle>
-      <itunes:summary><![CDATA[Dr. Lindsey Fitzharris is an author and medical historian. She is the creator of the popular blog, The Chirurgeon's Apprentice and the host of the YouTube video series Under the Knife. Her book "The Butchering Art: Joseph Lister's Quest to Transform the Grisly World of Victorian Medicine" is available now via Amazon.  https://www.youtube.com/user/UnderTheKnifeShow Learn more about your ad choices. Visit podcastchoices.com/adchoices]]></itunes:summary>
-      <itunes:author>Joe Rogan</itunes:author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:duration>01:48:20</itunes:duration>
-    </item>
-    <item>
       <title>#1273 - Ron Funches</title>
       <description>Ron Funches is a comedian, actor and writer. His new special "Giggle Fit" is available now to download via Comedy Central, Amazon, and iTunes. Learn more about your ad choices. Visit podcastchoices.com/adchoices</description>
       <guid>https://open.spotify.com/episode/1HE6ARsQ53Y6D8njjupT61</guid>
@@ -14018,6 +14005,19 @@
       <itunes:author>Joe Rogan</itunes:author>
       <itunes:explicit>no</itunes:explicit>
       <itunes:duration>02:16:27</itunes:duration>
+    </item>
+    <item>
+      <title>#1272 - Lindsey Fitzharris</title>
+      <description>Dr. Lindsey Fitzharris is an author and medical historian. She is the creator of the popular blog, The Chirurgeon's Apprentice and the host of the YouTube video series Under the Knife. Her book "The Butchering Art: Joseph Lister's Quest to Transform the Grisly World of Victorian Medicine" is available now via Amazon.  https://www.youtube.com/user/UnderTheKnifeShow Learn more about your ad choices. Visit podcastchoices.com/adchoices</description>
+      <guid>https://open.spotify.com/episode/36dglJiPrD6lDBFz5fcdvP</guid>
+      <pubDate>Tue, 26 Mar 2019 00:00:00 +0000</pubDate>
+      <author>Joe Rogan</author>
+      <enclosure url="https://github.com/MossCation/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2019-03-26-36dglJiPrD6lDBFz5fcdvP.m4a" length="" type="audio/x-m4a"/>
+      <itunes:subtitle>The official podcast of comedian Joe Rogan.</itunes:subtitle>
+      <itunes:summary><![CDATA[Dr. Lindsey Fitzharris is an author and medical historian. She is the creator of the popular blog, The Chirurgeon's Apprentice and the host of the YouTube video series Under the Knife. Her book "The Butchering Art: Joseph Lister's Quest to Transform the Grisly World of Victorian Medicine" is available now via Amazon.  https://www.youtube.com/user/UnderTheKnifeShow Learn more about your ad choices. Visit podcastchoices.com/adchoices]]></itunes:summary>
+      <itunes:author>Joe Rogan</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>01:48:20</itunes:duration>
     </item>
     <item>
       <title>#1271 - Billy Corben</title>
@@ -14137,19 +14137,6 @@
       <itunes:duration>01:28:13</itunes:duration>
     </item>
     <item>
-      <title>#1262 - Pat McNamara</title>
-      <description>Pat McNamara spent 22 years in the United States Army in many special operations units. He is currently training people in tactical marksmanship and combat strength. Learn more about your ad choices. Visit podcastchoices.com/adchoices</description>
-      <guid>https://open.spotify.com/episode/7vKrh0R4oHOs5ZMnMh8EOD</guid>
-      <pubDate>Tue, 12 Mar 2019 00:00:00 +0000</pubDate>
-      <author>Joe Rogan</author>
-      <enclosure url="https://github.com/MossCation/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2019-03-12-7vKrh0R4oHOs5ZMnMh8EOD.m4a" length="" type="audio/x-m4a"/>
-      <itunes:subtitle>The official podcast of comedian Joe Rogan.</itunes:subtitle>
-      <itunes:summary><![CDATA[Pat McNamara spent 22 years in the United States Army in many special operations units. He is currently training people in tactical marksmanship and combat strength. Learn more about your ad choices. Visit podcastchoices.com/adchoices]]></itunes:summary>
-      <itunes:author>Joe Rogan</itunes:author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:duration>01:42:13</itunes:duration>
-    </item>
-    <item>
       <title>#1263 - Renée DiResta</title>
       <description>Renée DiResta is the Director of Research at New Knowledge and a Mozilla Fellow in Media, Misinformation, and Trust. Learn more about your ad choices. Visit podcastchoices.com/adchoices</description>
       <guid>https://open.spotify.com/episode/5VX7FJGIYr1eKSEagOeb22</guid>
@@ -14161,6 +14148,19 @@
       <itunes:author>Joe Rogan</itunes:author>
       <itunes:explicit>no</itunes:explicit>
       <itunes:duration>02:07:49</itunes:duration>
+    </item>
+    <item>
+      <title>#1262 - Pat McNamara</title>
+      <description>Pat McNamara spent 22 years in the United States Army in many special operations units. He is currently training people in tactical marksmanship and combat strength. Learn more about your ad choices. Visit podcastchoices.com/adchoices</description>
+      <guid>https://open.spotify.com/episode/7vKrh0R4oHOs5ZMnMh8EOD</guid>
+      <pubDate>Tue, 12 Mar 2019 00:00:00 +0000</pubDate>
+      <author>Joe Rogan</author>
+      <enclosure url="https://github.com/MossCation/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2019-03-12-7vKrh0R4oHOs5ZMnMh8EOD.m4a" length="" type="audio/x-m4a"/>
+      <itunes:subtitle>The official podcast of comedian Joe Rogan.</itunes:subtitle>
+      <itunes:summary><![CDATA[Pat McNamara spent 22 years in the United States Army in many special operations units. He is currently training people in tactical marksmanship and combat strength. Learn more about your ad choices. Visit podcastchoices.com/adchoices]]></itunes:summary>
+      <itunes:author>Joe Rogan</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>01:42:13</itunes:duration>
     </item>
     <item>
       <title>#1261 - Peter Hotez</title>
@@ -14644,6 +14644,19 @@
       <itunes:duration>02:52:18</itunes:duration>
     </item>
     <item>
+      <title>#1226 - Mike Baker</title>
+      <description>Mike Baker is a former CIA covert operations officer. Currently he is the president of Diligence LLC, a global intelligence and security firm. Learn more about your ad choices. Visit podcastchoices.com/adchoices</description>
+      <guid>https://open.spotify.com/episode/4BNYQwMGI7lLs4u7GtG7gC</guid>
+      <pubDate>Thu, 17 Jan 2019 00:00:00 +0000</pubDate>
+      <author>Joe Rogan</author>
+      <enclosure url="https://github.com/MossCation/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2019-01-17-4BNYQwMGI7lLs4u7GtG7gC.m4a" length="" type="audio/x-m4a"/>
+      <itunes:subtitle>The official podcast of comedian Joe Rogan.</itunes:subtitle>
+      <itunes:summary><![CDATA[Mike Baker is a former CIA covert operations officer. Currently he is the president of Diligence LLC, a global intelligence and security firm. Learn more about your ad choices. Visit podcastchoices.com/adchoices]]></itunes:summary>
+      <itunes:author>Joe Rogan</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>02:21:54</itunes:duration>
+    </item>
+    <item>
       <title>JRE MMA Show #56 with Brendan Schaub</title>
       <description>Joe is joined by Brendan Schaub to discuss some upcoming fights. Learn more about your ad choices. Visit podcastchoices.com/adchoices</description>
       <guid>https://open.spotify.com/episode/61UOAoD2LQMgcxySn9jv9r</guid>
@@ -14668,19 +14681,6 @@
       <itunes:author>Joe Rogan</itunes:author>
       <itunes:explicit>no</itunes:explicit>
       <itunes:duration>01:27:19</itunes:duration>
-    </item>
-    <item>
-      <title>#1226 - Mike Baker</title>
-      <description>Mike Baker is a former CIA covert operations officer. Currently he is the president of Diligence LLC, a global intelligence and security firm. Learn more about your ad choices. Visit podcastchoices.com/adchoices</description>
-      <guid>https://open.spotify.com/episode/4BNYQwMGI7lLs4u7GtG7gC</guid>
-      <pubDate>Thu, 17 Jan 2019 00:00:00 +0000</pubDate>
-      <author>Joe Rogan</author>
-      <enclosure url="https://github.com/MossCation/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2019-01-17-4BNYQwMGI7lLs4u7GtG7gC.m4a" length="" type="audio/x-m4a"/>
-      <itunes:subtitle>The official podcast of comedian Joe Rogan.</itunes:subtitle>
-      <itunes:summary><![CDATA[Mike Baker is a former CIA covert operations officer. Currently he is the president of Diligence LLC, a global intelligence and security firm. Learn more about your ad choices. Visit podcastchoices.com/adchoices]]></itunes:summary>
-      <itunes:author>Joe Rogan</itunes:author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:duration>02:21:54</itunes:duration>
     </item>
     <item>
       <title>#1225 - Theo Von</title>
@@ -15333,19 +15333,6 @@
       <itunes:duration>02:03:34</itunes:duration>
     </item>
     <item>
-      <title>#1184 - Roseanne Barr</title>
-      <description>Roseanne Barr is a comedian, actress, writer, television producer, director. Learn more about your ad choices. Visit podcastchoices.com/adchoices</description>
-      <guid>https://open.spotify.com/episode/0T1HBzOr84AEorpadDjRvF</guid>
-      <pubDate>Thu, 11 Oct 2018 00:00:00 +0000</pubDate>
-      <author>Joe Rogan</author>
-      <enclosure url="https://github.com/MossCation/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2018-10-11-0T1HBzOr84AEorpadDjRvF.m4a" length="" type="audio/x-m4a"/>
-      <itunes:subtitle>The official podcast of comedian Joe Rogan.</itunes:subtitle>
-      <itunes:summary><![CDATA[Roseanne Barr is a comedian, actress, writer, television producer, director. Learn more about your ad choices. Visit podcastchoices.com/adchoices]]></itunes:summary>
-      <itunes:author>Joe Rogan</itunes:author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:duration>02:13:07</itunes:duration>
-    </item>
-    <item>
       <title>#1183 - Andrew Santino</title>
       <description>Andrew Santino is a stand up comedian and actor. You can also see him on PROPS presented by Yahoo Sports, with episodes every Wednesday - https://bit.ly/2NAfM1j Learn more about your ad choices. Visit podcastchoices.com/adchoices</description>
       <guid>https://open.spotify.com/episode/4orLqeuuaIymZJWb9HN1Du</guid>
@@ -15357,6 +15344,19 @@
       <itunes:author>Joe Rogan</itunes:author>
       <itunes:explicit>no</itunes:explicit>
       <itunes:duration>02:45:32</itunes:duration>
+    </item>
+    <item>
+      <title>#1184 - Roseanne Barr</title>
+      <description>Roseanne Barr is a comedian, actress, writer, television producer, director. Learn more about your ad choices. Visit podcastchoices.com/adchoices</description>
+      <guid>https://open.spotify.com/episode/0T1HBzOr84AEorpadDjRvF</guid>
+      <pubDate>Thu, 11 Oct 2018 00:00:00 +0000</pubDate>
+      <author>Joe Rogan</author>
+      <enclosure url="https://github.com/MossCation/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2018-10-11-0T1HBzOr84AEorpadDjRvF.m4a" length="" type="audio/x-m4a"/>
+      <itunes:subtitle>The official podcast of comedian Joe Rogan.</itunes:subtitle>
+      <itunes:summary><![CDATA[Roseanne Barr is a comedian, actress, writer, television producer, director. Learn more about your ad choices. Visit podcastchoices.com/adchoices]]></itunes:summary>
+      <itunes:author>Joe Rogan</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>02:13:07</itunes:duration>
     </item>
     <item>
       <title>#1182 - Nick Kroll</title>
@@ -15424,19 +15424,6 @@
       <itunes:duration>02:50:56</itunes:duration>
     </item>
     <item>
-      <title>#1178 - Dr. Rhonda Patrick</title>
-      <description>Dr. Rhonda Patrick is a Ph.D in biomedical science and expert on nutritional health. Her podcasts and other videos can be found at http://FoundMyFitness.com Learn more about your ad choices. Visit podcastchoices.com/adchoices</description>
-      <guid>https://open.spotify.com/episode/6Hu2zUJTNwGtClQnGyMy9O</guid>
-      <pubDate>Tue, 02 Oct 2018 00:00:00 +0000</pubDate>
-      <author>Joe Rogan</author>
-      <enclosure url="https://github.com/MossCation/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2018-10-02-6Hu2zUJTNwGtClQnGyMy9O.m4a" length="" type="audio/x-m4a"/>
-      <itunes:subtitle>The official podcast of comedian Joe Rogan.</itunes:subtitle>
-      <itunes:summary><![CDATA[Dr. Rhonda Patrick is a Ph.D in biomedical science and expert on nutritional health. Her podcasts and other videos can be found at http://FoundMyFitness.com Learn more about your ad choices. Visit podcastchoices.com/adchoices]]></itunes:summary>
-      <itunes:author>Joe Rogan</itunes:author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:duration>02:47:45</itunes:duration>
-    </item>
-    <item>
       <title>JRE MMA Show #43 with Brendan Schaub</title>
       <description>Joe is joined by Brendan Schaub to preview UFC #229 and some more future fights. Learn more about your ad choices. Visit podcastchoices.com/adchoices</description>
       <guid>https://open.spotify.com/episode/18OMcL9LbI49SPflSYh7Kh</guid>
@@ -15448,6 +15435,19 @@
       <itunes:author>Joe Rogan</itunes:author>
       <itunes:explicit>no</itunes:explicit>
       <itunes:duration>02:14:02</itunes:duration>
+    </item>
+    <item>
+      <title>#1178 - Dr. Rhonda Patrick</title>
+      <description>Dr. Rhonda Patrick is a Ph.D in biomedical science and expert on nutritional health. Her podcasts and other videos can be found at http://FoundMyFitness.com Learn more about your ad choices. Visit podcastchoices.com/adchoices</description>
+      <guid>https://open.spotify.com/episode/6Hu2zUJTNwGtClQnGyMy9O</guid>
+      <pubDate>Tue, 02 Oct 2018 00:00:00 +0000</pubDate>
+      <author>Joe Rogan</author>
+      <enclosure url="https://github.com/MossCation/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2018-10-02-6Hu2zUJTNwGtClQnGyMy9O.m4a" length="" type="audio/x-m4a"/>
+      <itunes:subtitle>The official podcast of comedian Joe Rogan.</itunes:subtitle>
+      <itunes:summary><![CDATA[Dr. Rhonda Patrick is a Ph.D in biomedical science and expert on nutritional health. Her podcasts and other videos can be found at http://FoundMyFitness.com Learn more about your ad choices. Visit podcastchoices.com/adchoices]]></itunes:summary>
+      <itunes:author>Joe Rogan</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>02:47:45</itunes:duration>
     </item>
     <item>
       <title>#1177 - Sober October 2</title>
@@ -15593,19 +15593,6 @@
       <itunes:duration>02:37:03</itunes:duration>
     </item>
     <item>
-      <title>#1168 - Mareko Maumasi</title>
-      <description>Mareko Maumasi is a bladesmith and custom knife maker. https://www.maumasifirearts.com/ Learn more about your ad choices. Visit podcastchoices.com/adchoices</description>
-      <guid>https://open.spotify.com/episode/2lMOPoYWKeO9C6FvJLesSp</guid>
-      <pubDate>Thu, 06 Sep 2018 00:00:00 +0000</pubDate>
-      <author>Joe Rogan</author>
-      <enclosure url="https://github.com/MossCation/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2018-09-06-2lMOPoYWKeO9C6FvJLesSp.m4a" length="" type="audio/x-m4a"/>
-      <itunes:subtitle>The official podcast of comedian Joe Rogan.</itunes:subtitle>
-      <itunes:summary><![CDATA[Mareko Maumasi is a bladesmith and custom knife maker. https://www.maumasifirearts.com/ Learn more about your ad choices. Visit podcastchoices.com/adchoices]]></itunes:summary>
-      <itunes:author>Joe Rogan</itunes:author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:duration>01:52:26</itunes:duration>
-    </item>
-    <item>
       <title>JRE MMA Show #40 with Eddie Bravo</title>
       <description>Joe is joined by Eddie Bravo to talk about the fight world. Learn more about your ad choices. Visit podcastchoices.com/adchoices</description>
       <guid>https://open.spotify.com/episode/1HrBdXnUv9uNtqnSsNC0r1</guid>
@@ -15617,6 +15604,19 @@
       <itunes:author>Joe Rogan</itunes:author>
       <itunes:explicit>no</itunes:explicit>
       <itunes:duration>02:01:56</itunes:duration>
+    </item>
+    <item>
+      <title>#1168 - Mareko Maumasi</title>
+      <description>Mareko Maumasi is a bladesmith and custom knife maker. https://www.maumasifirearts.com/ Learn more about your ad choices. Visit podcastchoices.com/adchoices</description>
+      <guid>https://open.spotify.com/episode/2lMOPoYWKeO9C6FvJLesSp</guid>
+      <pubDate>Thu, 06 Sep 2018 00:00:00 +0000</pubDate>
+      <author>Joe Rogan</author>
+      <enclosure url="https://github.com/MossCation/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2018-09-06-2lMOPoYWKeO9C6FvJLesSp.m4a" length="" type="audio/x-m4a"/>
+      <itunes:subtitle>The official podcast of comedian Joe Rogan.</itunes:subtitle>
+      <itunes:summary><![CDATA[Mareko Maumasi is a bladesmith and custom knife maker. https://www.maumasifirearts.com/ Learn more about your ad choices. Visit podcastchoices.com/adchoices]]></itunes:summary>
+      <itunes:author>Joe Rogan</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>01:52:26</itunes:duration>
     </item>
     <item>
       <title>#1167 - Larry Sharpe</title>
@@ -15736,19 +15736,6 @@
       <itunes:duration>01:49:44</itunes:duration>
     </item>
     <item>
-      <title>#1159 - Neil deGrasse Tyson</title>
-      <description>Neil deGrasse Tyson is an astrophysicist, cosmologist, author, and science communicator. Learn more about your ad choices. Visit podcastchoices.com/adchoices</description>
-      <guid>https://open.spotify.com/episode/6yjxExOSU9UvcAVkonaps4</guid>
-      <pubDate>Wed, 22 Aug 2018 00:00:00 +0000</pubDate>
-      <author>Joe Rogan</author>
-      <enclosure url="https://github.com/MossCation/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2018-08-22-6yjxExOSU9UvcAVkonaps4.m4a" length="" type="audio/x-m4a"/>
-      <itunes:subtitle>The official podcast of comedian Joe Rogan.</itunes:subtitle>
-      <itunes:summary><![CDATA[Neil deGrasse Tyson is an astrophysicist, cosmologist, author, and science communicator. Learn more about your ad choices. Visit podcastchoices.com/adchoices]]></itunes:summary>
-      <itunes:author>Joe Rogan</itunes:author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:duration>03:21:08</itunes:duration>
-    </item>
-    <item>
       <title>#1158 - Chuck Palahniuk</title>
       <description>Chuck Palahniuk is a novelist and freelance journalist, who describes his work as "transgressional" fiction. He is the author of the award-winning novel Fight Club, Choke, Lullaby, and many others. Learn more about your ad choices. Visit podcastchoices.com/adchoices</description>
       <guid>https://open.spotify.com/episode/1j5rNNfDQuGjj3EjErwVge</guid>
@@ -15760,6 +15747,19 @@
       <itunes:author>Joe Rogan</itunes:author>
       <itunes:explicit>no</itunes:explicit>
       <itunes:duration>02:07:03</itunes:duration>
+    </item>
+    <item>
+      <title>#1159 - Neil deGrasse Tyson</title>
+      <description>Neil deGrasse Tyson is an astrophysicist, cosmologist, author, and science communicator. Learn more about your ad choices. Visit podcastchoices.com/adchoices</description>
+      <guid>https://open.spotify.com/episode/6yjxExOSU9UvcAVkonaps4</guid>
+      <pubDate>Wed, 22 Aug 2018 00:00:00 +0000</pubDate>
+      <author>Joe Rogan</author>
+      <enclosure url="https://github.com/MossCation/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2018-08-22-6yjxExOSU9UvcAVkonaps4.m4a" length="" type="audio/x-m4a"/>
+      <itunes:subtitle>The official podcast of comedian Joe Rogan.</itunes:subtitle>
+      <itunes:summary><![CDATA[Neil deGrasse Tyson is an astrophysicist, cosmologist, author, and science communicator. Learn more about your ad choices. Visit podcastchoices.com/adchoices]]></itunes:summary>
+      <itunes:author>Joe Rogan</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>03:21:08</itunes:duration>
     </item>
     <item>
       <title>#1157 - Shooter Jennings</title>
@@ -15996,19 +15996,6 @@
       <itunes:duration>01:48:00</itunes:duration>
     </item>
     <item>
-      <title>#1142 - Tony Rock</title>
-      <description>Tony Rock is an actor and stand up comedian.  https://www.tonyrockcomedy.com/ Learn more about your ad choices. Visit podcastchoices.com/adchoices</description>
-      <guid>https://open.spotify.com/episode/6xRiQrhg9hQx7xcJGFftNG</guid>
-      <pubDate>Tue, 10 Jul 2018 00:00:00 +0000</pubDate>
-      <author>Joe Rogan</author>
-      <enclosure url="https://github.com/MossCation/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2018-07-10-6xRiQrhg9hQx7xcJGFftNG.m4a" length="" type="audio/x-m4a"/>
-      <itunes:subtitle>The official podcast of comedian Joe Rogan.</itunes:subtitle>
-      <itunes:summary><![CDATA[Tony Rock is an actor and stand up comedian.  https://www.tonyrockcomedy.com/ Learn more about your ad choices. Visit podcastchoices.com/adchoices]]></itunes:summary>
-      <itunes:author>Joe Rogan</itunes:author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:duration>02:08:15</itunes:duration>
-    </item>
-    <item>
       <title>JRE MMA Show #35 with Israel Adesanya</title>
       <description/>
       <guid>https://open.spotify.com/episode/5boAme8bNhNamHCXzkkkc8</guid>
@@ -16020,6 +16007,19 @@
       <itunes:author>Joe Rogan</itunes:author>
       <itunes:explicit>no</itunes:explicit>
       <itunes:duration>01:55:32</itunes:duration>
+    </item>
+    <item>
+      <title>#1142 - Tony Rock</title>
+      <description>Tony Rock is an actor and stand up comedian.  https://www.tonyrockcomedy.com/ Learn more about your ad choices. Visit podcastchoices.com/adchoices</description>
+      <guid>https://open.spotify.com/episode/6xRiQrhg9hQx7xcJGFftNG</guid>
+      <pubDate>Tue, 10 Jul 2018 00:00:00 +0000</pubDate>
+      <author>Joe Rogan</author>
+      <enclosure url="https://github.com/MossCation/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2018-07-10-6xRiQrhg9hQx7xcJGFftNG.m4a" length="" type="audio/x-m4a"/>
+      <itunes:subtitle>The official podcast of comedian Joe Rogan.</itunes:subtitle>
+      <itunes:summary><![CDATA[Tony Rock is an actor and stand up comedian.  https://www.tonyrockcomedy.com/ Learn more about your ad choices. Visit podcastchoices.com/adchoices]]></itunes:summary>
+      <itunes:author>Joe Rogan</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>02:08:15</itunes:duration>
     </item>
     <item>
       <title>JRE MMA Show #34 with Josh Barnett</title>
@@ -16191,19 +16191,6 @@
       <itunes:duration>02:57:12</itunes:duration>
     </item>
     <item>
-      <title>#1130 - Adam Frank</title>
-      <description>Adam Frank is a physicist, astronomer, and writer. His scientific research has focused on computational astrophysics with an emphasis on star formation and late stages of stellar evolution. His new book "Light of the Stars: Alien Worlds and the Fate of the Earth" is available now on Amazon. Learn more about your ad choices. Visit podcastchoices.com/adchoices</description>
-      <guid>https://open.spotify.com/episode/5IEuVVOlKB7MmwK9bTiaRz</guid>
-      <pubDate>Tue, 12 Jun 2018 00:00:00 +0000</pubDate>
-      <author>Joe Rogan</author>
-      <enclosure url="https://github.com/MossCation/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2018-06-12-5IEuVVOlKB7MmwK9bTiaRz.m4a" length="" type="audio/x-m4a"/>
-      <itunes:subtitle>The official podcast of comedian Joe Rogan.</itunes:subtitle>
-      <itunes:summary><![CDATA[Adam Frank is a physicist, astronomer, and writer. His scientific research has focused on computational astrophysics with an emphasis on star formation and late stages of stellar evolution. His new book "Light of the Stars: Alien Worlds and the Fate of the Earth" is available now on Amazon. Learn more about your ad choices. Visit podcastchoices.com/adchoices]]></itunes:summary>
-      <itunes:author>Joe Rogan</itunes:author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:duration>02:23:49</itunes:duration>
-    </item>
-    <item>
       <title>JRE MMA Show #31 with Daniel Straus &amp; Joe Schilling</title>
       <description/>
       <guid>https://open.spotify.com/episode/1dmv7BVWPFBYYFsyGrGZBn</guid>
@@ -16215,6 +16202,19 @@
       <itunes:author>Joe Rogan</itunes:author>
       <itunes:explicit>no</itunes:explicit>
       <itunes:duration>01:44:39</itunes:duration>
+    </item>
+    <item>
+      <title>#1130 - Adam Frank</title>
+      <description>Adam Frank is a physicist, astronomer, and writer. His scientific research has focused on computational astrophysics with an emphasis on star formation and late stages of stellar evolution. His new book "Light of the Stars: Alien Worlds and the Fate of the Earth" is available now on Amazon. Learn more about your ad choices. Visit podcastchoices.com/adchoices</description>
+      <guid>https://open.spotify.com/episode/5IEuVVOlKB7MmwK9bTiaRz</guid>
+      <pubDate>Tue, 12 Jun 2018 00:00:00 +0000</pubDate>
+      <author>Joe Rogan</author>
+      <enclosure url="https://github.com/MossCation/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2018-06-12-5IEuVVOlKB7MmwK9bTiaRz.m4a" length="" type="audio/x-m4a"/>
+      <itunes:subtitle>The official podcast of comedian Joe Rogan.</itunes:subtitle>
+      <itunes:summary><![CDATA[Adam Frank is a physicist, astronomer, and writer. His scientific research has focused on computational astrophysics with an emphasis on star formation and late stages of stellar evolution. His new book "Light of the Stars: Alien Worlds and the Fate of the Earth" is available now on Amazon. Learn more about your ad choices. Visit podcastchoices.com/adchoices]]></itunes:summary>
+      <itunes:author>Joe Rogan</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>02:23:49</itunes:duration>
     </item>
     <item>
       <title>#1129 - Tom Papa</title>
@@ -16243,19 +16243,6 @@
       <itunes:duration>02:26:06</itunes:duration>
     </item>
     <item>
-      <title>JRE MMA Show #30 with Sean O'Malley &amp; Tim Welch</title>
-      <description/>
-      <guid>https://open.spotify.com/episode/5XL9Xsr4Pha70pXmPZ7KWc</guid>
-      <pubDate>Tue, 05 Jun 2018 00:00:00 +0000</pubDate>
-      <author>Joe Rogan</author>
-      <enclosure url="https://github.com/MossCation/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2018-06-05-5XL9Xsr4Pha70pXmPZ7KWc.m4a" length="" type="audio/x-m4a"/>
-      <itunes:subtitle>The official podcast of comedian Joe Rogan.</itunes:subtitle>
-      <itunes:summary><![CDATA[Joe is joined by UFC Bantamweight fighter "Sugar" Sean O'Malley & welterweight fighter & coach Tim Welch. Learn more about your ad choices. Visit podcastchoices.com/adchoices]]></itunes:summary>
-      <itunes:author>Joe Rogan</itunes:author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:duration>03:32:25</itunes:duration>
-    </item>
-    <item>
       <title>#1127 - Jesse Itzler</title>
       <description>Jesse Itzler is an entrepreneur, author, and founder of The 100 Mile Group. Check out his new book "Living With The Monks" available at http://jesseitzler.com  https://www.instagram.com/jesseitzler  https://twitter.com/the100MileMan Learn more about your ad choices. Visit podcastchoices.com/adchoices</description>
       <guid>https://open.spotify.com/episode/15HERhkhjwEH3g148ktplk</guid>
@@ -16267,6 +16254,19 @@
       <itunes:author>Joe Rogan</itunes:author>
       <itunes:explicit>no</itunes:explicit>
       <itunes:duration>01:47:10</itunes:duration>
+    </item>
+    <item>
+      <title>JRE MMA Show #30 with Sean O'Malley &amp; Tim Welch</title>
+      <description/>
+      <guid>https://open.spotify.com/episode/5XL9Xsr4Pha70pXmPZ7KWc</guid>
+      <pubDate>Tue, 05 Jun 2018 00:00:00 +0000</pubDate>
+      <author>Joe Rogan</author>
+      <enclosure url="https://github.com/MossCation/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2018-06-05-5XL9Xsr4Pha70pXmPZ7KWc.m4a" length="" type="audio/x-m4a"/>
+      <itunes:subtitle>The official podcast of comedian Joe Rogan.</itunes:subtitle>
+      <itunes:summary><![CDATA[Joe is joined by UFC Bantamweight fighter "Sugar" Sean O'Malley & welterweight fighter & coach Tim Welch. Learn more about your ad choices. Visit podcastchoices.com/adchoices]]></itunes:summary>
+      <itunes:author>Joe Rogan</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>03:32:25</itunes:duration>
     </item>
     <item>
       <title>#1126 - Erik Griffin</title>
@@ -16451,19 +16451,6 @@
       <itunes:duration>02:52:51</itunes:duration>
     </item>
     <item>
-      <title>#1116 - Steven Tyler</title>
-      <description>Steven Tyler is a singer-songwriter, multi-instrumentalist, best known as the lead-singer of Aerosmith. He is also the subject of new documentary called "Steven Tyler: Out On a Limb" available to stream on demand. Learn more about your ad choices. Visit podcastchoices.com/adchoices</description>
-      <guid>https://open.spotify.com/episode/77MxUE9GPmxOd6DSTLwmfF</guid>
-      <pubDate>Wed, 16 May 2018 00:00:00 +0000</pubDate>
-      <author>Joe Rogan</author>
-      <enclosure url="https://github.com/MossCation/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2018-05-16-77MxUE9GPmxOd6DSTLwmfF.m4a" length="" type="audio/x-m4a"/>
-      <itunes:subtitle>The official podcast of comedian Joe Rogan.</itunes:subtitle>
-      <itunes:summary><![CDATA[Steven Tyler is a singer-songwriter, multi-instrumentalist, best known as the lead-singer of Aerosmith. He is also the subject of new documentary called "Steven Tyler: Out On a Limb" available to stream on demand. Learn more about your ad choices. Visit podcastchoices.com/adchoices]]></itunes:summary>
-      <itunes:author>Joe Rogan</itunes:author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:duration>02:04:38</itunes:duration>
-    </item>
-    <item>
       <title>JRE MMA Show #26 with Big John McCarthy</title>
       <description>Joe sits down with Big John McCarthy to discuss MMA history. Learn more about your ad choices. Visit podcastchoices.com/adchoices</description>
       <guid>https://open.spotify.com/episode/277VQ10aGB2fGbOGKnVI6u</guid>
@@ -16477,17 +16464,17 @@
       <itunes:duration>02:26:12</itunes:duration>
     </item>
     <item>
-      <title>#1115 - Mike Baker</title>
-      <description>Mike Baker is a former CIA covert operations officer. Currently he is the president of Diligence LLC, a global intelligence and security firm. Learn more about your ad choices. Visit podcastchoices.com/adchoices</description>
-      <guid>https://open.spotify.com/episode/712rhTqVR1B7iiScFGRymE</guid>
-      <pubDate>Wed, 09 May 2018 00:00:00 +0000</pubDate>
+      <title>#1116 - Steven Tyler</title>
+      <description>Steven Tyler is a singer-songwriter, multi-instrumentalist, best known as the lead-singer of Aerosmith. He is also the subject of new documentary called "Steven Tyler: Out On a Limb" available to stream on demand. Learn more about your ad choices. Visit podcastchoices.com/adchoices</description>
+      <guid>https://open.spotify.com/episode/77MxUE9GPmxOd6DSTLwmfF</guid>
+      <pubDate>Wed, 16 May 2018 00:00:00 +0000</pubDate>
       <author>Joe Rogan</author>
-      <enclosure url="https://github.com/MossCation/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2018-05-09-712rhTqVR1B7iiScFGRymE.m4a" length="" type="audio/x-m4a"/>
+      <enclosure url="https://github.com/MossCation/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2018-05-16-77MxUE9GPmxOd6DSTLwmfF.m4a" length="" type="audio/x-m4a"/>
       <itunes:subtitle>The official podcast of comedian Joe Rogan.</itunes:subtitle>
-      <itunes:summary><![CDATA[Mike Baker is a former CIA covert operations officer. Currently he is the president of Diligence LLC, a global intelligence and security firm. Learn more about your ad choices. Visit podcastchoices.com/adchoices]]></itunes:summary>
+      <itunes:summary><![CDATA[Steven Tyler is a singer-songwriter, multi-instrumentalist, best known as the lead-singer of Aerosmith. He is also the subject of new documentary called "Steven Tyler: Out On a Limb" available to stream on demand. Learn more about your ad choices. Visit podcastchoices.com/adchoices]]></itunes:summary>
       <itunes:author>Joe Rogan</itunes:author>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:duration>02:45:24</itunes:duration>
+      <itunes:duration>02:04:38</itunes:duration>
     </item>
     <item>
       <title>#1114 - Matt Taibbi</title>
@@ -16501,6 +16488,19 @@
       <itunes:author>Joe Rogan</itunes:author>
       <itunes:explicit>no</itunes:explicit>
       <itunes:duration>02:20:41</itunes:duration>
+    </item>
+    <item>
+      <title>#1115 - Mike Baker</title>
+      <description>Mike Baker is a former CIA covert operations officer. Currently he is the president of Diligence LLC, a global intelligence and security firm. Learn more about your ad choices. Visit podcastchoices.com/adchoices</description>
+      <guid>https://open.spotify.com/episode/712rhTqVR1B7iiScFGRymE</guid>
+      <pubDate>Wed, 09 May 2018 00:00:00 +0000</pubDate>
+      <author>Joe Rogan</author>
+      <enclosure url="https://github.com/MossCation/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2018-05-09-712rhTqVR1B7iiScFGRymE.m4a" length="" type="audio/x-m4a"/>
+      <itunes:subtitle>The official podcast of comedian Joe Rogan.</itunes:subtitle>
+      <itunes:summary><![CDATA[Mike Baker is a former CIA covert operations officer. Currently he is the president of Diligence LLC, a global intelligence and security firm. Learn more about your ad choices. Visit podcastchoices.com/adchoices]]></itunes:summary>
+      <itunes:author>Joe Rogan</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>02:45:24</itunes:duration>
     </item>
     <item>
       <title>#1113 - Brian Redban</title>
@@ -16620,19 +16620,6 @@
       <itunes:duration>02:19:25</itunes:duration>
     </item>
     <item>
-      <title>#1107 - Sam Harris &amp; Maajid Nawaz</title>
-      <description>Sam Harris is a neuroscientist and author of the New York Times bestsellers, The End of Faith, Letter to a Christian Nation, and The Moral Landscape. Maajid Nawaz is a British activist, author, columnist, radio host and politician. Learn more about your ad choices. Visit podcastchoices.com/adchoices</description>
-      <guid>https://open.spotify.com/episode/057KUjztwHlL5ACmOH3Ar6</guid>
-      <pubDate>Wed, 18 Apr 2018 00:00:00 +0000</pubDate>
-      <author>Joe Rogan</author>
-      <enclosure url="https://github.com/MossCation/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2018-04-18-057KUjztwHlL5ACmOH3Ar6.m4a" length="" type="audio/x-m4a"/>
-      <itunes:subtitle>The official podcast of comedian Joe Rogan.</itunes:subtitle>
-      <itunes:summary><![CDATA[Sam Harris is a neuroscientist and author of the New York Times bestsellers, The End of Faith, Letter to a Christian Nation, and The Moral Landscape. Maajid Nawaz is a British activist, author, columnist, radio host and politician. Learn more about your ad choices. Visit podcastchoices.com/adchoices]]></itunes:summary>
-      <itunes:author>Joe Rogan</itunes:author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:duration>01:58:03</itunes:duration>
-    </item>
-    <item>
       <title>#1106 - Colion Noir</title>
       <description>Colion Noir is a gun rights activist, lawyer, member of the National Rifle Association, and host of the NRA Freestyle web series NOIR. https://www.youtube.com/channel/UC193r5YXcpQJV34N99ZbhzQ Learn more about your ad choices. Visit podcastchoices.com/adchoices</description>
       <guid>https://open.spotify.com/episode/3tRBUotCG8QioyFJLBb5cq</guid>
@@ -16644,6 +16631,19 @@
       <itunes:author>Joe Rogan</itunes:author>
       <itunes:explicit>no</itunes:explicit>
       <itunes:duration>02:02:11</itunes:duration>
+    </item>
+    <item>
+      <title>#1107 - Sam Harris &amp; Maajid Nawaz</title>
+      <description>Sam Harris is a neuroscientist and author of the New York Times bestsellers, The End of Faith, Letter to a Christian Nation, and The Moral Landscape. Maajid Nawaz is a British activist, author, columnist, radio host and politician. Learn more about your ad choices. Visit podcastchoices.com/adchoices</description>
+      <guid>https://open.spotify.com/episode/057KUjztwHlL5ACmOH3Ar6</guid>
+      <pubDate>Wed, 18 Apr 2018 00:00:00 +0000</pubDate>
+      <author>Joe Rogan</author>
+      <enclosure url="https://github.com/MossCation/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2018-04-18-057KUjztwHlL5ACmOH3Ar6.m4a" length="" type="audio/x-m4a"/>
+      <itunes:subtitle>The official podcast of comedian Joe Rogan.</itunes:subtitle>
+      <itunes:summary><![CDATA[Sam Harris is a neuroscientist and author of the New York Times bestsellers, The End of Faith, Letter to a Christian Nation, and The Moral Landscape. Maajid Nawaz is a British activist, author, columnist, radio host and politician. Learn more about your ad choices. Visit podcastchoices.com/adchoices]]></itunes:summary>
+      <itunes:author>Joe Rogan</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>01:58:03</itunes:duration>
     </item>
     <item>
       <title>#1105 - Michael Hunter</title>
@@ -16932,19 +16932,6 @@
       <itunes:duration>03:42:48</itunes:duration>
     </item>
     <item>
-      <title>#1088 - Bryan Callen</title>
-      <description/>
-      <guid>https://open.spotify.com/episode/3XDwf3u6eeSrtJdCu9OC4v</guid>
-      <pubDate>Tue, 06 Mar 2018 00:00:00 +0000</pubDate>
-      <author>Joe Rogan</author>
-      <enclosure url="https://github.com/MossCation/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2018-03-06-3XDwf3u6eeSrtJdCu9OC4v.m4a" length="" type="audio/x-m4a"/>
-      <itunes:subtitle>The official podcast of comedian Joe Rogan.</itunes:subtitle>
-      <itunes:summary><![CDATA[Bryan Callen is an actor and stand-up comedian, and together with Brendan Schaub he also hosts “The Fighter & The Kid” podcast available on Spotify. Learn more about your ad choices. Visit podcastchoices.com/adchoices]]></itunes:summary>
-      <itunes:author>Joe Rogan</itunes:author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:duration>03:08:29</itunes:duration>
-    </item>
-    <item>
       <title>JRE MMA Show #16 with Brendan Schaub</title>
       <description>Joe is joined by Brendan Schaub to discuss this past weekend's fights. Also check out his new show "Below The Belt with Brendan Schaub" on SHOwtime. Learn more about your ad choices. Visit podcastchoices.com/adchoices</description>
       <guid>https://open.spotify.com/episode/2EoTGVIwg7M0TJjh96QrsL</guid>
@@ -16956,6 +16943,19 @@
       <itunes:author>Joe Rogan</itunes:author>
       <itunes:explicit>no</itunes:explicit>
       <itunes:duration>02:06:46</itunes:duration>
+    </item>
+    <item>
+      <title>#1088 - Bryan Callen</title>
+      <description/>
+      <guid>https://open.spotify.com/episode/3XDwf3u6eeSrtJdCu9OC4v</guid>
+      <pubDate>Tue, 06 Mar 2018 00:00:00 +0000</pubDate>
+      <author>Joe Rogan</author>
+      <enclosure url="https://github.com/MossCation/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2018-03-06-3XDwf3u6eeSrtJdCu9OC4v.m4a" length="" type="audio/x-m4a"/>
+      <itunes:subtitle>The official podcast of comedian Joe Rogan.</itunes:subtitle>
+      <itunes:summary><![CDATA[Bryan Callen is an actor and stand-up comedian, and together with Brendan Schaub he also hosts “The Fighter & The Kid” podcast available on Spotify. Learn more about your ad choices. Visit podcastchoices.com/adchoices]]></itunes:summary>
+      <itunes:author>Joe Rogan</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>03:08:29</itunes:duration>
     </item>
     <item>
       <title>#1087 - Sturgill Simpson</title>
@@ -17075,19 +17075,6 @@
       <itunes:duration>03:00:30</itunes:duration>
     </item>
     <item>
-      <title>JRE MMA Show #15 with Brendan Schaub</title>
-      <description>Joe is joined by Brendan Schaub to discuss recent and upcoming fights in MMA and boxing. Learn more about your ad choices. Visit podcastchoices.com/adchoices</description>
-      <guid>https://open.spotify.com/episode/5gi9gt6w4MYPkRUnHdzwVR</guid>
-      <pubDate>Tue, 13 Feb 2018 00:00:00 +0000</pubDate>
-      <author>Joe Rogan</author>
-      <enclosure url="https://github.com/MossCation/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2018-02-13-5gi9gt6w4MYPkRUnHdzwVR.m4a" length="" type="audio/x-m4a"/>
-      <itunes:subtitle>The official podcast of comedian Joe Rogan.</itunes:subtitle>
-      <itunes:summary><![CDATA[Joe is joined by Brendan Schaub to discuss recent and upcoming fights in MMA and boxing. Learn more about your ad choices. Visit podcastchoices.com/adchoices]]></itunes:summary>
-      <itunes:author>Joe Rogan</itunes:author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:duration>02:50:17</itunes:duration>
-    </item>
-    <item>
       <title>#1078 - Jimmy Dore</title>
       <description>Jimmy Dore is a stand-up comedian, political commentator, host of "The Jimmy Dore Show" available on Spotify. Learn more about your ad choices. Visit podcastchoices.com/adchoices</description>
       <guid>https://open.spotify.com/episode/7IZFa28b0khjcJeZa4pNK6</guid>
@@ -17099,6 +17086,19 @@
       <itunes:author>Joe Rogan</itunes:author>
       <itunes:explicit>no</itunes:explicit>
       <itunes:duration>02:50:38</itunes:duration>
+    </item>
+    <item>
+      <title>JRE MMA Show #15 with Brendan Schaub</title>
+      <description>Joe is joined by Brendan Schaub to discuss recent and upcoming fights in MMA and boxing. Learn more about your ad choices. Visit podcastchoices.com/adchoices</description>
+      <guid>https://open.spotify.com/episode/5gi9gt6w4MYPkRUnHdzwVR</guid>
+      <pubDate>Tue, 13 Feb 2018 00:00:00 +0000</pubDate>
+      <author>Joe Rogan</author>
+      <enclosure url="https://github.com/MossCation/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2018-02-13-5gi9gt6w4MYPkRUnHdzwVR.m4a" length="" type="audio/x-m4a"/>
+      <itunes:subtitle>The official podcast of comedian Joe Rogan.</itunes:subtitle>
+      <itunes:summary><![CDATA[Joe is joined by Brendan Schaub to discuss recent and upcoming fights in MMA and boxing. Learn more about your ad choices. Visit podcastchoices.com/adchoices]]></itunes:summary>
+      <itunes:author>Joe Rogan</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>02:50:17</itunes:duration>
     </item>
     <item>
       <title>#1077 - Johann Hari</title>
@@ -17244,19 +17244,6 @@
       <itunes:duration>02:21:57</itunes:duration>
     </item>
     <item>
-      <title>JRE MMA Show #13 with Rose Namajunas &amp; Pat Barry</title>
-      <description>Joe Rogan sits down with the current UFC Strawweight Champion, Rose Namajunas, and Pat Barry. Learn more about your ad choices. Visit podcastchoices.com/adchoices</description>
-      <guid>https://open.spotify.com/episode/38zzSogZNiJP5PJrer8f1i</guid>
-      <pubDate>Tue, 23 Jan 2018 00:00:00 +0000</pubDate>
-      <author>Joe Rogan</author>
-      <enclosure url="https://github.com/MossCation/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2018-01-23-38zzSogZNiJP5PJrer8f1i.m4a" length="" type="audio/x-m4a"/>
-      <itunes:subtitle>The official podcast of comedian Joe Rogan.</itunes:subtitle>
-      <itunes:summary><![CDATA[Joe Rogan sits down with the current UFC Strawweight Champion, Rose Namajunas, and Pat Barry. Learn more about your ad choices. Visit podcastchoices.com/adchoices]]></itunes:summary>
-      <itunes:author>Joe Rogan</itunes:author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:duration>01:38:55</itunes:duration>
-    </item>
-    <item>
       <title>#1067 - Whitney Cummings</title>
       <description>Whitney Cummings is a stand up comedian and actress. Her new movie "The Female Brain" premieres in theaters on February 9th. Learn more about your ad choices. Visit podcastchoices.com/adchoices</description>
       <guid>https://open.spotify.com/episode/6lHuThyjwWrhHPnBrPmLP3</guid>
@@ -17268,6 +17255,19 @@
       <itunes:author>Joe Rogan</itunes:author>
       <itunes:explicit>no</itunes:explicit>
       <itunes:duration>02:28:49</itunes:duration>
+    </item>
+    <item>
+      <title>JRE MMA Show #13 with Rose Namajunas &amp; Pat Barry</title>
+      <description>Joe Rogan sits down with the current UFC Strawweight Champion, Rose Namajunas, and Pat Barry. Learn more about your ad choices. Visit podcastchoices.com/adchoices</description>
+      <guid>https://open.spotify.com/episode/38zzSogZNiJP5PJrer8f1i</guid>
+      <pubDate>Tue, 23 Jan 2018 00:00:00 +0000</pubDate>
+      <author>Joe Rogan</author>
+      <enclosure url="https://github.com/MossCation/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2018-01-23-38zzSogZNiJP5PJrer8f1i.m4a" length="" type="audio/x-m4a"/>
+      <itunes:subtitle>The official podcast of comedian Joe Rogan.</itunes:subtitle>
+      <itunes:summary><![CDATA[Joe Rogan sits down with the current UFC Strawweight Champion, Rose Namajunas, and Pat Barry. Learn more about your ad choices. Visit podcastchoices.com/adchoices]]></itunes:summary>
+      <itunes:author>Joe Rogan</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>01:38:55</itunes:duration>
     </item>
     <item>
       <title>JRE MMA Show #12 with Ben Askren</title>
@@ -17348,19 +17348,6 @@
       <itunes:duration>02:56:08</itunes:duration>
     </item>
     <item>
-      <title>JRE MMA Show #10 with Tyron Woodley</title>
-      <description>Joe Rogan sits down with UFC Welterweight Champion Tyron Woodley. Learn more about your ad choices. Visit podcastchoices.com/adchoices</description>
-      <guid>https://open.spotify.com/episode/6BdTWvxMKDvoyZ5AF8H3cS</guid>
-      <pubDate>Thu, 11 Jan 2018 00:00:00 +0000</pubDate>
-      <author>Joe Rogan</author>
-      <enclosure url="https://github.com/MossCation/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2018-01-11-6BdTWvxMKDvoyZ5AF8H3cS.m4a" length="" type="audio/x-m4a"/>
-      <itunes:subtitle>The official podcast of comedian Joe Rogan.</itunes:subtitle>
-      <itunes:summary><![CDATA[Joe Rogan sits down with UFC Welterweight Champion Tyron Woodley. Learn more about your ad choices. Visit podcastchoices.com/adchoices]]></itunes:summary>
-      <itunes:author>Joe Rogan</itunes:author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:duration>01:34:33</itunes:duration>
-    </item>
-    <item>
       <title>#1063 - Tom Segura</title>
       <description>Tom Segura is a stand-up comedian, and hosts his own podcast with his wife, Christina Pazsitzky called "Your Mom’s House" available on Spotify. His new special "Disgraceful" premieres on Netflix on January 12. http://tomsegura.com/ Learn more about your ad choices. Visit podcastchoices.com/adchoices</description>
       <guid>https://open.spotify.com/episode/6EaeEoLuNf1ooJdT2Lceup</guid>
@@ -17372,6 +17359,19 @@
       <itunes:author>Joe Rogan</itunes:author>
       <itunes:explicit>no</itunes:explicit>
       <itunes:duration>02:43:49</itunes:duration>
+    </item>
+    <item>
+      <title>JRE MMA Show #10 with Tyron Woodley</title>
+      <description>Joe Rogan sits down with UFC Welterweight Champion Tyron Woodley. Learn more about your ad choices. Visit podcastchoices.com/adchoices</description>
+      <guid>https://open.spotify.com/episode/6BdTWvxMKDvoyZ5AF8H3cS</guid>
+      <pubDate>Thu, 11 Jan 2018 00:00:00 +0000</pubDate>
+      <author>Joe Rogan</author>
+      <enclosure url="https://github.com/MossCation/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2018-01-11-6BdTWvxMKDvoyZ5AF8H3cS.m4a" length="" type="audio/x-m4a"/>
+      <itunes:subtitle>The official podcast of comedian Joe Rogan.</itunes:subtitle>
+      <itunes:summary><![CDATA[Joe Rogan sits down with UFC Welterweight Champion Tyron Woodley. Learn more about your ad choices. Visit podcastchoices.com/adchoices]]></itunes:summary>
+      <itunes:author>Joe Rogan</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>01:34:33</itunes:duration>
     </item>
     <item>
       <title>#1062 - Dan Harris &amp; Jeff Warren</title>
@@ -17426,19 +17426,6 @@
       <itunes:duration>02:19:10</itunes:duration>
     </item>
     <item>
-      <title>#1059 - Brian Redban</title>
-      <description/>
-      <guid>https://open.spotify.com/episode/0Sf96fqQycdVvtv3PEylAo</guid>
-      <pubDate>Tue, 02 Jan 2018 00:00:00 +0000</pubDate>
-      <author>Joe Rogan</author>
-      <enclosure url="https://github.com/MossCation/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2018-01-02-0Sf96fqQycdVvtv3PEylAo.m4a" length="" type="audio/x-m4a"/>
-      <itunes:subtitle>The official podcast of comedian Joe Rogan.</itunes:subtitle>
-      <itunes:summary><![CDATA[Brian Redban is a comedian and the founder of the Deathsquad podcast network. Check out his podcast called "What Brian Redban Do" at http://deathsquad.tv & on Spotify under "Deathsquad."  SpaceX Timelapse video by Jesse Watson Photography: https://www.youtube.com/user/cyclemonkey Learn more about your ad choices. Visit podcastchoices.com/adchoices]]></itunes:summary>
-      <itunes:author>Joe Rogan</itunes:author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:duration>02:55:19</itunes:duration>
-    </item>
-    <item>
       <title>JRE MMA Show #8 with Jimmy Smith</title>
       <description>Joe Rogan sits down with Jimmy Smith to discuss recent and upcoming fights. Learn more about your ad choices. Visit podcastchoices.com/adchoices</description>
       <guid>https://open.spotify.com/episode/5a0RfBxsgiGUYa9C4UL2ag</guid>
@@ -17450,6 +17437,19 @@
       <itunes:author>Joe Rogan</itunes:author>
       <itunes:explicit>no</itunes:explicit>
       <itunes:duration>02:07:25</itunes:duration>
+    </item>
+    <item>
+      <title>#1059 - Brian Redban</title>
+      <description/>
+      <guid>https://open.spotify.com/episode/0Sf96fqQycdVvtv3PEylAo</guid>
+      <pubDate>Tue, 02 Jan 2018 00:00:00 +0000</pubDate>
+      <author>Joe Rogan</author>
+      <enclosure url="https://github.com/MossCation/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2018-01-02-0Sf96fqQycdVvtv3PEylAo.m4a" length="" type="audio/x-m4a"/>
+      <itunes:subtitle>The official podcast of comedian Joe Rogan.</itunes:subtitle>
+      <itunes:summary><![CDATA[Brian Redban is a comedian and the founder of the Deathsquad podcast network. Check out his podcast called "What Brian Redban Do" at http://deathsquad.tv & on Spotify under "Deathsquad."  SpaceX Timelapse video by Jesse Watson Photography: https://www.youtube.com/user/cyclemonkey Learn more about your ad choices. Visit podcastchoices.com/adchoices]]></itunes:summary>
+      <itunes:author>Joe Rogan</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>02:55:19</itunes:duration>
     </item>
     <item>
       <title>#1058 - Nina Teicholz</title>
@@ -17569,19 +17569,6 @@
       <itunes:duration>01:54:49</itunes:duration>
     </item>
     <item>
-      <title>#1051 - Duncan Trussell &amp; Christopher Ryan</title>
-      <description>Duncan Trussell is a stand-up comedian, and host of his own podcast "The Duncan Trussell Family Hour" available on Spotify. Christopher Ryan, Ph.D. is a psychologist, speaker, and author of New York Times best seller Sex At Dawn, and also host of his own podcast "Tangentially Speaking" available on Spotify. Learn more about your ad choices. Visit podcastchoices.com/adchoices</description>
-      <guid>https://open.spotify.com/episode/0TnqPpgIVIIZkUluVFRwpF</guid>
-      <pubDate>Tue, 12 Dec 2017 00:00:00 +0000</pubDate>
-      <author>Joe Rogan</author>
-      <enclosure url="https://github.com/MossCation/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2017-12-12-0TnqPpgIVIIZkUluVFRwpF.m4a" length="" type="audio/x-m4a"/>
-      <itunes:subtitle>The official podcast of comedian Joe Rogan.</itunes:subtitle>
-      <itunes:summary><![CDATA[Duncan Trussell is a stand-up comedian, and host of his own podcast "The Duncan Trussell Family Hour" available on Spotify. Christopher Ryan, Ph.D. is a psychologist, speaker, and author of New York Times best seller Sex At Dawn, and also host of his own podcast "Tangentially Speaking" available on Spotify. Learn more about your ad choices. Visit podcastchoices.com/adchoices]]></itunes:summary>
-      <itunes:author>Joe Rogan</itunes:author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:duration>03:50:24</itunes:duration>
-    </item>
-    <item>
       <title>#1052 - Mick West</title>
       <description>Mick West is a game programmer, writer, and debunker. Currently runs a few websites including http://MetaBunk.org and http://ContrailScience.com. Learn more about your ad choices. Visit podcastchoices.com/adchoices</description>
       <guid>https://open.spotify.com/episode/0sgG7WklRBkPOHNcpaZBBd</guid>
@@ -17593,6 +17580,19 @@
       <itunes:author>Joe Rogan</itunes:author>
       <itunes:explicit>no</itunes:explicit>
       <itunes:duration>02:41:29</itunes:duration>
+    </item>
+    <item>
+      <title>#1051 - Duncan Trussell &amp; Christopher Ryan</title>
+      <description>Duncan Trussell is a stand-up comedian, and host of his own podcast "The Duncan Trussell Family Hour" available on Spotify. Christopher Ryan, Ph.D. is a psychologist, speaker, and author of New York Times best seller Sex At Dawn, and also host of his own podcast "Tangentially Speaking" available on Spotify. Learn more about your ad choices. Visit podcastchoices.com/adchoices</description>
+      <guid>https://open.spotify.com/episode/0TnqPpgIVIIZkUluVFRwpF</guid>
+      <pubDate>Tue, 12 Dec 2017 00:00:00 +0000</pubDate>
+      <author>Joe Rogan</author>
+      <enclosure url="https://github.com/MossCation/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2017-12-12-0TnqPpgIVIIZkUluVFRwpF.m4a" length="" type="audio/x-m4a"/>
+      <itunes:subtitle>The official podcast of comedian Joe Rogan.</itunes:subtitle>
+      <itunes:summary><![CDATA[Duncan Trussell is a stand-up comedian, and host of his own podcast "The Duncan Trussell Family Hour" available on Spotify. Christopher Ryan, Ph.D. is a psychologist, speaker, and author of New York Times best seller Sex At Dawn, and also host of his own podcast "Tangentially Speaking" available on Spotify. Learn more about your ad choices. Visit podcastchoices.com/adchoices]]></itunes:summary>
+      <itunes:author>Joe Rogan</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>03:50:24</itunes:duration>
     </item>
     <item>
       <title>#1050 - Dr. Shawn Baker</title>
@@ -17660,19 +17660,6 @@
       <itunes:duration>02:53:57</itunes:duration>
     </item>
     <item>
-      <title>JRE MMA Show #3 with Brendan Schaub</title>
-      <description>Joe Rogan sits down with Brendan Schaub to discuss UFC218. Learn more about your ad choices. Visit podcastchoices.com/adchoices</description>
-      <guid>https://open.spotify.com/episode/3d7ynGoChoCFrQ0VmXCqpx</guid>
-      <pubDate>Wed, 29 Nov 2017 00:00:00 +0000</pubDate>
-      <author>Joe Rogan</author>
-      <enclosure url="https://github.com/MossCation/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2017-11-29-3d7ynGoChoCFrQ0VmXCqpx.m4a" length="" type="audio/x-m4a"/>
-      <itunes:subtitle>The official podcast of comedian Joe Rogan.</itunes:subtitle>
-      <itunes:summary><![CDATA[Joe Rogan sits down with Brendan Schaub to discuss UFC218. Learn more about your ad choices. Visit podcastchoices.com/adchoices]]></itunes:summary>
-      <itunes:author>Joe Rogan</itunes:author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:duration>01:36:35</itunes:duration>
-    </item>
-    <item>
       <title>#1046 - Owen Smith</title>
       <description>Owen Smith is a comedian, writer, actor and television producer. https://owensmithisfunny.com/ Learn more about your ad choices. Visit podcastchoices.com/adchoices</description>
       <guid>https://open.spotify.com/episode/4YEO0n12i0aovsh04zUvqa</guid>
@@ -17686,17 +17673,17 @@
       <itunes:duration>01:58:00</itunes:duration>
     </item>
     <item>
-      <title>#1045 - Bryan Callen</title>
-      <description/>
-      <guid>https://open.spotify.com/episode/5UOwxWjRU2kUCq14EXqKCX</guid>
-      <pubDate>Tue, 28 Nov 2017 00:00:00 +0000</pubDate>
+      <title>JRE MMA Show #3 with Brendan Schaub</title>
+      <description>Joe Rogan sits down with Brendan Schaub to discuss UFC218. Learn more about your ad choices. Visit podcastchoices.com/adchoices</description>
+      <guid>https://open.spotify.com/episode/3d7ynGoChoCFrQ0VmXCqpx</guid>
+      <pubDate>Wed, 29 Nov 2017 00:00:00 +0000</pubDate>
       <author>Joe Rogan</author>
-      <enclosure url="https://github.com/MossCation/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2017-11-28-5UOwxWjRU2kUCq14EXqKCX.m4a" length="" type="audio/x-m4a"/>
+      <enclosure url="https://github.com/MossCation/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2017-11-29-3d7ynGoChoCFrQ0VmXCqpx.m4a" length="" type="audio/x-m4a"/>
       <itunes:subtitle>The official podcast of comedian Joe Rogan.</itunes:subtitle>
-      <itunes:summary><![CDATA[Bryan Callen is an actor and stand-up comedian, and together with Brendan Schaub he also hosts “The Fighter & The Kid” podcast available on Spotify. Learn more about your ad choices. Visit podcastchoices.com/adchoices]]></itunes:summary>
+      <itunes:summary><![CDATA[Joe Rogan sits down with Brendan Schaub to discuss UFC218. Learn more about your ad choices. Visit podcastchoices.com/adchoices]]></itunes:summary>
       <itunes:author>Joe Rogan</itunes:author>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:duration>03:00:55</itunes:duration>
+      <itunes:duration>01:36:35</itunes:duration>
     </item>
     <item>
       <title>#1044 - C.T. Fletcher</title>
@@ -17710,6 +17697,19 @@
       <itunes:author>Joe Rogan</itunes:author>
       <itunes:explicit>no</itunes:explicit>
       <itunes:duration>01:57:58</itunes:duration>
+    </item>
+    <item>
+      <title>#1045 - Bryan Callen</title>
+      <description/>
+      <guid>https://open.spotify.com/episode/5UOwxWjRU2kUCq14EXqKCX</guid>
+      <pubDate>Tue, 28 Nov 2017 00:00:00 +0000</pubDate>
+      <author>Joe Rogan</author>
+      <enclosure url="https://github.com/MossCation/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2017-11-28-5UOwxWjRU2kUCq14EXqKCX.m4a" length="" type="audio/x-m4a"/>
+      <itunes:subtitle>The official podcast of comedian Joe Rogan.</itunes:subtitle>
+      <itunes:summary><![CDATA[Bryan Callen is an actor and stand-up comedian, and together with Brendan Schaub he also hosts “The Fighter & The Kid” podcast available on Spotify. Learn more about your ad choices. Visit podcastchoices.com/adchoices]]></itunes:summary>
+      <itunes:author>Joe Rogan</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>03:00:55</itunes:duration>
     </item>
     <item>
       <title>#1043 - Brian Redban</title>
@@ -17842,19 +17842,6 @@
       <itunes:duration>02:13:48</itunes:duration>
     </item>
     <item>
-      <title>UFC Recap w/ Brendan Schaub</title>
-      <description>Joe sits down with Brendan Schaub to discuss recent fights in on November 4, 2017. Learn more about your ad choices. Visit podcastchoices.com/adchoices</description>
-      <guid>https://open.spotify.com/episode/0VwANuuSgMf45R9Nk6C4Rv</guid>
-      <pubDate>Mon, 06 Nov 2017 00:00:00 +0000</pubDate>
-      <author>Joe Rogan</author>
-      <enclosure url="https://github.com/MossCation/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2017-11-06-0VwANuuSgMf45R9Nk6C4Rv.m4a" length="" type="audio/x-m4a"/>
-      <itunes:subtitle>The official podcast of comedian Joe Rogan.</itunes:subtitle>
-      <itunes:summary><![CDATA[Joe sits down with Brendan Schaub to discuss recent fights in on November 4, 2017. Learn more about your ad choices. Visit podcastchoices.com/adchoices]]></itunes:summary>
-      <itunes:author>Joe Rogan</itunes:author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:duration>02:03:42</itunes:duration>
-    </item>
-    <item>
       <title>#1034 - Sebastian Junger</title>
       <description>Sebastian Junger is the author of The Perfect Storm, War, and Tribe. He also is the co-director of the Oscar-nominated documentary “Restrepo.” His latest documentary “Hell On Earth” can been seen on NatGeo. Learn more about your ad choices. Visit podcastchoices.com/adchoices</description>
       <guid>https://open.spotify.com/episode/13qpyoV2X6VlaaJgoF5PZi</guid>
@@ -17866,6 +17853,19 @@
       <itunes:author>Joe Rogan</itunes:author>
       <itunes:explicit>no</itunes:explicit>
       <itunes:duration>02:03:01</itunes:duration>
+    </item>
+    <item>
+      <title>UFC Recap w/ Brendan Schaub</title>
+      <description>Joe sits down with Brendan Schaub to discuss recent fights in on November 4, 2017. Learn more about your ad choices. Visit podcastchoices.com/adchoices</description>
+      <guid>https://open.spotify.com/episode/0VwANuuSgMf45R9Nk6C4Rv</guid>
+      <pubDate>Mon, 06 Nov 2017 00:00:00 +0000</pubDate>
+      <author>Joe Rogan</author>
+      <enclosure url="https://github.com/MossCation/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2017-11-06-0VwANuuSgMf45R9Nk6C4Rv.m4a" length="" type="audio/x-m4a"/>
+      <itunes:subtitle>The official podcast of comedian Joe Rogan.</itunes:subtitle>
+      <itunes:summary><![CDATA[Joe sits down with Brendan Schaub to discuss recent fights in on November 4, 2017. Learn more about your ad choices. Visit podcastchoices.com/adchoices]]></itunes:summary>
+      <itunes:author>Joe Rogan</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>02:03:42</itunes:duration>
     </item>
     <item>
       <title>#1032 - Colin Moriarty</title>
@@ -18869,19 +18869,6 @@
       <itunes:duration>03:35:09</itunes:duration>
     </item>
     <item>
-      <title>#960 - Steve-O</title>
-      <description>Steve-O is a stunt performer, comedian, clown, actor, producer, author, and television personality. Learn more about your ad choices. Visit podcastchoices.com/adchoices</description>
-      <guid>https://open.spotify.com/episode/5HwzsAlZRytSBFMAqwg7ll</guid>
-      <pubDate>Mon, 15 May 2017 00:00:00 +0000</pubDate>
-      <author>Joe Rogan</author>
-      <enclosure url="https://github.com/MossCation/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2017-05-15-5HwzsAlZRytSBFMAqwg7ll.m4a" length="" type="audio/x-m4a"/>
-      <itunes:subtitle>The official podcast of comedian Joe Rogan.</itunes:subtitle>
-      <itunes:summary><![CDATA[Steve-O is a stunt performer, comedian, clown, actor, producer, author, and television personality. Learn more about your ad choices. Visit podcastchoices.com/adchoices]]></itunes:summary>
-      <itunes:author>Joe Rogan</itunes:author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:duration>02:27:56</itunes:duration>
-    </item>
-    <item>
       <title>Podcast on a Plane UFC 211 Recap</title>
       <description>This episode is only available as audio. Joe sits down with Tony Hinchcliffe on a plane to discuss the weekend's events at UFC 211 in Dallas, TX. Learn more about your ad choices. Visit podcastchoices.com/adchoices</description>
       <guid>https://open.spotify.com/episode/38y8VWo0n14efquMLXXdHZ</guid>
@@ -18893,6 +18880,19 @@
       <itunes:author>Joe Rogan</itunes:author>
       <itunes:explicit>no</itunes:explicit>
       <itunes:duration>02:31:01</itunes:duration>
+    </item>
+    <item>
+      <title>#960 - Steve-O</title>
+      <description>Steve-O is a stunt performer, comedian, clown, actor, producer, author, and television personality. Learn more about your ad choices. Visit podcastchoices.com/adchoices</description>
+      <guid>https://open.spotify.com/episode/5HwzsAlZRytSBFMAqwg7ll</guid>
+      <pubDate>Mon, 15 May 2017 00:00:00 +0000</pubDate>
+      <author>Joe Rogan</author>
+      <enclosure url="https://github.com/MossCation/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2017-05-15-5HwzsAlZRytSBFMAqwg7ll.m4a" length="" type="audio/x-m4a"/>
+      <itunes:subtitle>The official podcast of comedian Joe Rogan.</itunes:subtitle>
+      <itunes:summary><![CDATA[Steve-O is a stunt performer, comedian, clown, actor, producer, author, and television personality. Learn more about your ad choices. Visit podcastchoices.com/adchoices]]></itunes:summary>
+      <itunes:author>Joe Rogan</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>02:27:56</itunes:duration>
     </item>
     <item>
       <title>#959 - Mick West</title>
@@ -18908,19 +18908,6 @@
       <itunes:duration>02:01:55</itunes:duration>
     </item>
     <item>
-      <title>#958 - Jordan Peterson</title>
-      <description>Jordan Peterson is a clinical psychologist and tenured professor of psychology at the University of Toronto. All Dr. Peterson's self-improvement writing programs at www.selfauthoring.com 20% off for Rogan listeners until June: code joerogan  Dr. Peterson's YouTube channel: https://www.youtube.com/user/JordanPetersonVideos  Support Dr. Peterson's work at www.patreon.com/jordanbpeterson Learn more about your ad choices. Visit podcastchoices.com/adchoices</description>
-      <guid>https://open.spotify.com/episode/5194p3rIfeyMGbo8YKGMJK</guid>
-      <pubDate>Tue, 09 May 2017 00:00:00 +0000</pubDate>
-      <author>Joe Rogan</author>
-      <enclosure url="https://github.com/MossCation/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2017-05-09-5194p3rIfeyMGbo8YKGMJK.m4a" length="" type="audio/x-m4a"/>
-      <itunes:subtitle>The official podcast of comedian Joe Rogan.</itunes:subtitle>
-      <itunes:summary><![CDATA[Jordan Peterson is a clinical psychologist and tenured professor of psychology at the University of Toronto. All Dr. Peterson's self-improvement writing programs at www.selfauthoring.com 20% off for Rogan listeners until June: code joerogan  Dr. Peterson's YouTube channel: https://www.youtube.com/user/JordanPetersonVideos  Support Dr. Peterson's work at www.patreon.com/jordanbpeterson Learn more about your ad choices. Visit podcastchoices.com/adchoices]]></itunes:summary>
-      <itunes:author>Joe Rogan</itunes:author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:duration>02:57:34</itunes:duration>
-    </item>
-    <item>
       <title>#957 - Cameron Hanes</title>
       <description>Cameron Hanes is a bowhunting athlete, “training intensively each and every day to become the Ultimate Predator.” Learn more about your ad choices. Visit podcastchoices.com/adchoices</description>
       <guid>https://open.spotify.com/episode/3F1F6RQzys5Y55jDQYWfAN</guid>
@@ -18932,6 +18919,19 @@
       <itunes:author>Joe Rogan</itunes:author>
       <itunes:explicit>no</itunes:explicit>
       <itunes:duration>02:05:46</itunes:duration>
+    </item>
+    <item>
+      <title>#958 - Jordan Peterson</title>
+      <description>Jordan Peterson is a clinical psychologist and tenured professor of psychology at the University of Toronto. All Dr. Peterson's self-improvement writing programs at www.selfauthoring.com 20% off for Rogan listeners until June: code joerogan  Dr. Peterson's YouTube channel: https://www.youtube.com/user/JordanPetersonVideos  Support Dr. Peterson's work at www.patreon.com/jordanbpeterson Learn more about your ad choices. Visit podcastchoices.com/adchoices</description>
+      <guid>https://open.spotify.com/episode/5194p3rIfeyMGbo8YKGMJK</guid>
+      <pubDate>Tue, 09 May 2017 00:00:00 +0000</pubDate>
+      <author>Joe Rogan</author>
+      <enclosure url="https://github.com/MossCation/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2017-05-09-5194p3rIfeyMGbo8YKGMJK.m4a" length="" type="audio/x-m4a"/>
+      <itunes:subtitle>The official podcast of comedian Joe Rogan.</itunes:subtitle>
+      <itunes:summary><![CDATA[Jordan Peterson is a clinical psychologist and tenured professor of psychology at the University of Toronto. All Dr. Peterson's self-improvement writing programs at www.selfauthoring.com 20% off for Rogan listeners until June: code joerogan  Dr. Peterson's YouTube channel: https://www.youtube.com/user/JordanPetersonVideos  Support Dr. Peterson's work at www.patreon.com/jordanbpeterson Learn more about your ad choices. Visit podcastchoices.com/adchoices]]></itunes:summary>
+      <itunes:author>Joe Rogan</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>02:57:34</itunes:duration>
     </item>
     <item>
       <title>#956 - Guy Ritchie</title>
@@ -19129,19 +19129,6 @@
       <itunes:duration>02:24:49</itunes:duration>
     </item>
     <item>
-      <title>#941 - Greg Fitzsimmons</title>
-      <description>Greg Fitzsimmons is a writer and stand-up comedian. He also hosts his own podcast "FitzDog Radio" available on Spotify. Learn more about your ad choices. Visit podcastchoices.com/adchoices</description>
-      <guid>https://open.spotify.com/episode/3ZjYgZhNYSFCGLLnOGS6a0</guid>
-      <pubDate>Tue, 04 Apr 2017 00:00:00 +0000</pubDate>
-      <author>Joe Rogan</author>
-      <enclosure url="https://github.com/MossCation/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2017-04-04-3ZjYgZhNYSFCGLLnOGS6a0.m4a" length="" type="audio/x-m4a"/>
-      <itunes:subtitle>The official podcast of comedian Joe Rogan.</itunes:subtitle>
-      <itunes:summary><![CDATA[Greg Fitzsimmons is a writer and stand-up comedian. He also hosts his own podcast "FitzDog Radio" available on Spotify. Learn more about your ad choices. Visit podcastchoices.com/adchoices]]></itunes:summary>
-      <itunes:author>Joe Rogan</itunes:author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:duration>02:47:55</itunes:duration>
-    </item>
-    <item>
       <title>#940 - Sam Harris &amp; Dan Harris</title>
       <description>Sam Harris is a neuroscientist and author of the New York Times bestsellers, The End of Faith, Letter to a Christian Nation, and The Moral Landscape. Dan Harris is a correspondent for ABC News, an anchor for Nightline and co-anchor for the weekend edition of Good Morning America.Dan is also the founder, author, and host of the book/app/podcast called "10% Happier" available on Spotify - http://www.10percenthappier.com/ Learn more about your ad choices. Visit podcastchoices.com/adchoices</description>
       <guid>https://open.spotify.com/episode/3cNUclHNVbu1pAGhdZpBxK</guid>
@@ -19153,6 +19140,19 @@
       <itunes:author>Joe Rogan</itunes:author>
       <itunes:explicit>no</itunes:explicit>
       <itunes:duration>02:59:48</itunes:duration>
+    </item>
+    <item>
+      <title>#941 - Greg Fitzsimmons</title>
+      <description>Greg Fitzsimmons is a writer and stand-up comedian. He also hosts his own podcast "FitzDog Radio" available on Spotify. Learn more about your ad choices. Visit podcastchoices.com/adchoices</description>
+      <guid>https://open.spotify.com/episode/3ZjYgZhNYSFCGLLnOGS6a0</guid>
+      <pubDate>Tue, 04 Apr 2017 00:00:00 +0000</pubDate>
+      <author>Joe Rogan</author>
+      <enclosure url="https://github.com/MossCation/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2017-04-04-3ZjYgZhNYSFCGLLnOGS6a0.m4a" length="" type="audio/x-m4a"/>
+      <itunes:subtitle>The official podcast of comedian Joe Rogan.</itunes:subtitle>
+      <itunes:summary><![CDATA[Greg Fitzsimmons is a writer and stand-up comedian. He also hosts his own podcast "FitzDog Radio" available on Spotify. Learn more about your ad choices. Visit podcastchoices.com/adchoices]]></itunes:summary>
+      <itunes:author>Joe Rogan</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>02:47:55</itunes:duration>
     </item>
     <item>
       <title>#939 - Chris Cage</title>
@@ -20052,19 +20052,6 @@
       <itunes:duration>01:57:05</itunes:duration>
     </item>
     <item>
-      <title>End of the World (Live from the Comedy Store)</title>
-      <description>Joe Rogan, Doug Stanhope, and Bill Burr are joined by a rotating group of comedians on November 8, 2016, as results of the election are coming in. Learn more about your ad choices. Visit podcastchoices.com/adchoices</description>
-      <guid>https://open.spotify.com/episode/1LBf9sftjeNhYl4jUuGA2G</guid>
-      <pubDate>Wed, 09 Nov 2016 00:00:00 +0000</pubDate>
-      <author>Joe Rogan</author>
-      <enclosure url="https://github.com/MossCation/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2016-11-09-1LBf9sftjeNhYl4jUuGA2G.m4a" length="" type="audio/x-m4a"/>
-      <itunes:subtitle>The official podcast of comedian Joe Rogan.</itunes:subtitle>
-      <itunes:summary><![CDATA[Joe Rogan, Doug Stanhope, and Bill Burr are joined by a rotating group of comedians on November 8, 2016, as results of the election are coming in. Learn more about your ad choices. Visit podcastchoices.com/adchoices]]></itunes:summary>
-      <itunes:author>Joe Rogan</itunes:author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:duration>03:54:29</itunes:duration>
-    </item>
-    <item>
       <title>#870 - Bert Kreischer</title>
       <description>Bert Kreischer is a stand-up comedian, actor and reality television host. Check out his book "Life of the Party" on Amazon and his podcast "The Bertcast" on Spotify. His comedy special "The Machine" debuts on Showtime 11/11 at 10pm. Learn more about your ad choices. Visit podcastchoices.com/adchoices</description>
       <guid>https://open.spotify.com/episode/4AvGlOV48c3iZQ6pB5CdRD</guid>
@@ -20076,6 +20063,19 @@
       <itunes:author>Joe Rogan</itunes:author>
       <itunes:explicit>no</itunes:explicit>
       <itunes:duration>03:26:44</itunes:duration>
+    </item>
+    <item>
+      <title>End of the World (Live from the Comedy Store)</title>
+      <description>Joe Rogan, Doug Stanhope, and Bill Burr are joined by a rotating group of comedians on November 8, 2016, as results of the election are coming in. Learn more about your ad choices. Visit podcastchoices.com/adchoices</description>
+      <guid>https://open.spotify.com/episode/1LBf9sftjeNhYl4jUuGA2G</guid>
+      <pubDate>Wed, 09 Nov 2016 00:00:00 +0000</pubDate>
+      <author>Joe Rogan</author>
+      <enclosure url="https://github.com/MossCation/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2016-11-09-1LBf9sftjeNhYl4jUuGA2G.m4a" length="" type="audio/x-m4a"/>
+      <itunes:subtitle>The official podcast of comedian Joe Rogan.</itunes:subtitle>
+      <itunes:summary><![CDATA[Joe Rogan, Doug Stanhope, and Bill Burr are joined by a rotating group of comedians on November 8, 2016, as results of the election are coming in. Learn more about your ad choices. Visit podcastchoices.com/adchoices]]></itunes:summary>
+      <itunes:author>Joe Rogan</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>03:54:29</itunes:duration>
     </item>
     <item>
       <title>#869 - Dave Rubin</title>
@@ -20130,19 +20130,6 @@
       <itunes:duration>02:20:08</itunes:duration>
     </item>
     <item>
-      <title>#864 - Kevin Ross &amp; Gaston Bolanos</title>
-      <description>Kevin "The Soul Assassin" Ross is an American Muay Thai kickboxer and former mixed martial artist. Gaston "The Dreamkiller" Bolanos is a professional Muay Thai fighter, recently signed to Bellator. Learn more about your ad choices. Visit podcastchoices.com/adchoices</description>
-      <guid>https://open.spotify.com/episode/2ufkc5Rf3deYWmK3sLJ6fY</guid>
-      <pubDate>Mon, 24 Oct 2016 00:00:00 +0000</pubDate>
-      <author>Joe Rogan</author>
-      <enclosure url="https://github.com/MossCation/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2016-10-24-2ufkc5Rf3deYWmK3sLJ6fY.m4a" length="" type="audio/x-m4a"/>
-      <itunes:subtitle>The official podcast of comedian Joe Rogan.</itunes:subtitle>
-      <itunes:summary><![CDATA[Kevin "The Soul Assassin" Ross is an American Muay Thai kickboxer and former mixed martial artist. Gaston "The Dreamkiller" Bolanos is a professional Muay Thai fighter, recently signed to Bellator. Learn more about your ad choices. Visit podcastchoices.com/adchoices]]></itunes:summary>
-      <itunes:author>Joe Rogan</itunes:author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:duration>02:11:47</itunes:duration>
-    </item>
-    <item>
       <title>#865 - Wim Hof</title>
       <description>Wim Hof is a Dutch world record holder, adventurer and daredevil, commonly nicknamed the Iceman for his ability to withstand extreme cold. Learn more about your ad choices. Visit podcastchoices.com/adchoices</description>
       <guid>https://open.spotify.com/episode/1FEaYYJEsL1mMOATKnPy3n</guid>
@@ -20154,6 +20141,19 @@
       <itunes:author>Joe Rogan</itunes:author>
       <itunes:explicit>no</itunes:explicit>
       <itunes:duration>02:22:15</itunes:duration>
+    </item>
+    <item>
+      <title>#864 - Kevin Ross &amp; Gaston Bolanos</title>
+      <description>Kevin "The Soul Assassin" Ross is an American Muay Thai kickboxer and former mixed martial artist. Gaston "The Dreamkiller" Bolanos is a professional Muay Thai fighter, recently signed to Bellator. Learn more about your ad choices. Visit podcastchoices.com/adchoices</description>
+      <guid>https://open.spotify.com/episode/2ufkc5Rf3deYWmK3sLJ6fY</guid>
+      <pubDate>Mon, 24 Oct 2016 00:00:00 +0000</pubDate>
+      <author>Joe Rogan</author>
+      <enclosure url="https://github.com/MossCation/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2016-10-24-2ufkc5Rf3deYWmK3sLJ6fY.m4a" length="" type="audio/x-m4a"/>
+      <itunes:subtitle>The official podcast of comedian Joe Rogan.</itunes:subtitle>
+      <itunes:summary><![CDATA[Kevin "The Soul Assassin" Ross is an American Muay Thai kickboxer and former mixed martial artist. Gaston "The Dreamkiller" Bolanos is a professional Muay Thai fighter, recently signed to Bellator. Learn more about your ad choices. Visit podcastchoices.com/adchoices]]></itunes:summary>
+      <itunes:author>Joe Rogan</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>02:11:47</itunes:duration>
     </item>
     <item>
       <title>Fight Companion - October 21, 2016</title>
@@ -20572,19 +20572,6 @@
       <itunes:duration>02:40:00</itunes:duration>
     </item>
     <item>
-      <title>#836 - Hannibal Buress</title>
-      <description>Hannibal Buress is a stand-up comedian, actor, television writer and host. Look for his Hannibal Montanabal Tour all over the country this fall. http://hannibalburess.com Learn more about your ad choices. Visit podcastchoices.com/adchoices</description>
-      <guid>https://open.spotify.com/episode/1PYQAJA1HelI2K9vfGWA3K</guid>
-      <pubDate>Mon, 22 Aug 2016 00:00:00 +0000</pubDate>
-      <author>Joe Rogan</author>
-      <enclosure url="https://github.com/MossCation/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2016-08-22-1PYQAJA1HelI2K9vfGWA3K.m4a" length="" type="audio/x-m4a"/>
-      <itunes:subtitle>The official podcast of comedian Joe Rogan.</itunes:subtitle>
-      <itunes:summary><![CDATA[Hannibal Buress is a stand-up comedian, actor, television writer and host. Look for his Hannibal Montanabal Tour all over the country this fall. http://hannibalburess.com Learn more about your ad choices. Visit podcastchoices.com/adchoices]]></itunes:summary>
-      <itunes:author>Joe Rogan</itunes:author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:duration>02:52:39</itunes:duration>
-    </item>
-    <item>
       <title>#835 - Louis Theroux</title>
       <description>Louis Theroux is best known for his documentaries in the television series "Louis Theroux's Weird Weekends" and "When Louis Met...", as well as his Louis Theroux's BBC Two specials. Learn more about your ad choices. Visit podcastchoices.com/adchoices</description>
       <guid>https://open.spotify.com/episode/0IGHoKiXvNiWJU9S9xPpei</guid>
@@ -20596,6 +20583,19 @@
       <itunes:author>Joe Rogan</itunes:author>
       <itunes:explicit>no</itunes:explicit>
       <itunes:duration>02:23:45</itunes:duration>
+    </item>
+    <item>
+      <title>#836 - Hannibal Buress</title>
+      <description>Hannibal Buress is a stand-up comedian, actor, television writer and host. Look for his Hannibal Montanabal Tour all over the country this fall. http://hannibalburess.com Learn more about your ad choices. Visit podcastchoices.com/adchoices</description>
+      <guid>https://open.spotify.com/episode/1PYQAJA1HelI2K9vfGWA3K</guid>
+      <pubDate>Mon, 22 Aug 2016 00:00:00 +0000</pubDate>
+      <author>Joe Rogan</author>
+      <enclosure url="https://github.com/MossCation/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2016-08-22-1PYQAJA1HelI2K9vfGWA3K.m4a" length="" type="audio/x-m4a"/>
+      <itunes:subtitle>The official podcast of comedian Joe Rogan.</itunes:subtitle>
+      <itunes:summary><![CDATA[Hannibal Buress is a stand-up comedian, actor, television writer and host. Look for his Hannibal Montanabal Tour all over the country this fall. http://hannibalburess.com Learn more about your ad choices. Visit podcastchoices.com/adchoices]]></itunes:summary>
+      <itunes:author>Joe Rogan</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>02:52:39</itunes:duration>
     </item>
     <item>
       <title>#834 - Dan Doty</title>
@@ -20858,19 +20858,6 @@
       <itunes:duration>02:09:05</itunes:duration>
     </item>
     <item>
-      <title>#814 - Ari Shaffir</title>
-      <description/>
-      <guid>https://open.spotify.com/episode/3uB3K1h731k9W4HAymT52o</guid>
-      <pubDate>Wed, 22 Jun 2016 00:00:00 +0000</pubDate>
-      <author>Joe Rogan</author>
-      <enclosure url="https://github.com/MossCation/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2016-06-22-3uB3K1h731k9W4HAymT52o.m4a" length="" type="audio/x-m4a"/>
-      <itunes:subtitle>The official podcast of comedian Joe Rogan.</itunes:subtitle>
-      <itunes:summary><![CDATA[Ari Shaffir is a stand-up comedian and also hosts the podcasts Ari Shaffir’s Skeptic Tank & Punch Drunk Sports available on Spotify. Check out his show This Is Not Happening on Comedy Central & YouTube. Learn more about your ad choices. Visit podcastchoices.com/adchoices]]></itunes:summary>
-      <itunes:author>Joe Rogan</itunes:author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:duration>01:58:44</itunes:duration>
-    </item>
-    <item>
       <title>#813 - Shane Dorian</title>
       <description>Shane Dorian is a big wave surfer and bowhunter. Learn more about your ad choices. Visit podcastchoices.com/adchoices</description>
       <guid>https://open.spotify.com/episode/71nUU0HGXV3nw6qVdvRlQE</guid>
@@ -20882,6 +20869,19 @@
       <itunes:author>Joe Rogan</itunes:author>
       <itunes:explicit>no</itunes:explicit>
       <itunes:duration>02:34:35</itunes:duration>
+    </item>
+    <item>
+      <title>#814 - Ari Shaffir</title>
+      <description/>
+      <guid>https://open.spotify.com/episode/3uB3K1h731k9W4HAymT52o</guid>
+      <pubDate>Wed, 22 Jun 2016 00:00:00 +0000</pubDate>
+      <author>Joe Rogan</author>
+      <enclosure url="https://github.com/MossCation/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2016-06-22-3uB3K1h731k9W4HAymT52o.m4a" length="" type="audio/x-m4a"/>
+      <itunes:subtitle>The official podcast of comedian Joe Rogan.</itunes:subtitle>
+      <itunes:summary><![CDATA[Ari Shaffir is a stand-up comedian and also hosts the podcasts Ari Shaffir’s Skeptic Tank & Punch Drunk Sports available on Spotify. Check out his show This Is Not Happening on Comedy Central & YouTube. Learn more about your ad choices. Visit podcastchoices.com/adchoices]]></itunes:summary>
+      <itunes:author>Joe Rogan</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>01:58:44</itunes:duration>
     </item>
     <item>
       <title>#812 - Russell Brand &amp; Jim Breuer</title>
@@ -22288,19 +22288,6 @@
       <itunes:duration>03:00:16</itunes:duration>
     </item>
     <item>
-      <title>#706 - Brendan Schaub &amp; Fight Companion ? (Part 1)</title>
-      <description/>
-      <guid>https://open.spotify.com/episode/0TZSWuwIjxuwxbFkqAhml5</guid>
-      <pubDate>Fri, 09 Oct 2015 00:00:00 +0000</pubDate>
-      <author>Joe Rogan</author>
-      <enclosure url="https://github.com/MossCation/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2015-10-09-0TZSWuwIjxuwxbFkqAhml5.m4a" length="" type="audio/x-m4a"/>
-      <itunes:subtitle>The official podcast of comedian Joe Rogan.</itunes:subtitle>
-      <itunes:summary><![CDATA[Brendan Schaub is a mixed martial artist and also a former college & pro football player. He also hosts a podcast with Bryan Callen called "The Fighter & The Kid" available on Spotify. Joe & Brendan also watch fights that take place on October 9, 2015. Learn more about your ad choices. Visit podcastchoices.com/adchoices]]></itunes:summary>
-      <itunes:author>Joe Rogan</itunes:author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:duration>02:49:41</itunes:duration>
-    </item>
-    <item>
       <title>#706 - Brendan Schaub &amp; Fight Companion ? (Part 2)</title>
       <description/>
       <guid>https://open.spotify.com/episode/12ivLPbUEbSAWJIw9FIJsL</guid>
@@ -22312,6 +22299,19 @@
       <itunes:author>Joe Rogan</itunes:author>
       <itunes:explicit>no</itunes:explicit>
       <itunes:duration>45:55</itunes:duration>
+    </item>
+    <item>
+      <title>#706 - Brendan Schaub &amp; Fight Companion ? (Part 1)</title>
+      <description/>
+      <guid>https://open.spotify.com/episode/0TZSWuwIjxuwxbFkqAhml5</guid>
+      <pubDate>Fri, 09 Oct 2015 00:00:00 +0000</pubDate>
+      <author>Joe Rogan</author>
+      <enclosure url="https://github.com/MossCation/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2015-10-09-0TZSWuwIjxuwxbFkqAhml5.m4a" length="" type="audio/x-m4a"/>
+      <itunes:subtitle>The official podcast of comedian Joe Rogan.</itunes:subtitle>
+      <itunes:summary><![CDATA[Brendan Schaub is a mixed martial artist and also a former college & pro football player. He also hosts a podcast with Bryan Callen called "The Fighter & The Kid" available on Spotify. Joe & Brendan also watch fights that take place on October 9, 2015. Learn more about your ad choices. Visit podcastchoices.com/adchoices]]></itunes:summary>
+      <itunes:author>Joe Rogan</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>02:49:41</itunes:duration>
     </item>
     <item>
       <title>#705 - Tait Fletcher</title>
@@ -22431,19 +22431,6 @@
       <itunes:duration>02:14:21</itunes:duration>
     </item>
     <item>
-      <title>#696 - Lewis, from Unbox Therapy</title>
-      <description>Unbox Therapy is a YouTube channel "where products get naked." Lewis does in-depth reviews of new tech products releasing to the consumer market. http://www.youtube.com/unboxtherapy Learn more about your ad choices. Visit podcastchoices.com/adchoices</description>
-      <guid>https://open.spotify.com/episode/1b4dScipv7uYXiucWKelZh</guid>
-      <pubDate>Thu, 17 Sep 2015 00:00:00 +0000</pubDate>
-      <author>Joe Rogan</author>
-      <enclosure url="https://github.com/MossCation/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2015-09-17-1b4dScipv7uYXiucWKelZh.m4a" length="" type="audio/x-m4a"/>
-      <itunes:subtitle>The official podcast of comedian Joe Rogan.</itunes:subtitle>
-      <itunes:summary><![CDATA[Unbox Therapy is a YouTube channel "where products get naked." Lewis does in-depth reviews of new tech products releasing to the consumer market. http://www.youtube.com/unboxtherapy Learn more about your ad choices. Visit podcastchoices.com/adchoices]]></itunes:summary>
-      <itunes:author>Joe Rogan</itunes:author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:duration>02:23:33</itunes:duration>
-    </item>
-    <item>
       <title>#697 - Christopher Ryan</title>
       <description>Christopher Ryan, PhD is a psychologist, speaker, and author of New York Times best seller "Sex At Dawn" Learn more about your ad choices. Visit podcastchoices.com/adchoices</description>
       <guid>https://open.spotify.com/episode/1XXwkKocKQudaFSdX3mfAi</guid>
@@ -22455,6 +22442,19 @@
       <itunes:author>Joe Rogan</itunes:author>
       <itunes:explicit>no</itunes:explicit>
       <itunes:duration>02:47:21</itunes:duration>
+    </item>
+    <item>
+      <title>#696 - Lewis, from Unbox Therapy</title>
+      <description>Unbox Therapy is a YouTube channel "where products get naked." Lewis does in-depth reviews of new tech products releasing to the consumer market. http://www.youtube.com/unboxtherapy Learn more about your ad choices. Visit podcastchoices.com/adchoices</description>
+      <guid>https://open.spotify.com/episode/1b4dScipv7uYXiucWKelZh</guid>
+      <pubDate>Thu, 17 Sep 2015 00:00:00 +0000</pubDate>
+      <author>Joe Rogan</author>
+      <enclosure url="https://github.com/MossCation/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2015-09-17-1b4dScipv7uYXiucWKelZh.m4a" length="" type="audio/x-m4a"/>
+      <itunes:subtitle>The official podcast of comedian Joe Rogan.</itunes:subtitle>
+      <itunes:summary><![CDATA[Unbox Therapy is a YouTube channel "where products get naked." Lewis does in-depth reviews of new tech products releasing to the consumer market. http://www.youtube.com/unboxtherapy Learn more about your ad choices. Visit podcastchoices.com/adchoices]]></itunes:summary>
+      <itunes:author>Joe Rogan</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>02:23:33</itunes:duration>
     </item>
     <item>
       <title>#695 - Sebastian Maniscalco</title>
@@ -22691,19 +22691,6 @@
       <itunes:duration>02:14:38</itunes:duration>
     </item>
     <item>
-      <title>#678 - Jonathan Ward</title>
-      <description>Jonathan Ward is the owner of ICON and a designer and creator of coach-built premium automobiles. Learn more about your ad choices. Visit podcastchoices.com/adchoices</description>
-      <guid>https://open.spotify.com/episode/7dOVm9NmseSwZvvktXXQul</guid>
-      <pubDate>Thu, 06 Aug 2015 00:00:00 +0000</pubDate>
-      <author>Joe Rogan</author>
-      <enclosure url="https://github.com/MossCation/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2015-08-06-7dOVm9NmseSwZvvktXXQul.m4a" length="" type="audio/x-m4a"/>
-      <itunes:subtitle>The official podcast of comedian Joe Rogan.</itunes:subtitle>
-      <itunes:summary><![CDATA[Jonathan Ward is the owner of ICON and a designer and creator of coach-built premium automobiles. Learn more about your ad choices. Visit podcastchoices.com/adchoices]]></itunes:summary>
-      <itunes:author>Joe Rogan</itunes:author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:duration>02:02:26</itunes:duration>
-    </item>
-    <item>
       <title>#679 - Barry Crimmins &amp; Bobcat Goldthwait</title>
       <description>"Call Me Lucky" is a documentary about the life and traumatic childhood experiences of Boston stand up comedy legend Barry Crimmins that was directed by Bobcat Goldthwait. Limited release in theaters starts August 7, visit http://callmeluckymovie.com to a screening. Learn more about your ad choices. Visit podcastchoices.com/adchoices</description>
       <guid>https://open.spotify.com/episode/5d6stoiUA51dXWt4tJHWZ5</guid>
@@ -22715,6 +22702,19 @@
       <itunes:author>Joe Rogan</itunes:author>
       <itunes:explicit>no</itunes:explicit>
       <itunes:duration>01:32:21</itunes:duration>
+    </item>
+    <item>
+      <title>#678 - Jonathan Ward</title>
+      <description>Jonathan Ward is the owner of ICON and a designer and creator of coach-built premium automobiles. Learn more about your ad choices. Visit podcastchoices.com/adchoices</description>
+      <guid>https://open.spotify.com/episode/7dOVm9NmseSwZvvktXXQul</guid>
+      <pubDate>Thu, 06 Aug 2015 00:00:00 +0000</pubDate>
+      <author>Joe Rogan</author>
+      <enclosure url="https://github.com/MossCation/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2015-08-06-7dOVm9NmseSwZvvktXXQul.m4a" length="" type="audio/x-m4a"/>
+      <itunes:subtitle>The official podcast of comedian Joe Rogan.</itunes:subtitle>
+      <itunes:summary><![CDATA[Jonathan Ward is the owner of ICON and a designer and creator of coach-built premium automobiles. Learn more about your ad choices. Visit podcastchoices.com/adchoices]]></itunes:summary>
+      <itunes:author>Joe Rogan</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>02:02:26</itunes:duration>
     </item>
     <item>
       <title>#677 - Josh Zepps</title>
@@ -23315,19 +23315,6 @@
       <itunes:duration>01:59:28</itunes:duration>
     </item>
     <item>
-      <title>Fight Companion - April 11, 2015 (Part 1)</title>
-      <description/>
-      <guid>https://open.spotify.com/episode/42j5MJ6e57g4DgOohegJ1I</guid>
-      <pubDate>Sat, 11 Apr 2015 00:00:00 +0000</pubDate>
-      <author>Joe Rogan</author>
-      <enclosure url="https://github.com/MossCation/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2015-04-11-42j5MJ6e57g4DgOohegJ1I.m4a" length="" type="audio/x-m4a"/>
-      <itunes:subtitle>The official podcast of comedian Joe Rogan.</itunes:subtitle>
-      <itunes:summary><![CDATA[Joe is joined by Eddie Bravo & Brendan Schaub to watch the fights on April 11, 2015. Learn more about your ad choices. Visit podcastchoices.com/adchoices]]></itunes:summary>
-      <itunes:author>Joe Rogan</itunes:author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:duration>02:54:45</itunes:duration>
-    </item>
-    <item>
       <title>Fight Companion - April 11, 2015 (Part 2)</title>
       <description/>
       <guid>https://open.spotify.com/episode/3rFibRj1DjNBsb1k8rfUiJ</guid>
@@ -23339,6 +23326,19 @@
       <itunes:author>Joe Rogan</itunes:author>
       <itunes:explicit>no</itunes:explicit>
       <itunes:duration>55:56</itunes:duration>
+    </item>
+    <item>
+      <title>Fight Companion - April 11, 2015 (Part 1)</title>
+      <description/>
+      <guid>https://open.spotify.com/episode/42j5MJ6e57g4DgOohegJ1I</guid>
+      <pubDate>Sat, 11 Apr 2015 00:00:00 +0000</pubDate>
+      <author>Joe Rogan</author>
+      <enclosure url="https://github.com/MossCation/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2015-04-11-42j5MJ6e57g4DgOohegJ1I.m4a" length="" type="audio/x-m4a"/>
+      <itunes:subtitle>The official podcast of comedian Joe Rogan.</itunes:subtitle>
+      <itunes:summary><![CDATA[Joe is joined by Eddie Bravo & Brendan Schaub to watch the fights on April 11, 2015. Learn more about your ad choices. Visit podcastchoices.com/adchoices]]></itunes:summary>
+      <itunes:author>Joe Rogan</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>02:54:45</itunes:duration>
     </item>
     <item>
       <title>Podcast from a Car</title>
@@ -23549,19 +23549,6 @@
       <itunes:duration>02:58:55</itunes:duration>
     </item>
     <item>
-      <title>#617 - Brian Regan</title>
-      <description>Brian Regan is one of the top stand-up comedians working today, find him touring all over the country at http://BrianRegan.com Learn more about your ad choices. Visit podcastchoices.com/adchoices</description>
-      <guid>https://open.spotify.com/episode/68xHTHbdaWJ3CbY88rpTtr</guid>
-      <pubDate>Wed, 25 Feb 2015 00:00:00 +0000</pubDate>
-      <author>Joe Rogan</author>
-      <enclosure url="https://github.com/MossCation/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2015-02-25-68xHTHbdaWJ3CbY88rpTtr.m4a" length="" type="audio/x-m4a"/>
-      <itunes:subtitle>The official podcast of comedian Joe Rogan.</itunes:subtitle>
-      <itunes:summary><![CDATA[Brian Regan is one of the top stand-up comedians working today, find him touring all over the country at http://BrianRegan.com Learn more about your ad choices. Visit podcastchoices.com/adchoices]]></itunes:summary>
-      <itunes:author>Joe Rogan</itunes:author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:duration>02:13:57</itunes:duration>
-    </item>
-    <item>
       <title>#618 - Artie Lange</title>
       <description>Artie Lange is an actor, writer, comedian, radio personality, and author. He recently started his own podcast available at http://ArtieQuitter.com Learn more about your ad choices. Visit podcastchoices.com/adchoices</description>
       <guid>https://open.spotify.com/episode/55paJwiXTo4dBaF7I7JlKT</guid>
@@ -23573,6 +23560,19 @@
       <itunes:author>Joe Rogan</itunes:author>
       <itunes:explicit>no</itunes:explicit>
       <itunes:duration>01:26:53</itunes:duration>
+    </item>
+    <item>
+      <title>#617 - Brian Regan</title>
+      <description>Brian Regan is one of the top stand-up comedians working today, find him touring all over the country at http://BrianRegan.com Learn more about your ad choices. Visit podcastchoices.com/adchoices</description>
+      <guid>https://open.spotify.com/episode/68xHTHbdaWJ3CbY88rpTtr</guid>
+      <pubDate>Wed, 25 Feb 2015 00:00:00 +0000</pubDate>
+      <author>Joe Rogan</author>
+      <enclosure url="https://github.com/MossCation/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2015-02-25-68xHTHbdaWJ3CbY88rpTtr.m4a" length="" type="audio/x-m4a"/>
+      <itunes:subtitle>The official podcast of comedian Joe Rogan.</itunes:subtitle>
+      <itunes:summary><![CDATA[Brian Regan is one of the top stand-up comedians working today, find him touring all over the country at http://BrianRegan.com Learn more about your ad choices. Visit podcastchoices.com/adchoices]]></itunes:summary>
+      <itunes:author>Joe Rogan</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>02:13:57</itunes:duration>
     </item>
     <item>
       <title>#616 - John Wayne Parr</title>
@@ -24160,19 +24160,6 @@
       <itunes:duration>01:40:54</itunes:duration>
     </item>
     <item>
-      <title>#572 - Dom Irrera</title>
-      <description>Dom Irrera is a stand up comedian, and also hosts his own podcast called "Dom Irrera Live from The Laugh Factory." Learn more about your ad choices. Visit podcastchoices.com/adchoices</description>
-      <guid>https://open.spotify.com/episode/4vbCJU37qluA2IfGOnegqf</guid>
-      <pubDate>Mon, 10 Nov 2014 00:00:00 +0000</pubDate>
-      <author>Joe Rogan</author>
-      <enclosure url="https://github.com/MossCation/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2014-11-10-4vbCJU37qluA2IfGOnegqf.m4a" length="" type="audio/x-m4a"/>
-      <itunes:subtitle>The official podcast of comedian Joe Rogan.</itunes:subtitle>
-      <itunes:summary><![CDATA[Dom Irrera is a stand up comedian, and also hosts his own podcast called "Dom Irrera Live from The Laugh Factory." Learn more about your ad choices. Visit podcastchoices.com/adchoices]]></itunes:summary>
-      <itunes:author>Joe Rogan</itunes:author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:duration>02:43:45</itunes:duration>
-    </item>
-    <item>
       <title>#571 - Josh Zepps</title>
       <description/>
       <guid>https://open.spotify.com/episode/4g3U7KE3FwNRqVQhAjWJiK</guid>
@@ -24184,6 +24171,19 @@
       <itunes:author>Joe Rogan</itunes:author>
       <itunes:explicit>no</itunes:explicit>
       <itunes:duration>02:19:29</itunes:duration>
+    </item>
+    <item>
+      <title>#572 - Dom Irrera</title>
+      <description>Dom Irrera is a stand up comedian, and also hosts his own podcast called "Dom Irrera Live from The Laugh Factory." Learn more about your ad choices. Visit podcastchoices.com/adchoices</description>
+      <guid>https://open.spotify.com/episode/4vbCJU37qluA2IfGOnegqf</guid>
+      <pubDate>Mon, 10 Nov 2014 00:00:00 +0000</pubDate>
+      <author>Joe Rogan</author>
+      <enclosure url="https://github.com/MossCation/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2014-11-10-4vbCJU37qluA2IfGOnegqf.m4a" length="" type="audio/x-m4a"/>
+      <itunes:subtitle>The official podcast of comedian Joe Rogan.</itunes:subtitle>
+      <itunes:summary><![CDATA[Dom Irrera is a stand up comedian, and also hosts his own podcast called "Dom Irrera Live from The Laugh Factory." Learn more about your ad choices. Visit podcastchoices.com/adchoices]]></itunes:summary>
+      <itunes:author>Joe Rogan</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>02:43:45</itunes:duration>
     </item>
     <item>
       <title>#569 - Joe Perry</title>
@@ -24316,19 +24316,6 @@
       <itunes:duration>02:56:53</itunes:duration>
     </item>
     <item>
-      <title>#559 - Keith Weber</title>
-      <description>Keith Weber is the creator of "Extreme Kettlebell Cardio" DVDs, a physiotherapist, triathlete, and "physical culturist." Learn more about your ad choices. Visit podcastchoices.com/adchoices</description>
-      <guid>https://open.spotify.com/episode/7lDepCBWwvQgYsak6oM55v</guid>
-      <pubDate>Fri, 10 Oct 2014 00:00:00 +0000</pubDate>
-      <author>Joe Rogan</author>
-      <enclosure url="https://github.com/MossCation/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2014-10-10-7lDepCBWwvQgYsak6oM55v.m4a" length="" type="audio/x-m4a"/>
-      <itunes:subtitle>The official podcast of comedian Joe Rogan.</itunes:subtitle>
-      <itunes:summary><![CDATA[Keith Weber is the creator of "Extreme Kettlebell Cardio" DVDs, a physiotherapist, triathlete, and "physical culturist." Learn more about your ad choices. Visit podcastchoices.com/adchoices]]></itunes:summary>
-      <itunes:author>Joe Rogan</itunes:author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:duration>01:58:03</itunes:duration>
-    </item>
-    <item>
       <title>#560 - Anthony Cumia</title>
       <description/>
       <guid>https://open.spotify.com/episode/04lBIpNcsgeP3gODN0DV0M</guid>
@@ -24353,6 +24340,19 @@
       <itunes:author>Joe Rogan</itunes:author>
       <itunes:explicit>no</itunes:explicit>
       <itunes:duration>03:15:29</itunes:duration>
+    </item>
+    <item>
+      <title>#559 - Keith Weber</title>
+      <description>Keith Weber is the creator of "Extreme Kettlebell Cardio" DVDs, a physiotherapist, triathlete, and "physical culturist." Learn more about your ad choices. Visit podcastchoices.com/adchoices</description>
+      <guid>https://open.spotify.com/episode/7lDepCBWwvQgYsak6oM55v</guid>
+      <pubDate>Fri, 10 Oct 2014 00:00:00 +0000</pubDate>
+      <author>Joe Rogan</author>
+      <enclosure url="https://github.com/MossCation/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2014-10-10-7lDepCBWwvQgYsak6oM55v.m4a" length="" type="audio/x-m4a"/>
+      <itunes:subtitle>The official podcast of comedian Joe Rogan.</itunes:subtitle>
+      <itunes:summary><![CDATA[Keith Weber is the creator of "Extreme Kettlebell Cardio" DVDs, a physiotherapist, triathlete, and "physical culturist." Learn more about your ad choices. Visit podcastchoices.com/adchoices]]></itunes:summary>
+      <itunes:author>Joe Rogan</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>01:58:03</itunes:duration>
     </item>
     <item>
       <title>#557 - Bryan Callen</title>
@@ -24628,19 +24628,6 @@
       <itunes:duration>02:07:11</itunes:duration>
     </item>
     <item>
-      <title>#534 - Robin Black</title>
-      <description/>
-      <guid>https://open.spotify.com/episode/561r1ogF6Sg5HbZNAK8Up8</guid>
-      <pubDate>Wed, 13 Aug 2014 00:00:00 +0000</pubDate>
-      <author>Joe Rogan</author>
-      <enclosure url="https://github.com/MossCation/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2014-08-13-561r1ogF6Sg5HbZNAK8Up8.m4a" length="" type="audio/x-m4a"/>
-      <itunes:subtitle>The official podcast of comedian Joe Rogan.</itunes:subtitle>
-      <itunes:summary><![CDATA[Robin Black is an MMA analyst and color commentator for Fight Network and was also the lead singer of Canadian Glam Rock band Robin Black & the Intergalactic Rock Stars. Learn more about your ad choices. Visit podcastchoices.com/adchoices]]></itunes:summary>
-      <itunes:author>Joe Rogan</itunes:author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:duration>02:45:44</itunes:duration>
-    </item>
-    <item>
       <title>#535 - Scroobius Pip</title>
       <description>Scroobius Pip is a UK spoken word poet and hip hop recording artist. Check out his "Distraction Pieces Podcast" available on Spotify. Learn more about your ad choices. Visit podcastchoices.com/adchoices</description>
       <guid>https://open.spotify.com/episode/3jMx63aCltU0SzXH4YWBKe</guid>
@@ -24652,6 +24639,19 @@
       <itunes:author>Joe Rogan</itunes:author>
       <itunes:explicit>no</itunes:explicit>
       <itunes:duration>02:43:27</itunes:duration>
+    </item>
+    <item>
+      <title>#534 - Robin Black</title>
+      <description/>
+      <guid>https://open.spotify.com/episode/561r1ogF6Sg5HbZNAK8Up8</guid>
+      <pubDate>Wed, 13 Aug 2014 00:00:00 +0000</pubDate>
+      <author>Joe Rogan</author>
+      <enclosure url="https://github.com/MossCation/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2014-08-13-561r1ogF6Sg5HbZNAK8Up8.m4a" length="" type="audio/x-m4a"/>
+      <itunes:subtitle>The official podcast of comedian Joe Rogan.</itunes:subtitle>
+      <itunes:summary><![CDATA[Robin Black is an MMA analyst and color commentator for Fight Network and was also the lead singer of Canadian Glam Rock band Robin Black & the Intergalactic Rock Stars. Learn more about your ad choices. Visit podcastchoices.com/adchoices]]></itunes:summary>
+      <itunes:author>Joe Rogan</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>02:45:44</itunes:duration>
     </item>
     <item>
       <title>#532 - Shooter Jennings</title>
@@ -24771,19 +24771,6 @@
       <itunes:duration>02:35:31</itunes:duration>
     </item>
     <item>
-      <title>#522 - CJ Werleman</title>
-      <description>CJ Werleman is an Op-Ed Columnist for Salon/Alternet, also known for authoring the books "Crucifying America" and "God Hates You. Hate Him Back". Learn more about your ad choices. Visit podcastchoices.com/adchoices</description>
-      <guid>https://open.spotify.com/episode/4gFbeWbFZ6fNawxp6KAiTv</guid>
-      <pubDate>Wed, 16 Jul 2014 00:00:00 +0000</pubDate>
-      <author>Joe Rogan</author>
-      <enclosure url="https://github.com/MossCation/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2014-07-16-4gFbeWbFZ6fNawxp6KAiTv.m4a" length="" type="audio/x-m4a"/>
-      <itunes:subtitle>The official podcast of comedian Joe Rogan.</itunes:subtitle>
-      <itunes:summary><![CDATA[CJ Werleman is an Op-Ed Columnist for Salon/Alternet, also known for authoring the books "Crucifying America" and "God Hates You. Hate Him Back". Learn more about your ad choices. Visit podcastchoices.com/adchoices]]></itunes:summary>
-      <itunes:author>Joe Rogan</itunes:author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:duration>02:42:34</itunes:duration>
-    </item>
-    <item>
       <title>Fight Companion - July 16, 2014</title>
       <description/>
       <guid>https://open.spotify.com/episode/4qHSKjZXh5dQXF3xkET09K</guid>
@@ -24795,6 +24782,19 @@
       <itunes:author>Joe Rogan</itunes:author>
       <itunes:explicit>no</itunes:explicit>
       <itunes:duration>02:35:22</itunes:duration>
+    </item>
+    <item>
+      <title>#522 - CJ Werleman</title>
+      <description>CJ Werleman is an Op-Ed Columnist for Salon/Alternet, also known for authoring the books "Crucifying America" and "God Hates You. Hate Him Back". Learn more about your ad choices. Visit podcastchoices.com/adchoices</description>
+      <guid>https://open.spotify.com/episode/4gFbeWbFZ6fNawxp6KAiTv</guid>
+      <pubDate>Wed, 16 Jul 2014 00:00:00 +0000</pubDate>
+      <author>Joe Rogan</author>
+      <enclosure url="https://github.com/MossCation/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2014-07-16-4gFbeWbFZ6fNawxp6KAiTv.m4a" length="" type="audio/x-m4a"/>
+      <itunes:subtitle>The official podcast of comedian Joe Rogan.</itunes:subtitle>
+      <itunes:summary><![CDATA[CJ Werleman is an Op-Ed Columnist for Salon/Alternet, also known for authoring the books "Crucifying America" and "God Hates You. Hate Him Back". Learn more about your ad choices. Visit podcastchoices.com/adchoices]]></itunes:summary>
+      <itunes:author>Joe Rogan</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>02:42:34</itunes:duration>
     </item>
     <item>
       <title>#521 - Lewis, from Unbox Therapy</title>
@@ -24875,19 +24875,6 @@
       <itunes:duration>01:19:26</itunes:duration>
     </item>
     <item>
-      <title>Fight Companion - June 28, 2014 (Part 2)</title>
-      <description>Jimmy Smith and Ian "Uncle Creepy" McCall join Joe to watch the fight on the evening of June 28, 2014. Learn more about your ad choices. Visit podcastchoices.com/adchoices</description>
-      <guid>https://open.spotify.com/episode/7vtj4J26LWd3dO2PvYH4c4</guid>
-      <pubDate>Sun, 29 Jun 2014 00:00:00 +0000</pubDate>
-      <author>Joe Rogan</author>
-      <enclosure url="https://github.com/MossCation/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2014-06-29-7vtj4J26LWd3dO2PvYH4c4.m4a" length="" type="audio/x-m4a"/>
-      <itunes:subtitle>The official podcast of comedian Joe Rogan.</itunes:subtitle>
-      <itunes:summary><![CDATA[Jimmy Smith and Ian "Uncle Creepy" McCall join Joe to watch the fight on the evening of June 28, 2014. Learn more about your ad choices. Visit podcastchoices.com/adchoices]]></itunes:summary>
-      <itunes:author>Joe Rogan</itunes:author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:duration>02:06:58</itunes:duration>
-    </item>
-    <item>
       <title>Fight Companion - June 28, 2014 (Part 1)</title>
       <description>Jimmy Smith and Ian "Uncle Creepy" McCall join Joe to watch the fight on the evening of June 28, 2014. Learn more about your ad choices. Visit podcastchoices.com/adchoices</description>
       <guid>https://open.spotify.com/episode/46icjYQkWA6HFTLPI9yYcK</guid>
@@ -24901,17 +24888,17 @@
       <itunes:duration>02:54:14</itunes:duration>
     </item>
     <item>
-      <title>#515 - Ari Shaffir (Part 2)</title>
-      <description>Ari Shaffir is a stand-up comedian and also hosts his own podcasts "Ari Shaffir's Skeptic Tank" and "Punch Drunk Sports" available on Spotify. Learn more about your ad choices. Visit podcastchoices.com/adchoices</description>
-      <guid>https://open.spotify.com/episode/2fBU0NbR6umxCBewljbSXP</guid>
-      <pubDate>Fri, 27 Jun 2014 00:00:00 +0000</pubDate>
+      <title>Fight Companion - June 28, 2014 (Part 2)</title>
+      <description>Jimmy Smith and Ian "Uncle Creepy" McCall join Joe to watch the fight on the evening of June 28, 2014. Learn more about your ad choices. Visit podcastchoices.com/adchoices</description>
+      <guid>https://open.spotify.com/episode/7vtj4J26LWd3dO2PvYH4c4</guid>
+      <pubDate>Sun, 29 Jun 2014 00:00:00 +0000</pubDate>
       <author>Joe Rogan</author>
-      <enclosure url="https://github.com/MossCation/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2014-06-27-2fBU0NbR6umxCBewljbSXP.m4a" length="" type="audio/x-m4a"/>
+      <enclosure url="https://github.com/MossCation/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2014-06-29-7vtj4J26LWd3dO2PvYH4c4.m4a" length="" type="audio/x-m4a"/>
       <itunes:subtitle>The official podcast of comedian Joe Rogan.</itunes:subtitle>
-      <itunes:summary><![CDATA[Ari Shaffir is a stand-up comedian and also hosts his own podcasts "Ari Shaffir's Skeptic Tank" and "Punch Drunk Sports" available on Spotify. Learn more about your ad choices. Visit podcastchoices.com/adchoices]]></itunes:summary>
+      <itunes:summary><![CDATA[Jimmy Smith and Ian "Uncle Creepy" McCall join Joe to watch the fight on the evening of June 28, 2014. Learn more about your ad choices. Visit podcastchoices.com/adchoices]]></itunes:summary>
       <itunes:author>Joe Rogan</itunes:author>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:duration>01:25:34</itunes:duration>
+      <itunes:duration>02:06:58</itunes:duration>
     </item>
     <item>
       <title>#516 - Lewis, from Unbox Therapy</title>
@@ -24938,6 +24925,19 @@
       <itunes:author>Joe Rogan</itunes:author>
       <itunes:explicit>no</itunes:explicit>
       <itunes:duration>02:36:30</itunes:duration>
+    </item>
+    <item>
+      <title>#515 - Ari Shaffir (Part 2)</title>
+      <description>Ari Shaffir is a stand-up comedian and also hosts his own podcasts "Ari Shaffir's Skeptic Tank" and "Punch Drunk Sports" available on Spotify. Learn more about your ad choices. Visit podcastchoices.com/adchoices</description>
+      <guid>https://open.spotify.com/episode/2fBU0NbR6umxCBewljbSXP</guid>
+      <pubDate>Fri, 27 Jun 2014 00:00:00 +0000</pubDate>
+      <author>Joe Rogan</author>
+      <enclosure url="https://github.com/MossCation/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2014-06-27-2fBU0NbR6umxCBewljbSXP.m4a" length="" type="audio/x-m4a"/>
+      <itunes:subtitle>The official podcast of comedian Joe Rogan.</itunes:subtitle>
+      <itunes:summary><![CDATA[Ari Shaffir is a stand-up comedian and also hosts his own podcasts "Ari Shaffir's Skeptic Tank" and "Punch Drunk Sports" available on Spotify. Learn more about your ad choices. Visit podcastchoices.com/adchoices]]></itunes:summary>
+      <itunes:author>Joe Rogan</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>01:25:34</itunes:duration>
     </item>
     <item>
       <title>#514 - Duke Roufus</title>
@@ -25486,19 +25486,6 @@
       <itunes:duration>02:44:57</itunes:duration>
     </item>
     <item>
-      <title>#470 - Amber Lyon</title>
-      <description>Amber Lyon is an Emmy Award-Winning journalist. She has recently been traveling the world working on Reset.Me, an independent journalism site covering psychedelics, natural medicines, and alternative therapies. Learn more about your ad choices. Visit podcastchoices.com/adchoices</description>
-      <guid>https://open.spotify.com/episode/5XH1uhZfcnJ356wDYKAGMX</guid>
-      <pubDate>Tue, 18 Mar 2014 00:00:00 +0000</pubDate>
-      <author>Joe Rogan</author>
-      <enclosure url="https://github.com/MossCation/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2014-03-18-5XH1uhZfcnJ356wDYKAGMX.m4a" length="" type="audio/x-m4a"/>
-      <itunes:subtitle>The official podcast of comedian Joe Rogan.</itunes:subtitle>
-      <itunes:summary><![CDATA[Amber Lyon is an Emmy Award-Winning journalist. She has recently been traveling the world working on Reset.Me, an independent journalism site covering psychedelics, natural medicines, and alternative therapies. Learn more about your ad choices. Visit podcastchoices.com/adchoices]]></itunes:summary>
-      <itunes:author>Joe Rogan</itunes:author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:duration>02:39:29</itunes:duration>
-    </item>
-    <item>
       <title>#471 - Matt Serra</title>
       <description>Matt Serra is a retired American mixed martial artist and Brazilian jiu-jitsu practitioner who competed for the Ultimate Fighting Championship. Learn more about your ad choices. Visit podcastchoices.com/adchoices</description>
       <guid>https://open.spotify.com/episode/4zPsaxHAAfUP8aJvxcPr8X</guid>
@@ -25510,6 +25497,19 @@
       <itunes:author>Joe Rogan</itunes:author>
       <itunes:explicit>no</itunes:explicit>
       <itunes:duration>02:49:20</itunes:duration>
+    </item>
+    <item>
+      <title>#470 - Amber Lyon</title>
+      <description>Amber Lyon is an Emmy Award-Winning journalist. She has recently been traveling the world working on Reset.Me, an independent journalism site covering psychedelics, natural medicines, and alternative therapies. Learn more about your ad choices. Visit podcastchoices.com/adchoices</description>
+      <guid>https://open.spotify.com/episode/5XH1uhZfcnJ356wDYKAGMX</guid>
+      <pubDate>Tue, 18 Mar 2014 00:00:00 +0000</pubDate>
+      <author>Joe Rogan</author>
+      <enclosure url="https://github.com/MossCation/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2014-03-18-5XH1uhZfcnJ356wDYKAGMX.m4a" length="" type="audio/x-m4a"/>
+      <itunes:subtitle>The official podcast of comedian Joe Rogan.</itunes:subtitle>
+      <itunes:summary><![CDATA[Amber Lyon is an Emmy Award-Winning journalist. She has recently been traveling the world working on Reset.Me, an independent journalism site covering psychedelics, natural medicines, and alternative therapies. Learn more about your ad choices. Visit podcastchoices.com/adchoices]]></itunes:summary>
+      <itunes:author>Joe Rogan</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>02:39:29</itunes:duration>
     </item>
     <item>
       <title>#469 - Dr. Carl Hart</title>
@@ -25538,19 +25538,6 @@
       <itunes:duration>02:47:46</itunes:duration>
     </item>
     <item>
-      <title>#467 - Peter Giuliano</title>
-      <description>Peter Giuliano is a student of coffee, barista, director of the Specialty Coffee Symposium. Learn more about your ad choices. Visit podcastchoices.com/adchoices</description>
-      <guid>https://open.spotify.com/episode/3kmkRdKLWjnVwjGF9pKjYH</guid>
-      <pubDate>Mon, 10 Mar 2014 00:00:00 +0000</pubDate>
-      <author>Joe Rogan</author>
-      <enclosure url="https://github.com/MossCation/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2014-03-10-3kmkRdKLWjnVwjGF9pKjYH.m4a" length="" type="audio/x-m4a"/>
-      <itunes:subtitle>The official podcast of comedian Joe Rogan.</itunes:subtitle>
-      <itunes:summary><![CDATA[Peter Giuliano is a student of coffee, barista, director of the Specialty Coffee Symposium. Learn more about your ad choices. Visit podcastchoices.com/adchoices]]></itunes:summary>
-      <itunes:author>Joe Rogan</itunes:author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:duration>02:09:03</itunes:duration>
-    </item>
-    <item>
       <title>#466 - Greg Fitzsimmons</title>
       <description>Greg Fitzsimmons is an American stand-up comedian. He also hosts his own podcast "FitzDog Radio" available on Spotify. Learn more about your ad choices. Visit podcastchoices.com/adchoices</description>
       <guid>https://open.spotify.com/episode/407yweB4KXtgdIn5eXu3KV</guid>
@@ -25562,6 +25549,19 @@
       <itunes:author>Joe Rogan</itunes:author>
       <itunes:explicit>no</itunes:explicit>
       <itunes:duration>02:43:11</itunes:duration>
+    </item>
+    <item>
+      <title>#467 - Peter Giuliano</title>
+      <description>Peter Giuliano is a student of coffee, barista, director of the Specialty Coffee Symposium. Learn more about your ad choices. Visit podcastchoices.com/adchoices</description>
+      <guid>https://open.spotify.com/episode/3kmkRdKLWjnVwjGF9pKjYH</guid>
+      <pubDate>Mon, 10 Mar 2014 00:00:00 +0000</pubDate>
+      <author>Joe Rogan</author>
+      <enclosure url="https://github.com/MossCation/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2014-03-10-3kmkRdKLWjnVwjGF9pKjYH.m4a" length="" type="audio/x-m4a"/>
+      <itunes:subtitle>The official podcast of comedian Joe Rogan.</itunes:subtitle>
+      <itunes:summary><![CDATA[Peter Giuliano is a student of coffee, barista, director of the Specialty Coffee Symposium. Learn more about your ad choices. Visit podcastchoices.com/adchoices]]></itunes:summary>
+      <itunes:author>Joe Rogan</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>02:09:03</itunes:duration>
     </item>
     <item>
       <title>#465 - Greg Proops</title>
@@ -26123,19 +26123,6 @@
       <itunes:duration>02:47:20</itunes:duration>
     </item>
     <item>
-      <title>#419 - Lorenzo Hagerty (Part 1)</title>
-      <description>Lorenzo Hagerty is a former attorney, corporate CEO, and US Naval officer. He currently hosts the popular podcast "The Psychedelic Salon". Learn more about your ad choices. Visit podcastchoices.com/adchoices</description>
-      <guid>https://open.spotify.com/episode/5CV537jyN7SgkEQR9f1tgF</guid>
-      <pubDate>Tue, 19 Nov 2013 00:00:00 +0000</pubDate>
-      <author>Joe Rogan</author>
-      <enclosure url="https://github.com/MossCation/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2013-11-19-5CV537jyN7SgkEQR9f1tgF.m4a" length="" type="audio/x-m4a"/>
-      <itunes:subtitle>The official podcast of comedian Joe Rogan.</itunes:subtitle>
-      <itunes:summary><![CDATA[Lorenzo Hagerty is a former attorney, corporate CEO, and US Naval officer. He currently hosts the popular podcast "The Psychedelic Salon". Learn more about your ad choices. Visit podcastchoices.com/adchoices]]></itunes:summary>
-      <itunes:author>Joe Rogan</itunes:author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:duration>02:51:46</itunes:duration>
-    </item>
-    <item>
       <title>#419 - Lorenzo Hagerty (Part 2)</title>
       <description>Lorenzo Hagerty is a former attorney, corporate CEO, and US Naval officer. He currently hosts the popular podcast "The Psychedelic Salon". Learn more about your ad choices. Visit podcastchoices.com/adchoices</description>
       <guid>https://open.spotify.com/episode/75OsiJylV2RoGIf4b0HdyO</guid>
@@ -26147,6 +26134,19 @@
       <itunes:author>Joe Rogan</itunes:author>
       <itunes:explicit>no</itunes:explicit>
       <itunes:duration>01:10:37</itunes:duration>
+    </item>
+    <item>
+      <title>#419 - Lorenzo Hagerty (Part 1)</title>
+      <description>Lorenzo Hagerty is a former attorney, corporate CEO, and US Naval officer. He currently hosts the popular podcast "The Psychedelic Salon". Learn more about your ad choices. Visit podcastchoices.com/adchoices</description>
+      <guid>https://open.spotify.com/episode/5CV537jyN7SgkEQR9f1tgF</guid>
+      <pubDate>Tue, 19 Nov 2013 00:00:00 +0000</pubDate>
+      <author>Joe Rogan</author>
+      <enclosure url="https://github.com/MossCation/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2013-11-19-5CV537jyN7SgkEQR9f1tgF.m4a" length="" type="audio/x-m4a"/>
+      <itunes:subtitle>The official podcast of comedian Joe Rogan.</itunes:subtitle>
+      <itunes:summary><![CDATA[Lorenzo Hagerty is a former attorney, corporate CEO, and US Naval officer. He currently hosts the popular podcast "The Psychedelic Salon". Learn more about your ad choices. Visit podcastchoices.com/adchoices]]></itunes:summary>
+      <itunes:author>Joe Rogan</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>02:51:46</itunes:duration>
     </item>
     <item>
       <title>#418 - Jeremy Stephens, Eddie Bravo</title>
@@ -26188,19 +26188,6 @@
       <itunes:duration>02:54:17</itunes:duration>
     </item>
     <item>
-      <title>#415 - Justin Foster</title>
-      <description>Justin Foster is a stand-up comedian and also hosts his own podcast, called "Foster the Podcast". Learn more about your ad choices. Visit podcastchoices.com/adchoices</description>
-      <guid>https://open.spotify.com/episode/3hJpvO4WLEQgFXa0nQ6ADA</guid>
-      <pubDate>Mon, 11 Nov 2013 00:00:00 +0000</pubDate>
-      <author>Joe Rogan</author>
-      <enclosure url="https://github.com/MossCation/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2013-11-11-3hJpvO4WLEQgFXa0nQ6ADA.m4a" length="" type="audio/x-m4a"/>
-      <itunes:subtitle>The official podcast of comedian Joe Rogan.</itunes:subtitle>
-      <itunes:summary><![CDATA[Justin Foster is a stand-up comedian and also hosts his own podcast, called "Foster the Podcast". Learn more about your ad choices. Visit podcastchoices.com/adchoices]]></itunes:summary>
-      <itunes:author>Joe Rogan</itunes:author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:duration>02:36:37</itunes:duration>
-    </item>
-    <item>
       <title>#414 - Cmdr. Chris Hadfield</title>
       <description>Chris Hadfield is a retired Canadian astronaut who was the first Canadian to walk in space. He also authored the New York Times Bestseller "An Astronaut's Guide to Life on Earth" Learn more about your ad choices. Visit podcastchoices.com/adchoices</description>
       <guid>https://open.spotify.com/episode/1smeGjZ4MG39SHex0O9s2E</guid>
@@ -26212,6 +26199,19 @@
       <itunes:author>Joe Rogan</itunes:author>
       <itunes:explicit>no</itunes:explicit>
       <itunes:duration>01:01:17</itunes:duration>
+    </item>
+    <item>
+      <title>#415 - Justin Foster</title>
+      <description>Justin Foster is a stand-up comedian and also hosts his own podcast, called "Foster the Podcast". Learn more about your ad choices. Visit podcastchoices.com/adchoices</description>
+      <guid>https://open.spotify.com/episode/3hJpvO4WLEQgFXa0nQ6ADA</guid>
+      <pubDate>Mon, 11 Nov 2013 00:00:00 +0000</pubDate>
+      <author>Joe Rogan</author>
+      <enclosure url="https://github.com/MossCation/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2013-11-11-3hJpvO4WLEQgFXa0nQ6ADA.m4a" length="" type="audio/x-m4a"/>
+      <itunes:subtitle>The official podcast of comedian Joe Rogan.</itunes:subtitle>
+      <itunes:summary><![CDATA[Justin Foster is a stand-up comedian and also hosts his own podcast, called "Foster the Podcast". Learn more about your ad choices. Visit podcastchoices.com/adchoices]]></itunes:summary>
+      <itunes:author>Joe Rogan</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>02:36:37</itunes:duration>
     </item>
     <item>
       <title>JRQE #4 - Duncan Trussell</title>
@@ -26383,19 +26383,6 @@
       <itunes:duration>02:02:43</itunes:duration>
     </item>
     <item>
-      <title>#403 - Justin Collett (Part 1)</title>
-      <description/>
-      <guid>https://open.spotify.com/episode/5xxr1xW84CkDtEDAxgYHhl</guid>
-      <pubDate>Fri, 11 Oct 2013 00:00:00 +0000</pubDate>
-      <author>Joe Rogan</author>
-      <enclosure url="https://github.com/MossCation/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2013-10-11-5xxr1xW84CkDtEDAxgYHhl.m4a" length="" type="audio/x-m4a"/>
-      <itunes:subtitle>The official podcast of comedian Joe Rogan.</itunes:subtitle>
-      <itunes:summary><![CDATA[Justin Collett is a founding partner of The Action Report website, a website for pool & billiards enthusiasts from around the world. Learn more about your ad choices. Visit podcastchoices.com/adchoices]]></itunes:summary>
-      <itunes:author>Joe Rogan</itunes:author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:duration>02:44:45</itunes:duration>
-    </item>
-    <item>
       <title>#403 - Justin Collett (Part 2)</title>
       <description/>
       <guid>https://open.spotify.com/episode/5AOc4NfRMTOeLLGBfEN3Sd</guid>
@@ -26407,6 +26394,19 @@
       <itunes:author>Joe Rogan</itunes:author>
       <itunes:explicit>no</itunes:explicit>
       <itunes:duration>02:22:40</itunes:duration>
+    </item>
+    <item>
+      <title>#403 - Justin Collett (Part 1)</title>
+      <description/>
+      <guid>https://open.spotify.com/episode/5xxr1xW84CkDtEDAxgYHhl</guid>
+      <pubDate>Fri, 11 Oct 2013 00:00:00 +0000</pubDate>
+      <author>Joe Rogan</author>
+      <enclosure url="https://github.com/MossCation/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2013-10-11-5xxr1xW84CkDtEDAxgYHhl.m4a" length="" type="audio/x-m4a"/>
+      <itunes:subtitle>The official podcast of comedian Joe Rogan.</itunes:subtitle>
+      <itunes:summary><![CDATA[Justin Collett is a founding partner of The Action Report website, a website for pool & billiards enthusiasts from around the world. Learn more about your ad choices. Visit podcastchoices.com/adchoices]]></itunes:summary>
+      <itunes:author>Joe Rogan</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>02:44:45</itunes:duration>
     </item>
     <item>
       <title>#402 - Bryan Callen</title>
@@ -27358,19 +27358,6 @@
       <itunes:duration>02:26:07</itunes:duration>
     </item>
     <item>
-      <title>#317 - David Choe, Yoshi Obayashi</title>
-      <description>David Choe is an American painter, muralist, graffiti artist and graphic novelist from Los Angeles, CA. To learn more about him and his work check out the documentary "Dirty Hands: The Art and Crimes of David Choe" and also on his VICE series "Thumbs UP!" Yoshi Obayashi is a stand-up comedian and host of his own podcast, Yoshi Didn't. Learn more about your ad choices. Visit podcastchoices.com/adchoices</description>
-      <guid>https://open.spotify.com/episode/41upqm54agKDdgwwqavKmJ</guid>
-      <pubDate>Tue, 22 Jan 2013 00:00:00 +0000</pubDate>
-      <author>Joe Rogan</author>
-      <enclosure url="https://github.com/MossCation/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2013-01-22-41upqm54agKDdgwwqavKmJ.m4a" length="" type="audio/x-m4a"/>
-      <itunes:subtitle>The official podcast of comedian Joe Rogan.</itunes:subtitle>
-      <itunes:summary><![CDATA[David Choe is an American painter, muralist, graffiti artist and graphic novelist from Los Angeles, CA. To learn more about him and his work check out the documentary "Dirty Hands: The Art and Crimes of David Choe" and also on his VICE series "Thumbs UP!" Yoshi Obayashi is a stand-up comedian and host of his own podcast, Yoshi Didn't. Learn more about your ad choices. Visit podcastchoices.com/adchoices]]></itunes:summary>
-      <itunes:author>Joe Rogan</itunes:author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:duration>02:19:06</itunes:duration>
-    </item>
-    <item>
       <title>#316 - Enson Inoue, Chuck Liddell</title>
       <description>Enson Inoue is a Japanese-American mixed martial artist. He currently runs multiple training gyms throughout the world, and more recently traveled to northeast Japan to directly help the earthquake and tsunami victims in areas such as Fukushima. Chuck Lidell is an American mixed martial artist, and former UFC Light Heavyweight Champion. Learn more about your ad choices. Visit podcastchoices.com/adchoices</description>
       <guid>https://open.spotify.com/episode/2Wid5iuOlFwBgrM5mtkl6z</guid>
@@ -27382,6 +27369,19 @@
       <itunes:author>Joe Rogan</itunes:author>
       <itunes:explicit>no</itunes:explicit>
       <itunes:duration>01:56:45</itunes:duration>
+    </item>
+    <item>
+      <title>#317 - David Choe, Yoshi Obayashi</title>
+      <description>David Choe is an American painter, muralist, graffiti artist and graphic novelist from Los Angeles, CA. To learn more about him and his work check out the documentary "Dirty Hands: The Art and Crimes of David Choe" and also on his VICE series "Thumbs UP!" Yoshi Obayashi is a stand-up comedian and host of his own podcast, Yoshi Didn't. Learn more about your ad choices. Visit podcastchoices.com/adchoices</description>
+      <guid>https://open.spotify.com/episode/41upqm54agKDdgwwqavKmJ</guid>
+      <pubDate>Tue, 22 Jan 2013 00:00:00 +0000</pubDate>
+      <author>Joe Rogan</author>
+      <enclosure url="https://github.com/MossCation/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2013-01-22-41upqm54agKDdgwwqavKmJ.m4a" length="" type="audio/x-m4a"/>
+      <itunes:subtitle>The official podcast of comedian Joe Rogan.</itunes:subtitle>
+      <itunes:summary><![CDATA[David Choe is an American painter, muralist, graffiti artist and graphic novelist from Los Angeles, CA. To learn more about him and his work check out the documentary "Dirty Hands: The Art and Crimes of David Choe" and also on his VICE series "Thumbs UP!" Yoshi Obayashi is a stand-up comedian and host of his own podcast, Yoshi Didn't. Learn more about your ad choices. Visit podcastchoices.com/adchoices]]></itunes:summary>
+      <itunes:author>Joe Rogan</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>02:19:06</itunes:duration>
     </item>
     <item>
       <title>#315 - Jimmy Smith</title>
@@ -28320,19 +28320,6 @@
       <itunes:duration>02:57:20</itunes:duration>
     </item>
     <item>
-      <title>#235 - Josh Barnett (Part 2)</title>
-      <description>Joe sits down with Josh Barnett. Learn more about your ad choices. Visit podcastchoices.com/adchoices</description>
-      <guid>https://open.spotify.com/episode/6zhRVQlFWQSzuXiefK3vyv</guid>
-      <pubDate>Wed, 04 Jul 2012 00:00:00 +0000</pubDate>
-      <author>Joe Rogan</author>
-      <enclosure url="https://github.com/MossCation/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2012-07-04-6zhRVQlFWQSzuXiefK3vyv.m4a" length="" type="audio/x-m4a"/>
-      <itunes:subtitle>The official podcast of comedian Joe Rogan.</itunes:subtitle>
-      <itunes:summary><![CDATA[Joe sits down with Josh Barnett. Learn more about your ad choices. Visit podcastchoices.com/adchoices]]></itunes:summary>
-      <itunes:author>Joe Rogan</itunes:author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:duration>02:13:08</itunes:duration>
-    </item>
-    <item>
       <title>#235 - Josh Barnett (Part 1)</title>
       <description>Joe sits down with Josh Barnett. Learn more about your ad choices. Visit podcastchoices.com/adchoices</description>
       <guid>https://open.spotify.com/episode/6mCQ8X56pFX5CLBYKuWlAI</guid>
@@ -28344,6 +28331,19 @@
       <itunes:author>Joe Rogan</itunes:author>
       <itunes:explicit>no</itunes:explicit>
       <itunes:duration>39:48</itunes:duration>
+    </item>
+    <item>
+      <title>#235 - Josh Barnett (Part 2)</title>
+      <description>Joe sits down with Josh Barnett. Learn more about your ad choices. Visit podcastchoices.com/adchoices</description>
+      <guid>https://open.spotify.com/episode/6zhRVQlFWQSzuXiefK3vyv</guid>
+      <pubDate>Wed, 04 Jul 2012 00:00:00 +0000</pubDate>
+      <author>Joe Rogan</author>
+      <enclosure url="https://github.com/MossCation/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2012-07-04-6zhRVQlFWQSzuXiefK3vyv.m4a" length="" type="audio/x-m4a"/>
+      <itunes:subtitle>The official podcast of comedian Joe Rogan.</itunes:subtitle>
+      <itunes:summary><![CDATA[Joe sits down with Josh Barnett. Learn more about your ad choices. Visit podcastchoices.com/adchoices]]></itunes:summary>
+      <itunes:author>Joe Rogan</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>02:13:08</itunes:duration>
     </item>
     <item>
       <title>#234 - Adam Scorgie</title>
@@ -28593,17 +28593,17 @@
       <itunes:duration>02:49:27</itunes:duration>
     </item>
     <item>
-      <title>#212 - Bryan Callen</title>
-      <description>Joe sits down with Bryan Callen. Learn more about your ad choices. Visit podcastchoices.com/adchoices</description>
-      <guid>https://open.spotify.com/episode/0KkE19yDTUICVo7Mg9S2dO</guid>
+      <title>#211 - Ari Shaffir (Part 2)</title>
+      <description>Joe sits down with Ari Shaffir. Learn more about your ad choices. Visit podcastchoices.com/adchoices</description>
+      <guid>https://open.spotify.com/episode/7o6DNicd2ik5HsQ6tCbfGT</guid>
       <pubDate>Tue, 01 May 2012 00:00:00 +0000</pubDate>
       <author>Joe Rogan</author>
-      <enclosure url="https://github.com/MossCation/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2012-05-01-0KkE19yDTUICVo7Mg9S2dO.m4a" length="" type="audio/x-m4a"/>
+      <enclosure url="https://github.com/MossCation/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2012-05-01-7o6DNicd2ik5HsQ6tCbfGT.m4a" length="" type="audio/x-m4a"/>
       <itunes:subtitle>The official podcast of comedian Joe Rogan.</itunes:subtitle>
-      <itunes:summary><![CDATA[Joe sits down with Bryan Callen. Learn more about your ad choices. Visit podcastchoices.com/adchoices]]></itunes:summary>
+      <itunes:summary><![CDATA[Joe sits down with Ari Shaffir. Learn more about your ad choices. Visit podcastchoices.com/adchoices]]></itunes:summary>
       <itunes:author>Joe Rogan</itunes:author>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:duration>02:48:13</itunes:duration>
+      <itunes:duration>19:51</itunes:duration>
     </item>
     <item>
       <title>#211 - Ari Shaffir (Part 1)</title>
@@ -28619,17 +28619,17 @@
       <itunes:duration>02:48:57</itunes:duration>
     </item>
     <item>
-      <title>#211 - Ari Shaffir (Part 2)</title>
-      <description>Joe sits down with Ari Shaffir. Learn more about your ad choices. Visit podcastchoices.com/adchoices</description>
-      <guid>https://open.spotify.com/episode/7o6DNicd2ik5HsQ6tCbfGT</guid>
+      <title>#212 - Bryan Callen</title>
+      <description>Joe sits down with Bryan Callen. Learn more about your ad choices. Visit podcastchoices.com/adchoices</description>
+      <guid>https://open.spotify.com/episode/0KkE19yDTUICVo7Mg9S2dO</guid>
       <pubDate>Tue, 01 May 2012 00:00:00 +0000</pubDate>
       <author>Joe Rogan</author>
-      <enclosure url="https://github.com/MossCation/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2012-05-01-7o6DNicd2ik5HsQ6tCbfGT.m4a" length="" type="audio/x-m4a"/>
+      <enclosure url="https://github.com/MossCation/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2012-05-01-0KkE19yDTUICVo7Mg9S2dO.m4a" length="" type="audio/x-m4a"/>
       <itunes:subtitle>The official podcast of comedian Joe Rogan.</itunes:subtitle>
-      <itunes:summary><![CDATA[Joe sits down with Ari Shaffir. Learn more about your ad choices. Visit podcastchoices.com/adchoices]]></itunes:summary>
+      <itunes:summary><![CDATA[Joe sits down with Bryan Callen. Learn more about your ad choices. Visit podcastchoices.com/adchoices]]></itunes:summary>
       <itunes:author>Joe Rogan</itunes:author>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:duration>19:51</itunes:duration>
+      <itunes:duration>02:48:13</itunes:duration>
     </item>
     <item>
       <title>#210 - Joey Diaz</title>
@@ -29100,19 +29100,6 @@
       <itunes:duration>02:47:09</itunes:duration>
     </item>
     <item>
-      <title>#171 - Everlast (Part 1)</title>
-      <description>Joe sits down with Everlast. Learn more about your ad choices. Visit podcastchoices.com/adchoices</description>
-      <guid>https://open.spotify.com/episode/7Fvf3hMMjsrtlB5awfvpKQ</guid>
-      <pubDate>Wed, 28 Dec 2011 00:00:00 +0000</pubDate>
-      <author>Joe Rogan</author>
-      <enclosure url="https://github.com/MossCation/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2011-12-28-7Fvf3hMMjsrtlB5awfvpKQ.m4a" length="" type="audio/x-m4a"/>
-      <itunes:subtitle>The official podcast of comedian Joe Rogan.</itunes:subtitle>
-      <itunes:summary><![CDATA[Joe sits down with Everlast. Learn more about your ad choices. Visit podcastchoices.com/adchoices]]></itunes:summary>
-      <itunes:author>Joe Rogan</itunes:author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:duration>01:24:51</itunes:duration>
-    </item>
-    <item>
       <title>#171 - Everlast (Part 2)</title>
       <description>Joe sits down with Everlast. Learn more about your ad choices. Visit podcastchoices.com/adchoices</description>
       <guid>https://open.spotify.com/episode/6MvMosTbinMYTD6O4amXzH</guid>
@@ -29124,6 +29111,19 @@
       <itunes:author>Joe Rogan</itunes:author>
       <itunes:explicit>no</itunes:explicit>
       <itunes:duration>55:25</itunes:duration>
+    </item>
+    <item>
+      <title>#171 - Everlast (Part 1)</title>
+      <description>Joe sits down with Everlast. Learn more about your ad choices. Visit podcastchoices.com/adchoices</description>
+      <guid>https://open.spotify.com/episode/7Fvf3hMMjsrtlB5awfvpKQ</guid>
+      <pubDate>Wed, 28 Dec 2011 00:00:00 +0000</pubDate>
+      <author>Joe Rogan</author>
+      <enclosure url="https://github.com/MossCation/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2011-12-28-7Fvf3hMMjsrtlB5awfvpKQ.m4a" length="" type="audio/x-m4a"/>
+      <itunes:subtitle>The official podcast of comedian Joe Rogan.</itunes:subtitle>
+      <itunes:summary><![CDATA[Joe sits down with Everlast. Learn more about your ad choices. Visit podcastchoices.com/adchoices]]></itunes:summary>
+      <itunes:author>Joe Rogan</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>01:24:51</itunes:duration>
     </item>
     <item>
       <title>#170 - Michael Ruppert</title>
@@ -29217,19 +29217,6 @@
       <itunes:duration>01:48:08</itunes:duration>
     </item>
     <item>
-      <title>#164 - Shane Smith (Part 2)</title>
-      <description>Joe sits down with Shane Smith. Learn more about your ad choices. Visit podcastchoices.com/adchoices</description>
-      <guid>https://open.spotify.com/episode/7oMluvmZGroEXlyGSRnNuc</guid>
-      <pubDate>Tue, 06 Dec 2011 00:00:00 +0000</pubDate>
-      <author>Joe Rogan</author>
-      <enclosure url="https://github.com/MossCation/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2011-12-06-7oMluvmZGroEXlyGSRnNuc.m4a" length="" type="audio/x-m4a"/>
-      <itunes:subtitle>The official podcast of comedian Joe Rogan.</itunes:subtitle>
-      <itunes:summary><![CDATA[Joe sits down with Shane Smith. Learn more about your ad choices. Visit podcastchoices.com/adchoices]]></itunes:summary>
-      <itunes:author>Joe Rogan</itunes:author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:duration>01:10:39</itunes:duration>
-    </item>
-    <item>
       <title>#164 - Shane Smith (Part 1)</title>
       <description>Joe sits down with Shane Smith. Learn more about your ad choices. Visit podcastchoices.com/adchoices</description>
       <guid>https://open.spotify.com/episode/4pKGxvNdqznRyJidMzScgw</guid>
@@ -29241,6 +29228,19 @@
       <itunes:author>Joe Rogan</itunes:author>
       <itunes:explicit>no</itunes:explicit>
       <itunes:duration>01:31:38</itunes:duration>
+    </item>
+    <item>
+      <title>#164 - Shane Smith (Part 2)</title>
+      <description>Joe sits down with Shane Smith. Learn more about your ad choices. Visit podcastchoices.com/adchoices</description>
+      <guid>https://open.spotify.com/episode/7oMluvmZGroEXlyGSRnNuc</guid>
+      <pubDate>Tue, 06 Dec 2011 00:00:00 +0000</pubDate>
+      <author>Joe Rogan</author>
+      <enclosure url="https://github.com/MossCation/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2011-12-06-7oMluvmZGroEXlyGSRnNuc.m4a" length="" type="audio/x-m4a"/>
+      <itunes:subtitle>The official podcast of comedian Joe Rogan.</itunes:subtitle>
+      <itunes:summary><![CDATA[Joe sits down with Shane Smith. Learn more about your ad choices. Visit podcastchoices.com/adchoices]]></itunes:summary>
+      <itunes:author>Joe Rogan</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>01:10:39</itunes:duration>
     </item>
     <item>
       <title>#163 - Doug Stanhope, Joey Diaz</title>
@@ -29477,19 +29477,6 @@
       <itunes:duration>02:51:51</itunes:duration>
     </item>
     <item>
-      <title>#141 - Duncan Trussell</title>
-      <description>Joe sits down with Duncan Trussell. Learn more about your ad choices. Visit podcastchoices.com/adchoices</description>
-      <guid>https://open.spotify.com/episode/2dngU4yWHTfTXfwq5uJSGx</guid>
-      <pubDate>Sun, 25 Sep 2011 00:00:00 +0000</pubDate>
-      <author>Joe Rogan</author>
-      <enclosure url="https://github.com/MossCation/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2011-09-25-2dngU4yWHTfTXfwq5uJSGx.m4a" length="" type="audio/x-m4a"/>
-      <itunes:subtitle>The official podcast of comedian Joe Rogan.</itunes:subtitle>
-      <itunes:summary><![CDATA[Joe sits down with Duncan Trussell. Learn more about your ad choices. Visit podcastchoices.com/adchoices]]></itunes:summary>
-      <itunes:author>Joe Rogan</itunes:author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:duration>51:38</itunes:duration>
-    </item>
-    <item>
       <title>#142 - Graham Hancock, Duncan Trussell</title>
       <description>Joe sits down with Graham Hancock and Duncan Trussell. Learn more about your ad choices. Visit podcastchoices.com/adchoices</description>
       <guid>https://open.spotify.com/episode/3eyIb9FD8YomW1ExySieF0</guid>
@@ -29503,17 +29490,30 @@
       <itunes:duration>02:08:34</itunes:duration>
     </item>
     <item>
-      <title>#140 - Brendon Walsh (Part 3)</title>
+      <title>#141 - Duncan Trussell</title>
+      <description>Joe sits down with Duncan Trussell. Learn more about your ad choices. Visit podcastchoices.com/adchoices</description>
+      <guid>https://open.spotify.com/episode/2dngU4yWHTfTXfwq5uJSGx</guid>
+      <pubDate>Sun, 25 Sep 2011 00:00:00 +0000</pubDate>
+      <author>Joe Rogan</author>
+      <enclosure url="https://github.com/MossCation/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2011-09-25-2dngU4yWHTfTXfwq5uJSGx.m4a" length="" type="audio/x-m4a"/>
+      <itunes:subtitle>The official podcast of comedian Joe Rogan.</itunes:subtitle>
+      <itunes:summary><![CDATA[Joe sits down with Duncan Trussell. Learn more about your ad choices. Visit podcastchoices.com/adchoices]]></itunes:summary>
+      <itunes:author>Joe Rogan</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>51:38</itunes:duration>
+    </item>
+    <item>
+      <title>#140 - Brendon Walsh (Part 1)</title>
       <description>Joe sits down with Brendon Walsh. Learn more about your ad choices. Visit podcastchoices.com/adchoices</description>
-      <guid>https://open.spotify.com/episode/71lWkmwyJ0dbw6NHKEigMn</guid>
+      <guid>https://open.spotify.com/episode/1f2D1aLcwOtdqqLCEYxRSM</guid>
       <pubDate>Thu, 22 Sep 2011 00:00:00 +0000</pubDate>
       <author>Joe Rogan</author>
-      <enclosure url="https://github.com/MossCation/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2011-09-22-71lWkmwyJ0dbw6NHKEigMn.m4a" length="" type="audio/x-m4a"/>
+      <enclosure url="https://github.com/MossCation/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2011-09-22-1f2D1aLcwOtdqqLCEYxRSM.m4a" length="" type="audio/x-m4a"/>
       <itunes:subtitle>The official podcast of comedian Joe Rogan.</itunes:subtitle>
       <itunes:summary><![CDATA[Joe sits down with Brendon Walsh. Learn more about your ad choices. Visit podcastchoices.com/adchoices]]></itunes:summary>
       <itunes:author>Joe Rogan</itunes:author>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:duration>56:09</itunes:duration>
+      <itunes:duration>05:07</itunes:duration>
     </item>
     <item>
       <title>#140 - Brendon Walsh (Part 4)</title>
@@ -29542,17 +29542,17 @@
       <itunes:duration>01:36</itunes:duration>
     </item>
     <item>
-      <title>#140 - Brendon Walsh (Part 1)</title>
+      <title>#140 - Brendon Walsh (Part 3)</title>
       <description>Joe sits down with Brendon Walsh. Learn more about your ad choices. Visit podcastchoices.com/adchoices</description>
-      <guid>https://open.spotify.com/episode/1f2D1aLcwOtdqqLCEYxRSM</guid>
+      <guid>https://open.spotify.com/episode/71lWkmwyJ0dbw6NHKEigMn</guid>
       <pubDate>Thu, 22 Sep 2011 00:00:00 +0000</pubDate>
       <author>Joe Rogan</author>
-      <enclosure url="https://github.com/MossCation/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2011-09-22-1f2D1aLcwOtdqqLCEYxRSM.m4a" length="" type="audio/x-m4a"/>
+      <enclosure url="https://github.com/MossCation/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2011-09-22-71lWkmwyJ0dbw6NHKEigMn.m4a" length="" type="audio/x-m4a"/>
       <itunes:subtitle>The official podcast of comedian Joe Rogan.</itunes:subtitle>
       <itunes:summary><![CDATA[Joe sits down with Brendon Walsh. Learn more about your ad choices. Visit podcastchoices.com/adchoices]]></itunes:summary>
       <itunes:author>Joe Rogan</itunes:author>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:duration>05:07</itunes:duration>
+      <itunes:duration>56:09</itunes:duration>
     </item>
     <item>
       <title>#139 - Duncan Trussell</title>
@@ -29594,19 +29594,6 @@
       <itunes:duration>02:36:03</itunes:duration>
     </item>
     <item>
-      <title>#136 - Daniel Pinchbeck (Part 1)</title>
-      <description>Joe sits down with Daniel Pinchbeck. Learn more about your ad choices. Visit podcastchoices.com/adchoices</description>
-      <guid>https://open.spotify.com/episode/0JlSHq4HJv5Vb3O42sHxf9</guid>
-      <pubDate>Thu, 08 Sep 2011 00:00:00 +0000</pubDate>
-      <author>Joe Rogan</author>
-      <enclosure url="https://github.com/MossCation/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2011-09-08-0JlSHq4HJv5Vb3O42sHxf9.m4a" length="" type="audio/x-m4a"/>
-      <itunes:subtitle>The official podcast of comedian Joe Rogan.</itunes:subtitle>
-      <itunes:summary><![CDATA[Joe sits down with Daniel Pinchbeck. Learn more about your ad choices. Visit podcastchoices.com/adchoices]]></itunes:summary>
-      <itunes:author>Joe Rogan</itunes:author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:duration>39:00</itunes:duration>
-    </item>
-    <item>
       <title>#136 - Daniel Pinchbeck (Part 2)</title>
       <description>Joe sits down with Daniel Pinchbeck. Learn more about your ad choices. Visit podcastchoices.com/adchoices</description>
       <guid>https://open.spotify.com/episode/5VEbjHl4OlTIXvpdmaPXNO</guid>
@@ -29620,17 +29607,17 @@
       <itunes:duration>01:26</itunes:duration>
     </item>
     <item>
-      <title>#136 - Daniel Pinchbeck (Part 4)</title>
+      <title>#136 - Daniel Pinchbeck (Part 1)</title>
       <description>Joe sits down with Daniel Pinchbeck. Learn more about your ad choices. Visit podcastchoices.com/adchoices</description>
-      <guid>https://open.spotify.com/episode/6UWZyJeLyPdZRIiRxb3qc8</guid>
+      <guid>https://open.spotify.com/episode/0JlSHq4HJv5Vb3O42sHxf9</guid>
       <pubDate>Thu, 08 Sep 2011 00:00:00 +0000</pubDate>
       <author>Joe Rogan</author>
-      <enclosure url="https://github.com/MossCation/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2011-09-08-6UWZyJeLyPdZRIiRxb3qc8.m4a" length="" type="audio/x-m4a"/>
+      <enclosure url="https://github.com/MossCation/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2011-09-08-0JlSHq4HJv5Vb3O42sHxf9.m4a" length="" type="audio/x-m4a"/>
       <itunes:subtitle>The official podcast of comedian Joe Rogan.</itunes:subtitle>
       <itunes:summary><![CDATA[Joe sits down with Daniel Pinchbeck. Learn more about your ad choices. Visit podcastchoices.com/adchoices]]></itunes:summary>
       <itunes:author>Joe Rogan</itunes:author>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:duration>01:22</itunes:duration>
+      <itunes:duration>39:00</itunes:duration>
     </item>
     <item>
       <title>#136 - Daniel Pinchbeck (Part 5)</title>
@@ -29657,6 +29644,19 @@
       <itunes:author>Joe Rogan</itunes:author>
       <itunes:explicit>no</itunes:explicit>
       <itunes:duration>01:14</itunes:duration>
+    </item>
+    <item>
+      <title>#136 - Daniel Pinchbeck (Part 4)</title>
+      <description>Joe sits down with Daniel Pinchbeck. Learn more about your ad choices. Visit podcastchoices.com/adchoices</description>
+      <guid>https://open.spotify.com/episode/6UWZyJeLyPdZRIiRxb3qc8</guid>
+      <pubDate>Thu, 08 Sep 2011 00:00:00 +0000</pubDate>
+      <author>Joe Rogan</author>
+      <enclosure url="https://github.com/MossCation/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2011-09-08-6UWZyJeLyPdZRIiRxb3qc8.m4a" length="" type="audio/x-m4a"/>
+      <itunes:subtitle>The official podcast of comedian Joe Rogan.</itunes:subtitle>
+      <itunes:summary><![CDATA[Joe sits down with Daniel Pinchbeck. Learn more about your ad choices. Visit podcastchoices.com/adchoices]]></itunes:summary>
+      <itunes:author>Joe Rogan</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>01:22</itunes:duration>
     </item>
     <item>
       <title>#135 - John Heffron, Joey Diaz</title>
@@ -29828,19 +29828,6 @@
       <itunes:duration>02:29:05</itunes:duration>
     </item>
     <item>
-      <title>#124 - Michael Schiavello (Part 2)</title>
-      <description>Joe sits down with Michael Schiavello. Learn more about your ad choices. Visit podcastchoices.com/adchoices</description>
-      <guid>https://open.spotify.com/episode/3KhacQ8BvogvBxsqxzfFkG</guid>
-      <pubDate>Sun, 24 Jul 2011 00:00:00 +0000</pubDate>
-      <author>Joe Rogan</author>
-      <enclosure url="https://github.com/MossCation/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2011-07-24-3KhacQ8BvogvBxsqxzfFkG.m4a" length="" type="audio/x-m4a"/>
-      <itunes:subtitle>The official podcast of comedian Joe Rogan.</itunes:subtitle>
-      <itunes:summary><![CDATA[Joe sits down with Michael Schiavello. Learn more about your ad choices. Visit podcastchoices.com/adchoices]]></itunes:summary>
-      <itunes:author>Joe Rogan</itunes:author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:duration>23:01</itunes:duration>
-    </item>
-    <item>
       <title>#124 - Michael Schiavello (Part 1)</title>
       <description>Joe sits down with Michael Schiavello. Learn more about your ad choices. Visit podcastchoices.com/adchoices</description>
       <guid>https://open.spotify.com/episode/6Uj1iuZCH9PXStAk5Q3ac2</guid>
@@ -29852,6 +29839,19 @@
       <itunes:author>Joe Rogan</itunes:author>
       <itunes:explicit>no</itunes:explicit>
       <itunes:duration>01:59:37</itunes:duration>
+    </item>
+    <item>
+      <title>#124 - Michael Schiavello (Part 2)</title>
+      <description>Joe sits down with Michael Schiavello. Learn more about your ad choices. Visit podcastchoices.com/adchoices</description>
+      <guid>https://open.spotify.com/episode/3KhacQ8BvogvBxsqxzfFkG</guid>
+      <pubDate>Sun, 24 Jul 2011 00:00:00 +0000</pubDate>
+      <author>Joe Rogan</author>
+      <enclosure url="https://github.com/MossCation/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2011-07-24-3KhacQ8BvogvBxsqxzfFkG.m4a" length="" type="audio/x-m4a"/>
+      <itunes:subtitle>The official podcast of comedian Joe Rogan.</itunes:subtitle>
+      <itunes:summary><![CDATA[Joe sits down with Michael Schiavello. Learn more about your ad choices. Visit podcastchoices.com/adchoices]]></itunes:summary>
+      <itunes:author>Joe Rogan</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>23:01</itunes:duration>
     </item>
     <item>
       <title>#123 - Tom Segura</title>
@@ -30010,19 +30010,6 @@
       <itunes:duration>02:10:24</itunes:duration>
     </item>
     <item>
-      <title>#101 - Adam Carolla (Part 1)</title>
-      <description>Joe sits down with Adam Carolla. Learn more about your ad choices. Visit podcastchoices.com/adchoices</description>
-      <guid>https://open.spotify.com/episode/2bFQQakKRqcu40jJ3fggf5</guid>
-      <pubDate>Tue, 26 Apr 2011 00:00:00 +0000</pubDate>
-      <author>Joe Rogan</author>
-      <enclosure url="https://github.com/MossCation/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2011-04-26-2bFQQakKRqcu40jJ3fggf5.m4a" length="" type="audio/x-m4a"/>
-      <itunes:subtitle>The official podcast of comedian Joe Rogan.</itunes:subtitle>
-      <itunes:summary><![CDATA[Joe sits down with Adam Carolla. Learn more about your ad choices. Visit podcastchoices.com/adchoices]]></itunes:summary>
-      <itunes:author>Joe Rogan</itunes:author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:duration>01:40:28</itunes:duration>
-    </item>
-    <item>
       <title>#101 - Adam Carolla (Part 2)</title>
       <description>Joe sits down with Adam Carolla. Learn more about your ad choices. Visit podcastchoices.com/adchoices</description>
       <guid>https://open.spotify.com/episode/1VD0o3GiqsSBeh2LDLD4Ox</guid>
@@ -30034,6 +30021,19 @@
       <itunes:author>Joe Rogan</itunes:author>
       <itunes:explicit>no</itunes:explicit>
       <itunes:duration>40:09</itunes:duration>
+    </item>
+    <item>
+      <title>#101 - Adam Carolla (Part 1)</title>
+      <description>Joe sits down with Adam Carolla. Learn more about your ad choices. Visit podcastchoices.com/adchoices</description>
+      <guid>https://open.spotify.com/episode/2bFQQakKRqcu40jJ3fggf5</guid>
+      <pubDate>Tue, 26 Apr 2011 00:00:00 +0000</pubDate>
+      <author>Joe Rogan</author>
+      <enclosure url="https://github.com/MossCation/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2011-04-26-2bFQQakKRqcu40jJ3fggf5.m4a" length="" type="audio/x-m4a"/>
+      <itunes:subtitle>The official podcast of comedian Joe Rogan.</itunes:subtitle>
+      <itunes:summary><![CDATA[Joe sits down with Adam Carolla. Learn more about your ad choices. Visit podcastchoices.com/adchoices]]></itunes:summary>
+      <itunes:author>Joe Rogan</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>01:40:28</itunes:duration>
     </item>
     <item>
       <title>#100 - Brian Redban</title>
@@ -30088,6 +30088,19 @@
       <itunes:duration>02:32:19</itunes:duration>
     </item>
     <item>
+      <title>#94 - Joey Diaz (Part 4)</title>
+      <description>Joe sits down with Joey Diaz. Learn more about your ad choices. Visit podcastchoices.com/adchoices</description>
+      <guid>https://open.spotify.com/episode/68fjqBfc7TrvXIS9qNM5wk</guid>
+      <pubDate>Thu, 31 Mar 2011 00:00:00 +0000</pubDate>
+      <author>Joe Rogan</author>
+      <enclosure url="https://github.com/MossCation/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2011-03-31-68fjqBfc7TrvXIS9qNM5wk.m4a" length="" type="audio/x-m4a"/>
+      <itunes:subtitle>The official podcast of comedian Joe Rogan.</itunes:subtitle>
+      <itunes:summary><![CDATA[Joe sits down with Joey Diaz. Learn more about your ad choices. Visit podcastchoices.com/adchoices]]></itunes:summary>
+      <itunes:author>Joe Rogan</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>59:48</itunes:duration>
+    </item>
+    <item>
       <title>#94 - Joey Diaz (Part 3)</title>
       <description>Joe sits down with Joey Diaz. Learn more about your ad choices. Visit podcastchoices.com/adchoices</description>
       <guid>https://open.spotify.com/episode/5wCbmKc5WOgZkgq8wk0Y8x</guid>
@@ -30114,19 +30127,6 @@
       <itunes:duration>49:17</itunes:duration>
     </item>
     <item>
-      <title>#94 - Joey Diaz (Part 4)</title>
-      <description>Joe sits down with Joey Diaz. Learn more about your ad choices. Visit podcastchoices.com/adchoices</description>
-      <guid>https://open.spotify.com/episode/68fjqBfc7TrvXIS9qNM5wk</guid>
-      <pubDate>Thu, 31 Mar 2011 00:00:00 +0000</pubDate>
-      <author>Joe Rogan</author>
-      <enclosure url="https://github.com/MossCation/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2011-03-31-68fjqBfc7TrvXIS9qNM5wk.m4a" length="" type="audio/x-m4a"/>
-      <itunes:subtitle>The official podcast of comedian Joe Rogan.</itunes:subtitle>
-      <itunes:summary><![CDATA[Joe sits down with Joey Diaz. Learn more about your ad choices. Visit podcastchoices.com/adchoices]]></itunes:summary>
-      <itunes:author>Joe Rogan</itunes:author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:duration>59:48</itunes:duration>
-    </item>
-    <item>
       <title>#94 - Joey Diaz (Part 1)</title>
       <description>Joe sits down with Joey Diaz. Learn more about your ad choices. Visit podcastchoices.com/adchoices</description>
       <guid>https://open.spotify.com/episode/2tyE6dpnq9AIUgynI8lqRa</guid>
@@ -30140,19 +30140,6 @@
       <itunes:duration>06:54</itunes:duration>
     </item>
     <item>
-      <title>#93 - Eddie Bravo (Part 2)</title>
-      <description>Joe sits down with Eddie Bravo. Learn more about your ad choices. Visit podcastchoices.com/adchoices</description>
-      <guid>https://open.spotify.com/episode/5SOHYE1xLcbZXDoyGk09NK</guid>
-      <pubDate>Mon, 28 Mar 2011 00:00:00 +0000</pubDate>
-      <author>Joe Rogan</author>
-      <enclosure url="https://github.com/MossCation/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2011-03-28-5SOHYE1xLcbZXDoyGk09NK.m4a" length="" type="audio/x-m4a"/>
-      <itunes:subtitle>The official podcast of comedian Joe Rogan.</itunes:subtitle>
-      <itunes:summary><![CDATA[Joe sits down with Eddie Bravo. Learn more about your ad choices. Visit podcastchoices.com/adchoices]]></itunes:summary>
-      <itunes:author>Joe Rogan</itunes:author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:duration>02:05:49</itunes:duration>
-    </item>
-    <item>
       <title>#93 - Eddie Bravo (Part 1)</title>
       <description>Joe sits down with Eddie Bravo. Learn more about your ad choices. Visit podcastchoices.com/adchoices</description>
       <guid>https://open.spotify.com/episode/6UZRgu0GWyVVX9zyBUFyNZ</guid>
@@ -30164,6 +30151,19 @@
       <itunes:author>Joe Rogan</itunes:author>
       <itunes:explicit>no</itunes:explicit>
       <itunes:duration>19:11</itunes:duration>
+    </item>
+    <item>
+      <title>#93 - Eddie Bravo (Part 2)</title>
+      <description>Joe sits down with Eddie Bravo. Learn more about your ad choices. Visit podcastchoices.com/adchoices</description>
+      <guid>https://open.spotify.com/episode/5SOHYE1xLcbZXDoyGk09NK</guid>
+      <pubDate>Mon, 28 Mar 2011 00:00:00 +0000</pubDate>
+      <author>Joe Rogan</author>
+      <enclosure url="https://github.com/MossCation/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2011-03-28-5SOHYE1xLcbZXDoyGk09NK.m4a" length="" type="audio/x-m4a"/>
+      <itunes:subtitle>The official podcast of comedian Joe Rogan.</itunes:subtitle>
+      <itunes:summary><![CDATA[Joe sits down with Eddie Bravo. Learn more about your ad choices. Visit podcastchoices.com/adchoices]]></itunes:summary>
+      <itunes:author>Joe Rogan</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>02:05:49</itunes:duration>
     </item>
     <item>
       <title>#90 - Joey Diaz</title>
@@ -30595,19 +30595,6 @@
       <itunes:duration>01:20:47</itunes:duration>
     </item>
     <item>
-      <title>#46 - Chris Aubrey Marcus (Part 2)</title>
-      <description>Joe sits down with Chris Aubrey Marcus. Learn more about your ad choices. Visit podcastchoices.com/adchoices</description>
-      <guid>https://open.spotify.com/episode/1g8nLA9OZo8cMvjLqyJaar</guid>
-      <pubDate>Tue, 05 Oct 2010 00:00:00 +0000</pubDate>
-      <author>Joe Rogan</author>
-      <enclosure url="https://github.com/MossCation/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2010-10-05-1g8nLA9OZo8cMvjLqyJaar.m4a" length="" type="audio/x-m4a"/>
-      <itunes:subtitle>The official podcast of comedian Joe Rogan.</itunes:subtitle>
-      <itunes:summary><![CDATA[Joe sits down with Chris Aubrey Marcus. Learn more about your ad choices. Visit podcastchoices.com/adchoices]]></itunes:summary>
-      <itunes:author>Joe Rogan</itunes:author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:duration>31:38</itunes:duration>
-    </item>
-    <item>
       <title>#46 - Chris Aubrey Marcus (Part 1)</title>
       <description>Joe sits down with Chris Aubrey Marcus. Learn more about your ad choices. Visit podcastchoices.com/adchoices</description>
       <guid>https://open.spotify.com/episode/1eOaUbIF0ChzHdFdfiKu46</guid>
@@ -30619,6 +30606,19 @@
       <itunes:author>Joe Rogan</itunes:author>
       <itunes:explicit>no</itunes:explicit>
       <itunes:duration>01:47:13</itunes:duration>
+    </item>
+    <item>
+      <title>#46 - Chris Aubrey Marcus (Part 2)</title>
+      <description>Joe sits down with Chris Aubrey Marcus. Learn more about your ad choices. Visit podcastchoices.com/adchoices</description>
+      <guid>https://open.spotify.com/episode/1g8nLA9OZo8cMvjLqyJaar</guid>
+      <pubDate>Tue, 05 Oct 2010 00:00:00 +0000</pubDate>
+      <author>Joe Rogan</author>
+      <enclosure url="https://github.com/MossCation/space/releases/download/podcast/4rOoJ6Egrf8K2IrywzwOMk-2010-10-05-1g8nLA9OZo8cMvjLqyJaar.m4a" length="" type="audio/x-m4a"/>
+      <itunes:subtitle>The official podcast of comedian Joe Rogan.</itunes:subtitle>
+      <itunes:summary><![CDATA[Joe sits down with Chris Aubrey Marcus. Learn more about your ad choices. Visit podcastchoices.com/adchoices]]></itunes:summary>
+      <itunes:author>Joe Rogan</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>31:38</itunes:duration>
     </item>
     <item>
       <title>#45 - Tom Green</title>
